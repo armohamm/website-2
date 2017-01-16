@@ -28,6 +28,8 @@
 
 - name: Kristel Vissers
   company: "Projectleider Kwaliteitspaspoort, Máxima Medisch Centrum"
+  avatar: testimonials/kristel_vissers.jpg
+  featured: true
   quote: >
     <p>Binnen Máxima Medisch Centrum (MMC) was behoefte aan een systeem waarin de MMC-(zorg)professional gestimuleerd wordt om
     continu zijn of haar bevoegd- en bekwaamheden bij te houden, zodat de beste zorg met een herkenbaar profiel kan worden geboden.
@@ -70,7 +72,6 @@
 - name: Peter van Overbruggen
   company: "Opleidingsadviseur, ZuidZorg"
   avatar: testimonials/peter_van_overbruggen.jpg
-  featured: true
   quote: >
     <p>Het project met Defacto betrof de invoering van CAPP11 in onze organisatie voor alle drie de onderdelen
     (opleiden, ontwikkelen en kwaliteit). Het contact met de mensen van Defacto verliep prima. Zij zijn samenwerkingsgericht,
