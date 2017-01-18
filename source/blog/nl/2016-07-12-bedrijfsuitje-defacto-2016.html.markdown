@@ -2,7 +2,7 @@
 title: Bedrijfsuitje Defacto 2016
 date: 2016-07-12 08:00 CEST
 tags:
-author: iwanna
+author: Iwanna de Jonge
 lang: nl
 image: images/social/bedrijfsuitje-defacto-2016-1200x630.png
 featured_image: images/blog/featured/20160712-bedrijfsuitje.jpg
