@@ -1,6 +1,7 @@
 body.x404 {
   .gray {
-    @include radial-gradient(#fbfbfb, #dfdfdf, $fallback: #fbfbfb);
+    background-color: #fbfbfb;
+    background-image: radial-gradient(#fbfbfb, #dfdfdf);
   }
 
   .header-icon {

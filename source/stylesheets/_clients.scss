@@ -1,19 +1,18 @@
 .clients {
   $background-color: #fcfcfc;
 
+  background-color: $background-color;
+  background-image: linear-gradient(darken($background-color, 2), $background-color 120px);
+  text-align: center;
+
   h2 {
     font-size: 1.8em;
   }
 
-  @include linear-gradient(darken($background-color, 2), $background-color 120px, $fallback: $background-color);
-  text-align: center;
-
-  .logos {
-    img {
-      margin: 1em 2em;
-      max-height: 50px;
-      max-width: 180px;
-      opacity: 0.5;
-    }
+  .logos img {
+    margin: 1em 2em;
+    max-height: 50px;
+    max-width: 180px;
+    opacity: 0.5;
   }
 }

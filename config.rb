@@ -105,7 +105,7 @@ page "blog/feed.xml", layout: false
 
 activate :directory_indexes
 activate :autoprefixer do |config|
-  config.browsers = ['last 3 versions', 'Explorer >= 9']
+  config.browsers = ["last 3 versions", "Explorer >= 9"]
 end
 
 set :relative_links, true

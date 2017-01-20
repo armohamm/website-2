@@ -3,9 +3,9 @@
   $blog-link-color: darken($blue, 10);
 
   a {
-    @include transition(color 0.1s linear);
     color: $blog-link-color;
     text-decoration: none;
+    transition: color 0.1s linear;
 
     &:active,
     &:focus,
@@ -64,11 +64,11 @@
 
   .post-body {
     img {
-      @include transform(translateX(-50%));
       display: block;
       left: 50%;
       padding: 0.6em 0;
       position: relative;
+      transform: translateX(-50%);
     }
   }
 
@@ -91,7 +91,8 @@
 .blog_index {
   .blog-header {
     $background-color: #fcfcfc;
-    @include linear-gradient(darken($background-color, 2), $background-color 120px, $fallback: $background-color);
+    background-color: $background-color;
+    background-image: radial-gradient(darken($background-color, 2), $background-color 120px);
     padding: 0;
 
     h1 {
@@ -178,7 +179,8 @@
 
       .post-header {
         $background-color: #fcfcfc;
-        @include linear-gradient(darken($background-color, 2), $background-color 120px, $fallback: $background-color);
+        background-color: $background-color;
+        background-image: radial-gradient(darken($background-color, 2), $background-color 120px);
 
         h1 {
           margin-bottom: 0.5em;
