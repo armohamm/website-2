@@ -119,7 +119,7 @@ GEM
     rails-assets-bowser (1.0.0)
     rails-assets-fitvids (1.1.0)
       rails-assets-jquery (>= 1.7.0)
-    rails-assets-jquery (2.1.4)
+    rails-assets-jquery (2.2.4)
     rails-assets-jquery-placeholder (2.1.3)
       rails-assets-jquery (>= 1.6)
     rails-assets-js-cookie (2.0.3)
@@ -164,10 +164,11 @@ DEPENDENCIES
   middleman-syntax
   neat
   nokogiri
-  rails-assets-bowser
-  rails-assets-fitvids
-  rails-assets-jquery-placeholder
-  rails-assets-js-cookie
+  rails-assets-bowser!
+  rails-assets-fitvids!
+  rails-assets-jquery (~> 2.2.4)!
+  rails-assets-jquery-placeholder!
+  rails-assets-js-cookie!
   rake
 
 BUNDLED WITH
