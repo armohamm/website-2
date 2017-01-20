@@ -8,13 +8,13 @@ gem "middleman-blog", "~> 3.5.3"
 gem "middleman-deploy", "~> 1.0"
 # gem "middleman-livereload", "~> 3.4.2"
 gem "middleman-syntax"
+gem "middleman-autoprefixer"
 # gem "redcarpet"
 gem "nokogiri"
 gem "builder" # For feed.xml.builder
 gem "rake"
 
-# Bitters, Bourbon, Neat
-# gem "bitters"
+# Bourbon, Neat
 gem "bourbon"
 gem "neat"
 

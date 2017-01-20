@@ -108,8 +108,8 @@
 
 .feature-keywords {
   $background-color: #fcfcfc;
-
-  @include linear-gradient(darken($background-color, 2), $background-color 120px, $fallback: $background-color);
+  background-color: $background-color;
+  background-image: radial-gradient(darken($background-color, 2), $background-color 120px);
   display: none;
   padding-bottom: 2em;
 

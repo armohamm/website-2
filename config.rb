@@ -104,6 +104,9 @@ page "blog/index.html", layout: :blog_layout
 page "blog/feed.xml", layout: false
 
 activate :directory_indexes
+activate :autoprefixer do |config|
+  config.browsers = ["last 3 versions", "Explorer >= 9"]
+end
 
 set :relative_links, true
 set :css_dir, "stylesheets"
