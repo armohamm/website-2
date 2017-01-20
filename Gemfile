@@ -1,7 +1,6 @@
 # If you have OpenSSL installed, we recommend updating
 # the following line to use "https"
 source "http://rubygems.org"
-source "https://rails-assets.org"
 
 gem "middleman", "~> 3.4.0"
 gem "middleman-blog", "~> 3.5.3"
@@ -19,7 +18,10 @@ gem "bourbon"
 gem "neat"
 
 # Frontend
-gem "rails-assets-js-cookie"
-gem "rails-assets-jquery-placeholder"
-gem "rails-assets-bowser"
-gem "rails-assets-fitvids"
+source "https://rails-assets.org" do
+  gem "rails-assets-jquery", "~> 2.2.4"
+  gem "rails-assets-js-cookie"
+  gem "rails-assets-jquery-placeholder"
+  gem "rails-assets-bowser"
+  gem "rails-assets-fitvids"
+end

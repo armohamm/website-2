@@ -41,7 +41,6 @@
     <%= stylesheet_link_tag "main" %>
     <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     <%= partial "google_analytics" %>
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   </head>
 
   <body class="<%= page_classes %>">
@@ -54,7 +53,7 @@
 
     <%= partial "popup-ebook" if !is_blog? && current_page.data.popup != false && data.downloads.ebook[I18n.locale] %>
 
-    <%= javascript_include_tag "all" %>
+    <%= javascript_include_tag "jquery", "all" %>
 
     <!-- Intercom -->
     <script>

@@ -166,6 +166,8 @@ end
 ###
 
 ready do
+  sprockets.import_asset "jquery.js"
+
   # validate data/downloads.yml
   validate_downloads(data.downloads)
 end
