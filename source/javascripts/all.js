@@ -3,10 +3,12 @@
 //= require bowser
 //= require fitvids
 
+//= require _raf-polyfill
 //= require _forms
 //= require _home
+//= require _dropdown-menu
 //= require _map
-//= require _menu
+
 //= require _popup
 //= require _social-share
 //= require _vimeo.ga

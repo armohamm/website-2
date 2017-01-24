@@ -307,6 +307,16 @@ helpers do
     html
   end
 
+  def root_url?
+    current_page.url == "/"
+  end
+
+  def logo
+    image_link = root_url? ? "logos/defacto-invert" : "logos/defacto"
+    img = image_tag("#{image_link}.svg", alt: "Defacto", onerror: "this.src='/images/#{image_link}.png'; this.onerror=null;")
+    locale_link_to(img, "/")
+  end
+
   # String to markdown
   def markitdown(string)
     # Kramdown::Document.new(string, config[:markdown]).to_html

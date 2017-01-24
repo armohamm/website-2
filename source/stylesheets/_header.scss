@@ -1,154 +1,97 @@
 .header {
-  $desktop-mode: $large-up;
-
-  @include clearfix;
-  background-color: #fff;
+  @include outer-container;
   height: $header-height;
-  position: relative;
-  width: 100%;
-  z-index: 999;
+  padding: 0 1em;
+  z-index: 9999;
 
-  .header-wrapper {
-    @include outer-container;
-    padding: 0 1em;
-    position: relative;
+  @include media($menu-desktop) {
+    text-align: right;
   }
 
   .logo {
     float: left;
-    line-height: $header-height - 10px;
+    line-height: $header-height - 4px;
 
     img {
       display: inline-block;
       height: 37px;
-      margin-top: 3px;
+      margin-top: 0;
       vertical-align: middle;
       width: 164px;
     }
   }
 
-  // Mobile view
-  .header-menu-button {
-    float: right;
-    font-weight: 700;
-    font-size: 1.2em;
-    margin-top: 1.2em;
-    outline: none;
-    padding: 8px 10px;
-
-    .bar {
-      background: #fff;
-      border-radius: 1px;
-      display: block;
-      height: 2px;
-      max-height: 2px;
-      width: 22px;
-
-      & + .bar {
-        margin-top: 5px;
-      }
-    }
-
-    @include media ($desktop-mode) {
-      display: none;
-    }
-  }
-
-  // Nav menu
-  .nav {
-    float: none;
-    z-index: 9999;
-
-    @include media ($desktop-mode) {
-      float: right;
-    }
-  }
-
-  .header-menu {
-    background: #fff;
-    clear: both;
+  .main-nav {
     display: none;
-    margin: 0 auto;
-    overflow: visible;
-    padding: 1em 0;
-    text-align: left;
-    width: 100%;
-    z-index: 9999;
 
-    @include media ($desktop-mode) {
-      display: inline;
-      margin: 0;
-      padding: 0;
-      background: transparent;
-    }
+    @include media($menu-desktop) {
+      display: inline-block;
 
-    > li {
-      display: block;
-      margin: 0 20px;
-      overflow: hidden;
-      z-index: 9999;
+      ul:hover li > a {
+        opacity: 0.6;
+
+        &:hover {
+          opacity: 1;
+        }
+      }
+
+      li {
+        display: inline-block;
+        float: left;
+        line-height: $header-height;
+      }
 
       a {
-        color: #444;
+        @include transition(opacity 0.2s ease);
+        color: $gray-menu;
         display: block;
-        font-weight: 700;
-        padding: 10px 5px;
-        text-decoration: none;
-
-        &:visited {
-          color: #444;
-        }
-
-        &.active {
-          color: $orange;
-        }
+        font-size: 1em;
+        font-weight: bold;
+        padding: 0 20px;
 
         &:hover,
         &:focus,
-        &:active {
+        &:active,
+        &.active {
           color: $orange;
         }
       }
 
-      @include media ($desktop-mode) {
-        display: inline;
-        line-height: $header-height;
-        margin-left: .5em;
-        text-decoration: none;
-        width: auto;
+      // Homepage
+      @at-root body.index & a {
+        color: $white;
 
-        &:first-child {
-          margin-left: 0;
-        }
-
-        a {
-          display: inline;
-          padding: 0;
+        &:hover,
+        &:focus,
+        &:active,
+        &.active {
+          color: $orange;
         }
       }
+    }
+  }
 
-      &.flags {
-        margin-right: 10px !important;
+  .flags {
+    margin-right: 10px;
 
-        a {
-          @include transition(opacity 0.3s);
-          display: inline-block;
-          margin-right: 3px;
-          opacity: 0.9;
+    a {
+      @include transition(opacity 0.2s ease);
+      display: inline-block;
+      margin-right: 3px;
+      opacity: 0.9;
+      padding: 0;
 
-          &:last-child {
-            margin-right: 0;
-          }
-
-          &:hover {
-            opacity: 1;
-          }
-        }
-
-        img {
-          width: 18px;
-        }
+      &:last-child {
+        margin-right: 0;
       }
+
+      &:hover {
+        opacity: 1;
+      }
+    }
+
+    img {
+      width: 18px;
     }
   }
 }
