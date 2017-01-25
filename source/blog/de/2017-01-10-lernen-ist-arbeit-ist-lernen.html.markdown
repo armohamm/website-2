@@ -4,7 +4,7 @@ date: 2017-01-10 08:00 CEST
 tags:
 author: Joep
 lang: de
-featured: true
+featured: false
 image: images/social/lernen-ist-arbeit-1200x630.png
 featured_image: images/blog/featured/20170110-lernen-ist-arbeit.jpg
 ---
