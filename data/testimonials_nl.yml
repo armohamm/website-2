@@ -26,33 +26,41 @@
 #
 #####################################################################################################
 
+- name: Isabel Juliana
+  company: "Afdelingshoofd (Centraal Bureau) Leerhuis, Albert Schweitzer Ziekenhuis"
+  avatar: testimonials/isabel_juliana.jpg
+  featured: true
+  quote: >
+    <p>
+      Aan het begin van 2016 zijn wij ons DLO implementatietraject gestart en hiermee ook onze samenwerking met Defacto. In november 2016 zijn we gestart met de ingebruikname van het Kwaliteitspaspoort voor verpleegkundigen. De afgelopen periode hebben we ervaren als een zeer intensieve maar leerzame periode waarbij wij door de goede samenwerking met Defacto mooie stappen hebben kunnen maken. De behulpzaamheid, het meedenken en de kundigheid van de consultants heeft ertoe geleid dat er vanuit ons een  visie op leren is ontstaan.
+    </p>
+    <p>
+      Wij zijn als Leerhuis (prettig) gedwongen/gestimuleerd om na te gaan denken over een systematiek passende bij het gebruik van het Kwaliteitspaspoort waarmee we de bekwaamheid van onze medewerkers op een pragmatische wijze kunnen gaan waarborgen en monitoren.
+    </p>
+    <p>
+      Op dit moment zitten we nog middenin de implementatie van het Kwaliteitspaspoort, omdat we er voor hebben gekozen doelgroepen in fasen uit te rollen. De eerste ervaringen zijn positief, de medewerkers zijn het meest te spreken over het gebruikersgemak en de organisatie is geholpen met de administratieve verantwoording richting wetgevende en certificerende instanties.
+    </p>
+  summary: >
+    In november 2016 zijn we gestart met de ingebruikname van het Kwaliteitspaspoort voor verpleegkundigen. De afgelopen periode hebben we ervaren als een zeer intensieve maar leerzame periode waarbij wij door de goede samenwerking met Defacto mooie stappen hebben kunnen maken. De behulpzaamheid, het meedenken en de kundigheid van de consultants heeft ertoe geleid dat er vanuit ons een  visie op leren is ontstaan.
+
 - name: Kristel Vissers
   company: "Projectleider Kwaliteitspaspoort, Máxima Medisch Centrum"
   avatar: testimonials/kristel_vissers.jpg
-  featured: true
   quote: >
-    <p>Binnen Máxima Medisch Centrum (MMC) was behoefte aan een systeem waarin de MMC-(zorg)professional gestimuleerd wordt om
-    continu zijn of haar bevoegd- en bekwaamheden bij te houden, zodat de beste zorg met een herkenbaar profiel kan worden geboden.
-    Samen met Defacto is hiervoor het Kwaliteitspaspoort geïmplementeerd.</p>
-    <p>Vooraf aan de implementatie van het Kwaliteitspaspoort is door verschillende afdelingen, waaronder Afdeling HRM en afdeling
-    Kwaliteit & Veiligheid, hard gewerkt om de basis op orde te krijgen. We hebben gekozen voor een duurzame oplossing waarin realtime
-    de actuele personeelsgegevens en het daaraan gekoppelde profiel beschikbaar is.<br>
-    Daarnaast vraagt het Kwaliteitspaspoort een cultuur met als uitgangspunt dat de medewerker zelf de regie neemt over de eigen deskundigheid.
-    Van belang is dat managers en afdelingshoofden een cultuur bekrachtigen waarin men elkaar kan aanspreken en ook aanspreekbaar is op het
-    volgen van protocollen zodat men met elkaar zorg van topkwaliteit biedt.</p>
-    <p>Tijdens de implementatie van het Kwaliteitspaspoort merk je dat Defacto een hechte samenwerkingsrelatie aangaat. Zij willen weten wat
-    er speelt in de organisatie en kunnen daardoor constructief met ons meedenken. Het samenwerken met de mensen van Defacto heeft ons
-    geholpen om de basis op orde te krijgen. Samen met Defacto werken we aan continue verbetering van het Kwaliteitspaspoort, zowel technisch
-    als functioneel.</p>
-    <p>Zo zijn onze medewerkers nu aantoonbaar bekwaam. Voorbehouden- en risicovolle handelingen worden nu door assessoren op de werkvloer
-    getoetst. Dit is efficiënt en biedt enorm veel inzicht. Met behulp van Defacto beschikken leidinggevenden over (stuur)informatie en
-    zijn onze (zorg)professionals bewust bezig met hun eigen ontwikkeling en nemen zij hierin nu zelf de verantwoordelijkheid.</p>
+    <p>
+      Binnen Máxima Medisch Centrum (MMC) was behoefte aan een systeem waarin de MMC-(zorg)professional gestimuleerd wordt om continu zijn of haar bevoegd- en bekwaamheden bij te houden, zodat de beste zorg met een herkenbaar profiel kan worden geboden. Samen met Defacto is hiervoor het Kwaliteitspaspoort geïmplementeerd.
+    </p>
+    <p>
+      Vooraf aan de implementatie van het Kwaliteitspaspoort is door verschillende afdelingen, waaronder Afdeling HRM en afdeling Kwaliteit & Veiligheid, hard gewerkt om de basis op orde te krijgen. We hebben gekozen voor een duurzame oplossing waarin realtime de actuele personeelsgegevens en het daaraan gekoppelde profiel beschikbaar is.<br> Daarnaast vraagt het Kwaliteitspaspoort een cultuur met als uitgangspunt dat de medewerker zelf de regie neemt over de eigen deskundigheid. Van belang is dat managers en afdelingshoofden een cultuur bekrachtigen waarin men elkaar kan aanspreken en ook aanspreekbaar is op het volgen van protocollen zodat men met elkaar zorg van topkwaliteit biedt.
+    </p>
+    <p>
+      Tijdens de implementatie van het Kwaliteitspaspoort merk je dat Defacto een hechte samenwerkingsrelatie aangaat. Zij willen weten wat er speelt in de organisatie en kunnen daardoor constructief met ons meedenken. Het samenwerken met de mensen van Defacto heeft ons geholpen om de basis op orde te krijgen. Samen met Defacto werken we aan continue verbetering van het Kwaliteitspaspoort, zowel technisch als functioneel.
+    </p>
+    <p>
+      Zo zijn onze medewerkers nu aantoonbaar bekwaam. Voorbehouden- en risicovolle handelingen worden nu door assessoren op de werkvloer getoetst. Dit is efficiënt en biedt enorm veel inzicht. Met behulp van Defacto beschikken leidinggevenden over (stuur)informatie en zijn onze (zorg)professionals bewust bezig met hun eigen ontwikkeling en nemen zij hierin nu zelf de verantwoordelijkheid.
+    </p>
   summary: >
-    Tijdens de implementatie van het Kwaliteitspaspoort merk je dat Defacto een hechte samenwerkingsrelatie aangaat. Zij willen weten wat
-    er speelt in de organisatie en kunnen daardoor constructief met ons meedenken. Het samenwerken met de mensen van Defacto heeft ons
-    geholpen om de basis op orde te krijgen. Samen met Defacto werken we aan continue verbetering van het Kwaliteitspaspoort, zowel technisch
-    als functioneel.
-
+    Tijdens de implementatie van het Kwaliteitspaspoort merk je dat Defacto een hechte samenwerkingsrelatie aangaat. Zij willen weten wat er speelt in de organisatie en kunnen daardoor constructief met ons meedenken. Het samenwerken met de mensen van Defacto heeft ons geholpen om de basis op orde te krijgen. Samen met Defacto werken we aan continue verbetering van het Kwaliteitspaspoort, zowel technisch als functioneel.
 
 - name: Marieke van Kernebeek
   company: "Office manager, Phoenix Opleidingen"
@@ -67,25 +75,3 @@
     Het fijnste aan de samenwerking met de mensen van Defacto is dat we al zo lang zulk intensief contact hebben,
     dat je weet dat je van elkaar op aan kunt. Door dit vertrouwen is er ook ruimte voor een kritische noot.
     In de loop van de jaren hebben we zo’n goed contact opgebouwd dat je dat niet zomaar even aan de kant zet.
-
-
-- name: Peter van Overbruggen
-  company: "Opleidingsadviseur, ZuidZorg"
-  avatar: testimonials/peter_van_overbruggen.jpg
-  quote: >
-    <p>Het project met Defacto betrof de invoering van CAPP11 in onze organisatie voor alle drie de onderdelen
-    (opleiden, ontwikkelen en kwaliteit). Het contact met de mensen van Defacto verliep prima. Zij zijn samenwerkingsgericht,
-    toegankelijk en makkelijk in de omgang. Kortom: een prettige samenwerking.</p>
-    <p>Ook de servicedesk is makkelijk te bereiken. Zij nemen de tijd voor je en proberen altijd duidelijkheid te bieden,
-    ook als iets niet mogelijk is. Onderscheidend vond ik ook dat de mensen altijd probeerden mee te denken over wat specifiek
-    voor onze organisatie van belang is. ZuidZorg heeft hiernaast ook een webshop door Defacto laten ontwikkelen.
-    Deze webshop is een belangrijke aanwinst voor onze cursusadministratie van de cliënten-cursussen. Cliënten krijgen direct
-    duidelijkheid over de planning en de mogelijkheden van de door hun gewenste cursus. Daarnaast levert dit ons enorme tijdwinst op.
-    Daar waar eerst meerdere medewerkers betrokken waren bij de administratieve verwerking, is er nu nog maar één persoon een
-    gedeelte van haar tijd mee bezig. Door de invoering van CAPP als leermanagementsysteem is daarnaast de eigen
-    verantwoordelijkheid van medewerkers vergroot, de inzichtelijkheid voor leidinggevenden geoptimaliseerd en kunnen we meer
-    leeractiviteiten faciliteren voor medewerkers en cliënten.</p>
-  summary: >
-    Het project met Defacto betrof de invoering van CAPP11 in onze organisatie voor alle drie de onderdelen
-    (opleiden, ontwikkelen en kwaliteit). Het contact met de mensen van Defacto verliep prima. Zij zijn samenwerkingsgericht,
-    toegankelijk en makkelijk in de omgang. Kortom: een prettige samenwerking.
