@@ -158,3 +158,25 @@
 - firstname: Niels
   lastname: Kuiler
   email: niels@defacto.nl
+
+- firstname: Wilhem
+  prefix: van der
+  lastname: Wiel
+  email: wilhem@defacto.nl
+
+- firstname: Evelien
+  prefix: de
+  lastname: Jonge
+  email: evelien@defacto.nl
+
+- firstname: Mirjam
+  lastname: Kronemeijer
+  email: mirjam@defacto.nl
+
+- firstname: David
+  lastname: Fritsch
+  email: d.fritsch@defacto.nl
+
+- firstname: Ellie
+  lastname: Kuiper
+  email: e.kuiper@defacto.nl
