@@ -1,7 +1,7 @@
 ---
 title: E-Learning-Freiheit
 date: 2016-07-15 14:05 CEST
-tags:
+tags: CAPP, e-learning, SCORM
 author: martina
 lang: de
 featured_image: images/blog/featured/20160715-e-learning.png

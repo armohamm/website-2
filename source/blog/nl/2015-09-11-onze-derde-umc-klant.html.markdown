@@ -1,6 +1,7 @@
 ---
 title: De implementatie bij onze 3e UMC klant is van start gegaan
 date: 2015-09-11 11:58 CEST
+tags: MUMC, CAPP
 author: Tim
 lang: nl
 featured_image: images/blog/featured/20150911-mumc.png

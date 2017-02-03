@@ -1,7 +1,7 @@
 ---
 title: Wetswijziging meldplicht datalekken
 date: 2016-02-22 7:30 CET
-tags:
+tags: security, Defacto
 author: Koos
 lang: nl
 image: images/social/meldplicht-datalekken-1200x630.png

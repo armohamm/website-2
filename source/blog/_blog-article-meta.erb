@@ -3,14 +3,15 @@ author = blog_author(article)
 author_name = author ? blog_author_name(author) : article.data.author
 %>
 
-<% if author && src = team_avatar_url(author) %>
-  <div class="author-avatar">
-    <%= image_tag src, alt: author_name, class: "avatar" %>
-  </div>
-<% end %>
-<div class="author">
+<div class="post-meta">
   <span class="author-name"><%= author_name %></span>
   <time datetime="<%= article.date.strftime("%F") %>">
     <%= I18n.l(article.date, format: :blog_date) %>
   </time>
+  <span class="post-tags">
+    <% article.tags.each do |tag| %>
+      <%= link_to tag, tag_path(tag), class: "tag" %>
+      <span class="separator">&bull;</span>
+    <% end %>
+  </span>
 </div>

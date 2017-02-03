@@ -1,6 +1,7 @@
 ---
 title: "Throwback Thursday: Samen met FC Groningen het internet op"
 date: 2015-09-17 10:58 CEST
+tags: FC Groningen, Defacto
 author: Gerwin
 lang: nl
 featured_image: images/blog/featured/20150917-fc-groningen.jpg

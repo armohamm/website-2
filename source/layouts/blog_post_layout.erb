@@ -1,18 +1,11 @@
 <% wrap_layout :layout do %>
-  <%
-  author = blog_author(current_article)
-  author_name = author ? blog_author_name(author) : current_article.data.author
-  %>
 
   <article class="post">
     <header class="post-header">
       <div class="row">
         <div class="col">
           <h1><%= current_article.title %></h1>
-          <div class="post-meta">
-            <span class="author-name"><%= author_name %></span>
-            <time datetime="<%= current_article.date.strftime('%F') %>"><%= I18n.l(current_article.date, format: :blog_date) %></time>
-          </div>
+          <%= partial "blog/blog-article-meta", locals: { article: current_article } %>
         </div>
       </div>
     </header>
@@ -27,7 +20,11 @@
       <div class="col">
 
         <div class="author">
-          <% if author && src = team_avatar_url(author) %>
+          <%
+          author = blog_author(current_article)
+          author_name = author ? blog_author_name(author) : current_article.data.author
+          
+          if author && src = team_avatar_url(author) %>
             <%= image_tag src, alt: author_name, class: "avatar" %>
             <h4 class="author-name"><%= author_name %></h4>
           <% end %>

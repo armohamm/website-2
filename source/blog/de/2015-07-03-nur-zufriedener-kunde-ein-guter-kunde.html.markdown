@@ -1,7 +1,7 @@
 ---
 title: Nur ein zufriedener Kunde ist ein guter Kunde
 date: 2015-07-03 11:58 CEST
-tags:
+tags: CAPP, LMS
 author: Joep
 lang: de
 image: images/social/zufriedener-kunde-1200x630.png

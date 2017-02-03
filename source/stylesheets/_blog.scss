@@ -53,11 +53,35 @@
       display: inline-block;
       white-space: nowrap;
 
-      &::before {
+      &::before,
+      &::after {
         color: $post-meta;
         content: "–";
         display: inline;
-        margin: 0 0.5em 0 0.4em;
+        margin: 0 0.5em;
+      }
+    }
+
+    .post-tags {
+      display: block;
+
+      @include media($medium-up) {
+        display: inline-block;
+      }
+
+      .separator {
+        display: inline-block;
+        opacity: 0.75;
+        padding: 0 0.1em;
+      }
+
+      .tag {
+        display: inline-block;
+        white-space: nowrap;
+
+        &:last-of-type + .separator {
+          display: none;
+        }
       }
     }
   }
@@ -88,7 +112,8 @@
 }
 
 // Blog index
-.blog_index {
+.blog_index,
+.blog_tags {
   .blog-header {
     $background-color: #fcfcfc;
     background-color: $background-color;
@@ -101,8 +126,21 @@
   }
 }
 
-.blog-list {
+.blog_tags_index {
+  ol {
+    border-bottom: $post-border 1px solid;
+    margin-bottom: 2em;
+    padding-bottom: 2em;
+  }
+}
 
+.blog_tags {
+  h2 {
+    font-size: 2em;
+  }
+}
+
+.blog-list {
   li:first-child article {
     padding-top: 0;
   }

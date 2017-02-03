@@ -1,6 +1,7 @@
 ---
 title: Drie redenen om meer intercollegiaal te toetsen
 date: 2016-01-22 10:33 UTC
+tags: intercollegiaal toetsen, 70-20-10, social learning
 author: Joep
 lang: nl
 featured_image: images/blog/featured/20160122-intercollegiaal-toetsen.jpg

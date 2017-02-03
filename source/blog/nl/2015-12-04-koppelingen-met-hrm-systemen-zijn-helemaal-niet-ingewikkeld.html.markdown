@@ -1,7 +1,7 @@
 ---
 title: Koppelingen met HRM systemen zijn helemaal niet ingewikkeld!
 date: 2015-12-04 11:42 CET
-tags:
+tags: CAPP, koppelingen, development
 author: Pieter
 lang: nl
 featured_image: images/blog/featured/20151204-hrm-systemen.png

@@ -1,7 +1,7 @@
 ---
 title: The future is now
 date: 2016-01-08 09:30 CET
-tags:
+tags: innovatie, onderwijskunde
 author: Joep
 lang: nl
 image: images/social/the-future-is-now-1200x630.png

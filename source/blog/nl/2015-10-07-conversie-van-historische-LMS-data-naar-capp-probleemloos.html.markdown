@@ -1,7 +1,7 @@
 ---
 title: Conversie van historische LMS-data naar CAPP probleemloos
 date: 2015-10-07 10:34 CEST
-tags:
+tags: CAPP, dataconversie, development
 author: Pieter
 lang: nl
 featured_image: images/blog/featured/20151007-conversie-data.png

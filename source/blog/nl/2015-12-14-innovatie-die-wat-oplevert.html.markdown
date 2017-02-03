@@ -1,7 +1,7 @@
 ---
 title: Innovatie die wat oplevert
 date: 2015-12-14 15:30 CET
-tags:
+tags: innovatie, software, onderwijskunde
 author: Joep
 lang: nl
 featured_image: images/blog/featured/20151214-innovatie.jpg

@@ -1,7 +1,7 @@
 ---
 title: Laat de babyboomers in elk geval hun kennis inleveren
 date: 2015-09-24 17:15 CEST
-tags:
+tags: babyboomers, kennis delen, LearningSpaces
 author: Hans
 lang: nl
 featured_image: images/blog/featured/20150924-babyboomers-kennis.png

@@ -1,7 +1,7 @@
 ---
 title: Die vielen kleinen Unterschiede zwischen Deutschland und den Niederlanden
 date: 2015-07-13 11:58 CEST
-tags:
+tags: Deutschland, Niederlande
 author: Cathrin
 lang: de
 image: images/social/deutschland-niederlanden-1200x630.png

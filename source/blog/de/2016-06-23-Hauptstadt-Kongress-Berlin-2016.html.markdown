@@ -1,7 +1,7 @@
 ---
 title: Hauptstadt Kongress Berlin 2016
 date: 2016-06-23 11:58 CEST
-tags:
+tags: Hauptstadt Kongress Berlin, e-learning
 author: Martina
 lang: de
 image: images/social/hauptstadt-kongress-berlin-2016.png

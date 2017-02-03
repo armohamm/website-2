@@ -1,6 +1,7 @@
 ---
 title: Wat we hebben geleerd van het open sourcen van ons hobbyproject
 date: 2014-08-11 16:25:27
+tags: Hours, open source, development
 author: Hugo
 lang: nl
 featured_image: images/blog/featured/20140811-hours.jpg

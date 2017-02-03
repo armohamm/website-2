@@ -1,7 +1,7 @@
 ---
 title: De vele kleine verschillen tussen Nederland en Duitsland
 date: 2015-07-13 14:34 CEST
-tags:
+tags: Duitsland, Nederland
 author: Cathrin
 lang: nl
 featured_image: images/blog/featured/20150713-verschillen-duitsland-nederland.png

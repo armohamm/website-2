@@ -92,7 +92,7 @@ activate :blog do |blog|
   when :de
     blog.sources = "/de/{year}-{month}-{day}-{title}.html"
   end
-  # blog.tag_template = "blog/tag.html"
+  blog.tag_template = "blog/tag.html"
   # blog.calendar_template = "blog/calendar.html"
   blog.paginate = true
   blog.page_link = "{num}"
@@ -100,6 +100,7 @@ activate :blog do |blog|
 end
 
 page "blog/*", layout: :blog_post_layout
+page "blog/tags/*", layout: :blog_layout
 page "blog/index.html", layout: :blog_layout
 page "blog/feed.xml", layout: false
 

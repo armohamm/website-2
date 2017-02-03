@@ -1,7 +1,7 @@
 ---
 title: Van controleren naar faciliteren
 date: 2016-02-08 09:30 CET
-tags:
+tags: LMS, CAPP, faciliteren
 author: Joep
 lang: nl
 image: images/social/van-controleren-naar-faciliteren-1200x630.png

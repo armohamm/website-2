@@ -19,7 +19,7 @@
     -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <title><%= page_title current_page %></title>
+    <title><%= content_for?(:page_title) ? yield_content(:page_title) : page_title(current_page) %></title>
     <meta name="description" content="<%= meta_description %>">
 
     <%= tag(:meta, name: "robots", content: current_page.data.robots) if current_page.data.robots -%>
@@ -76,5 +76,6 @@
         <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1008438803/?value=0&amp;guid=ON&amp;script=0"/>
       </div>
     </noscript>
+
   </body>
 </html>

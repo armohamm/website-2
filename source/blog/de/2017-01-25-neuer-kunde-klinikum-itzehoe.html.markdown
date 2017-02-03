@@ -1,7 +1,7 @@
 ---
 title: "Neuer Kunde: Klinikum Itzehoe"
 date: 2017-01-25 08:00 CEST
-tags:
+tags: kunde, Klinikum Itzehoe, CAPP
 author: Isabela
 lang: de
 featured: true

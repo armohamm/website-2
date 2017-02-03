@@ -1,7 +1,7 @@
 ---
 title: Eerste Defacto Gebruikersoverleg 2016
 date: 2016-02-19 7:30 CET
-tags:
+tags: gebruikersoverleg, CAPP, LearningSpaces
 author: Marian
 lang: nl
 image: images/social/gebruikersoverleg-1200x630.png

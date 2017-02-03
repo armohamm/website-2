@@ -1,6 +1,7 @@
 ---
 title: Co-makership voor een optimale productontwikkeling
 date: 2015-09-02 22:59 CEST
+tags: gebruikersoverleg, implementatie, samenwerking
 author: Marian
 lang: nl
 featured_image: images/blog/featured/20150902-co-makership.jpg

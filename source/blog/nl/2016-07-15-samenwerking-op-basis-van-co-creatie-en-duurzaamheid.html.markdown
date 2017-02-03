@@ -1,7 +1,7 @@
 ---
 title: Samenwerking op basis van co-creatie en duurzaamheid
 date: 2016-07-15 11:13 CEST
-tags:
+tags: gebruikersoverleg, Kwaliteitspaspoort, CAPP
 author: Marian
 lang: nl
 featured: false

@@ -1,7 +1,7 @@
 ---
 title: SIE haben den Qualitätspass verbessert
 date: 2016-09-15 11:58 CEST
-tags:
+tags: Qualitätspass, CAPP
 author: Gerwin
 lang: de
 image: images/social/sie-haben-qualitatspass-1200x630.png

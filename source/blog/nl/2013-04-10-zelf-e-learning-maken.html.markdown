@@ -1,6 +1,7 @@
 ---
 title: Weet u al hoe u zelf eenvoudig e-learning maakt?
 date: 2013-04-10 08:33 UTC
+tags: e-learning
 author: Hugo
 lang: nl
 featured_image: images/blog/featured/20130410-e-learning.jpg

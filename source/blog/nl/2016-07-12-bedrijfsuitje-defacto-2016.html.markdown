@@ -1,7 +1,7 @@
 ---
 title: Bedrijfsuitje Defacto 2016
 date: 2016-07-12 08:00 CEST
-tags:
+tags: bedrijfsuitje, Defacto, video
 author: Iwanna de Jonge
 lang: nl
 image: images/social/bedrijfsuitje-defacto-2016-1200x630.png

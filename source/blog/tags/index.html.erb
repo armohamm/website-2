@@ -1,0 +1,25 @@
+---
+title: Blog - Tags
+description:
+  nl: Ons blog staat vol met trends en verhalen over onze producten.
+  de: Unser Blog ist voll von Trends und Geschichten über unsere Produkte.
+pageable: false
+---
+
+<section class="row">
+
+    <h2>Tags</h2>
+
+    <% blog.tags.sort{ |a,b| a.to_s.downcase <=> b.to_s.downcase }.each do |tag, articles| %>
+
+      <ol>
+        <h3>Tag: <%= link_to tag, tag_path(tag) %></h3>
+        <% articles.each do |article| %>
+          <li>
+            <%= link_to article.title, article.url %>
+          </li>
+        <% end %>
+      </ol>
+    <% end %>
+
+</section>

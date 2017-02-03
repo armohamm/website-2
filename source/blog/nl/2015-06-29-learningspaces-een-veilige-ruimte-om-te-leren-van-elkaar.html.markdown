@@ -1,6 +1,7 @@
 ---
 title: "LearningSpaces: een veilige ruimte om te leren van elkaar."
 date: 2015-06-29 12:35 CEST
+tags: LearningSpaces, 70-20-10, social learning
 author: Margreet Twijnstra
 featured: false
 lang: nl

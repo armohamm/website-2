@@ -1,7 +1,7 @@
 ---
 title: ‘Leren is werken, werken is leren’
 date: 2017-01-10 08:00 CEST
-tags:
+tags: e-learning, onderwijskunde
 author: Joep
 lang: nl
 featured: true

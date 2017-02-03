@@ -1,7 +1,7 @@
 ---
 title: Schon wieder ein neues System?
 date: 2016-11-03 08:00 CEST
-tags:
+tags: implementierung
 author: Anne
 lang: de
 image: images/social/ein-neues-system-1200x630.png
