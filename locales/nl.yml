@@ -8,6 +8,7 @@ nl:
     contact: https://formkeep.com/f/aff54030c202
     productsheet: https://formkeep.com/f/eb01a315df5e
     ebook: https://formkeep.com/f/15eb7434fd49
+    job_apply: https://formkeep.com/f/da32eaeda39e
     ls_registration: https://public.learningspaces.nl/accounts/new
     ls_website: http://www.learningspaces.nl
     url: http://www.defacto.nl
@@ -111,7 +112,10 @@ nl:
   form:
     email: E-mail
     message: "Wat kunnen we voor je betekenen?"
+    job_message: "Aanvullende informatie die je met ons zou willen delen, zoals je LinkedIn of GitHub-profiel, portfolio, enzovoorts."
     name: Naam
+    first_name: Voornaam
+    sur_name: Achternaam
     organization: "Bedrijf of organisatie"
     phone: Telefoon
     submit: Verstuur
@@ -128,6 +132,7 @@ nl:
     menu: Menu
     products: Producten
     services: Diensten
+    jobs: Jobs
   home:
     cta:
       button: "Maak een afspraak"
@@ -217,6 +222,18 @@ nl:
       title: "360° Feedback"
     logo: logos/360feedback.svg
     name: "360° Feedback"
+  jobs:
+    hero:
+      header: "Werken bij Defacto?"
+      text: "Wij zijn altijd op zoek naar gemotiveerde mensen"
+    subheader: "Vacatures:"
+    form:
+      header: "Interesse?"
+      text: "Vul het onderstaande formulier in, dan nemen we zo snel mogelijk contact met je op."
+    more:
+      header: "Meer vacatures:"
+    share:
+      share_post: "Deel deze vacature:"
   demo_request:
     title: "Demo aanvragen"
     heading: "Vraag een demo aan"

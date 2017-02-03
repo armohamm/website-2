@@ -16,13 +16,13 @@
     <% end %>
 
     <li class="you">
-      <a href="http://jobs.defacto.nl" target="_blank">
+      <% locale_link_to("/jobs/index.html") do %>
         <div class="avatar"><%= t("about.team.you") %></div>
         <h5>
           <span><%= t("about.team.work_with_us") %></span>
           <span>Defacto</span>
         </h5>
-      </a>
+      <% end %>
     </li>
 
   </ol>

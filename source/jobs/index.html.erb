@@ -1,0 +1,19 @@
+---
+title:
+  nl: Werken bij Defacto
+  de: Arbeiten bei Defacto
+blog: jobs
+description:
+  nl: Wil je werken bij een van de leukste bedrijven van Groningen?
+  de: Wollen Sie bei einem der besten Unternehmen von Groningen zu arbeiten?
+pageable: true
+---
+
+<section class="row">
+  <h2><%= t("jobs.subheader") %></h2>
+  <ol class="blog-list">
+    <% page_articles.each do |article| %>
+      <%= partial "jobs/job-preview", locals: { article: article } %>
+    <% end %>
+  </ol>
+</section>

@@ -1,0 +1,14 @@
+<% wrap_layout :layout do %>
+
+  <section class="jobs-header">
+    <div class="row">
+      <div class="col">
+        <h1><%= t("jobs.hero.header") %></h1>
+        <p><%= t("jobs.hero.text") %></p>
+      </div>
+    </div>
+  </section>
+
+  <%= yield %>
+
+<% end %>

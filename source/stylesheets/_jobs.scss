@@ -1,0 +1,79 @@
+.jobs {
+  .main {
+    $blog-link-color: darken($blue, 10);
+
+    .row {
+      padding: 3em 1em;
+    }
+
+    article {
+      float: none;
+      margin: 0;
+      max-width: none;
+      width: 100%;
+
+      a {
+        color: $blog-link-color;
+        text-decoration: none;
+
+        &:active,
+        &:focus,
+        &:hover {
+          color: darken($blog-link-color, 15%);
+        }
+      }
+    }
+
+    .jobs-header {
+      background-position: center;
+      background-size: cover;
+
+      h1 {
+        color: $white;
+        font-weight: 700;
+      }
+
+      p {
+        color: $white;
+        font-size: 1.4em;
+        text-align: center;
+      }
+    }
+
+    .post-related {
+      padding: 0;
+      text-align: left;
+
+      h3 {
+        border-bottom: $post-border 1px solid;
+        padding-bottom: 1em;
+      }
+
+      li:last-child {
+        border: 0;
+      }
+    }
+  }
+}
+
+.jobs_index {
+  .jobs-header {
+    background-image: url("../images/jobs/mood-defacto-pand.jpg");
+    text-align: center;
+
+    h1 {
+      font-size: 4em;
+    }
+  }
+}
+
+.job-form {
+  background: $lightest-gray;
+  margin-top: 2em;
+  padding: 3em;
+
+  @include media($medium-up) {
+    margin-left: -3em;
+    margin-right: -3em;
+  }
+}

@@ -84,6 +84,7 @@ redirect "kundenreferenzen.html", to: "kundenstimmen.html"
 Time.zone = "CET"
 
 activate :blog do |blog|
+  blog.name = "blog"
   blog.prefix = "blog"
   blog.permalink = ":title"
   case root_locale
@@ -99,12 +100,29 @@ activate :blog do |blog|
   blog.per_page = 10
 end
 
+activate :blog do |blog|
+  blog.name = "jobs"
+  blog.prefix = "jobs"
+  blog.permalink = ":title"
+  case root_locale
+  when :nl
+    blog.sources = "/nl/{title}.html"
+  when :de
+    blog.sources = "/de/{title}.html"
+  end
+  blog.paginate = false
+end
+
 page "blog/*", layout: :blog_post_layout
 page "blog/tags/*", layout: :blog_layout
 page "blog/index.html", layout: :blog_layout
 page "blog/feed.xml", layout: false
+page "jobs/*", layout: :jobs_post_layout
+page "jobs/index.html", layout: :jobs_layout
+page "jobs/feed.xml", layout: false
 
 activate :directory_indexes
+
 activate :autoprefixer do |config|
   config.browsers = ["last 3 versions", "Explorer >= 9"]
 end
@@ -281,6 +299,8 @@ helpers do
       img = image_tag("flags/#{lang}.gif", alt: flag_titles[lang])
       if is_blog_index?
         url = full_url("/blog/", lang)
+      elsif jobs_index?
+        url = full_url("/jobs/", lang)
       elsif current_page.data.unique_for_locale == true
         url = full_url("", lang)
       else
@@ -298,6 +318,8 @@ helpers do
     langs.each do |lang|
       if is_blog_index?
         url = full_url("/blog/", lang)
+      elsif jobs_page?
+        url = full_url("/jobs/", lang)
       else
         locale_root_path = current_page.locale_root_path
         url = locale_root_path ? locale_root_path : "/"
@@ -355,6 +377,16 @@ helpers do
   # Is blog index?
   def is_blog_index?(page = current_page)
     (page.url =~ %r{^\/blog\/(\d+\/)?$}).present?
+  end
+
+  # Is jobs?
+  def jobs_page?(page = current_page)
+    page.url.start_with?("/jobs/")
+  end
+
+  # Is jobs index?
+  def jobs_index?(page = current_page)
+    (page.url =~ %r{^\/jobs\/(\d+\/)?$}).present?
   end
 
   # Get blog author

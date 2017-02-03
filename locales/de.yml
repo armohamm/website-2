@@ -24,6 +24,7 @@ de:
     contact: https://formkeep.com/f/bfad79e126e9
     productsheet: https://formkeep.com/f/bfad79e126e9
     ebook: https://formkeep.com/f/bfad79e126e9
+    job_apply: https://formkeep.com/f/6607c4bdc4cc
     ls_registration: https://public.learningspaces.de/accounts/new
     ls_website: http://www.learningspaces.de
     url: http://www.defactolearning.de
@@ -143,7 +144,10 @@ de:
   form:
     email: "E-Mail"
     message: "Wie können wir Ihnen helfen?"
+    job_message: "Fügen Sie gern zusätzliche Informationen, die Sie mit uns teilen möchten, hier ein ( zum Beispiel Ihr LinkedIn oder GitHub Profil, ein Portfolio oder ähnliches)."
     name: "Name"
+    first_name: Vorname
+    sur_name: Nachname
     organization: "Betrieb oder Organisation"
     phone: "Telefon"
     submit: "Versenden"
@@ -163,6 +167,7 @@ de:
     menu: "Menu"
     products: "Produkte"
     services: "Service"
+    jobs: "Jobs"
   home:
     cta:
       button: "Termin vereinbaren"
@@ -254,6 +259,18 @@ de:
       title: "360° Feedback"
     logo: logos/360feedback.svg
     name: "360° Feedback"
+  jobs:
+    hero:
+      header: "Arbeiten bei Defacto"
+      text: "Sind Sie jemand mit interessanter Persönlichkeit und setzen Sie gerne Ihren Verstand ein? Bei Defacto suchen wir immer nach Menschen, die uns inspirieren."
+    subheader: "Aktuell bieten wir die folgenden offenen Stellen an:"
+    form:
+      header: "Anwenden"
+      text: "Schön, dass Sie sich bei uns bewerben wollen! Füllen Sie das Formular aus und wir werden uns so schnell wie möglich bei Ihnen melden."
+    more:
+      header: "Weitere Jobs:"
+    share:
+      share_post: "Teile dieses Stellenagebot:"
   demo_request:
     title: "Demo anfragen"
     heading: "Senden Sie uns Ihre Details und fragen Sie eine Demo an! Wir freuen uns!"
