@@ -39,8 +39,10 @@ end
 # Ignore blog for other languages
 if root_locale == :de
   ignore "/blog/nl/*"
+  ignore "/jobs/nl/*"
 elsif root_locale == :nl
   ignore "/blog/de/*"
+  ignore "/jobs/de/*"
 end
 
 # # Prevent other locales from building (breaks page_classes)
