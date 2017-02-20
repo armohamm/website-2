@@ -5,6 +5,7 @@ tags:
 lang: nl
 featured: false
 header_image: jobs/mood-code.jpg
+popup: false
 ---
 
 Voor de uitbreiding van ons team zijn wij op zoek naar front-end developers. Voor ons Learning Management System CAPP (200.000+ gebruikers in Nederland) ontwikkelen we een nieuwe client. Wij zoeken daarom naar ervaren front-enders met gevoel voor UX. Daarnaast werken we aan [LearningSpaces](http://www.learningspaces.io){:target="_blank"} - in _Ember.js_ met een _Ruby on Rails_ back-end.
