@@ -4,7 +4,6 @@ date: 2017-01-10 08:00 CEST
 tags: e-learning, onderwijskunde
 author: Joep
 lang: nl
-featured: true
 image: images/social/leren-is-werken-1200x630.png
 featured_image: images/blog/featured/20170110-leren-is-werken.jpg
 ---
