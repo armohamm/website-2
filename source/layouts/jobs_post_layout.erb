@@ -33,6 +33,7 @@
           </p>
           <form class="form-contact" accept-charset="UTF-8" action="<%= t("urls.job_apply") %>" method="POST">
             <input type="hidden" name="utf8" value="✓">
+            <input type="hidden" name="form" value="job-application">
             <input type="hidden" name="vacature" value="<%= page_title current_page %>">
             <div class="form-name">
               <input type="text" name="first_name" placeholder="<%= t("form.first_name") %>">
