@@ -271,6 +271,7 @@ de:
       header: "Weitere Jobs:"
     share:
       share_post: "Teile dieses Stellenagebot:"
+    acquisition: "Achtung: Keine Werbung auf diese Stellenanzeige verschicken."
   demo_request:
     title: "Demo anfragen"
     heading: "Senden Sie uns Ihre Details und fragen Sie eine Demo an! Wir freuen uns!"

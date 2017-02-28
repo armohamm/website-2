@@ -234,6 +234,7 @@ nl:
       header: "Meer vacatures:"
     share:
       share_post: "Deel deze vacature:"
+    acquisition: "Let op: acquisitie op basis van deze vacature wordt niet op prijs gesteld."
   demo_request:
     title: "Demo aanvragen"
     heading: "Vraag een demo aan"
