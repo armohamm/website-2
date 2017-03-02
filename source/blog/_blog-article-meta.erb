@@ -10,7 +10,7 @@ author_name = author ? blog_author_name(author) : article.data.author
   </time>
   <span class="post-tags">
     <% article.tags.each do |tag| %>
-      <%= link_to tag, tag_path(tag), class: "tag" %>
+      <%= link_to capitalize(tag), tag_path(tag), class: "tag" %>
       <span class="separator">&bull;</span>
     <% end %>
   </span>

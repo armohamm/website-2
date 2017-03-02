@@ -404,6 +404,12 @@ helpers do
     "#{author.firstname} #{author.prefix} #{author.lastname}"
   end
 
+  # Capitalize tagnames
+  def capitalize(tagname)
+    tagname = tagname.slice(0, 1).capitalize + tagname.slice(1..-1)
+    tagname.gsub(/-[a-z]/, &:upcase)
+  end
+
   # Used to validate data/downloads.yml
   def validate_downloads(hash)
     hash.each do |key, value|

@@ -6,6 +6,7 @@ blog: blog
 pageable: true
 ---
 
+<% tagname = capitalize(tagname) %>
 <% content_for :page_title, "Tag: #{tagname} - Blog - Defacto" %>
 <% content_for :meta_description, t("blog.tags.meta_description", tagname: tagname) %>
 
