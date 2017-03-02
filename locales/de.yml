@@ -81,6 +81,8 @@ de:
       xing: Teile auf Xing
     next: "Nächste Seite"
     prev: "Vorherige Seite"
+    tags:
+      meta_description: "Blogs von Defacto im Zusammenhang mit %{tagname}"
   capp:
     cta_bottom:
       formkeep_title: "CAPP: afspraak maken"
