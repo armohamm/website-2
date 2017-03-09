@@ -369,7 +369,7 @@ helpers do
     http = Net::HTTP.new(uri.host, uri.port)
     request = Net::HTTP::Get.new(uri.request_uri)
     response = http.request(request)
-    response.code.to_i == 404 ? false : url
+    response.code.to_i == 404 ? false : "https://secure.gravatar.com/avatar/#{hash}.png"
   end
 
   # Is blog?
