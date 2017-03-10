@@ -18,8 +18,7 @@
     padding: 1.5em;
 
     @include media($medium-up) {
-      @include fill-parent();
-      @include row(table);
+      @include clearfix;
     }
 
     .col {
