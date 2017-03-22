@@ -92,6 +92,18 @@
     }
   }
 
+  &.white-green {
+    @include button($white);
+    color: $green;
+
+    &:hover,
+    &:focus {
+      background-color: $white;
+      border-color: $white;
+      color: $base-font-color;
+    }
+  }
+
   &.rounded {
     border-radius: 5px;
     vertical-align: top;

@@ -245,7 +245,6 @@
       }
 
       &.active > a {
-        color: $orange;
         opacity: 1;
       }
     }
@@ -474,6 +473,26 @@
     }
 
     a.nav-learningspaces {
+      h3 {
+        color: $green;
+      }
+
+      &::before {
+        background-position: -210px 0;
+      }
+
+      &:hover {
+        h3 {
+          color: darken($green, 15%);
+        }
+
+        &::before {
+          background-position: -210px -70px;
+        }
+      }
+    }
+
+    a.nav-capp-agile {
       h3 {
         color: $green;
       }

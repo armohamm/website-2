@@ -1,0 +1,41 @@
+<%
+all_testimonials = data["learningspaces-testimonials_" + I18n.locale.to_s]
+testimonials = all_testimonials.clone
+%>
+
+<section class="testimonials gray cols">
+
+  <div class="row">
+
+    <h2><%= t("capp-agile.testimonials_heading") %></h2>
+
+    <ul class="testimonial-list">
+      <% testimonials.each do |testimonial|
+
+         quote = testimonial.quote
+         quote_html = content_tag(:div, quote, class: "quote")
+      %>
+
+        <li>
+          <%= quote_html %>
+          <div class="author">
+
+            <%=
+            if testimonial.avatar
+              image_tag testimonial.avatar, alt: testimonial.name, class: "avatar"
+            else
+              content_tag :div, "", class: "avatar no-image"
+            end
+            %>
+
+            <div class="name"><%= testimonial.name %></div>
+            <span class="company"><%= testimonial.company %></span>
+          </div>
+        </li>
+
+      <% end %>
+    </ul>
+
+  </div>
+
+</section>

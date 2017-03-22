@@ -82,12 +82,23 @@
                   <% end %>
                 </li>
 
-                <li>
-                  <% locale_link_to("/learningspaces.html", { class: "nav-learningspaces" }) do %>
-                    <h3><%= t("learningspaces.name") %></h3>
-                    <%= t("nav.learningspaces") %>
-                  <% end %>
-                </li>
+                <% if root_locale == :de %>
+                  <li>
+                    <% locale_link_to("/learningspaces.html", { class: "nav-learningspaces" }) do %>
+                      <h3><%= t("learningspaces.name") %></h3>
+                      <%= t("nav.learningspaces") %>
+                    <% end %>
+                  </li>
+                <% end %>
+
+                <% if root_locale == :nl %>
+                  <li>
+                    <% locale_link_to("/capp-agile-learning.html", { class: "nav-capp-agile" }) do %>
+                      <h3><%= t("capp-agile.name") %></h3>
+                      <%= t("nav.capp-agile") %>
+                    <% end %>
+                  </li>
+                <% end %>
 
                 <li>
                   <% locale_link_to("/e-learning-starterkit.html", { class: "nav-elearning-starterkit" }) do %>
@@ -156,16 +167,7 @@
     </div>
   </header>
 
-  <% if current_page.url == "/" %>
-    <div class="hero">
-      <div class="hero-inner">
-        <div class="hero-copy">
-          <h1><%= t("home.hero.title") %></h1>
-          <h2><%= t("home.hero.text") %></h2>
-          <%= nav_link_to t("actions.home.demo"), "/demo-aanvragen.html", "data-event": "home_demo", class: "button" %>
-          <%= nav_link_to t("actions.home.productsheet"), "/productsheet-downloaden.html", "data-event": "home_produktblatt", class: "button white outline" %>
-        </div>
-      </div>
-    </div>
-  <% end %>
+  <%= partial "hero_home" if current_page.url == "/" %>
+  <%= partial "hero_capp-agile" if current_page.url == "/capp-agile-learning/" %>
+
 </div>

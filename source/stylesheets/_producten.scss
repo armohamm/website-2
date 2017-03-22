@@ -1,7 +1,7 @@
 .producten_index,
 .diensten_index {
 
-  .solitions-list {
+  .solutions-list {
     > li {
       background-color: #fff;
       margin-bottom: 2em;
@@ -58,7 +58,6 @@
         }
 
         img {
-          width: 240px;
           max-width: 100%;
           vertical-align: text-top;
         }
@@ -104,6 +103,21 @@
       h2 {
         img {
           width: 250px;
+        }
+      }
+    }
+  }
+
+  .capp-agile {
+    .left {
+      background-color: $green;
+      background-image: url("../images/learningspaces-pattern.jpg");
+      background-position: center;
+      background-size: 250%;
+
+      h2 {
+        img {
+          width: 360px;
         }
       }
     }

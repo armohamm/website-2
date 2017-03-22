@@ -70,6 +70,7 @@ redirect "hosting-security.html", to: "hosting.html" if root_locale == :de
 redirect "capp.html", to: "capp-lms.html"
 redirect "capp-lms.html", to: "capp-bilden.html" if root_locale == :de
 redirect "kundenreferenzen.html", to: "kundenstimmen.html"
+redirect "learningspaces.html", to: "capp-agile-learning.html" if root_locale == :nl
 
 # Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
 # proxy "/this-page-has-no-template.html", "/template-file.html", locals: {
@@ -337,9 +338,17 @@ helpers do
     current_page.url == "/"
   end
 
+  def capp_agile_url?
+    current_page.url == "/capp-agile-learning/"
+  end
+
   def logo
-    image_link = root_url? ? "logos/defacto-invert" : "logos/defacto"
-    img = image_tag("#{image_link}.svg", alt: "Defacto", onerror: "this.src='/images/#{image_link}.png'; this.onerror=null;")
+    if root_url?
+      image_link = "-invert"
+    elsif capp_agile_url?
+      image_link = "-white"
+    end
+    img = image_tag("logos/defacto#{image_link}.svg", alt: "Defacto", onerror: "this.src='/images/defacto#{image_link}.png'; this.onerror=null;")
     locale_link_to(img, "/")
   end
 

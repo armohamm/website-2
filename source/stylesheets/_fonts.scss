@@ -11,65 +11,77 @@
 // ------------------------------------------------------------
 
 @font-face {
-	font-family: 'icomoon';
-	src:url('../fonts/icomoon.eot?u4h9al');
-	src:url('../fonts/icomoon.eot?#iefix-u4h9al') format('embedded-opentype'),
-		url('../fonts/icomoon.ttf?u4h9al') format('truetype'),
-		url('../fonts/icomoon.woff?u4h9al') format('woff'),
-		url('../fonts/icomoon.svg?u4h9al#icomoon') format('svg');
-	font-weight: normal;
-	font-style: normal;
+  font-family: "icomoon";
+  src: url("../fonts/icomoon.eot?u4h9al");
+  src: url("../fonts/icomoon.eot?#iefix-u4h9al") format("embedded-opentype"),
+		url("../fonts/icomoon.ttf?u4h9al") format("truetype"),
+		url("../fonts/icomoon.woff?u4h9al") format("woff"),
+		url("../fonts/icomoon.svg?u4h9al#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
 }
 
 [class^="icon-"],
 [class*=" icon-"] {
-	font-family: 'icomoon';
-	font-style: normal;
-	font-variant: normal;
-	font-weight: normal;
-	line-height: 1;
-	speak: none;
-	text-transform: none;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
+  font-family: "icomoon";
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  speak: none;
+  text-transform: none;
 }
 
-.icon-pdf:before {
-	content: "\e608";
+.icon-pdf::before {
+  content: "\e608";
 }
-.icon-twitter2:before {
-	content: "\e604";
+
+.icon-twitter2::before {
+  content: "\e604";
 }
-.icon-linkedin2:before {
-	content: "\e605";
+
+.icon-linkedin2::before {
+  content: "\e605";
 }
-.icon-google-plus:before {
-	content: "\e606";
+
+.icon-google-plus::before {
+  content: "\e606";
 }
-.icon-facebook:before {
-	content: "\e607";
+
+.icon-facebook::before {
+  content: "\e607";
 }
-.icon-twitter:before {
-	content: "\ea91";
+
+.icon-twitter::before {
+  content: "\ea91";
 }
-.icon-github:before {
-	content: "\eab1";
+
+.icon-github::before {
+  content: "\eab1";
 }
-.icon-linkedin:before {
-	content: "\eac9";
+
+.icon-linkedin::before {
+  content: "\eac9";
 }
-.icon-location:before {
-	content: "\e600";
+
+.icon-location::before {
+  content: "\e600";
 }
-.icon-phone:before {
-	content: "\e601";
+
+.icon-phone::before {
+  content: "\e601";
 }
-.icon-mail:before {
-	content: "\e602";
+
+.icon-mail::before {
+  content: "\e602";
 }
-.icon-paperplane:before {
-	content: "\e603";
+
+.icon-paperplane::before {
+  content: "\e603";
 }
-.icon-xing:before {
+
+.icon-xing::before {
   content: "\e900";
 }

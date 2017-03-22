@@ -34,6 +34,7 @@ nl:
       capp: "Meer CAPP"
       quality: "Meer Kwaliteitspaspoort"
       learningspaces: "Meer LearningSpaces"
+      capp-agile: "Meer CAPP Agile Learning"
       starterkit: "Meer E-learning Starterkit"
       threesixty: "Meer 360° Feedback"
       elearning: "Meer E-Learning"
@@ -76,6 +77,18 @@ nl:
       subtitle_2: "Maak medewerkers aantoonbaar vakbevoegd en vakbekwaam met CAPP LMS."
       image: capp-lms-nl.png
     name: CAPP
+  capp-agile:
+    name: CAPP Agile Learning
+    desc: "Performance support door 'kennis-on-demand'. Verbeter prestaties door medewerkers te voorzien van just-in-time kennis. Leg kennis simpel vast en deel handleidingen, protocollen, werkinstructies, QR-codes e.d."
+    logo: logos/capp-agile-white.png
+    heading: "Performance support voor elke organisatie."
+    action: "Vraag een demo aan"
+    hero_quote: >
+      Goed worden in je werk doe je op de werkvloer. Vaak ben je dan niet op zoek naar een cursus of handleiding, maar naar dat stukje informatie dat je op dat moment nodig hebt.
+    form_heading: "Vraag een demo aan"
+    testimonials_heading: "Wat onze klanten zeggen"
+    demo_img: "Vraag een demo aan"
+    clients_heading: "Onze klanten"
   contact:
     form_title: "Wat kunnen we voor je betekenen?"
     heading: Aangenaam
@@ -147,8 +160,8 @@ nl:
       title: "Developing People"
     solutions:
       informal:
-        text_html: "%{link} is een laagdrempelig sociaal leerplatform dat op eenvoudige wijze kennisdeling en leren stimuleert binnen organisaties."
-        title: "LearningSpaces"
+        text_html: "<strong>Performance support door 'kennis-on-demand'</strong>. Verbeter prestaties door medewerkers te voorzien van just-in-time kennis. Leg kennis simpel vast en deel handleidingen, protocollen, werkinstructies, QR-codes e.d."
+        title: "CAPP Agile Learning"
       learn:
         text_html: "Geef medewerkers efficiënte tools voor hun ontwikkelprocessen en een overzichtelijk persoonlijk portfolio. Creëer inzicht met %{link} Leren & Ontwikkelen."
         title: CAPP Leren & Ontwikkelen
@@ -248,6 +261,6 @@ nl:
   nav:
     capp-lms: "LMS en efficiënte tools voor de ontwikkelprocessen van je medewerkers"
     kwaliteitspaspoort: "Real-time inzicht in bevoegd- en bekwaamheid binnen je organisatie"
-    learningspaces: "Een laagdrempelig sociaal leerplatform"
+    capp-agile: "Performance support voor elke organisatie"
     starterkit: "Creëer je eigen professionele e-learning content"
     threesixty: "Maak een efficiëntieslag in je HRD"

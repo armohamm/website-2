@@ -1,4 +1,4 @@
-<ul class="solitions-list">
+<ul class="solutions-list">
 
   <li class="capp">
     <% link_to "/capp-lms.html", class: "col left" do %>
@@ -20,13 +20,13 @@
     </div>
   </li>
 
-  <li class="learningspaces">
-    <% link_to "/learningspaces.html", class: "col left" do %>
-      <h2><%= image_tag t("learningspaces.logo"), alt: t("learningspaces.name") %></h2>
+  <li class="capp-agile">
+    <% link_to "/capp-agile-learning.html", class: "col left" do %>
+      <h2><%= image_tag t("capp-agile.logo"), alt: t("capp-agile.name") %></h2>
     <% end %>
     <div class="col right">
-      <p><%= t("learningspaces.desc", link: link_to(t("learningspaces.name"), "/learningspaces.html")) %></p>
-      <%= link_to t("actions.more_about.learningspaces"), "/learningspaces.html", class: "button green outline" %>
+      <p><%= t("capp-agile.desc", link: link_to(t("capp-agile.name"), "/capp-agile-learning.html")) %></p>
+      <%= link_to t("actions.more_about.capp-agile"), "/capp-agile-learning.html", class: "button green outline" %>
     </div>
   </li>
 
