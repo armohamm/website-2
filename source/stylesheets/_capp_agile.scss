@@ -17,7 +17,7 @@ body.capp-agile-learning {
     color: $dark-gray;
     font-size: 1.6em;
     font-weight: 500;
-    margin-bottom: 1.6em;
+    margin-bottom: 1.2em;
 
     @include media($medium-up) {
       font-size: 2.4em;
@@ -62,11 +62,15 @@ body.capp-agile-learning {
 
       h2 {
         color: $white;
-        font-size: 2em;
+        font-size: 1.4em;
         font-weight: 600;
         margin: 0 auto 4em;
         max-width: 960px;
         text-shadow: 0 3px 1px rgba($black, 0.1);
+
+        @include media($medium-up) {
+          font-size: 2em;
+        }
 
         &::before,
         &::after {
@@ -89,26 +93,52 @@ body.capp-agile-learning {
   }
 
   .why {
+    background: $lighter-gray;
     text-align: center;
 
-    .row {
-      border-bottom: 1px solid $light-gray;
-      padding: 2em 0;
-
-      @include media($medium-up) {
-        padding-bottom: 4em;
-      }
+    h2 {
+      padding: 0 1em;
     }
 
-    .col {
-      padding: 0 1em;
+    .row {
+      max-width: 1380px;
+      padding: 2em 1em;
 
       @include media($large-up) {
-        @include span-columns(4);
+        display: flex;
       }
     }
 
-    .round-item {
+    .reason {
+      background: $white;
+      border-radius: $base-border-radius;
+      margin-bottom: 3em;
+      padding: 2em;
+      position: relative;
+      text-align: center;
+
+      @include media($medium-up) {
+        margin-right: 1em;
+      }
+
+      @include media($large-up) {
+        margin-right: 2em;
+      }
+
+      &:last-child {
+        margin-right: 0;
+      }
+
+      h3 {
+        font-size: 1.6em;
+      }
+
+      p {
+        margin: 0;
+      }
+    }
+
+    .number {
       background: $green;
       border-radius: 50%;
       display: inline-block;
@@ -121,7 +151,7 @@ body.capp-agile-learning {
 
       span {
         color: $white;
-        font-size: 3em;
+        font-size: 2em;
         font-weight: 700;
       }
     }
@@ -132,10 +162,13 @@ body.capp-agile-learning {
 
     .row {
       border-bottom: 1px solid $light-gray;
+      display: flex;
+      flex-flow: row wrap;
       margin-bottom: 2em;
-      padding-bottom: 2em;
+      padding: 2em 0;
 
-      @include media($medium-up) {
+      @include media($xlarge-up) {
+        display: block;
         padding: 4em 0;
       }
     }
@@ -145,6 +178,7 @@ body.capp-agile-learning {
     }
 
     .col {
+      flex: 2 100%;
       padding: 0 1em;
 
       @include media($large-up) {
@@ -159,8 +193,18 @@ body.capp-agile-learning {
         }
       }
 
+      img {
+        display: block;
+        margin: 0 auto 1em;
+      }
+
       &-img {
         margin-bottom: 1em;
+        order: 1;
+      }
+
+      &-text {
+        order: 2;
       }
     }
 

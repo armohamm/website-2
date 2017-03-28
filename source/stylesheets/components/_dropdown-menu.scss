@@ -85,6 +85,19 @@
         transform: translateY(9px);
       }
     }
+
+    &-white {
+      background: $white;
+
+      span {
+        background: $dark-gray;
+
+        &::before,
+        &::after {
+          background: $dark-gray;
+        }
+      }
+    }
   }
 
   &.nav-open {

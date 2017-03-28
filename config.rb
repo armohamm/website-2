@@ -352,6 +352,11 @@ helpers do
     locale_link_to(img, "/")
   end
 
+  # Use frontmatter for white nav trigger on certain pages
+  def nav_trigger_white?
+    current_page.data.nav_trigger_white
+  end
+
   # String to markdown
   def markitdown(string)
     # Kramdown::Document.new(string, config[:markdown]).to_html
