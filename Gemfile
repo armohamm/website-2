@@ -24,4 +24,5 @@ source "https://rails-assets.org" do
   gem "rails-assets-jquery-placeholder"
   gem "rails-assets-bowser"
   gem "rails-assets-fitvids"
+  gem "rails-assets-jquery.scrollTo"
 end

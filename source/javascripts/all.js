@@ -2,8 +2,10 @@
 //= require jquery-placeholder
 //= require bowser
 //= require fitvids
+//= require jquery.scrollTo
 
 //= require _raf-polyfill
+//= require _scroll-to-form
 //= require _forms
 //= require _home
 //= require _dropdown-menu
