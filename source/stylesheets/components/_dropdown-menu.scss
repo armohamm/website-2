@@ -10,11 +10,16 @@
       overflow-y: scroll;
       position: fixed;
       text-align: left;
+      top: 0;
       width: 100%;
     }
 
     .dropdown-wrapper {
       min-height: calc(100% - #{$header-height});
+    }
+
+    .hero {
+      padding-top: $header-height;
     }
 
     .main {
