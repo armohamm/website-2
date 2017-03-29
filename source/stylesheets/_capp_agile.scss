@@ -117,10 +117,6 @@ body.capp-agile-learning {
       position: relative;
       text-align: center;
 
-      @include media($medium-up) {
-        margin-right: 1em;
-      }
-
       @include media($large-up) {
         margin-right: 2em;
       }
