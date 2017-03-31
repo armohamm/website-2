@@ -7,7 +7,7 @@ featured: false
 header_image: jobs/mood-code.jpg
 popup: false
 ---
-Voor ons Learning Management System CAPP (150.000+ gebruikers in Nederland) zijn we op zoek naar een .NET lead developer. CAPP wordt bij grote organisaties in de overheid, zorg en zakelijke dienstverlening ingezet. We zoeken een gedreven developer die de applicatie samen met het team doorontwikkelt en onderhoudt.
+Voor ons Learning Management System CAPP (200.000+ gebruikers in Nederland) zijn we op zoek naar een .NET lead developer. CAPP wordt bij grote organisaties in de overheid, zorg en zakelijke dienstverlening ingezet. We zoeken een gedreven developer die de applicatie samen met het team doorontwikkelt en onderhoudt.
 
 Je hebt bij voorkeur ervaring met:
 
