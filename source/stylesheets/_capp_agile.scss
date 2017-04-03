@@ -37,6 +37,7 @@ body.capp-agile-learning {
   .header-image {
     $hero-image: "../images/learningspaces-pattern.jpg";
     background: $green url($hero-image) center fixed;
+    background-size: cover;
 
     .header {
       background: transparent;
