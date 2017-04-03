@@ -156,7 +156,8 @@ de:
     capp: "CAPP"
     learn: "CAPP Bilden"
     develop: "CAPP Entwickeln"
-    quality: "Qualitätspass"
+    quality: "CAPP Qualitätspass"
+    informal: "LearningSpaces"
     product: "Ein Produkt wählen"
   head:
     default_description: "Defacto hilft Unternehmen bei der Personalentwicklung und Zertifizierung von Mitarbeitern"

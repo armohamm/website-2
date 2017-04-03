@@ -33,15 +33,14 @@ popup: false
         <select name="product" id="demo-select">
           <option selected><%= t("form.product") %></option>
           <% if root_locale == :nl %>
-            <option class="selected" value="CAPP">CAPP</option>
+            <option class="selected" value="CAPP">CAPP LMS</option>
           <% end %>
           <% if root_locale == :de %>
             <option class="selected" value="CAPP Bilden">CAPP Bilden</option>
             <option class="selected" value="CAPP Entwickeln">CAPP Entwickeln</option>
           <% end %>
           <option class="selected" value="<%= t("form.quality") %>"><%= t("form.quality") %></option>
-          <option class="selected" value="LearningSpaces">LearningSpaces</option>
-          <option class="selected" value="E-Learning Starterkit">E-Learning Starterkit</option>
+          <option class="selected" value="<%= t("form.informal") %>"><%= t("form.informal") %></option>
           <option class="selected" value="360 Feedback">360° Feedback</option>
         </select>
         <button type="submit"><%= t("form.submit") %></button>

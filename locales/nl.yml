@@ -134,7 +134,8 @@ nl:
     organization: "Bedrijf of organisatie"
     phone: Telefoon
     submit: Verstuur
-    quality: "Kwaliteitspaspoort"
+    quality: "CAPP Kwaliteitspaspoort"
+    informal: "CAPP Agile Learning"
     product: "Kies een product"
   head:
     default_description: "Defacto helpt organisaties bij het ontwikkelen en certificeren van hun medewerkers"
