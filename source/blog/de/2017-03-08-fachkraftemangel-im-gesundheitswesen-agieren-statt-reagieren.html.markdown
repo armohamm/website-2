@@ -4,7 +4,6 @@ date: 2017-03-08 08:00 CEST
 tags: gesundheitswesen
 author: David
 lang: de
-featured: true
 image: images/social/fachkraftemangel-1200x630.png
 featured_image: images/blog/featured/20170308-fachkraftemangel.jpg
 ---
