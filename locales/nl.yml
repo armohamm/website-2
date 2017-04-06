@@ -9,10 +9,7 @@ nl:
     productsheet: https://formkeep.com/f/eb01a315df5e
     ebook: https://formkeep.com/f/15eb7434fd49
     job_apply: https://formkeep.com/f/da32eaeda39e
-    ls_registration: https://public.learningspaces.nl/accounts/new
-    ls_website: http://www.learningspaces.nl
     url: http://www.defacto.nl
-    ls_vimeo: https://player.vimeo.com/video/196425704
   about:
     about_defacto: Over Defacto
     contact: Contact
@@ -33,7 +30,6 @@ nl:
     more_about:
       capp: "Meer CAPP"
       quality: "Meer Kwaliteitspaspoort"
-      learningspaces: "Meer LearningSpaces"
       capp-agile: "Meer CAPP Agile Learning"
       starterkit: "Meer E-learning Starterkit"
       threesixty: "Meer 360° Feedback"
@@ -186,15 +182,6 @@ nl:
       title: Elke medewerker aantoonbaar bekwaam met het CAPP Kwaliteitspaspoort
     logo: logos/kwaliteitspaspoort-white.png
     name: Kwaliteitspaspoort
-  learningspaces:
-    cta_bottom:
-      heading_md: "Direct beginnen met een gratis trial?"
-    desc: "%{link} is de centrale plek voor kennis binnen teams."
-    hero:
-      text_md: "__LearningSpaces__ is de centrale plek voor kennis binnen teams."
-    logo: logos/learningspaces-white.png
-    name: LearningSpaces
-    start_now: "Begin nu met LearningSpaces"
   products:
     title: "Producten waar we trots op zijn."
     capp:
