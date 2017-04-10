@@ -1,5 +1,5 @@
 ---
-title: .NET Developer
+title: "Vacature: .NET Developer"
 date: 2017-03-30 08:00 CEST
 tags:
 lang: nl

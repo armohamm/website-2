@@ -1,5 +1,5 @@
 ---
-title: Software Developer
+title: "Vakanz: Software Developer"
 date: 2017-01-10 08:02 CEST
 tags:
 lang: de

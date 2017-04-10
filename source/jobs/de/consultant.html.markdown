@@ -1,5 +1,5 @@
 ---
-title: Consultant
+title: "Vakanz: Consultant"
 date: 2017-01-10 08:01 CEST
 tags:
 lang: de

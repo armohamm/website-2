@@ -1,5 +1,5 @@
 ---
-title: Accountmanager New Business
+title: "Vacature: Accountmanager New Business"
 date: 2017-01-10 09:00 CEST
 tags:
 lang: nl

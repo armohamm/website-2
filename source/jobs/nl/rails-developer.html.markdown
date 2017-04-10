@@ -1,5 +1,5 @@
 ---
-title: Rails Developer
+title: "Vacature: Rails Developer"
 date: 2017-01-10 08:00 CEST
 tags:
 lang: nl
