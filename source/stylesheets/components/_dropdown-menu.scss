@@ -263,7 +263,14 @@
       }
 
       &.active > a {
+        color: $orange;
         opacity: 1;
+      }
+    }
+
+    .main-nav-white > ul > li {
+      &.active > a {
+        color: $white;
       }
     }
   }

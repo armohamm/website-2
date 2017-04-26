@@ -353,8 +353,8 @@ helpers do
   end
 
   # Use frontmatter for white nav trigger on certain pages
-  def nav_trigger_white?
-    current_page.data.nav_trigger_white
+  def nav_white?
+    current_page.data.nav_white
   end
 
   # String to markdown
