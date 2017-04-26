@@ -123,10 +123,6 @@
   lastname: Kaal
   email: p.kaal@defacto.nl
 
-- firstname: Pieter
-  lastname: Nomden
-  email: p.nomden@defacto.nl
-
 - firstname: Rick
   lastname: Littel
   email: rick@defacto.nl
@@ -163,11 +159,6 @@
   prefix: van der
   lastname: Wiel
   email: wilhem@defacto.nl
-
-- firstname: Evelien
-  prefix: de
-  lastname: Jonge
-  email: evelien@defacto.nl
 
 - firstname: Mirjam
   lastname: Kronemeijer
