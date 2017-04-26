@@ -119,6 +119,7 @@ body.capp-agile-learning {
 
       @include media($large-up) {
         margin-right: 2em;
+        width: 33%;
       }
 
       &:last-child {
