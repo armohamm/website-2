@@ -9,6 +9,24 @@
   box-sizing: border-box;
 }
 
+html,
+body {
+  height: 100%;
+}
+
+.page-wrap {
+  @include media($large-up) {
+    margin-bottom: -524px;
+    min-height: 100%;
+
+    &::after {
+      content: "";
+      display: block;
+      height: 524px;
+    }
+  }
+}
+
 section {
   padding: 3em 0;
 

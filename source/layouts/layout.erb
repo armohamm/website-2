@@ -46,10 +46,16 @@
 
   <body class="<%= page_classes %>">
 
-    <%= partial "header" %>
-    <div class="main" role="main">
-      <%= yield %>
+    <div class="page-wrap">
+      
+      <%= partial "header" %>
+
+      <div class="main" role="main">
+        <%= yield %>
+      </div>
+
     </div>
+
     <%= partial "footer" %>
 
     <%= partial "popup-ebook" if !is_blog? && current_page.data.popup != false && data.downloads.ebook[I18n.locale] %>
