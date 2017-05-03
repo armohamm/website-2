@@ -173,7 +173,7 @@ article {
   position: relative;
   text-align: center;
 
-  @include media ($desktop-mode) {
+  @include media($desktop-mode) {
     .row {
       @include fill-parent();
       @include row(table);
@@ -181,7 +181,6 @@ article {
 
     .col {
       @include span-columns(4);
-      border-bottom: 0;
       border-right: $base-border;
 
       &:last-child {
@@ -199,6 +198,10 @@ article {
     border-bottom: $base-border;
     font-size: 1.2em;
     vertical-align: middle;
+
+    @include media($desktop-mode) {
+      border-bottom: 0;
+    }
 
     &:last-child {
       border: 0;
