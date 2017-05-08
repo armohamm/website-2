@@ -78,13 +78,20 @@ nl:
     desc: "Performance support door 'kennis-on-demand'. Verbeter prestaties door medewerkers te voorzien van just-in-time kennis. Leg kennis simpel vast en deel handleidingen, protocollen, werkinstructies, QR-codes e.d."
     logo: logos/capp-agile-white.png
     heading: "Performance support voor elke organisatie."
-    action: "Vraag een demo aan"
+    action: "Ik wil meer informatie"
     hero_quote: >
       Goed worden in je werk doe je op de werkvloer. Vaak ben je dan niet op zoek naar een cursus of handleiding, maar naar dat stukje informatie dat je op dat moment nodig hebt.
-    form_heading: "Vraag een demo aan"
+    form_heading: "CAPP Agile Learning aanvraag"
+    form_text: "Gebruik het onderstaande formulier om meer informatie of een demo aan te vragen."
     testimonials_heading: "Wat onze klanten zeggen"
-    demo_img: "Vraag een demo aan"
+    info_img: "Vraag informatie of een demo aan"
     clients_heading: "Onze klanten"
+    options:
+      heading: "Ik ben geïnteresseerd in:"
+      info: "Meer informatie over CAPP Agile Learning"
+      demo: "Een (live) demo"
+      trial: "Een trial account"
+      inform: "Hou me op de hoogte via e-mail"
   contact:
     form_title: "Wat kunnen we voor je betekenen?"
     heading: Aangenaam
