@@ -10,9 +10,9 @@
 //= require _home
 //= require _dropdown-menu
 //= require _map
-
 //= require _popup
 //= require _social-share
+
 //= require _vimeo.ga
 //= require _youtube.ga
 //= require _events.ga

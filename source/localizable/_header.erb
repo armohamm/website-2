@@ -31,6 +31,9 @@
         <li>
           <%= nav_link_to t("header.contact"), "/contact.html" %>
         </li>
+        <li>
+          <%= nav_link_to "", "/zoeken.html", { class: "header-search icon-search" } %>
+        </li>
         <li class="flags">
           <%= country_flags %>
           <%= link_to image_tag("flags/en.gif", alt: "English"), "http://en.defacto.nl", target: "_blank" %>
@@ -156,6 +159,12 @@
                 <li><%= link_to t("header.contact"), "/contact.html" %></li>
               </ul>
             </div>
+          </li>
+
+          <li id="search" class="dropdown search">
+            <% link_to "/zoeken.html", { class: "button" } do %>
+              <span class="icon-search"></span>&nbsp;&nbsp;<%= t("search.heading") %>
+            <% end %>
           </li>
 
           <li class="dropdown flags">

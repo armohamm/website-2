@@ -252,3 +252,9 @@ nl:
     capp-agile: "Performance support voor elke organisatie"
     starterkit: "Creëer je eigen professionele e-learning content"
     threesixty: "Maak een efficiëntieslag in je HRD"
+  search:
+    heading: Zoeken
+    placeholder: Zoekopdracht
+    result: "resultaat"
+    results: "resultaten"
+    downloading: "Index downloaden"

@@ -126,6 +126,44 @@ page "jobs/feed.xml", layout: false
 
 activate :directory_indexes
 
+# Search
+activate :search do |search|
+  search.resources = ["blog/", "jobs/"]
+
+  ready do
+    pages = sitemap.resources.select do |r|
+      r.path =~ /\.html/ &&
+      r.metadata[:options][:lang] == I18n.locale &&
+      !r.path.start_with?(*search.resources) &&
+      !(r.data["index"] == false)
+    end
+
+    pages.each do |page|
+      search.resources << page.path
+    end
+  end
+
+  case root_locale
+  when :nl
+    search.language = "du"
+  when :de
+    search.language = "de"
+  end
+
+  search.fields = {
+    title:   { boost: 100, store: true, required: true },
+    content: { boost: 50 },
+    url:     { index: false, store: true },
+    author:  { boost: 30 }
+  }
+
+  search.before_index = proc do |_to_index, to_store, resource|
+    if resource.data.title.is_a?(Hash) && resource.data.title[I18n.locale]
+      to_store[:title] = resource.data.title.send(I18n.locale)
+    end
+  end
+end
+
 activate :autoprefixer do |config|
   config.browsers = ["last 3 versions", "Explorer >= 9"]
 end

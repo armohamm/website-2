@@ -8,6 +8,7 @@ gem "middleman-deploy", "~> 1.0"
 # gem "middleman-livereload", "~> 3.4.2"
 gem "middleman-syntax"
 gem "middleman-autoprefixer"
+gem "middleman-search"
 # gem "redcarpet"
 gem "nokogiri"
 gem "builder" # For feed.xml.builder

@@ -20,6 +20,7 @@ de:
     media: presse
     demo-aanvragen: "demo-anfragen"
     productsheet-downloaden: "produktblatt-herunterladen"
+    zoeken: suche
   urls:
     contact: https://formkeep.com/f/bfad79e126e9
     productsheet: https://formkeep.com/f/bfad79e126e9
@@ -290,3 +291,9 @@ de:
     learningspaces: "Ihr Tool für spielerischen Wissensaustausch und Informelles Lernen"
     starterkit: "Lernen Sie, eigene E-Learning Module zu erstellen"
     threesixty: "Die Sichtweisen der anderen kennen, um sich selbst weiterzuentwickeln"
+  search:
+    heading: Suche
+    placeholder: Sucheingabe
+    result: "Ergebnis"
+    results: "Ergebnisse"
+    downloading: "Index herunterladen"

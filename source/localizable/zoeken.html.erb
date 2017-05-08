@@ -1,0 +1,37 @@
+---
+title:
+  nl: Zoeken
+  de: Suche
+description:
+  nl: Zoek in onze website
+  de: Suchen Sie unsere Website
+popup: false
+index: false
+---
+
+<% content_tag :div, class: "js-search", data: {
+  result: t("search.result"),
+  results: t("search.results")
+} do %>
+  <section class="gray">
+    <div class="row">
+      <div class="headline">
+        <h1><%= t("search.heading") %></h1>
+        <input id="search-input" placeholder="<%= t("search.placeholder") %>" type="text"></input>
+
+        <div class="index-info">
+          <div id="downloading">
+            <div class="spinner spinner-steps icon-spinner" aria-hidden="true" id="search-spinner"></div>
+            <em><%= t("search.downloading") %></em>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="row">
+      <ul class="search-results"></ul>
+    </div>
+  </section>
+<% end %>

@@ -12,11 +12,11 @@
 
 @font-face {
   font-family: "icomoon";
-  src: url("../fonts/icomoon.eot?u4h9al");
-  src: url("../fonts/icomoon.eot?#iefix-u4h9al") format("embedded-opentype"),
-		url("../fonts/icomoon.ttf?u4h9al") format("truetype"),
-		url("../fonts/icomoon.woff?u4h9al") format("woff"),
-		url("../fonts/icomoon.svg?u4h9al#icomoon") format("svg");
+  src:  url("../fonts/icomoon.eot?92xdtj");
+  src:  url("../fonts/icomoon.eot?92xdtj#iefix") format("embedded-opentype"),
+    url("../fonts/icomoon.ttf?92xdtj") format("truetype"),
+    url("../fonts/icomoon.woff?92xdtj") format("woff"),
+    url("../fonts/icomoon.svg?92xdtj#icomoon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -84,4 +84,12 @@
 
 .icon-xing::before {
   content: "\e900";
+}
+
+.icon-search::before {
+  content: "\e986";
+}
+
+.icon-spinner::before {
+  content: "\e984";
 }

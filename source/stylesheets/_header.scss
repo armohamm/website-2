@@ -55,6 +55,11 @@
         &.active {
           color: $orange;
         }
+
+        &.header-search {
+          line-height: inherit;
+          padding-right: 30px;
+        }
       }
 
       // Homepage
