@@ -4,7 +4,6 @@ date: 2017-04-03 08:00 CEST
 tags: pflegetag, kongress
 author: David
 lang: de
-featured: true
 image: images/social/pflegetag-2017-1200x630.png
 featured_image: images/blog/featured/20170403-pflegetag-2017.jpg
 ---
