@@ -24,14 +24,12 @@
       method: 'GET',
       success: function (data) {
         // Callback for success: log it and set up search
-        console.info('Downloaded Search JSON.');
         setupSearch(data);
       },
     });
   });
 
   function setupSearch(lunrData) {
-    console.info('Creating search index.');
 
     lunrIndex = lunr.Index.load(lunrData.index);
     lunrMap = lunrData.docs;

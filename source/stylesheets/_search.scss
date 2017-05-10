@@ -26,11 +26,20 @@
     .result {
       border-bottom: 1px solid $lighter-gray;
       padding: 1em 0;
+
+      &:last-of-type {
+        border-bottom: 0;
+      }
+
+      a {
+        font-weight: 700;
+      }
     }
   }
 
   .index-info {
     color: $medium-gray;
+    font-style: italic;
     height: 1em;
   }
 
