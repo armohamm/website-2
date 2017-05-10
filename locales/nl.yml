@@ -123,10 +123,13 @@ nl:
     text_md: "Dit betekent niet dat je iets verkeerd hebt gedaan, het kan zijn dat we de pagina hernoemd of verplaatst hebben."
   footer:
     capp: "CAPP Leren & Ontwikkelen"
-    copyright_html: "© 1987 - %{year} Defacto"
+    copyright_html: "Deze website is %{link} © 1987 - %{year} Defacto"
+    open_source: "open source"
     jobs: "Werken bij Defacto"
     country: ""
     cmt: "Convenant Medische Technologie"
+    search: Zoeken
+    themes: Thema's
   form:
     email: E-mail
     message: "Wat kunnen we voor je betekenen?"

@@ -141,9 +141,11 @@ de:
     capp:
       learn: "Bilden"
       develop: "Entwickeln"
-    copyright_html: "© 1987 - %{year} Defacto"
+    copyright_html: "Diese Webseite ist %{link} © 1987 - %{year} Defacto"
+    open_source: "Open Source"
     jobs: "Arbeiten bei Defacto"
     country: "Niederlande"
+    search: Suche
   form:
     email: "E-Mail"
     message: "Wie können wir Ihnen helfen?"

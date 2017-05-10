@@ -1,4 +1,4 @@
-<footer id="footer">
+<footer class="footer">
   <div class="row">
     <div class="col">
       <h6><%= link_to t("header.products"), "/producten.html" %></h6>
@@ -33,22 +33,27 @@
           <li><%= link_to t("services.services.hosting.name"), "/hosting-security.html" %></li>
         <% end %>
         <li><%= link_to t("services.services.koppelingen.name"), "/koppelingen.html" %></li>
-        <% if I18n.locale == :nl %>
-          <li><%= link_to t("footer.cmt"), "/convenant-medische-technologie.html" %></li>
-        <% end %>
       </ul>
     </div>
 
+    <% if I18n.locale == :nl %>
+      <div class="col">
+        <h6><%= t("footer.themes") %></h6>
+        <ul>
+          <li><%= link_to t("footer.cmt"), "/convenant-medische-technologie.html" %></li>
+        </ul>
+      </div>
+    <% end %>
+
     <div class="col">
-      <h6><%= link_to "Defacto", "/over-ons.html" %></h6>
+      <h6><%= link_to t("header.about"), "/over-ons.html" %></h6>
       <ul>
-        <li><%= link_to t("header.about"), "/over-ons.html" %></li>
         <li><%= link_to t("about.testimonials"), "/testimonials.html" %></li>
         <li><%= link_to t("about.references"), "/referenties.html" %></li>
         <li><%= link_to t("about.press"), "/media.html" %></li>
         <li><%= link_to t("header.jobs"), "/jobs/index.html" %></li>
         <li><%= link_to t("header.blog"), "/blog/" %></li>
-        <li><%= link_to t("header.contact"), "/contact.html" %></li>
+        <li><%= link_to t("footer.search"), "/zoeken/" %></li>
       </ul>
     </div>
 
@@ -78,7 +83,7 @@
 
   <div class="copyright">
     <div class="row">
-      <%= t("footer.copyright_html", { year: Time.now.year }) %>
+      <%= t("footer.copyright_html", { link: link_to(t("footer.open_source"), "https://github.com/DefactoSoftware/website/", target: "_blank"), year: Time.now.year }) %>
     </div>
   </div>
 </footer>
