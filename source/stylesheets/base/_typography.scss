@@ -1,8 +1,8 @@
 body {
-  -webkit-font-smoothing: antialiased;
   color: $base-font-color;
   font-family: $base-font-family;
   font-size: $base-font-size;
+  -webkit-font-smoothing: antialiased;
   line-height: $base-line-height;
 }
 
@@ -19,22 +19,23 @@ h6 {
   margin: 0 0 $small-spacing;
 }
 
-// h1 {
-//   font-size: 4em;
-// }
 h1,
 h2 {
   font-size: 2.4em;
 }
+
 h3 {
   font-size: 1.8em;
 }
+
 h4 {
   font-size: 1.125em;
 }
+
 h5 {
   font-size: 1.125em;
 }
+
 h6 {
   font-size: 1em;
   font-weight: 700;
@@ -68,9 +69,9 @@ blockquote {
 
 hr {
   border-bottom: $base-border;
-  border-left: none;
-  border-right: none;
-  border-top: none;
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
   margin: $base-spacing 0;
 }
 

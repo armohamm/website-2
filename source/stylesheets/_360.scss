@@ -1,23 +1,6 @@
 .x360-feedback {
-
   .hero {
     background-image: url("../images/outside2.jpg");
     background-position: center;
-  }
-
-  .threesixty-steps {
-    .col {
-      @include media($medium-up) {
-        @include span-columns(4);
-      }
-    }
-
-    img {
-      max-height: 160px;
-    }
-  }
-
-  .gray {
-    text-align: center;
   }
 }

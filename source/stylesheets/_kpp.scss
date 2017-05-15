@@ -65,24 +65,4 @@
       padding: 1em;
     }
   }
-
-  .kpp-list {
-    .col {
-      @include media($large-up) {
-        @include span-columns(6);
-      }
-    }
-  }
-
-  .capp-steps {
-    .col {
-      @include media($medium-up) {
-        @include span-columns(4);
-      }
-    }
-
-    img {
-      max-height: 160px;
-    }
-  }
 }
