@@ -6,7 +6,10 @@ $(function () {
 
     $.scrollTo($target, 400, {
       onAfter: function () {
-        $target.find('input[name="name"]').focus();
+        $target.find('input, textarea, select')
+        .not('input[type=hidden],input[type=button],input[type=submit],button')
+        .filter(':enabled:visible:first')
+        .focus();
       },
     });
 
