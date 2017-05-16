@@ -151,10 +151,6 @@
   lastname: Vredegoor
   email: m.vredegoor@defacto.nl
 
-- firstname: Niels
-  lastname: Kuiler
-  email: niels@defacto.nl
-
 - firstname: Wilhem
   prefix: van der
   lastname: Wiel
@@ -179,3 +175,7 @@
 - firstname: Rob
   lastname: Orsel
   email: r.orsel@defacto.nl
+
+- firstname: Janine
+  lastname: Bos
+  email: j.bos@defacto.nl
