@@ -152,14 +152,25 @@ activate :search do |search|
 
   search.fields = {
     title:   { boost: 100, store: true, required: true },
-    content: { boost: 50 },
+    content: { boost: 50, store: true },
     url:     { index: false, store: true },
-    author:  { boost: 30 }
+    author:  { boost: 70 },
+    type:  { boost: 0, store: true }
   }
 
   search.before_index = proc do |_to_index, to_store, resource|
     if resource.data.title.is_a?(Hash) && resource.data.title[I18n.locale]
       to_store[:title] = resource.data.title.send(I18n.locale)
+    end
+    if resource.url.start_with?("/blog/")
+      to_store[:type] = "Blog"
+    elsif resource.url.start_with?("/jobs/")
+      to_store[:type] = t("search.vacancy")
+    else
+      to_store[:type] = t("search.page")
+    end
+    if resource.data.author.present?
+      to_store[:author] = resource.data.author
     end
   end
 end

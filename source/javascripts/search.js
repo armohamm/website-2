@@ -52,13 +52,22 @@
         $.each(results, function (index, result) {
           page = lunrMap[result.ref];
 
-          $searchResults.append(
-            '<li class="result">' +
-              '<a href="' + page.url + '">' +
-                page.title +
-              '</a>' +
-            '</li>'
-          );
+          var html = '<li class="result">' +
+              '<h3><a href="' + page.url + '">' + page.title + '</a></h3>' +
+              '<span class="result-meta">' + page.type;
+
+          if (page.author) {
+            html += '<span class="separator">–</span>' + page.author;
+          }
+
+          html += '</span><p>' +
+
+          $.trim(page.content).substring(0, 400)
+                              .split(' ').slice(0, -2).join(' ') + '...' +
+
+          '<a href="' + page.url + '">' + data.readMore + '</a></p></li>';
+
+          $searchResults.append(html);
         });
       }
     }).keyup();
