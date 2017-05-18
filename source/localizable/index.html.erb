@@ -12,6 +12,7 @@ popup: false
 ---
 
 <%= partial "solutions-overview" %>
+<%= partial "events" if root_locale == :de %>
 
 <section class="testimonials featured-testimonial">
   <div class="headline">
@@ -31,6 +32,5 @@ popup: false
   </div>
 </section>
 
-<%= partial "events" if root_locale == :de %>
 <%= partial "blog/featured" %>
 <%= partial "clients/clients" %>

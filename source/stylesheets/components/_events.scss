@@ -40,11 +40,11 @@
 
         img {
           display: block;
-          margin: 1em auto 0;
+          margin: 1em auto;
           max-width: 75%;
 
           @include media($medium-up) {
-            margin: 0;
+            margin: 0 0 2em;
             max-width: 100%;
           }
         }
