@@ -1,35 +1,25 @@
-.convenant-medische-technologie {
+body.convenant-medische-technologie {
+
   .hero {
-    background-attachment: scroll;
     background-color: $blue-alt;
-    background-image: radial-gradient(
-      circle at 50%,
-      $blue 33%,
-      rgba($blue, 0.5) 33%,
-      rgba($blue, 0.5) 66%,
-      $blue-alt 66%);
-  }
+    background-image: url("../images/heros/hero-cmt.jpg");
+    background-position: center;
 
-  .hero-inner {
-    padding: 3em 1em 0;
-  }
+    .hero-inner {
+      padding: 4em 1em;
 
-  .hero-copy {
-    font-size: 1em;
+      @include media($medium-up) {
+        padding: 7em 1em;
+      }
+    }
   }
 
   h1 {
-    font-size: 1.8em;
-    margin: 0 auto 2em;
-    max-width: 70%;
-  }
-
-  h2 {
-    font-size: 1.3em;
-  }
-
-  .know-more {
+    font-size: 1.6em;
     margin: 0 auto;
-    max-width: 50%;
+
+    @include media($medium-up) {
+      font-size: 3em;
+    }
   }
 }
