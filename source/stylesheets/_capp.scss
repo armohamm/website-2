@@ -43,15 +43,18 @@ body.capp-entwickeln {
     }
   }
 
-  .row {
-    padding: 0 2em;
-  }
+  .main {
+    .row {
+      padding: 0 2em;
+    }
 
-  .col {
-    @include media($large-up) {
-      @include span-columns(6);
+    .col {
+      @include media($large-up) {
+        @include span-columns(6);
+      }
     }
   }
+
 
   figure {
     @include media($large-down) {

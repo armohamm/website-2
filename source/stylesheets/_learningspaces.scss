@@ -12,9 +12,11 @@ body.learningspaces_index {
     }
   }
 
-  .col {
-    @include media($large-up) {
-      @include span-columns(6);
+  .main {
+    .col {
+      @include media($large-up) {
+        @include span-columns(6);
+      }
     }
   }
 
