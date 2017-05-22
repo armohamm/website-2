@@ -212,6 +212,7 @@ de:
       formkeep_title: "Kwaliteitspaspoort: meer informatie"
       text_md: "Überblick aller Qualifikationen und Kompetenzen"
       title: "Qualitätspass"
+      image: screenshots/hero-qualitatspass.png
     logo: logos/qualitatspass-white.png
     name: "Qualitätspass"
   learningspaces:

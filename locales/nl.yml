@@ -71,7 +71,7 @@ nl:
       title: "Opleiden & Leren met CAPP LMS"
       subtitle_1: "Kennisintensieve organisaties kunnen niet zonder goed opgeleide medewerkers."
       subtitle_2: "Maak medewerkers aantoonbaar vakbevoegd en vakbekwaam met CAPP LMS."
-      image: capp-lms-nl.png
+      image: screenshots/capp-lms-nl.png
     name: CAPP
   capp-agile:
     name: CAPP Agile Learning
@@ -190,6 +190,7 @@ nl:
       formkeep_title: "Kwaliteitspaspoort: meer informatie"
       text_md: "In één oogopslag zicht op bevoegd- en bekwaamheid"
       title: Elke medewerker aantoonbaar bekwaam met het CAPP Kwaliteitspaspoort
+      image: screenshots/hero-kwaliteitspaspoort.png
     logo: logos/kwaliteitspaspoort-white.png
     name: Kwaliteitspaspoort
   products:
