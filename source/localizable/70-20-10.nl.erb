@@ -1,0 +1,44 @@
+---
+title:
+  nl: 70:20:10 in de praktijk
+description:
+  nl: Leren is veel meer dan het zenden van informatie, breng 70:20:10 in de praktijk.
+popup: false
+---
+
+<div class="hero">
+  <div class="hero-inner">
+    <div class="hero-copy">
+
+      <h1><%= t("70-20-10.header") %></h1>
+
+      <h2><%= t("70-20-10.subheading") %></h2>
+
+      <a class="button" id="cta-button" href="#contact-request" data-event="702010_button"><%= t("70-20-10.action") %></a>
+
+    </div>
+  </div>
+</div>
+
+<section>
+  <div class="row">
+    <article>
+      <%= partial "themas/70-20-10" %>
+    </article>
+  </div>
+</section>
+
+<section class="gray" id="contact-request">
+  <div class="row">
+    <h2><%= t("70-20-10.form.header") %></h2>
+    <p><%= t("70-20-10.form.text") %></p>
+
+    <form class="form-inline" accept-charset="UTF-8" action="<%= t("urls.contact") %>" method="POST">
+      <input type="hidden" name="utf8" value="✓">
+      <input type="hidden" name="form" value="Contact - 70-20-10">
+      <input class="required" type="email" name="email" placeholder="<%= t("form.email") %>" required>
+      <button type="submit"><%= t("form.submit") %></button>
+    </form>
+
+  </div>
+</section>

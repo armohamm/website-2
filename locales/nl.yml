@@ -127,6 +127,7 @@ nl:
     jobs: "Werken bij Defacto"
     country: ""
     cmt: "Convenant Medische Technologie"
+    70-20-10: "70:20:10 in de praktijk"
     search: Zoeken
     themes: Thema's
   form:
@@ -269,3 +270,11 @@ nl:
     downloading: "Index downloaden"
     vacancy: "Vacature"
     page: "Pagina"
+  70-20-10:
+    header: "70:20:10 in de praktijk"
+    subheading: "Leren is veel meer dan het zenden van informatie"
+    action: "Neem contact op"
+    form:
+      header: "Meer informatie?"
+      text: >
+        Wil je meer weten over de implementatie van 70:20:10 en Performance Support?<br>Laat je e-mailadres achter, dan nemen onze specialisten zo snel mogelijk contact met je op.

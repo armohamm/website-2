@@ -1,0 +1,45 @@
+body.x70-20-10 {
+  .hero {
+    background-attachment: scroll;
+    background-image: url("../images/heros/mood-70-20-10.jpg");
+    background-position: center;
+
+
+    .hero-inner {
+      padding: 4em 1em;
+
+      @include media($medium-up) {
+        padding: 7em 1em;
+      }
+    }
+
+    h1 {
+      font-size: 2.4em;
+
+      @include media($medium-up) {
+        font-size: 4em;
+      }
+    }
+
+    h2 {
+      font-size: 1.6em;
+      margin: 0 0 1em;
+
+      @include media($medium-up) {
+        font-size: 2.4em;
+      }
+    }
+
+    .button {
+      margin: 0;
+    }
+  }
+
+  button {
+    width: 100%;
+
+    @include media($medium-up) {
+      width: auto;
+    }
+  }
+}
