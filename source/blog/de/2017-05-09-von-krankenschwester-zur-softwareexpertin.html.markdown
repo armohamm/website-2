@@ -4,7 +4,6 @@ date: 2017-05-09 08:00 CEST
 tags: interview, CAPP, Gesundheitswesen
 author: Anne
 lang: de
-featured: true
 image: images/social/interview-martina-1200x630.jpg
 featured_image: images/blog/featured/20170509-von-krankenschwester-zur-softwareexpertin.jpg
 ---
