@@ -14,14 +14,14 @@
 
   &.nl {
     .header-image {
-      $hero-image: "../images/mood3.jpg";
+      $hero-image: "../images/moods/defacto.jpg";
       background-image: url($hero-image);
     }
   }
 
   &.de {
     .header-image {
-      $hero-image: "../images/mood-health.jpg";
+      $hero-image: "../images/moods/healthcare.jpg";
       background-image: url($hero-image);
     }
   }

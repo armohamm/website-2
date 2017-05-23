@@ -4,7 +4,7 @@ date: 2017-05-01 08:00 CEST
 tags:
 lang: nl
 featured: false
-header_image: jobs/mood-code.jpg
+header_image: moods/code.jpg
 popup: false
 ---
 Defacto beweegt zich al jaren als toonaangevend ontwikkelaar van innovatieve software in het werkveld van Opleiden en Ontwikkelen. Defacto is uitgegroeid tot een solide, internationaal opererend, bedrijf. De kernactiviteiten bestaan uit het digitaliseren en automatiseren van opleidingsafdelingen, bedrijfsacademies en opleidingsinstituten. 
