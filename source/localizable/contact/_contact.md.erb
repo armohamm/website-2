@@ -1,0 +1,45 @@
+<section class="contact-main">
+  <div class="row">
+
+    <div class="headline">
+      <h2><%= t("contact.main.heading") %></h2>
+    </div>
+
+    <div class="col">
+      <div class="contact-image">
+        <%= image_tag "icons/icon-contact.svg", title: t("contact.main.question.heading"), alt: t("contact.main.question.heading") %>
+      </div>
+      <div class="contact-content">
+        <h3><%= t("contact.main.question.heading") %></h3>
+        <p><%= t("contact.main.question.info") %></p>
+        <a class="button orange" href="#contact-form" data-scroll-to-form data-event="info_request_button"><%= t("contact.main.question.button") %></a>
+      </div>
+      <a class="contact-mobile-trigger" href="#contact-form" data-scroll-to-form data-event="info_request_button"></a>
+    </div>
+
+    <div class="col">
+      <div class="contact-image">
+        <%= image_tag "icons/icon-demo.svg", title: t("contact.main.demo.heading"), alt: t("contact.main.demo.heading")  %>
+      </div>
+      <div class="contact-content">
+        <h3><%= t("contact.main.demo.heading") %></h3>
+        <p><%= t("contact.main.demo.info") %></p>
+        <%= nav_link_to t("contact.main.demo.button"), "/demo-aanvragen.html", "data-event": "contact_demo", class: "button orange" %>
+      </div>
+      <%= nav_link_to "", "/demo-aanvragen.html", "data-event": "contact_demo", class: "contact-mobile-trigger" %>
+    </div>
+
+    <div class="col">
+      <div class="contact-image">
+        <%= image_tag "icons/icon-support.svg", title: t("contact.main.support.heading"), alt: t("contact.main.support.heading")  %>
+      </div>
+      <div class="contact-content">
+        <h3><%= t("contact.main.support.heading") %></h3>
+        <p><%= t("contact.main.support.info") %></p>
+        <a class="button orange" href="javascript:Intercom('show');" data="intercom_chat"><%= t("contact.main.support.button") %></a>
+      </div>
+      <a class="contact-mobile-trigger" href="javascript:Intercom('show');" data="intercom_chat"></a>
+    </div>
+
+  </div>
+</section>

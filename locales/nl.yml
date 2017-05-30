@@ -93,9 +93,24 @@ nl:
       trial: "Een trial account"
       inform: "Hou me op de hoogte via e-mail"
   contact:
-    form_title: "Wat kunnen we voor je betekenen?"
     heading: Aangenaam
-    heading2: "We maken graag kennis, bij jullie, of bij ons in Groningen."
+    heading2: "We zijn er om je meer informatie te geven, vragen te beantwoorden en effectieve support te bieden."
+    main:
+      heading: "Wat kunnen we voor je betekenen?"
+      question:
+        heading: "Vraag of informatie"
+        info: "Heb je een vraag of wil je informatie over onze software of diensten?"
+        button: "Contact opnemen"
+      demo:
+        heading: "Demo aanvraag"
+        info: "Benieuwd wat onze software voor jou kan betekenen? Vraag dan hier een demo aan."
+        button: "Demo aanvragen"
+      support:
+        heading: "Support"
+        info: "Heb je een supportvraag? Chat direct met een van onze medewerkers."
+        button: "Direct chatten"
+    form_title: "Contactformulier"
+    form_info: "Gebruik het formulier om ons een e-mail te sturen. Ouderwets bellen werkt ook, bel 050 3144832."
     email: info@defacto.nl
     phone: "050 3144832"
     phone_link: "+31503144832"

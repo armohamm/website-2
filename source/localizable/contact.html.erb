@@ -8,29 +8,21 @@ description:
   de: Kontakt Defacto über das Kontaktformular oder rufen Sie +49 (0)40 306988472.
 popup: false
 ---
-
-<section class="gray">
-  <div class="row">
+<div class="hero">
+  <div class="hero-inner">
     <h1><%= t("contact.heading") %></h1>
-    <% if root_locale == :nl %>
-      <h3><%= t("contact.heading2") %></h3>
-    <% end %>
+    <h2><%= t("contact.heading2") %></h2>
   </div>
-</section>
+</div>
 
-<section>
-  <div class="row">
-    <article class="sidebar-content">
-      <%= partial "contact/contact" %>
-    </article>
-    <%= partial "over-ons/sidebar" %>
-  </div>
-</section>
+<%= partial "contact/contact" %>
 
 <section id="contact-form" class="gray">
   <a name="form"></a>
   <div class="row">
     <h2><%= t("contact.form_title") %></h2>
+
+    <p><%= t("contact.form_info") %></p>
 
     <form class="form-contact" accept-charset="UTF-8" action="<%= t("urls.contact") %>" method="POST">
       <input type="hidden" name="utf8" value="✓">

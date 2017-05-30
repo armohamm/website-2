@@ -109,8 +109,24 @@ de:
       learn: Bilden
       develop: Entwickeln
   contact:
-    form_title: "Wie können wir Ihnen helfen?"
-    heading: "Wir lernen Sie gerne kennen, bei Ihnen, oder bei uns in Groningen!"
+    heading: "Wir lernen Sie gerne kennen!"
+    heading2: "Kontaktieren Sie uns für mehr Informationen, stellen Sie Ihre Fragen oder nutzen Sie unseren effektiven Support."
+    main:
+      heading: "Wie können wir Ihnen helfen?"
+      question:
+        heading: "Informationen"
+        info: "Haben Sie eine Frage oder wünschen Sie mehr Auskunft zu unserer Software?"
+        button: "Kontakt aufnehmen"
+      demo:
+        heading: "Demo anfragen"
+        info: "Haben Sie Interesse an einem Einblick in unsere Software? Fragen Sie eine Demo an."
+        button: "Demo anfragen"
+      support:
+        heading: "Support"
+        info: "Haben Sie eine Support Frage? Chatten Sie direkt mit einem unserer Mitarbeiter."
+        button: "Direkt chatten"
+    form_title: "Kontaktformular"
+    form_info: "Mithilfe des Formulars können Sie uns eine E-Mail senden. Telefonisch können Sie uns unter 040 306988472 erreichen."
     email: info@defactolearning.de
     phone: "040 306988472"
     phone_link: "+4940306988472"

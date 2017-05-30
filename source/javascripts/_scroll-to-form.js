@@ -1,7 +1,7 @@
 $(function () {
   'use strict';
 
-  $('#cta-button').click(function () {
+  $('a[data-scroll-to-form]').on('click', function () {
     var $target = $(this.hash);
 
     $.scrollTo($target, 400, {
