@@ -1,11 +1,11 @@
----
-blog: jobs
----
-
 xml.instruct!
 xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
   site_url = t("urls.url")
-  xml.title t("about.jobs")
+  if blog.options.name == "jobs"
+    xml.title t("about.jobs")
+  else
+    xml.title "Defacto Blog"
+  end
   # xml.subtitle "Blog subtitle"
   xml.id URI.join(site_url, blog.options.prefix.to_s)
   xml.link "href" => URI.join(site_url, blog.options.prefix.to_s)
