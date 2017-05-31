@@ -4,7 +4,7 @@ date: 2016-07-18 08:00 CEST
 tags: implementatie, CAPP, software
 author: Bastiaan
 lang: nl
-image: images/social/alweer-een-systeem-1200x630.png
+image: images/blog/social/alweer-een-systeem-1200x630.png
 featured_image: images/blog/featured/20160718-systeem.png
 ---
 

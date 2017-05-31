@@ -4,7 +4,7 @@ date: 2017-02-21 08:00 CEST
 tags: workshop, e-learning
 author: Martina
 lang: de
-image: images/social/workshop-zukunftsthemen-1200x630.png
+image: images/blog/social/workshop-zukunftsthemen-1200x630.png
 featured_image: images/blog/featured/20170221-e-learning-zukunftsthemen.jpg
 ---
 

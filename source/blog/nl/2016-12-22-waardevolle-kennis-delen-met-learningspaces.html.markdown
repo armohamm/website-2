@@ -4,7 +4,7 @@ date: 2016-12-22 08:00 CEST
 tags: LearningSpaces, workshop
 author: Iwanna de Jonge
 lang: nl
-image: images/social/waardevolle-kennis-learningspaces-1200x630.png
+image: images/blog/social/waardevolle-kennis-learningspaces-1200x630.png
 featured_image: images/blog/featured/20161214-workshop-learningspaces.jpg
 ---
 

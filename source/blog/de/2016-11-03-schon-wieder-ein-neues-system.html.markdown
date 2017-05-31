@@ -4,7 +4,7 @@ date: 2016-11-03 08:00 CEST
 tags: implementierung
 author: Anne
 lang: de
-image: images/social/ein-neues-system-1200x630.png
+image: images/blog/social/ein-neues-system-1200x630.png
 featured_image: images/blog/featured/20161103-system.png
 ---
 

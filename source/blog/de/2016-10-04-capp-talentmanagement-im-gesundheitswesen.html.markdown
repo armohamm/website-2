@@ -4,7 +4,7 @@ date: 2016-10-04 09:00 CEST
 tags: talentmanagement, CAPP, Qualitätspass
 author: Marian
 lang: de
-image: images/social/CAPP-talentmanagement-im-gesundheitswesen-1200x630.png
+image: images/blog/social/CAPP-talentmanagement-im-gesundheitswesen-1200x630.png
 featured_image: images/blog/featured/20161004-capp.png
 ---
 

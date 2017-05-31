@@ -4,7 +4,7 @@ date: 2016-02-22 7:30 CET
 tags: security, Defacto
 author: Koos
 lang: nl
-image: images/social/meldplicht-datalekken-1200x630.png
+image: images/blog/social/meldplicht-datalekken-1200x630.png
 featured_image: images/blog/featured/20160222-nieuwe-datawet.jpg
 ---
 

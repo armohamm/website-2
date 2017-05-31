@@ -4,7 +4,7 @@ date: 2017-05-09 08:00 CEST
 tags: interview, CAPP, Gesundheitswesen
 author: Anne
 lang: de
-image: images/social/interview-martina-1200x630.jpg
+image: images/blog/social/interview-martina-1200x630.jpg
 featured_image: images/blog/featured/20170509-von-krankenschwester-zur-softwareexpertin.jpg
 ---
 **In Deutschland liegt der Fokus von [CAPP](/capp-bilden/){:title="CAPP Bilden"} ganz klar im Gesundheitswesen. Was gäbe es also für eine bessere Idee, als jemanden im Team zu haben, der aus genau diesem Sektor kommt und außer fachlicher Expertise auch noch viele Jahre an Erfahrung mitbringt?**

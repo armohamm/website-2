@@ -4,7 +4,7 @@ date: 2016-02-19 7:30 CET
 tags: gebruikersoverleg, CAPP, LearningSpaces
 author: Marian
 lang: nl
-image: images/social/gebruikersoverleg-1200x630.png
+image: images/blog/social/gebruikersoverleg-1200x630.png
 featured_image: images/blog/featured/20160219-eerste-gebruikersoverleg.jpg
 ---
 

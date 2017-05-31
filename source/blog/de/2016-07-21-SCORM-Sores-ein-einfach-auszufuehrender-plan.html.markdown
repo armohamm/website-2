@@ -4,7 +4,7 @@ date: 2016-07-21 08:00 CEST
 tags: SCORM, e-learning, CAPP
 author: Joep
 lang: de
-image: images/social/mein-e-learning-modul-1200x630.png
+image: images/blog/social/mein-e-learning-modul-1200x630.png
 featured_image: images/blog/featured/20160721-hilfe-scorm.png
 ---
 

@@ -5,7 +5,7 @@ tags: kunde, Klinikum Itzehoe, CAPP
 author: Isabela
 lang: de
 featured: false
-image: images/social/klinikum-itzehoe-1200x630.png
+image: images/blog/social/klinikum-itzehoe-1200x630.png
 featured_image: images/blog/featured/20170125-klinikum-itzehoe.png
 ---
 

@@ -4,7 +4,7 @@ date: 2016-04-25 7:30 CET
 tags: CAPP, Kwaliteitspaspoort
 author: Gerwin
 lang: nl
-image: images/social/zelfsturende-teams-ondersteunen-kwaliteitspaspoort.png
+image: images/blog/social/zelfsturende-teams-ondersteunen-kwaliteitspaspoort.png
 featured_image: images/blog/featured/20160726-kpp.jpg
 ---
 

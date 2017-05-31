@@ -4,7 +4,7 @@ date: 2016-07-26 08:00 CEST
 tags: Kwaliteitspaspoort, CAPP
 author: Gerwin
 lang: nl
-image: images/social/verbeterd-kpp-1200x630.png
+image: images/blog/social/verbeterd-kpp-1200x630.png
 featured_image: images/blog/featured/20160726-kpp.jpg
 ---
 

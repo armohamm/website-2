@@ -4,7 +4,7 @@ date: 2015-07-03 11:58 CEST
 tags: CAPP, LMS
 author: Joep
 lang: de
-image: images/social/zufriedener-kunde-1200x630.png
+image: images/blog/social/zufriedener-kunde-1200x630.png
 featured_image: images/blog/featured/20150703-kunde.jpg
 ---
 

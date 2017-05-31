@@ -4,7 +4,7 @@ date: 2015-07-13 11:58 CEST
 tags: Deutschland, Niederlande
 author: Cathrin
 lang: de
-image: images/social/deutschland-niederlanden-1200x630.png
+image: images/blog/social/deutschland-niederlanden-1200x630.png
 featured_image: images/blog/featured/20150713-unterschiede-deutschland-niederlanden.png
 ---
 

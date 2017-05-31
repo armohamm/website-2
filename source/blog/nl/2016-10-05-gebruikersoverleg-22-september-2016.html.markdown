@@ -4,7 +4,7 @@ date: 2016-10-05 08:00 CEST
 tags: gebruikersoverleg, LearningSpaces, CAPP
 author: Joke Coens
 lang: nl
-image: images/social/gebruikersoverleg-september-2016-1200x630.png
+image: images/blog/social/gebruikersoverleg-september-2016-1200x630.png
 featured_image: images/blog/featured/20161005-gebruikersoverleg.jpg
 ---
 

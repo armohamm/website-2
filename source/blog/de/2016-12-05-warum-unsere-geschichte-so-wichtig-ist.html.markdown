@@ -4,7 +4,7 @@ date: 2016-12-05 07:00 CEST
 tags: CAPP
 author: Martina
 lang: de
-image: images/social/warum-unsere-geschichte-1200x630.png
+image: images/blog/social/warum-unsere-geschichte-1200x630.png
 featured_image: images/blog/featured/20161205-geschichte.png
 ---
 

@@ -4,7 +4,7 @@ date: 2016-10-25 08:00 CEST
 tags: workshop, CAPP, Qualitätspass
 author: Isabela
 lang: de
-image: images/social/qualitat-sichern-durch-bildungsmanagement-1200x630.png
+image: images/blog/social/qualitat-sichern-durch-bildungsmanagement-1200x630.png
 featured_image: images/blog/featured/20161025-workshop.jpg
 ---
 

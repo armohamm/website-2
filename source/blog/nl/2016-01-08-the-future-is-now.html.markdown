@@ -4,7 +4,7 @@ date: 2016-01-08 09:30 CET
 tags: innovatie, onderwijskunde
 author: Joep
 lang: nl
-image: images/social/the-future-is-now-1200x630.png
+image: images/blog/social/the-future-is-now-1200x630.png
 featured_image: images/blog/featured/20160108-future.png
 ---
 

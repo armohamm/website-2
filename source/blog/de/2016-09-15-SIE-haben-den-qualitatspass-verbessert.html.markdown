@@ -4,7 +4,7 @@ date: 2016-09-15 11:58 CEST
 tags: Qualitätspass, CAPP
 author: Gerwin
 lang: de
-image: images/social/sie-haben-qualitatspass-1200x630.png
+image: images/blog/social/sie-haben-qualitatspass-1200x630.png
 featured_image: images/blog/featured/20160915-qualitatspass.png
 ---
 

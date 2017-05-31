@@ -4,7 +4,7 @@ date: 2016-06-30 10:58 CEST
 tags: gebruikersoverleg, MUMC, video
 author: Marian
 lang: nl
-image: images/social/zorg-dat-leren-voor-je-werkt-1200x630.png
+image: images/blog/social/zorg-dat-leren-voor-je-werkt-1200x630.png
 featured_image: images/blog/featured/20160630-leren.png
 ---
 

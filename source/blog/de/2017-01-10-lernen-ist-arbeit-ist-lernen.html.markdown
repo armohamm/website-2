@@ -5,7 +5,7 @@ tags: e-learning, bildungsmanagement
 author: Joep
 lang: de
 featured: false
-image: images/social/lernen-ist-arbeit-1200x630.png
+image: images/blog/social/lernen-ist-arbeit-1200x630.png
 featured_image: images/blog/featured/20170110-lernen-ist-arbeit.jpg
 ---
 ## Eine Rahmenbedingung für eine lernende Organisation

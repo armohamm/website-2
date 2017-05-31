@@ -4,7 +4,7 @@ date: 2017-02-06 08:00 CEST
 tags: kongress, innovation, digitalisierung
 author: Isabela
 lang: de
-image: images/social/potentiale-heben-1200x630.png
+image: images/blog/social/potentiale-heben-1200x630.png
 featured_image: images/blog/featured/20170206-vernetzte-gesundheit.jpg
 ---
 

@@ -4,7 +4,7 @@ date: 2016-03-17 7:30 CET
 tags: digitalisering, CAPP, NextLearning
 author: Joep
 lang: nl
-image: images/social/nieuw-geleerd-nieuw-gedaan-1200x630.jpg
+image: images/blog/social/nieuw-geleerd-nieuw-gedaan-1200x630.jpg
 featured_image: images/blog/featured/20160317-nieuw-geleerd.jpg
 ---
 

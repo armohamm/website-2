@@ -5,7 +5,7 @@ tags: workshop, e-learning
 author: Martina
 lang: nl
 featured: true
-image: images/social/workshop-e-learning-toekomst-1200x630.png
+image: images/blog/social/workshop-e-learning-toekomst-1200x630.png
 featured_image: images/blog/featured/20170221-e-learning-toekomst.jpg
 ---
 

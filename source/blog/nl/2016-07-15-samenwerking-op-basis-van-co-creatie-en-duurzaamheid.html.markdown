@@ -5,7 +5,7 @@ tags: gebruikersoverleg, Kwaliteitspaspoort, CAPP
 author: Marian
 lang: nl
 featured: false
-image: images/social/samenwerking-op-basis-van-co-creatie-1024.png
+image: images/blog/social/samenwerking-op-basis-van-co-creatie-1024.png
 featured_image: images/blog/featured/20160715-cocreatie.png
 ---
 

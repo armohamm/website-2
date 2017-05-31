@@ -5,7 +5,7 @@ tags: kongress, gesundheitswesen, 70-20-10-Prinzip
 author: David
 lang: de
 featured: true
-image: images/social/klinikmanagementpersonal-1200x630.jpg
+image: images/blog/social/klinikmanagementpersonal-1200x630.jpg
 featured_image: images/blog/featured/20170522-klinikmanagementpersonal.jpg
 ---
 **Wie wird die Digitalisierung das Gesundheitswesen verändern und welche Herausforderungen und Chancen lassen sich daraus auf die Arbeitswelt prognostizieren? Mit diesen Fragen und mehr beschäftigte sich Defacto auf dem diesjährigen [KlinikManagementPersonal Kongress](http://www.klinikmanagementpersonal.de/2017/home/){:target="_blank"} in Hannover Anfang Mai.**

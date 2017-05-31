@@ -4,7 +4,7 @@ date: 2016-08-03 08:00 CEST
 tags: interkollegiales Testen, 70-20-10-Prinzip, soziales Lernen
 author: Joep
 lang: de
-image: images/social/drei-grunde-1200x630.png
+image: images/blog/social/drei-grunde-1200x630.png
 featured_image: images/blog/featured/20160803-interkollegiales-testen.jpg
 ---
 

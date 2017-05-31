@@ -4,7 +4,7 @@ date: 2016-11-28 08:00 CEST
 tags: LearningSpaces, WebSummit
 author: Iwanna de Jonge
 lang: nl
-image: images/social/learningspaces-op-websummit-1200x630.png
+image: images/blog/social/learningspaces-op-websummit-1200x630.png
 featured_image: images/blog/featured/20161128-websummit.jpg
 ---
 

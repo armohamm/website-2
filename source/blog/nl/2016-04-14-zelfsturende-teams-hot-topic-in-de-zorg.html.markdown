@@ -4,7 +4,7 @@ date: 2016-04-14 7:30 CET
 tags: zorg, Kwaliteitspaspoort, CAPP
 author: Marian
 lang: nl
-image: images/social/zelfsturende-teams-1200x630.png
+image: images/blog/social/zelfsturende-teams-1200x630.png
 featured_image: images/blog/featured/20160414-zelfsturende-teams.png
 ---
 

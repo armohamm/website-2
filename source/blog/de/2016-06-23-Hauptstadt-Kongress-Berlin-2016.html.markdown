@@ -4,7 +4,7 @@ date: 2016-06-23 11:58 CEST
 tags: e-learning, kongress
 author: Martina
 lang: de
-image: images/social/hauptstadt-kongress-berlin-2016.png
+image: images/blog/social/hauptstadt-kongress-berlin-2016.png
 featured_image: images/blog/featured/20160623-hauptstadtkongress-2016.png
 ---
 

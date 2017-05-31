@@ -4,7 +4,7 @@ date: 2016-07-21 08:00 CEST
 tags: CAPP, talentmanagement, 360 Feedback
 author: Marian
 lang: nl
-image: images/social/talentmanagement-met-capp-1200x630.png
+image: images/blog/social/talentmanagement-met-capp-1200x630.png
 featured_image: images/blog/featured/20160721-capp.png
 ---
 

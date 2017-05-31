@@ -4,7 +4,7 @@ date: 2015-05-20 14:10 CEST
 tags: LearningSpaces, development
 author: Matthijs
 lang: nl
-image: images/social/learningspaces-1200x630.jpg
+image: images/blog/social/learningspaces-1200x630.jpg
 canonical_url: http://blog.learningspaces.io/animated-loading-indicator-with-isometric-cubes/
 featured_image: images/blog/featured/20150520-animated-loading.png
 ---

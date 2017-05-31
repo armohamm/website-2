@@ -4,7 +4,7 @@ date: 2016-02-08 09:30 CET
 tags: LMS, CAPP, faciliteren
 author: Joep
 lang: nl
-image: images/social/van-controleren-naar-faciliteren-1200x630.png
+image: images/blog/social/van-controleren-naar-faciliteren-1200x630.png
 featured_image: images/blog/featured/20160208-controleren-faciliteren.png
 ---
 
