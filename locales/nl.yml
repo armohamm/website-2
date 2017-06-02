@@ -78,20 +78,72 @@ nl:
     name: CAPP Agile Learning
     desc: "Performance support door 'kennis-on-demand'. Verbeter prestaties door medewerkers te voorzien van just-in-time kennis. Leg kennis simpel vast en deel handleidingen, protocollen, werkinstructies, QR-codes e.d."
     logo: logos/capp-agile-white.png
-    heading: "Performance support voor elke organisatie."
-    action: "Neem contact op"
-    hero_quote: >
-      Goed worden in je werk doe je op de werkvloer. Vaak ben je dan niet op zoek naar een cursus of handleiding, maar naar dat stukje informatie dat je op dat moment nodig hebt.
-    form_heading: "Contact opnemen"
+    hero:
+      heading: "Performance support voor elke organisatie."
+      action: "Neem contact op"
+      quote: >
+        Goed worden in je werk doe je op de werkvloer. Vaak ben je dan niet op zoek naar een cursus of handleiding, maar naar dat stukje informatie dat je op dat moment nodig hebt.
+    why:
+      heading: "Waarom kiezen voor CAPP Agile Learning?"
+      make_share:
+        heading: "Maak & deel"
+        copy: >
+          Voorzie medewerkers van werkinstructies, ondersteunende video’s of illustraties en de 'tips and tricks’ van de experts binnen je organisatie. Ons platform zorgt ervoor dat alle gedeelde kennis moeiteloos, strak en professioneel aan je medewerkers wordt gepresenteerd.
+      on_demand:
+        heading: "Leer on-demand"
+        copy: >
+          Leer van de kennis uit je organisatie, waar en wanneer je maar wilt. CAPP Agile Learning is beschikbaar op alle devices. Maak gebruik van QR-codes om 'just in time’ de juiste informatie tot je beschikking te hebben. Niet langer eindeloos zoeken in onoverzichtelijke documentsystemen.
+      performance:
+        heading: "Verbeter je prestaties"
+        copy: >
+          Verbeter de prestaties van jezelf en je organisatie. Met CAPP Agile Learning creeër je een platform specifiek gericht op de kennis die je organisatie in huis heeft. Performance Support made Agile; snel, effectief en specifiek voor je eigen organisatie.
+    features:
+      make_share:
+        heading: "Maak & deel"
+        copy: |
+          Of je nu zelf content maakt of bestaande content wilt ontsluiten, CAPP Agile Learning ondersteunt beide. Onze slimme editor herkent links van bijvoorbeeld YouTube of afbeeldingen die je online vindt en zet deze automatisch om in plaatjes of filmpjes.
+
+          Geschreven content wordt automatisch gepubliceerd in een strakke lay-out, waardoor je platform een eenduidige, professionele uitstraling heeft.
+
+          Kortom, je hoeft je alleen druk te maken over de inhoud, de lay-out wordt door CAPP Agile Learning geregeld.
+        img: gifs/wat-is-agile-learning.gif
+        img_alt: "Wat is CAPP Agile Learning?"
+      up_to_date:
+        heading: "Blijf up-to-date"
+        copy: |
+          Selecteer uit het aanbod de onderwerpen die voor jou relevant zijn. Schrijf in op het aanbod wat voor jou interessant is om bericht te ontvangen wanneer er aan de inhoud ervan iets veranderd. Zo ben en blijf je altijd up-to-date.
+        img: "screenshots/capp-agile-up-to-date.png"
+        img_alt: "Altijd up-to-date"
+      on_demand:
+        heading: "On demand"
+        copy: |
+          Ontsluit informatie voor medewerkers op het moment dat zij het nodig hebben. Voorzie apparaten of andere fysieke objecten van QR-codes die direct linken naar werkinstructies of protocollen (scan zelf de QR-code hiernaast en ervaar hoe snel dit werkt).
+
+          Maak gebruik van de ‘shared spaces’ functionaliteit om informatie beschikbaar te stellen zonder dat inloggen op het platform noodzakelijk is.
+
+          Zo wordt iedere medewerker ‘just in time’ aan de juiste informatie geholpen die op dat moment nodig is om te presteren.
+        img: screenshots/capp-agile-qr-code.png
+        img_alt: "On demand met QR-codes"
+      demand_driven:
+        heading: "Vraaggestuurd"
+        copy: |
+          Niemand kan volledig voorspellen aan welke kennis binnen een organisatie behoefte is. Vaak wordt een gebrek aan kennis pas (te) laat ontdekt, omdat de vraag naar deze kennis verborgen is. Met CAPP Agile Learning voorkomen we dit door een dialoog aan te gaan met de medewerker.
+
+          Met onze ‘Vraag en antwoord’ functionaliteit wordt de medewerker in staat gesteld een vraag te stellen aan de organisatie wanneer hij een stuk informatie mist of niet kan vinden. Help deze medewerker met een direct antwoord meteen verder en gebruik zijn input voor het creëren van extra content.
+        img: screenshots/capp-agile-questions.png
+        img_alt: "Vraaggestuurd met vragen & antwoorden"
+    form:
+      heading: "Contact opnemen"
+      options:
+        heading: "Ik ben geïnteresseerd in:"
+        info: "Meer informatie over CAPP Agile Learning"
+        demo: "Een (live) demo"
+        trial: "Een trial account"
+        inform: "Hou me op de hoogte via e-mail"
+      img: screenshots/capp-agile-demo.png
+      img_alt: "Vraag informatie of een demo aan"
     testimonials_heading: "Wat onze klanten zeggen"
-    info_img: "Vraag informatie of een demo aan"
     clients_heading: "Onze klanten"
-    options:
-      heading: "Ik ben geïnteresseerd in:"
-      info: "Meer informatie over CAPP Agile Learning"
-      demo: "Een (live) demo"
-      trial: "Een trial account"
-      inform: "Hou me op de hoogte via e-mail"
   contact:
     heading: Aangenaam
     heading2: "We zijn er om je meer informatie te geven, vragen te beantwoorden en effectieve support te bieden."
