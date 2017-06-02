@@ -241,7 +241,8 @@ nl:
   thanks:
     heading: Bedankt!
     message: Je hoort zo snel mogelijk van ons.
-    message_download: 'De download zou nu automatisch moeten starten...<br>Zo niet, klik dan <a target="_blank">hier</a>.'
+    message_download: 'De download zou nu automatisch moeten starten...
+                      Zo niet, klik dan <a target="_blank">hier</a>.'
     back: Terug naar de vorige pagina.
   threesixty:
     cta_bottom:
@@ -293,5 +294,6 @@ nl:
     action: "Neem contact op"
     form:
       header: "Meer informatie?"
-      text: >
-        Wil je meer weten over de implementatie van 70:20:10 en Performance Support?<br>Laat je e-mailadres achter, dan nemen onze specialisten zo snel mogelijk contact met je op.
+      text: |
+        Wil je meer weten over de implementatie van 70:20:10 en Performance Support?
+        Laat je e-mailadres achter, dan nemen onze specialisten zo snel mogelijk contact met je op.

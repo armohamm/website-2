@@ -271,7 +271,8 @@ de:
   thanks:
     heading: "Vielen Dank."
     message: "Wir melden uns so schnell wie möglich bei Ihnen."
-    message_download: 'Das Herunterladen sollte jetzt automatisch starten...<br>Wenn nicht, klicke <a target="_blank">hier</a>.'
+    message_download: 'Das Herunterladen sollte jetzt automatisch starten...
+                      Wenn nicht, klicke <a target="_blank">hier</a>.'
     back: Zurück zur vorherigen Seite.
   threesixty:
     cta_bottom:
