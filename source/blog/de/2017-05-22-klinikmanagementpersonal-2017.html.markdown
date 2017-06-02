@@ -4,7 +4,6 @@ date: 2017-05-22 08:00 CEST
 tags: kongress, gesundheitswesen, 70-20-10-Prinzip
 author: David
 lang: de
-featured: true
 image: images/blog/social/klinikmanagementpersonal-1200x630.jpg
 featured_image: images/blog/featured/20170522-klinikmanagementpersonal.jpg
 ---
