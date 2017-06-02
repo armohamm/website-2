@@ -336,12 +336,19 @@ helpers do
   end
 
   # Link_to with active class if current_page
-  def nav_link_to(text, url, options = {})
-    is_active = url_for(url.split("#")[0], relative: false) ==
+  def nav_link_to(*args, &block)
+    url_arg_index = block_given? ? 0 : 1
+    options_index = block_given? ? 1 : 2
+    args[options_index] ||= {}
+    options = args[options_index].dup
+
+    is_active = url_for(args[url_arg_index].split("#")[0], relative: false) ==
                 url_for(current_page.url, relative: false)
     options[:class] ||= ""
     options[:class] << " active" if is_active
-    locale_link_to(text, url, options)
+
+    args[options_index] = options
+    locale_link_to(*args, &block)
   end
 
   # Country flags

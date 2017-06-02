@@ -1,4 +1,3 @@
-// Used for mobile nav overlay
 .no-scroll {
   @include media($menu-mobile) {
     overflow: hidden;
@@ -218,9 +217,14 @@
 
   .content {
     @include media($menu-desktop) {
-      padding: 2.2em 1.8em;
+      padding: 1.4em;
       text-align: left;
       transition: transform 0.3s ease;
+    }
+
+    .active {
+      background: lighten($gray, 5%);
+      border-radius: 3px;
     }
   }
 
@@ -230,9 +234,14 @@
     font-weight: normal;
     margin: 0 0 0.6em;
     text-transform: none;
+    width: 100%;
 
     a {
       color: $gray-menu;
+
+      &.active {
+        background: $white;
+      }
     }
   }
 
@@ -246,10 +255,29 @@
       display: block;
       font-size: 1em;
       font-weight: 600;
-      padding: 0.6em 0;
+      padding: 0.6em;
+      padding-right: 0;
 
       &:hover {
         color: darken($orange, 15%);
+      }
+
+      &.active {
+        border-radius: 0;
+      }
+    }
+
+    li:first-of-type {
+      .active {
+        border-top-left-radius: 3px;
+        border-top-right-radius: 3px;
+      }
+    }
+
+    li:last-of-type {
+      .active {
+        border-bottom-left-radius: 3px;
+        border-bottom-right-radius: 3px;
       }
     }
   }
@@ -403,18 +431,16 @@
     }
 
     ul {
-      @include clearfix;
+      display: flex;
+      flex-wrap: wrap;
     }
 
     li {
-      @include clearfix;
-      margin-bottom: 1.4em;
+      flex: 1 100%;
 
       @include media($menu-desktop) {
-        float: left;
-        margin-right: 4%;
+        flex: 0 0 50%;
         margin-top: 0;
-        width: 48%;
 
         // Last odd item
         &:nth-child(odd) {
@@ -437,16 +463,19 @@
       h3 {
         font-size: 1.1em;
         font-style: normal;
-        font-weight: 600;
+        font-weight: 700;
         margin-bottom: 0.5em;
         margin-top: 0.5em;
       }
 
       a {
+        @include clearfix;
         color: $medium-gray;
         display: block;
         font-size: 0.9em;
+        height: 100%;
         line-height: 1.2em;
+        padding: 1em;
 
         // Gallery icons
         &::before {
@@ -455,7 +484,7 @@
           display: inline-block;
           float: left;
           height: 70px;
-          margin-right: 0.6em;
+          margin-right: 0.7em;
           width: 70px;
         }
       }
@@ -544,7 +573,7 @@
 
     a.nav-elearning-starterkit {
       h3 {
-        color: lighten($red, 15);
+        color: lighten($red, 15%);
       }
 
       &::before {
