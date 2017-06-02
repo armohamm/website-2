@@ -28,7 +28,7 @@
     <%= href_langs unless is_blog_article? || current_page.data.unique_for_locale == true -%>
 
     <meta property="og:site_name" content="Defacto - Developing People">
-    <meta property="og:title" content="<%= page_title(current_page, false) %> - Defacto">
+    <meta property="og:title" content="<%= content_for?(:page_title) ? yield_content(:page_title) : page_title(current_page) %>">
     <meta property="og:url" content="<%= full_url(current_page.url) %>">
     <meta property="og:type" content="<%= is_blog_article? ? "article" : "website" %>">
     <meta property="og:description" content="<%= meta_description %>">
