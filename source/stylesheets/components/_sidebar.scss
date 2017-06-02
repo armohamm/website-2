@@ -1,0 +1,36 @@
+.sidebar {
+  @include span-columns(12);
+  background-color: $light-gray-two;
+  padding: 1em;
+
+  @include media($medium-up) {
+    @include span-columns(4);
+  }
+
+  nav {
+    li {
+      border-bottom: 2px solid $gray;
+
+      &:last-child {
+        border: 0;
+      }
+    }
+
+    a {
+      display: block;
+      font-weight: 700;
+      padding: 0.5em 0;
+
+      &.active {
+        color: darken($orange, 15%);
+      }
+    }
+
+    span {
+      color: darken($light-gray, 15);
+      display: block;
+      font-weight: 700;
+      padding: 0.5em 0;
+    }
+  }
+}
