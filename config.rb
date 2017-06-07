@@ -2,6 +2,8 @@
 # Compass
 ###
 
+require "net/http"
+
 # Determine root locale
 root_locale = (ENV["LOCALE"] ? ENV["LOCALE"].to_sym : :nl)
 # Accessible as `root_locale` in helpers and `config[:root_locale]` in templates
