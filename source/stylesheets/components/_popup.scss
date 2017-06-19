@@ -22,40 +22,31 @@
   }
 }
 
-$popup-padding: 30px;
-$popup-mobile-mode: max-width 400px;
-$popup-hide-mode: max-height 570px;
-
 .popup {
-  background-color: $white;
-  border-radius: 5px 5px 0 0;
-  bottom: 0;
-  box-shadow: 0 0 60px rgba($black, 0.2);
   display: none;
-  left: 0;
-  max-width: 320px;
-  min-height: 200px;
-  position: fixed;
-  text-align: left;
-  width: 100%;
-  z-index: 9999999999;
 
-  @include media($popup-hide-mode) {
-    display: none !important;
-  }
+  @include media($medium-up) {
+    background-color: $white;
+    border-radius: 5px 5px 0 0;
+    bottom: 0;
+    box-shadow: 0 0 60px rgba($black, 0.2);
+    display: none;
+    left: 0;
+    max-width: 320px;
+    min-height: 200px;
+    position: fixed;
+    text-align: left;
+    width: 100%;
+    z-index: 9999999999;
 
-  @include media($popup-mobile-mode) {
-    left: 3%;
-    max-width: 94%;
-  }
+    &.popup-show {
+      @include animation(popup-show 0.9s cubic-bezier(0.77, 0, 0.175, 1));
+      display: block;
+    }
 
-  &.popup-show {
-    @include animation(popup-show 0.9s cubic-bezier(0.77, 0, 0.175, 1));
-    display: block;
-  }
-
-  &.popup-hide {
-    @include animation(popup-hide 0.4s ease-in);
+    &.popup-hide {
+      @include animation(popup-hide 0.4s ease-in);
+    }
   }
 
   input {
@@ -104,10 +95,6 @@ $popup-hide-mode: max-height 570px;
   .popup-bottom {
     padding: $popup-padding;
     position: relative;
-
-    @include media($popup-mobile-mode) {
-      padding: $popup-padding / 1.5;
-    }
   }
 
   .popup-header {
@@ -122,10 +109,6 @@ $popup-hide-mode: max-height 570px;
 
   .popup-bottom {
     background-color: $lighter-gray;
-
-    @include media($popup-mobile-mode) {
-      padding-top: $popup-padding;
-    }
 
     &::before {
       border-left: 15px solid transparent;
