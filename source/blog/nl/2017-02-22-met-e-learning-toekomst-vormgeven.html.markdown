@@ -4,7 +4,6 @@ date: 2017-02-22 08:00 CEST
 tags: workshop, e-learning
 author: Martina
 lang: nl
-featured: true
 image: images/blog/social/workshop-e-learning-toekomst-1200x630.png
 featured_image: images/blog/featured/20170221-e-learning-toekomst.jpg
 ---
