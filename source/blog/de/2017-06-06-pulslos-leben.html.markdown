@@ -4,7 +4,6 @@ date: 2017-06-06 08:00 CEST
 tags: pulslos leben, herzunterstützungssystem, website
 author: Anne
 lang: de
-featured: true
 image: images/blog/social/pulslos-leben-1200x630.gif
 featured_image: images/blog/featured/20170606-pulslos-leben.gif
 ---
