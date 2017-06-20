@@ -45,6 +45,10 @@
     @include clearfix;
     margin-bottom: 1em;
     padding: 1em 0;
+
+    &:last-of-type {
+      margin-bottom: 0;
+    }
   }
 
   .quote {
