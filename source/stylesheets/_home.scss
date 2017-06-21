@@ -1,17 +1,5 @@
 .index {
 
-  .header-image {
-    background-size: cover;
-
-    .header {
-      background: transparent;
-    }
-
-    .hero {
-      background: transparent;
-    }
-  }
-
   &.nl {
     .header-image {
       $hero-image: "../images/moods/defacto.jpg";

@@ -1,8 +1,12 @@
 .hero {
-
   background: $orange-alt no-repeat center fixed;
   background-size: cover;
   color: $white;
+
+  @include media($menu-desktop) {
+    margin-top: - $header-height;
+    padding-top: $header-height;
+  }
 
   .hero-inner {
     @include outer-container;

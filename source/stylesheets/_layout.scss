@@ -9,9 +9,16 @@
   box-sizing: border-box;
 }
 
-html,
+html {
+  height: 100%;
+}
+
 body {
   height: 100%;
+
+  @include media($menu-desktop) {
+    padding-top: $header-height;
+  }
 }
 
 .page-wrap {

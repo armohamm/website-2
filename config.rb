@@ -405,19 +405,15 @@ helpers do
     current_page.url == "/capp-agile-learning/"
   end
 
-  def logo
-    if root_url?
-      image_link = "-invert"
-    elsif capp_agile_url?
-      image_link = "-white"
-    end
-    img = image_tag("logos/defacto#{image_link}.svg", alt: "Defacto", onerror: "this.src='/images/defacto#{image_link}.png'; this.onerror=null;")
-    locale_link_to(img, "/")
-  end
-
   # Use frontmatter for white nav trigger on certain pages
   def nav_white?
     current_page.data.nav_white
+  end
+
+  def header_style
+    if current_page.data.header_style
+      "header-#{current_page.data.header_style}"
+    end
   end
 
   # String to markdown

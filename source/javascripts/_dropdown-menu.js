@@ -77,7 +77,7 @@ jQuery(document).ready(function ($) {
       var selectedDropdown = this.dropdownList.find('#' + menuItem.data('content'));
       var selectedDropdownHeight = selectedDropdown.innerHeight();
       var selectedDropdownWidth = selectedDropdown.children('.content').innerWidth();
-      var selectedDropdownLeft = menuItem.offset().left + (menuItem.innerWidth() - selectedDropdownWidth) / 2;
+      var selectedDropdownLeft = menuItem.position().left + (menuItem.innerWidth() - selectedDropdownWidth) / 2;
 
       // Update dropdown position and size
       this.updateDropdown(

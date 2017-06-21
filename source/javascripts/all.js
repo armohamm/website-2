@@ -7,6 +7,7 @@
 //= require _raf-polyfill
 //= require _scroll-to-form
 //= require _forms
+//= require _header
 //= require _home
 //= require _dropdown-menu
 //= require _map

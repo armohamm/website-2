@@ -37,28 +37,9 @@ body.capp-agile-learning {
   .header-image {
     $hero-image: "../images/moods/capp-agile-learning.jpg";
     background: $green url($hero-image) center fixed;
-    background-size: cover;
 
-    .header {
-      background: transparent;
-    }
-
-    .hero {
-      background: transparent;
-
-      .hero-inner {
-        padding: 2em 1em 0;
-
-        .button {
-          display: inline-block;
-          margin-bottom: 4em;
-        }
-      }
-
-      .hero-img {
-        display: block;
-        margin: 0 auto 4em;
-      }
+    .hero-inner {
+      padding: 2em 1em 0;
 
       h2 {
         color: $white;
@@ -90,6 +71,16 @@ body.capp-agile-learning {
           margin: 0 0 0 -6px;
         }
       }
+
+      .button {
+        display: inline-block;
+        margin-bottom: 4em;
+      }
+    }
+
+    .hero-img {
+      display: block;
+      margin: 0 auto 4em;
     }
   }
 

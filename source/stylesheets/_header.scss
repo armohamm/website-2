@@ -1,18 +1,105 @@
+.header-image {
+  background-size: cover;
+
+  .hero {
+    background: transparent;
+  }
+}
+
 .header {
-  @include outer-container;
   height: $header-height;
   padding: 0 1em;
   z-index: 9999;
 
   @include media($menu-desktop) {
+    background: $white;
+    padding: 0;
+    position: fixed;
     text-align: right;
+    top: 0;
+    transition: background 0.2s ease,
+                box-shadow 0.2s ease;
+    width: 100%;
+
+    &.header-fixed {
+      background: $white;
+      box-shadow: 0 4px 2px -2px rgba($black, 0.1);
+
+      &.header {
+        .brand-mark {
+          fill: $orange-logo;
+        }
+
+        .word-mark {
+          fill: $gray-menu;
+        }
+      }
+
+      .main-nav {
+        &.header-white,
+        &.header-invert {
+          a {
+            color: $gray-menu;
+
+            &:hover,
+            &:focus,
+            &:active,
+            &.active {
+              color: $orange;
+            }
+          }
+
+          ul > li {
+            &.active > a {
+              color: $orange;
+            }
+          }
+        }
+      }
+    }
+
+    &.header-invert,
+    &.header-white {
+      background: transparent;
+
+      &.header-fixed {
+        background: $white;
+      }
+    }
+
+    .header-container {
+      @include outer-container;
+      padding: 0 1em;
+    }
+  }
+
+  &.header-white {
+
+    .brand-mark {
+      fill: $white;
+    }
+
+    .word-mark {
+      fill: $white;
+    }
+  }
+
+  &.header-invert {
+
+    .brand-mark {
+      fill: $orange-logo;
+    }
+
+    .word-mark {
+      fill: $white;
+    }
   }
 
   .logo {
     float: left;
     line-height: $header-height - 4px;
 
-    img {
+    svg {
       display: inline-block;
       height: 37px;
       margin-top: 0;
@@ -42,12 +129,12 @@
       }
 
       a {
-        @include transition(opacity 0.2s ease);
         color: $gray-menu;
         display: block;
         font-size: 1em;
         font-weight: bold;
         padding: 0 20px;
+        transition: opacity 0.2s ease;
 
         &:hover,
         &:focus,
@@ -62,27 +149,29 @@
         }
       }
 
-      // Homepage
-      @at-root body.index & a {
-        color: $white;
+      &.header-invert {
+        a {
+          color: $white;
 
-        &:hover,
-        &:focus,
-        &:active,
-        &.active {
-          color: $orange;
+          &:hover,
+          &:focus,
+          &:active,
+          &.active {
+            color: $orange;
+          }
         }
       }
 
-      // CAPP Agile page
-      @at-root body.capp-agile-learning & a {
-        color: $white;
-
-        &:hover,
-        &:focus,
-        &:active,
-        &.active {
+      &.header-white {
+        a {
           color: $white;
+
+          &:hover,
+          &:focus,
+          &:active,
+          &.active {
+            color: $white;
+          }
         }
       }
     }
@@ -92,11 +181,11 @@
     margin-right: 10px;
 
     a {
-      @include transition(opacity 0.2s ease);
       display: inline-block;
       margin-right: 3px;
       opacity: 0.9;
       padding: 0;
+      transition: opacity 0.2s ease;
 
       &:last-child {
         margin-right: 0;

@@ -17,7 +17,8 @@
       min-height: calc(100% - #{$header-height});
     }
 
-    .hero {
+    .hero,
+    .header-image {
       padding-top: $header-height;
     }
 
@@ -310,20 +311,23 @@
       }
     }
 
-    .main-nav > ul > li {
-      > a {
-        opacity: 0.6;
+    .main-nav {
+      ul > li {
+        > a {
+          opacity: 0.6;
+        }
+
+        &.active > a {
+          color: $orange;
+          opacity: 1;
+        }
       }
 
-      &.active > a {
-        color: $orange;
-        opacity: 1;
-      }
-    }
-
-    .main-nav-white > ul > li {
-      &.active > a {
-        color: $white;
+      &.header-white {
+        .active > a {
+          color: $white;
+          opacity: 1;
+        }
       }
     }
   }
