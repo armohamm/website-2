@@ -87,23 +87,12 @@
                   <% end %>
                 </li>
 
-                <% if root_locale == :de %>
-                  <li>
-                    <% nav_link_to("/learningspaces.html", { class: "nav-learningspaces" }) do %>
-                      <h3><%= t("learningspaces.name") %></h3>
-                      <%= t("nav.learningspaces") %>
-                    <% end %>
-                  </li>
-                <% end %>
-
-                <% if root_locale == :nl %>
-                  <li>
-                    <% nav_link_to("/capp-agile-learning.html", { class: "nav-capp-agile" }) do %>
-                      <h3><%= t("capp-agile.name") %></h3>
-                      <%= t("nav.capp-agile") %>
-                    <% end %>
-                  </li>
-                <% end %>
+                <li>
+                  <% nav_link_to("/capp-agile-learning.html", { class: "nav-capp-agile" }) do %>
+                    <h3><%= t("capp-agile.name") %></h3>
+                    <%= t("nav.capp-agile") %>
+                  <% end %>
+                </li>
 
                 <li>
                   <% nav_link_to("/e-learning-starterkit.html", { class: "nav-elearning-starterkit" }) do %>

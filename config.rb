@@ -64,15 +64,20 @@ page "/*.txt", layout: false
 
 ignore "/fonts/icons/selection.json"
 
+# Redirects to prevent 404's
 redirect "workshop-convenant-mt.html", to: "convenant-medische-technologie.html"
 redirect "elearning.html", to: "e-learning.html"
 redirect "elearning-starterkit.html", to: "e-learning-starterkit.html"
-redirect "hosting.html", to: "hosting-security.html" if root_locale == :nl
-redirect "hosting-security.html", to: "hosting.html" if root_locale == :de
 redirect "capp.html", to: "capp-lms.html"
-redirect "capp-lms.html", to: "capp-bilden.html" if root_locale == :de
 redirect "kundenreferenzen.html", to: "kundenstimmen.html"
-redirect "learningspaces.html", to: "capp-agile-learning.html" if root_locale == :nl
+redirect "learningspaces.html", to: "capp-agile-learning.html"
+case root_locale
+when :nl
+  redirect "hosting.html", to: "hosting-security.html"
+when :de
+  redirect "hosting-security.html", to: "hosting.html"
+  redirect "capp-lms.html", to: "capp-bilden.html"
+end
 
 # Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
 # proxy "/this-page-has-no-template.html", "/template-file.html", locals: {

@@ -81,6 +81,7 @@ nl:
     hero:
       heading: "Performance support voor elke organisatie."
       action: "Neem contact op"
+      img: screenshots/capp-agile-hero_nl.png
       quote: >
         Goed worden in je werk doe je op de werkvloer. Vaak ben je dan niet op zoek naar een cursus of handleiding, maar naar dat stukje informatie dat je op dat moment nodig hebt.
     why:
@@ -116,13 +117,14 @@ nl:
         img_alt: "Altijd up-to-date"
       on_demand:
         heading: "On demand"
+        link: https://zorgdemo.learningspaces.nl/s/qi4Dge-L_qY5aLzJnciT-A
         copy: |
           Ontsluit informatie voor medewerkers op het moment dat zij het nodig hebben. Voorzie apparaten of andere fysieke objecten van QR-codes die direct linken naar werkinstructies of protocollen (scan zelf de QR-code hiernaast en ervaar hoe snel dit werkt).
 
           Maak gebruik van de ‘shared spaces’ functionaliteit om informatie beschikbaar te stellen zonder dat inloggen op het platform noodzakelijk is.
 
           Zo wordt iedere medewerker ‘just in time’ aan de juiste informatie geholpen die op dat moment nodig is om te presteren.
-        img: screenshots/capp-agile-qr-code.png
+        img: screenshots/capp-agile-qr-code_nl.png
         img_alt: "On demand met QR-codes"
       demand_driven:
         heading: "Vraaggestuurd"
@@ -140,7 +142,7 @@ nl:
         demo: "Een (live) demo"
         trial: "Een trial account"
         inform: "Hou me op de hoogte via e-mail"
-      img: screenshots/capp-agile-demo.png
+      img: screenshots/capp-agile-demo_nl.png
       img_alt: "Vraag informatie of een demo aan"
     testimonials_heading: "Wat onze klanten zeggen"
     clients_heading: "Onze klanten"

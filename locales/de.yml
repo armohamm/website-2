@@ -26,8 +26,6 @@ de:
     productsheet: https://formkeep.com/f/bfad79e126e9
     ebook: https://formkeep.com/f/bfad79e126e9
     job_apply: https://formkeep.com/f/6607c4bdc4cc
-    ls_registration: https://public.learningspaces.de/accounts/new
-    ls_website: http://www.learningspaces.de
     url: http://www.defactolearning.de
     ls_vimeo: https://player.vimeo.com/video/194343376
   about:
@@ -54,8 +52,8 @@ de:
       more_capp-entwickeln: "Mehr zu CAPP Entwickeln"
       quality: "Zum Qualitätspass"
       more_quality: "Mehr zum Qualitätspass"
-      learningspaces: "Zu LearningSpaces"
-      more_learningspaces: "Mehr zu LearningSpaces"
+      capp-agile: "Zu CAPP Agile Learning"
+      more_capp-agile: "Mehr zu CAPP Agile Learning"
       starterkit: "Mehr zum E-learning Starterkit"
       threesixty: "Mehr zu 360° Feedback"
       elearning: "Mehr zu E-Learning"
@@ -108,6 +106,78 @@ de:
     name:
       learn: Bilden
       develop: Entwickeln
+  capp-agile:
+    name: CAPP Agile Learning
+    desc: "Performance-Support mit CAPP Agile Learning: schnell, effektiv und genau auf Ihr Unternehmen zugeschnitten."
+    logo: logos/capp-agile-white.png
+    hero:
+      heading: "Performance-Support für alle Unternehmen und Organisationen"
+      action: "Kontaktieren Sie uns"
+      img: screenshots/capp-agile-hero_de.png
+      quote: >
+        Ihre Arbeitsleistungen optimieren Sie ganz natürlich direkt am Arbeitsplatz. Und dann suchen Sie nicht erst nach einem Kurs oder einer Anleitung, sondern nach genau dem Stückchen Information, das Sie gerade benötigen.
+    why:
+      heading: "Warum CAPP Agile Learning?"
+      make_share:
+        heading: "Erstellen & teilen"
+        copy: >
+          Stellen Sie Ihren Mitarbeiter Arbeitsanleitungen, unterstützende Videos oder Abbildungen und die ‚Tipps & Tricks‘ der Experten in Ihrem Unternehmen zur Verfügung. Auf unserer Plattform werden Ihren Mitarbeitern alle geteilten Informationen ganz einfach, direkt und professionell präsentiert.
+      on_demand:
+        heading: "Lernen On Demand"
+        copy: >
+          Lernen Sie von dem Wissen, das in Ihrem Unternehmen vorhanden ist, wann und wo Sie wollen. CAPP Agile Learning ist auf allen Geräten verfügbar. Nutzen Sie QR-Codes, um ‚just in time‘ die richtigen Informationen abrufen zu können. Jetzt brauchen Sie nicht mehr endlos in unübersichtlichen Dokumentensystemen zu suchen.
+      performance:
+        heading: "Verbessern Sie Ihre Leistungen"
+        copy: |
+          Verbessern Sie Ihre eigenen Leistungen und die Ihres Unternehmens. Mit CAPP Agile Learning erstellen Sie eine Plattform, die genau an das Wissen angepasst ist, das in Ihrem Unternehmen vorhanden ist. Performance-Support mit CAPP Agile Learning&#58; schnell, effektiv und genau auf Ihr Unternehmen zugeschnitten.
+    features:
+      make_share:
+        heading: "Erstellen & teilen"
+        copy: |
+          Ob Sie jetzt selbst Inhalte erstellen oder vorhandene Inhalte nutzen möchten&#58; CAPP Agile Learning unterstützt beides. Unser raffinierter Editor erkennt Links beispielsweise zu YouTube-Videos oder zu Abbildungen im Internet und wandelt diese automatisch in Bilder oder Videos um.
+
+          Geschriebene Inhalte werden automatisch in ein übersichtliches Layout eingefügt, damit Ihre Plattform eine klare, professionelle Ausstrahlung bekommt.
+
+          Kurz gesagt, Sie brauchen sich nur um den Inhalt zu kümmern, das Layout übernimmt CAPP Agile Learning.
+        img: screenshots/capp-agile-editor.png
+        img_alt: "CAPP Agile Learning editor"
+      up_to_date:
+        heading: "Bleiben Sie auf dem Laufenden"
+        copy: |
+          Wählen Sie aus dem Angebot die Themen aus, die für Sie relevant sind. Wählen Sie aus den angebotenen Inhalten aus, was Sie interessiert, und Sie erhalten eine Mitteilung, sobald sich etwas ändert. So sind und bleiben Sie jederzeit auf dem Laufenden.
+        img: "screenshots/capp-agile-auf-dem-laufenden.png"
+        img_alt: "Jederzeit auf dem Laufenden"
+      on_demand:
+        heading: "On demand"
+        link: https://germany.learningspaces.de/s/ikCgK3FBddGP9uu7HcD2Qg
+        copy: |
+          Bieten Sie Ihren Mitarbeitern Informationen genau zu dem Zeitpunkt, wenn diese sie brauchen. Statten Sie Geräte oder andere Gegenstände mit QR-Codes aus, die direkt mit Arbeitsanweisungen oder Protokollen verlinkt sind (scannen Sie einfach den nebenstehenden QR-Code und erleben Sie, wie schnell das funktioniert).
+
+          Nutzen Sie die Funktion ‚Shared Spaces‘, um Informationen bereitzustellen, ohne dass ein Einloggen auf der Plattform erforderlich ist.
+
+          So erhält jeder Mitarbeiter ‚just in time‘ genau die richtigen Informationen, die zu diesem Zeitpunkt für eine optimale Leistung benötigt werden.
+        img: screenshots/capp-agile-qr-code_de.png
+        img_alt: "On demand mit QR-Codes"
+      demand_driven:
+        heading: "An der Nachfrage orientiert"
+        copy: |
+          Niemand kann genau vorhersagen, welche Informationen in einem Unternehmen gebraucht werden. Oftmals wird fehlendes Wissen erst (zu) spät entdeckt, da die Nachfrage nach diesem Wissen nicht offensichtlich ist. Mit CAPP Agile Learning verhindern wir das, indem wir mit dem Mitarbeiter in einen Dialog treten.
+
+          Mit unserer ‚Frage und Antwort‘-Funktion kann der Mitarbeiter dem Unternehmen eine Frage stellen, wenn er eine Information benötigt oder nicht finden kann. Helfen Sie diesem Mitarbeiter sofort weiter, indem Sie ihm eine direkte Antwort geben, und nutzen Sie seinen Input zur Erstellung von zusätzlichem Inhalt.
+        img: screenshots/capp-agile-fragen.png
+        img_alt: "An der Nachfrage orientiert mit Frage und Antwort"
+    form:
+      heading: "Kontakt aufnehmen"
+      options:
+        heading: "Ich interessiere mich für:"
+        info: "weitere Informationen über CAPP Agile Learning"
+        demo: "eine (Live-) Präsentation"
+        trial: "einen Test-Account"
+        inform: "Halten Sie mich per E-Mail auf dem Laufenden"
+      img: screenshots/capp-agile-demo_de.png
+      img_alt: "Weitere Informationen oder eine (Live-) Präsentation"
+    testimonials_heading: "Kundenstimmen"
+    clients_heading: "Referenzen"
   contact:
     heading: "Wir lernen Sie gerne kennen!"
     heading2: "Kontaktieren Sie uns für mehr Informationen, stellen Sie Ihre Fragen oder nutzen Sie unseren effektiven Support."
@@ -176,7 +246,7 @@ de:
     learn: "CAPP Bilden"
     develop: "CAPP Entwickeln"
     quality: "CAPP Qualitätspass"
-    informal: "LearningSpaces"
+    informal: "CAPP Agile Learning"
     product: "Ein Produkt wählen"
   head:
     default_description: "Defacto hilft Unternehmen bei der Personalentwicklung und Zertifizierung von Mitarbeitern"
@@ -202,8 +272,8 @@ de:
       text: "Die Software für Bildungsmanagement und Personalentwicklung"
     solutions:
       informal:
-        text_html: "Führen Sie Regie über Ihren Lernprozess und unterstützen Sie gleichzeitig den Fortschritt der anderen, indem Sie Wissen teilen und gemeinsam weiterentwickeln. "
-        title: "LearningSpaces"
+        text_html: "Performance-Support mit CAPP Agile Learning: schnell, effektiv und genau auf Ihr Unternehmen zugeschnitten."
+        title: "CAPP Agile Learning"
       develop:
         text_html: "Begleiten Sie die Entwicklung Ihrer Mitarbeiter und fördern Sie, unter anderem mit innovativen E-Learning Modulen, nachhaltige und innovative Talententwicklung."
         title: "Entwickeln"
@@ -231,15 +301,6 @@ de:
       image: screenshots/hero-qualitatspass.png
     logo: logos/qualitatspass-white.png
     name: "Qualitätspass"
-  learningspaces:
-    cta_bottom:
-      heading_md: "Heute noch mit einer gratis Demo beginnen?"
-    desc: "%{link} ist eine spielerische und einfach zu bedienende Plattform die informelles Lernen und den Wissensaustausch stimuliert."
-    hero:
-      text_md: "__LearningSpaces__ ist eine spielerische und einfach zu bedienende Plattform die informelles Lernen und den Wissensaustausch stimuliert."
-    logo: logos/learningspaces-white.png
-    name: LearningSpaces
-    start_now: "Starte durch mit LearningSpaces"
   products:
     title: "Produkte, auf die wir stolz sind."
     capp:
@@ -308,7 +369,7 @@ de:
     capp-learn: "Software für ein effizientes Bildungsmanagement und E-Learning"
     capp-develop: "Bieten Sie nachhaltige und innovative Talententwicklung"
     kwaliteitspaspoort: "Schaffen Sie einen Überblick aller Qualifikationen und Kompetenzen"
-    learningspaces: "Ihr Tool für spielerischen Wissensaustausch und Informelles Lernen"
+    capp-agile: "Performance-Support für alle Unternehmen und Organisationen"
     starterkit: "Lernen Sie, eigene E-Learning Module zu erstellen"
     threesixty: "Die Sichtweisen der anderen kennen, um sich selbst weiterzuentwickeln"
   search:
