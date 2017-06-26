@@ -213,6 +213,7 @@ de:
     formkeep_title_popup: "E-book download popup"
     heading_html: "Unser <span class=\"pre\">E-Learning</span> Buch gratis herunterladen"
     image_alt: "Handbuch Abenteuer E-Learning"
+    close_alt: "schließen"
   elearning_starterkit:
     desc: "Erstellen Sie Ihre eigenen Module mit dem %{link}. Sparen Sie Geld und passen Sie Ihre Inhalte besser an Ihren Bedarf an. Das E-Learning Starterkit enthält alles was Sie brauchen um direkt zu starten."
     desc: "Sichern Sie sich mit dem %{link} einen professionellen Start in die Welt des E-Learnings."
