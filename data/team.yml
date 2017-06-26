@@ -179,3 +179,8 @@
 - firstname: Janine
   lastname: Bos
   email: j.bos@defacto.nl
+
+- firstname: Stephanie
+  prefix: de
+  lastname: Geus
+  email: stephanie@defacto.nl
