@@ -115,9 +115,7 @@
 .blog_index,
 .blog_tags {
   .blog-header {
-    $background-color: #fcfcfc;
-    background-color: $background-color;
-    background-image: radial-gradient(darken($background-color, 2), $background-color 120px);
+    background-color: $lightest-gray;
     padding: 0;
 
     h1 {
@@ -216,9 +214,7 @@
       }
 
       .post-header {
-        $background-color: #fcfcfc;
-        background-color: $background-color;
-        background-image: radial-gradient(darken($background-color, 2), $background-color 120px);
+        background-color: $lightest-gray;
 
         h1 {
           margin-bottom: 0.5em;
