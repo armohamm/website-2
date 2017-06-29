@@ -1,7 +1,7 @@
 ---
 title: Defacto werkt al 30 jaar zo!
 date: 2017-06-27 08:00 CEST
-tags: defacto, jubileum, 30 jaar
+tags: Defacto, 30 jaar
 author: Stephanie
 lang: nl
 featured: true

@@ -1,7 +1,7 @@
 ---
 title: Wij zijn ISO gecertificeerd!
 date: 2017-06-20 08:00 CEST
-tags: ISO, defacto, kwaliteitsmanagement
+tags: ISO, Defacto, kwaliteitsmanagement
 author: Cathrin
 lang: nl
 image: images/blog/social/certified-1200x630.gif
