@@ -135,10 +135,6 @@
   lastname: Bakker
   email: t.bakker@defacto.nl
 
-- firstname: Anne
-  lastname: Neumann-Holbeck
-  email: anne@defacto.nl
-
 - firstname: Jesse
   lastname: Dijkstra
   email: j.dijkstra@defacto.nl
@@ -150,11 +146,6 @@
 - firstname: Mark
   lastname: Vredegoor
   email: m.vredegoor@defacto.nl
-
-- firstname: Wilhem
-  prefix: van der
-  lastname: Wiel
-  email: wilhem@defacto.nl
 
 - firstname: Mirjam
   lastname: Kronemeijer
@@ -184,3 +175,12 @@
   prefix: de
   lastname: Geus
   email: stephanie@defacto.nl
+
+- firstname: Arnoud
+  lastname: Knoeff
+  email: a.knoeff@defacto.nl
+
+- firstname: Richard
+  prefix: van der
+  lastname: Veen
+  email: richard@defacto.nl
