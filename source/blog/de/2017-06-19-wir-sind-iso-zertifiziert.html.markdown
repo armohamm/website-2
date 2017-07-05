@@ -4,7 +4,6 @@ date: 2017-06-19 08:00 CEST
 tags: ISO, defacto, qualitätsmanagement
 author: Cathrin
 lang: de
-featured: true
 image: images/blog/social/certified-1200x630.gif
 featured_image: images/blog/featured/20170620-certified.gif
 ---
