@@ -29,6 +29,10 @@
   lastname: Thie
   email: a.thie@defacto.nl
 
+- firstname: Arnoud
+  lastname: Knoeff
+  email: a.knoeff@defacto.nl
+
 - firstname: Bastiaan
   lastname: Barelds
   email: b.barelds@defacto.nl
@@ -40,6 +44,18 @@
 - firstname: Celine
   lastname: Kemp
   email: c.kemp@defacto.nl
+
+- firstname: David
+  lastname: Fritsch
+  email: d.fritsch@defacto.nl
+
+- firstname: Ellie
+  lastname: Kuiper
+  email: e.kuiper@defacto.nl
+
+- firstname: Esther
+  lastname: Joosten
+  email: e.joosten@defacto.nl
 
 - firstname: Ewoud
   lastname: Veenhuizen
@@ -72,6 +88,10 @@
 - firstname: Jan
   lastname: Lulof
   email: j.lulof@defacto.nl
+
+- firstname: Jesse
+  lastname: Dijkstra
+  email: j.dijkstra@defacto.nl
 
 - firstname: Joep
   lastname: Lenglet
@@ -106,6 +126,10 @@
   lastname: Vos
   email: martina@defacto.nl
 
+- firstname: Mark
+  lastname: Vredegoor
+  email: m.vredegoor@defacto.nl
+
 - firstname: Matthijs
   lastname: Kuiper
   email: m.kuiper@defacto.nl
@@ -113,6 +137,14 @@
 - firstname: Milda
   lastname: Skladaitytė
   email: milda@defacto.nl
+
+- firstname: Mirjam
+  lastname: Kronemeijer
+  email: mirjam@defacto.nl
+
+- firstname: Patrick
+  lastname: Scharmin
+  email: patrick@defacto.nl
 
 - firstname: Peter
   prefix: van
@@ -123,64 +155,28 @@
   lastname: Kaal
   email: p.kaal@defacto.nl
 
+- firstname: Richard
+  prefix: van der
+  lastname: Veen
+  email: richard@defacto.nl
+
 - firstname: Rick
   lastname: Littel
   email: rick@defacto.nl
-
-- firstname: Ronald
-  lastname: Dijkstra
-  email: ronald@defacto.nl
-
-- firstname: Tim
-  lastname: Bakker
-  email: t.bakker@defacto.nl
-
-- firstname: Jesse
-  lastname: Dijkstra
-  email: j.dijkstra@defacto.nl
-
-- firstname: Esther
-  lastname: Joosten
-  email: e.joosten@defacto.nl
-
-- firstname: Mark
-  lastname: Vredegoor
-  email: m.vredegoor@defacto.nl
-
-- firstname: Mirjam
-  lastname: Kronemeijer
-  email: mirjam@defacto.nl
-
-- firstname: David
-  lastname: Fritsch
-  email: d.fritsch@defacto.nl
-
-- firstname: Ellie
-  lastname: Kuiper
-  email: e.kuiper@defacto.nl
-
-- firstname: Patrick
-  lastname: Scharmin
-  email: patrick@defacto.nl
 
 - firstname: Rob
   lastname: Orsel
   email: r.orsel@defacto.nl
 
-- firstname: Janine
-  lastname: Bos
-  email: j.bos@defacto.nl
+- firstname: Ronald
+  lastname: Dijkstra
+  email: ronald@defacto.nl
 
 - firstname: Stéphanie
   prefix: de
   lastname: Geus
   email: stephanie@defacto.nl
 
-- firstname: Arnoud
-  lastname: Knoeff
-  email: a.knoeff@defacto.nl
-
-- firstname: Richard
-  prefix: van der
-  lastname: Veen
-  email: richard@defacto.nl
+- firstname: Tim
+  lastname: Bakker
+  email: t.bakker@defacto.nl
