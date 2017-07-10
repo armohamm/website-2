@@ -16,6 +16,11 @@ namespace :serve do
   task :de do
     serve :de
   end
+
+  desc "Serve EN"
+  task :en do
+    serve :en
+  end
 end
 
 ## Build
@@ -36,6 +41,14 @@ namespace :build do
   task :de do
     build :de
     FileUtils.rm_rf("build/nl", verbose: true)
+    FileUtils.rm_rf("build/en", verbose: true)
+  end
+
+  desc "Build EN"
+  task :en do
+    build :en
+    FileUtils.rm_rf("build/nl", verbose: true)
+    FileUtils.rm_rf("build/de", verbose: true)
   end
 end
 
@@ -66,7 +79,12 @@ namespace :deploy do
   task :de do
     deploy :de
   end
+
+  desc "Deploy EN"
+  task :en do
+    deploy :en
+  end
 end
 
 desc "Deploy all locales"
-task :deploy => ["deploy:nl", "deploy:de"]
+task :deploy => ["deploy:nl", "deploy:de", "deploy:en"]

@@ -12,11 +12,11 @@
 
 @font-face {
   font-family: "icomoon";
-  src:  url("../fonts/icomoon.eot?92xdtj");
-  src:  url("../fonts/icomoon.eot?92xdtj#iefix") format("embedded-opentype"),
-    url("../fonts/icomoon.ttf?92xdtj") format("truetype"),
-    url("../fonts/icomoon.woff?92xdtj") format("woff"),
-    url("../fonts/icomoon.svg?92xdtj#icomoon") format("svg");
+  src:  url("../fonts/icomoon.eot?ub2to7");
+  src:  url("../fonts/icomoon.eot?ub2to7#iefix") format("embedded-opentype"),
+    url("../fonts/icomoon.ttf?ub2to7") format("truetype"),
+    url("../fonts/icomoon.woff?ub2to7") format("woff"),
+    url("../fonts/icomoon.svg?ub2to7#icomoon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -64,6 +64,10 @@
 
 .icon-linkedin::before {
   content: "\eac9";
+}
+
+.icon-youtube::before {
+  content: "\f167";
 }
 
 .icon-location::before {

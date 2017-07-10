@@ -28,7 +28,6 @@ de:
     job_apply: https://formkeep.com/f/6607c4bdc4cc
     capp_agile: https://formkeep.com/f/bfad79e126e9
     url: http://www.defactolearning.de
-    ls_vimeo: https://player.vimeo.com/video/194343376
   about:
     about_defacto: "Über Defacto"
     contact: "Kontakt"
@@ -241,7 +240,7 @@ de:
     name: "Name"
     first_name: Vorname
     sur_name: Nachname
-    organization: "Betrieb oder Organisation"
+    organisation: "Betrieb oder Organisation"
     phone: "Telefon"
     submit: "Versenden"
     capp: "CAPP"

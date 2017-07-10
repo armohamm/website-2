@@ -208,7 +208,7 @@ nl:
     name: Naam
     first_name: Voornaam
     sur_name: Achternaam
-    organization: "Bedrijf of organisatie"
+    organisation: "Bedrijf of organisatie"
     phone: Telefoon
     submit: Verstuur
     quality: "CAPP Kwaliteitspaspoort"

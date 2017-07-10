@@ -1,0 +1,43 @@
+<ul class="solutions-list">
+
+  <li class="elearning">
+    <% link_to "/e-learning.html", class: "col left" do %>
+      <h2><%= t("services.services.elearning.name") %></h2>
+    <% end %>
+    <div class="col right">
+      <p><%= t("services.services.elearning.desc", link: link_to(t("services.services.elearning.name"), "/e-learning.html")) %></p>
+      <%= link_to t("actions.more_about.elearning"), "/e-learning.html", class: "button blue outline" %>
+    </div>
+  </li>
+
+  <li class="implementaties">
+    <% link_to "/implementaties.html", class: "col left" do %>
+      <h2><%= t("services.services.implementaties.name") %></h2>
+    <% end %>
+    <div class="col right">
+      <p><%= t("services.services.implementaties.desc", link: link_to(t("services.services.implementaties.link"), "/implementaties.html")) %></p>
+      <%= link_to t("actions.more_about.implementaties"), "/implementaties.html", class: "button orange outline" %>
+    </div>
+  </li>
+
+  <li class="hosting">
+    <% link_to "/hosting-security.html", class: "col left" do %>
+      <h2><%= t("services.services.hosting.name") %></h2>
+    <% end %>
+    <div class="col right">
+      <p><%= t("services.services.hosting.desc", link: link_to(t("services.services.hosting.link"), "/hosting-security.html")) %></p>
+      <%= link_to t("actions.more_about.hosting"), "/hosting-security.html", class: "button red outline" %>
+    </div>
+  </li>
+
+  <li class="koppelingen">
+    <% link_to "/koppelingen.html", class: "col left" do %>
+      <h2><%= t("services.services.koppelingen.name") %></h2>
+    <% end %>
+    <div class="col right">
+      <p><%= t("services.services.koppelingen.desc", link: link_to(t("services.services.koppelingen.link"), "/koppelingen.html")) %></p>
+      <%= link_to t("actions.more_about.koppelingen"), "/koppelingen.html", class: "button green outline" %>
+    </div>
+  </li>
+
+</ul>

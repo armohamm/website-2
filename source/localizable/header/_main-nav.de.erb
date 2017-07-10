@@ -1,0 +1,134 @@
+<nav class="main-nav <%= header_style %>">
+  <ul>
+    <li>
+      <%= nav_link_to t("header.home"), "/" %>
+    </li>
+    <li class="has-dropdown" data-content="products">
+      <%= nav_link_to t("header.products"), "/producten.html" %>
+    </li>
+    <li class="has-dropdown" data-content="services">
+      <%= nav_link_to t("header.services"), "/diensten.html" %>
+    </li>
+    <li class="has-dropdown" data-content="about-us">
+      <%= nav_link_to t("header.about"), "/over-ons.html" %>
+    </li>
+    <li>
+      <%= nav_link_to t("header.blog"), "/blog/index.html" %>
+    </li>
+    <li>
+      <%= nav_link_to t("header.contact"), "/contact.html" %>
+    </li>
+    <li>
+      <%= nav_link_to "", "/zoeken.html", { class: "header-search icon-search" } %>
+    </li>
+    <li class="flags">
+      <%= country_flags %>
+    </li>
+  </ul>
+</nav>
+
+<div class="dropdown-wrapper">
+
+  <div class="dropdown-arrow"></div>
+
+  <div class="dropdown-list">
+    <ul>
+      <li id="products" class="dropdown gallery">
+
+        <div class="content">
+          <h2 class="dropdown-title">
+            <%= nav_link_to t("header.products"), "/producten.html" %>
+          </h2>
+
+          <ul>
+            <li>
+              <% nav_link_to("/capp-bilden.html", { class: "nav-capp" }) do %>
+                <h3><%= t("products.capp.learn") %></h3>
+                <%= t("nav.capp-learn") %>
+              <% end %>
+            </li>
+
+            <li>
+              <% nav_link_to("/capp-entwickeln.html", { class: "nav-develop" }) do %>
+                <h3><%= t("products.capp.develop") %></h3>
+                <%= t("nav.capp-develop") %>
+              <% end %>
+            </li>
+
+            <li>
+              <% nav_link_to("/kwaliteitspaspoort.html", { class: "nav-kwaliteitspaspoort" }) do %>
+                <h3><%= t("kwaliteitspaspoort.name") %></h3>
+                <%= t("nav.kwaliteitspaspoort") %>
+              <% end %>
+            </li>
+
+            <li>
+              <% nav_link_to("/capp-agile-learning.html", { class: "nav-capp-agile" }) do %>
+                <h3><%= t("capp-agile.name") %></h3>
+                <%= t("nav.capp-agile") %>
+              <% end %>
+            </li>
+
+            <li>
+              <% nav_link_to("/e-learning-starterkit.html", { class: "nav-elearning-starterkit" }) do %>
+                <h3><%= t("elearning_starterkit.name") %></h3>
+                <%= t("nav.starterkit") %>
+              <% end %>
+            </li>
+
+            <li>
+              <% nav_link_to("/360-feedback.html", { class: "nav-360-feedback" }) do %>
+                <h3><%= t("threesixty.name") %></h3>
+                <%= t("nav.threesixty") %>
+              <% end %>
+            </li>
+          </ul>
+        </div>
+      </li>
+
+      <li id="services" class="dropdown links">
+        <div class="content">
+          <h2 class="dropdown-title">
+            <%= nav_link_to t("header.services"), "/diensten.html" %>
+          </h2>
+
+          <ul class="links-list">
+            <li><%= nav_link_to t("services.services.elearning.name"), "/e-learning.html" %></li>
+            <li><%= nav_link_to t("services.services.implementaties.name"), "/implementaties.html" %></li>
+            <li><%= nav_link_to t("services.services.hosting.name"), "/hosting.html" %></li>
+            <li><%= nav_link_to t("services.services.koppelingen.name"), "/koppelingen.html" %></li>
+          </ul>
+        </div>
+      </li>
+
+      <li id="about-us" class="dropdown links">
+        <div class="content">
+          <h2 class="dropdown-title">
+            <%= nav_link_to t("header.about"), "/over-ons.html" %>
+          </h2>
+
+          <ul class="links-list">
+            <li><%= nav_link_to t("about.testimonials"), "/testimonials.html" %></li>
+            <li><%= nav_link_to t("about.references"), "/referenties.html" %></li>
+            <li><%= nav_link_to t("about.press"), "/media.html" %></li>
+            <li><%= nav_link_to t("header.jobs"), "/jobs/index.html" %></li>
+            <li class="blog-link"><%= nav_link_to t("header.blog"), "/blog/index.html" %></li>
+            <li><%= nav_link_to t("header.contact"), "/contact.html" %></li>
+          </ul>
+        </div>
+      </li>
+
+      <li id="search" class="dropdown search">
+        <% link_to "/zoeken.html", { class: "button" } do %>
+          <span class="icon-search"></span><%= t("search.heading") %>
+        <% end %>
+      </li>
+
+      <li class="dropdown flags">
+        <%= country_flags %>
+      </li>
+    </ul>
+
+    <div class="bg-layer" aria-hidden="true"></div>
+  </div>
+</div>

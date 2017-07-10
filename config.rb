@@ -9,7 +9,7 @@ root_locale = (ENV["LOCALE"] ? ENV["LOCALE"].to_sym : :nl)
 # Accessible as `root_locale` in helpers and `config[:root_locale]` in templates
 set :root_locale, root_locale
 
-activate :i18n, mount_at_root: root_locale, langs: [:nl, :de]
+activate :i18n, mount_at_root: root_locale, langs: %i(nl de en)
 
 # Change Compass configuration
 # compass_config do |config|
@@ -39,12 +39,24 @@ if root_locale == :nl
 end
 
 # Ignore blog for other languages
-if root_locale == :de
-  ignore "/blog/nl/*"
-  ignore "/jobs/nl/*"
-elsif root_locale == :nl
+case root_locale
+when :nl
   ignore "/blog/de/*"
   ignore "/jobs/de/*"
+  ignore "/blog/en/*"
+  ignore "/jobs/en/*"
+when :de
+  ignore "/blog/nl/*"
+  ignore "/jobs/nl/*"
+  ignore "/blog/en/*"
+  ignore "/jobs/en/*"
+when :en
+  ignore "/blog/de/*"
+  ignore "/jobs/de/*"
+  ignore "/blog/nl/*"
+  ignore "/jobs/nl/*"
+  ignore "/jobs/index.html"
+  ignore "/jobs/feed.xml"
 end
 
 # # Prevent other locales from building (breaks page_classes)
@@ -102,6 +114,8 @@ activate :blog do |blog|
     blog.sources = "/nl/{year}-{month}-{day}-{title}.html"
   when :de
     blog.sources = "/de/{year}-{month}-{day}-{title}.html"
+  when :en
+    blog.sources = "/en/{year}-{month}-{day}-{title}.html"
   end
   blog.tag_template = "blog/tag.html"
   # blog.calendar_template = "blog/calendar.html"
@@ -121,7 +135,7 @@ activate :blog do |blog|
     blog.sources = "/de/{title}.html"
   end
   blog.paginate = false
-end
+end unless root_locale == :en
 
 page "blog/*", layout: :blog_post_layout
 page "blog/tags/*", layout: :blog_layout
@@ -155,6 +169,8 @@ activate :search do |search|
     search.language = "du"
   when :de
     search.language = "de"
+  when :en
+    search.language = "en"
   end
 
   search.fields = {
@@ -236,6 +252,11 @@ when :de
   activate :deploy do |deploy|
     deploy.method = :git
     deploy.remote = "git@github.com:DefactoSoftware/website-de.git"
+  end
+when :en
+  activate :deploy do |deploy|
+    deploy.method = :git
+    deploy.remote = "git@github.com:DefactoSoftware/website-en.git"
   end
 end
 
@@ -367,7 +388,7 @@ helpers do
       if is_blog_index?
         url = full_url("/blog/", lang)
       elsif jobs_index?
-        url = full_url("/jobs/", lang)
+        url = lang == :en ? "/" : full_url("/jobs/", lang)
       elsif current_page.data.unique_for_locale == true
         url = full_url("", lang)
       else

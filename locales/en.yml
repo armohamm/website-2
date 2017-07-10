@@ -1,131 +1,321 @@
 ---
 en:
+  time:
+    formats:
+      blog_date: "%e %B %Y"
+  CNAME: en.defacto.nl
 
-# main navigation
-  menu: "Menu"
-  home: "Home"
-  solutions: "Solutions"
-  about: "About us"
-  references: "References"
-  blog: "Blog"
-
-# LearningSpaces
-  learningspaces:
+  # Path translations
+  paths:
+    bedankt: thanks
+    producten: products
+    diensten: services
+    over-ons: "about-us"
+    kwaliteitspaspoort: "quality-portfolio"
+    implementaties: implementations
+    koppelingen: integrations
+    referenties: references
+    demo-aanvragen: "request-demo"
+    productsheet-downloaden: "download-productsheet"
+    jobs: careers
+    zoeken: search
+  urls:
+    contact: https://formkeep.com/f/631f058db68f
+    productsheet: https://formkeep.com/f/631f058db68f
+    ebook: https://formkeep.com/f/631f058db68f
+    capp_agile: https://formkeep.com/f/631f058db68f
+    url: http://en.defacto.nl
+  about:
+    about_defacto: "About Defacto"
+    contact: Contact
+    heading: "We are Defacto"
+    heading2: "Learning and developing since 1987"
+    references: References
+    press: Media
+    jobs: Careers
+    team:
+      work_with_us: Work at
+      you: you?
+    testimonials: Testimonials
+  actions:
+    download: Download
+    home:
+      demo: "Request a demo"
+      productsheet: "Download a productsheet"
+    make_appointment: "Make an appointment"
+    more_about:
+      capp: "More CAPP"
+      quality: "More Quality Portfolio"
+      capp-agile: "More CAPP Agile Learning"
+      starterkit: "More E-Learning Starterkit"
+      threesixty: "More 360° Feedback"
+      elearning: "More E-Learning"
+      implementaties: "More implementations"
+      hosting: "More hosting & security"
+      koppelingen: "More integrations"
+    read_more: "Read More"
+    tell_me_more: "Tell me more"
+    try_for_free: "Free Trial"
+  blog:
+    more_on_our_blog: "More on our blog"
+    more_articles: "More articles"
+    read_more: "Read more"
+    title: "Blog – What engages us"
+    share:
+      share_post: "Share this article:"
+      twitter: Share on Twitter
+      facebook: Share on Facebook
+      google_plus: Share on Google+
+      linkedin: Share on LinkedIn
+      xing: Share on Xing
+    next: "Next"
+    prev: "Previous"
+    tags:
+      meta_description: "Blogs from Defacto related to %{tagname}"
+  capp:
+    name: "CAPP Learning & Developing"
+    desc: "CAPP ensures that your employees can learn and develop their talents in a straightforward and effective manner."
+    cta_bottom:
+      formkeep_title: "CAPP: make appointment"
+      heading_md: "More information on training & learning with **CAPP LMS**?"
     hero:
-      title: LearningSpaces
-      sub: __LearningSpaces__ is a fun and simple to use learning platform to enable learning and knowledge sharing among peers.
+      formkeep_title: "CAPP: download productsheet"
+      title: "Training & Learning with CAPP LMS"
+      subtitle_1: "Knowledge-intensive organisations can’t survive without well-trained employees."
+      subtitle_2: "Ensure that your employees are qualified and certified through CAPP LMS."
+      image: screenshots/hero-capp-lms_en.png
+  capp-agile:
+    name: CAPP Agile Learning
+    desc: "CAPP Agile Learning enables you to create a platform that is dedicated to your organisation's expertise. Performance Support made Agile; quick, effective and customised to your organisation."
+    logo: logos/capp-agile-white.png
+    hero:
+      heading: "Performance support for every organisation."
+      action: "Contact us"
+      img: screenshots/capp-agile-hero_en.png
+      quote: >
+        It’s the daily practice that sharpens your professional skills. Usually, it’s not a course or a manual you’re after - you just want to find that one piece of information you need right then and there.
+    why:
+      heading: "Why choose CAPP Agile Learning?"
+      make_share:
+        heading: "Create & share"
+        copy: >
+          Support your staff with instructions, useful video tutorials or graphics, and tips and tricks from the experts in your organisation. Our platform is a sleek and professional medium for sharing knowledge effortlessly with your employees.
+      on_demand:
+        heading: "On-demand learning"
+        copy: >
+          Make optimal use of your organisation's expertise - wherever, whenever. CAPP Agile Learning is available for all devices. Use the QR codes to obtain the right information. No more time-consuming searches in cluttered document systems.
+      performance:
+        heading: "Improve your performance"
+        copy: >
+          Improve your and your organisation's performance. CAPP Agile Learning enables you to create a platform that is dedicated to your organisation's expertise. Performance Support made Agile; quick, effective and customised to your organisation.
+    features:
+      make_share:
+        heading: "Create & share"
+        copy: |
+          Whether you produce your own content or wish to share existing information, CAPP Agile Learning makes it all possible. Our smart editor recognises links to YouTube, graphics and other online media, and automatically converts them into videos or images within the platform.
 
-# header
-  slogan: "Developing people"
-  tagline: "Defacto helps organisations developing their employees with software that works."
-  header_call_to_action: "tell me more"
-  what_we_do_html: "We develop cutting edge software around education and development. %{href}"
-  what_we_do_href: "See our showcase."
-# markets
-  markets_intro: "Hospitals, government departments and major businesses work with our software."
-  healthcare_title: "Healthcare"
-  healthcare_content_html: |
-    In de zorg is het niet alleen belangrijk om topkwaliteit te leveren, maar ook dat je kunt aantonen dat je de kwalificaties hebt die daarbij horen.
-    Je moet immers een betrouwbare partij zijn voor je patiënten, maar ook voor zorgverzekeraars en accreditaties.
-    Het kwaliteitspaspoort &trade; helpt je bij het verkrijgen en monitoren van competenties en vaardigheden.
-  government_title: "Overheid"
-  government_content: |
-    De overheid is een grote werkgever, waar bij altijd het maatschappelijk doel voorop staat. Zij heeft de moeilijke positie dat ze de
-    verantwoordelijkheid heeft haar geld effectief uit te geven, en daarnaast het goede voorbeeld te geven voor alle werkgevers in Nederland.
-    Met onze software vallen  beide aspecten op hun plek; We helpen medewerkers zich te ontwikkelen en doen dat op een effectieve en
-    kostenbesparende manier.
-  business_title: "Bedrijfsleven"
-  business_content: |
-    Je grootste kapitaal als bedrijf is altijd je personeel. Als je personeel zich ontwikkelt kan je bedrijf groeien.
-    Als je personeel op een plek zit die bij hun kwaliteiten past, haal je maximaal rendement. Defacto helpt je om je personeel op te leiden,
-    te stimuleren zich te ontwikkelen en inzicht te krijgen in hun competenties.
-# solutions
-  solutions_title: "Solutions for your organization"
-  solutions_content: "Lorem Ipsum"
-  solutions_call_to_action: "Read more"
-# references
-  others_title: "What others have to say"
-  others_quote: "Working with Defacto is working on tomorrow."
-  others_name: "Trudy de Vrei"
-  case_title: "Case: Municipality of The Hague"
-  case_content: |
-    Hoe ziet een samenwerking met Defacto er in de praktijk uit? Laten we onze samenwerking met de Gemeente Den Haag als voorbeeld nemen.
-    Den Haag is bezig met het project Vakmanschap, een project met als doel om door coaching, opleiding en toetsing tegelijkertijd de vakbekwaamheid en de werktevredenheid van haar werknemers te vergroten.
-    Hiervoor gebruiken ze nagenoeg de gehele functionaliteit van CAPP; CAPP Leren, CAPP Ontwikkelen en het Kwaliteitspaspoort. De samenwerking beviel goed, zowel in het onderling contact, als bij de medewerkers die CAPP nu konden gebruiken om overzicht te krijgen op opleidingsmogelijkheden, competenties bij te houden en hun ontwikkelplan in zicht te houden. ~~
-    Daarom is Den Haag nu een belangrijk ‘launching partner’ voor ons geworden. Zij krijgen de beschikking over onze nieuwste software en kunnen daarbij richting geven aan het ontwikkelproces.
-    Elk bezoek van ons aan Den Haag maakt steeds weer beide partijen enthousiast over de toekomst.
-  case_call_to_action: "Read more"
-# footer (contact section)
-  name: "Name"
-  organization: "Organization"
-  phone: "Phone"
-  email: "E-mail"
-  message: "Message"
-  send: "Send"
-# ================== ^ Landing page ^ ===============
-# solutions page
-  solutions_page_title: "Oplossingen"
-  solutions_page_intro: "Iedereen leert op een unieke manier, met eigen talenten en leerstrategieën."
-  solutions_page_capp_title: "CAPP Leren & Ontwikkelen"
-  solutions_page_capp_description: |
-    Met CAPP Kwaliteitspaspoort krijgen zowel werknemers en werkgevers duidelijk zicht op specifieke functie-eisen en algemene organisatie-eisen.
-    Elke medewerker krijgt een Kwaliteitspaspoort, een profiel waarin overzichtelijk wordt weergegeven welke kwalificaties een medewerker heeft behaald,
-    en welke consequenties dat heeft voor de uitoefening van zijn of haar functie.
-    Met het Kwaliteitspaspoort wordt de kwaliteit in uw organisatie aantoonbaar voor medewerkers, leidinggevenden en accrediterende organisaties.
-  solutions_page_starter_kit_title: "E-Learning Starter Kit"
-  solutions_page_starter_kit_description: |
-    De productie van e-learningcontent uitbesteden is vaak duur, en je blijft uiteindelijk zitten met een product dat net niet lekker aansluit op wat
-    je binnen je organisatie wilt leren. Het is goedkoper en effectiever om het in eigen hand te nemen.
-    De E-learning Starterkit bevat alles dat je nodig hebt om meteen van start te kunnen: hardware, software en een korte training.
-    Minimaliseer de opstartfase en begin meteen met het maken van je eigen e-learningcontent.
-  solutions_page_360_title: "360&deg;-Feedback"
-  solutions_page_360_description: |
-    Ontwikkeling begint bij zelfkennis. 360° Feedback helpt medewerkers aan deze zelfkennis door vragenlijsten te sturen aan bijvoorbeeld collega’s,
-    managers, ondergeschikten en klanten. Op deze manier breng je snel en gemakkelijk de krachten en zwaktes van een medewerker in beeld en
-    kan je beginnen aan een ontwikkelplan. 360° Feedback is interessant voor organisaties die van hun medewerkers verwachten dat ze aan
-    hun eigen ontwikkeling werken, en die willen dat dat zo weinig mogelijk afleidt van de dagelijkse praktijk.
-    360° Feedback is snel, duidelijk en effectief.
-  solutions_page_jaargesprekken_title: "Jaargesprekken"
-  solutions_page_jaargesprekken_description: |
-    Het is belangrijk om het werk van medewerkers regelmatig te evalueren. Zo weet je zeker of je nog op één lijn zit, het laat de medewerker weten dat
-    zijn werk erkend en gewaardeerd wordt, en het is mogelijkheid voor zowel de werkgever als de medewerker om pijnpunten te bespreken.
-    Het positieve effect ervan zal echter kort duren als het volkomen geïsoleerd van de praktijk plaatsvindt.
-    Met de Jaargesprekken-app geef je context aan het jaargesprek, je verzamelt in de aanloop ernaar toe thema’s die ter sprake moeten worden gebracht,
-    en achteraf kun je duidelijk inzien welke doelen er gesteld zijn.
-  solutions_page_innovation_title: "Research & Development"
-  solutions_page_innovation_description: ""
-# About us page
-  about_us_title: "Over ons"
-  about_us_story: "Op de werkvloer van Defacto is een bonte mix te vinden van jong en oud. Defacto gelooft in jong talent en in het bijzonder in jong talent dat begeleid wordt door mensen met ervaring in het vak. Binnen het team van Defacto staan kennisoverdracht, eigen inbreng en creatief nadenken centraal. Als er nieuwe kansen zijn, worden ze gegrepen, nieuwe mogelijkheden worden onderzocht. Deze kruisbestuiving van verschillende generaties maakt dat Defacto zonder moeite in kan spelen op ontwikkelingen en haar medewerkers hun talent volop kunnen ontplooien."
-  team_intro: "Lorem Ipsum team intro flavor"
-  team_title: "Ons Team"
-# Healthcare page
-  healthcare_page_title: "Topzorg"
-  healthcare_page_description: "Lorem Ipsum"
-# Government page
-  government_page_title: "Overheid"
-  government_page_description: "Lorem Ipsum"
-# Business page
-  business_page_title: "Bedrijfsleven"
-  business_page_description: "Hipster Ipsum"
-# =============
-# CAPP page
-  capp_title: "CAPP"
-  capp_description: "lorem lorem ipsum shoreditch"
-# E-Learning Starter Kit Page
-  starter_kit_title: "E-Learning Starter Kit"
-  starter_kit_description: "Lorem tekst uit productsheet ipsum"
-# 360 page
-  360_title: "360&deg;-Feedback"
-  360_description: "Lorem Ipsum landing page tekst"
-# jaargesprekken page
-  jaargesprekken_title: "Jaargesprekken"
-  jaargesprekken_description: "Lorem Ipsumnieuwe tekst?"
-# Innovatie page
-  innovation_title: "Research & Development"
-  innovation_description: "link naar blog"
-  learning_spaces_title: "Learning Spaces"
-  learning_spaces_tagline: "Lorem Ipsum tag line voor learning spaces"
-  learning_spaces_description: "Lorem Ipsum"
-  arcade_learning_title: "Arcade Learning"
-  arcade_learning_description: "Lorem Ipsum "
+          Written content is automatically published in a sleek layout, giving your platform a uniform and professional look.
+
+          This means you only need to focus on the content while CAPP Agile Learning takes care of the layout.
+        img: screenshots/capp-agile-editor_en.png
+        img_alt: "The CAPP Agile Learning Markdown Editor"
+      up_to_date:
+        heading: "Stay up to date"
+        copy: |
+          Select the subjects that matter to you. Subscribe to relevant information and receive notifications of any content changes. This way, you will always be up to date.
+        img: "screenshots/capp-agile-up-to-date_en.png"
+        img_alt: "Always up-to-date"
+      on_demand:
+        heading: "On demand"
+        link: https://learningspaces.cappagile.com/s/pFcU-F6g-7ji_MkiQW7pYw
+        copy: |
+          Give your employees information exactly when they need it. Assign QR codes that link directly to work instructions or protocols to devices or other physical objects (try it for yourself by scanning the adjacent QR code and see how fast it works).
+
+          Use the Shared Spaces functionality to make information available without having to log on to the platform.
+
+          This ensures that every user receives the information required for optimal performance exactly when they need it, in other words: just in time.
+        img: screenshots/capp-agile-qr-code_en.png
+        img_alt: "On demand with QR-codes"
+      demand_driven:
+        heading: "Demand-driven"
+        copy: |
+          It is impossible to predict exactly which expertise will be required within an organisation. A lack of knowledge is often discovered (too) late because the need for this expertise is hidden. CAPP Agile Learning solves this problem by starting a dialogue with the users.
+
+          Our Question and Answer functionality allows employees to ask the organisation questions when they lack or cannot locate certain information. Help your staff on their way by providing an immediate answer and use their input to create extra content.
+        img: screenshots/capp-agile-questions_en.png
+        img_alt: "Demand-driven with Questions & Answers"
+    form:
+      heading: "Contact us"
+      options:
+        heading: "I am interested in:"
+        info: "More information about CAPP Agile Learning"
+        demo: "A (live) demo"
+        trial: "A trial account"
+        inform: "Staying up to date via email"
+      img: screenshots/capp-agile-demo_en.png
+      img_alt: "Request a demo or information"
+    testimonials_heading: "Read what our customers have to say"
+    clients_heading: "Our customers"
+  contact:
+    heading: "Hi, nice to meet you!"
+    heading2: "We’re here to help, provide you with more information and answer your questions."
+    main:
+      heading: "How can we help?"
+      question:
+        heading: "More information"
+        info: "Do you have a question or would you like to know more about our software and services?"
+        button: "Request information"
+      demo:
+        heading: "Request a demo"
+        info: "Do you want to know how our software can help? Why not request a demo? We’d love to show you."
+        button: "Request a demo"
+      support:
+        heading: "Support"
+        info: "Do you need help? Click here to chat directly with our support team."
+        button: "Get support"
+    form_title: "Contact"
+    form_info: "Use our contact form to send us an email. Or you can call us at +31 50 3144 832"
+    email: info@defacto.nl
+    phone: "+31 (0)50 3144832"
+    phone_link: "+31503144832"
+  demo_request:
+    title: "Demo request"
+    heading: "Request a demo"
+    formkeep_title: "Demo request"
+  elearning:
+    cta_bottom:
+      formkeep_title: "E-Learning: more information"
+      heading_md: "Want to know what E-learning can do for your organisation? "
+    heading: The application of E-learning within your organisation will become an irrevocable success with Defacto as an experienced and technically skilled partner.
+  elearning_ebook:
+    formkeep_title: "E-book download"
+    formkeep_title_popup: "E-book download popup"
+    heading_html: "Get our <span class=\"pre\">E-Learning</span> Handbook for free"
+    image_alt: "E-Learning Handbook Learn & Let Learn"
+  elearning_starterkit:
+    desc: "Create your own content with the E-Learning Starterkit. Save time and money by designing the E-Learning content that suits your individual needs and organisational requirements."
+    hero:
+      formkeep_title: "E-Learning Starterkit"
+      text_md: "Create your own teaching materials simply and affordably."
+      title: "E-Learning Starterkit"
+    name: "E-Learning Starterkit"
+  error:
+    heading: "Sorry, this page doesn't exist."
+    text_md: "This doesn’t mean you did something wrong, it’s possible that we renamed the page or relocated it."
+  footer:
+    capp: "CAPP Learning & Developing"
+    country: "The Netherlands"
+    search: "Search"
+    copyright_html: "This website is %{link} © 1987 - %{year} Defacto"
+    open_source: "open source"
+  form:
+    email: Email
+    name: Name
+    organisation: Company or organisation
+    submit: Send
+    quality: "CAPP Quality Portfolio"
+    informal: "CAPP Agile Learning"
+    product: "Choose a product"
+    phone: "Phone Number"
+    message: "How can we help?"
+  head:
+    default_description: "Defacto helps organisations with the development and certification of their employees."
+    default_title: Defacto
+  header:
+    about: "About Us"
+    blog: Blog
+    contact: Contact
+    home: Home
+    menu: Menu
+    products: Products
+    services: Services
+    jobs: Careers
+  home:
+    hero:
+      text: "More than 200.000 professionals use our software to learn and develop their talents. "
+      title: "Developing People"
+    solutions:
+      informal:
+        text_html: "Real-time performance support. Improve your employee performance by providing knowledge on-demand. Keep track of the knowledge within your organisation, share protocols, manuals, QR-codes and work instructions."
+        title: "CAPP Agile Learning"
+      learn:
+        text_html: "Provide your employees with efficient tools for their professional development and a structured and accessible personal portfolio. Create professional insight with %{link}."
+        title:  CAPP Learning & Developing
+      quality:
+        text_html: "Get real-time insight into the professional competencies, accomplishments and skills within your team and organisation. Meet permanent and visible formal quality requirements."
+        title: CAPP Quality Portfolio
+  implementaties:
+    heading: Implementation doesn’t have to be complicated
+  hosting:
+    heading: "Hosting and Security"
+  koppelingen:
+    heading: "Certified integration"
+  kwaliteitspaspoort:
+    cta_bottom:
+      formkeep_title: "Kwaliteitspaspoort: make appointment"
+      heading_md: "Want to start obtaining your accreditations with CAPP Quality Portfolio right now?"
+    desc: "Guarantee quality within your organisation by working on the competencies and skills of your employees. Foster the long-term development of every individual with CAPP Quality Portfolio."
+    hero:
+      formkeep_title: "Kwaliteitspaspoort: more information"
+      text_md: "Insight into competencies and capacities at a glance "
+      image: screenshots/hero-quality-portfolio.png
+    logo: logos/qualityportfolio-white.png
+    name: CAPP Quality Portfolio
+  nav:
+    capp-lms: "LMS and efficiency software to advance the development of your employees."
+    kwaliteitspaspoort: "Real-time insights into competencies within your organisation"
+    capp-agile: "Performance support on demand"
+    starterkit: "Create your own professional e-learning content"
+    threesixty: "Increase the efficiency and quality of your HRD"
+  press:
+    heading: "Media"
+  products:
+    title: "Products that we are proud of"
+    capp:
+      capp-lms: "CAPP Learning & Developing"
+  productsheet_download:
+    heading: "More information about training and learning with CAPP LMS?"
+    title: "Download CAPP Productsheet"
+  references:
+    title: "Our references"
+  search:
+    heading: Search
+    placeholder: Search our website
+    result: "result"
+    results: "results"
+    downloading: "Downloading index..."
+    vacancy: "Vacancy"
+    page: "Page"
+  services:
+    services:
+      elearning:
+        desc: "With Defacto as an experienced and skilled partner, e-learning will be a success in your organisation."
+        name: E-Learning
+      hosting:
+        desc: "Having 30 years of experience with IT implementations we know that high quality hosting and high level information security are extremely important."
+        name: "Hosting & Security"
+      implementaties:
+        desc: "Defacto has developed its own methods through which we ensure a successful strategy and implementation while working closely with our clients."
+        name: Implementations
+      koppelingen:
+        desc: "CAPP LMS can be integrated with other systems. For example; information systems that include HR-related data, assessment databases, e-learning suppliers and many more."
+        name: Integrations
+    title: "We ensure a successful implementation of CAPP LMS with the following services"
+  testimonials:
+    title:  What others say about us
+    more_testimonials: More testimonials
+  thanks:
+    heading: Thank you!
+    message: You will hear from us as soon as possible.
+    message_download: 'The download should start automatically…
+                      If not, <a target="_blank">click here</a>.'
+    back: Back to the previous page.
+  threesixty:
+    cta_bottom:
+      heading_md: "Look in the mirror with 360° Feedback."
+    desc: "Make your HRD more efficient. 360° Feedback makes it easy for employees to improve their self-knowledge and formulate development goals."
+    hero:
+      text_md: "Effortless evaluations through a user-friendly cloudservice."
+      title: "360° Feedback"
+    logo: logos/360feedback.svg
+    name: "360° Feedback"

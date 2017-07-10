@@ -1,0 +1,45 @@
+#
+# TESTIMONIALS
+#####################################################################################################
+#
+# Note:
+#
+# Testimonials are displayed from top to bottom. So the first in this file will be on top.
+# Same goes for featured testimonials (on homepage): the first two with featured:true will show.
+#
+# Example:
+#
+# - name: Martina de Vos
+#   company: "Opleidingsadviseur, Sint Franciscus Gasthuis"
+#   avatar: testimonials/martina_de_vos.jpg
+#   featured: true
+#   quote: "This is the full version of the quote"
+#   summary: "This is the short version of the quote (optional, only used when summary:true)"
+#
+# Usage:
+#
+# <%= partial "testimonials", locals: {
+#   count: 2,         # amount of testimonials to show (optional)
+#   featured: true,   # only show featured (optional)
+#   summary: true     # show summary if present, otherwise the full quote (optional)
+# } %>
+#
+#####################################################################################################
+
+- name: Peter van Eijl
+  company: Founder, Doppio Espresso
+  avatar: testimonials/peter_van_eijl.jpg
+  quote: |
+    CAPP Agile Learning is an open platform for all participants; it unlocks a wealth of knowledge shared between our various disciplines. It also provides rich and good-looking content in a user-friendly way.
+
+- name: Ronald van Rheenen
+  company: Nuclear Physician, University Medical Center Groningen
+  avatar: testimonials/ronald_van_rheenen.jpg
+  quote: |
+    CAPP Agile Learning allows me to share my knowledge and profit from the knowledge of others.
+
+- name: Esther Douma
+  company: Training Coordinator, DPA Benkis
+  avatar: testimonials/esther_douma.jpg
+  quote: |
+    With CAPP Agile Learning, communication with and between our trainees is clear and smooth. We use the spaces for our banking trainee programme with various training courses, workshops and coaching. Preparatory assignments, evaluations, discussions and practical information - everything is incredibly easy to manage!

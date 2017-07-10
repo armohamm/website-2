@@ -1,10 +1,8 @@
 .index {
 
-  &.nl {
-    .header-image {
-      $hero-image: "../images/moods/defacto.jpg";
-      background-image: url($hero-image);
-    }
+  .header-image {
+    $hero-image: "../images/moods/defacto.jpg";
+    background-image: url($hero-image);
   }
 
   &.de {

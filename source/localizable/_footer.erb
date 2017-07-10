@@ -1,57 +1,7 @@
 <footer class="footer">
   <div class="row">
-    <div class="col">
-      <h6><%= link_to t("header.products"), "/producten.html" %></h6>
-      <ul>
-        <% if root_locale == :nl %>
-          <li><%= link_to t("footer.capp"), "/capp-lms.html" %></li>
-        <% end %>
-        <% if root_locale == :de %>
-          <li><%= link_to t("footer.capp.learn"), "/capp-bilden.html" %></li>
-          <li><%= link_to t("footer.capp.develop"), "/capp-entwickeln.html" %></li>
-        <% end %>
-        <li><%= link_to t("kwaliteitspaspoort.name"), "/kwaliteitspaspoort.html" %></li>
-        <li><%= link_to t("capp-agile.name"), "/capp-agile-learning.html" %></li>
-        <li><%= link_to t("elearning_starterkit.name"), "/e-learning-starterkit.html" %></li>
-        <li><%= link_to t("threesixty.name"), "/360-feedback.html" %></li>
-      </ul>
-    </div>
 
-    <div class="col">
-      <h6><%= link_to t("header.services"), "/diensten.html" %></h6>
-      <ul>
-        <li><%= link_to t("services.services.elearning.name"), "/e-learning.html" %></li>
-        <li><%= link_to t("services.services.implementaties.name"), "/implementaties.html" %></li>
-        <% if I18n.locale == :de %>
-          <li><%= link_to t("services.services.hosting.name"), "/hosting.html" %></li>
-        <% elsif root_locale == :nl %>
-          <li><%= link_to t("services.services.hosting.name"), "/hosting-security.html" %></li>
-        <% end %>
-        <li><%= link_to t("services.services.koppelingen.name"), "/koppelingen.html" %></li>
-      </ul>
-    </div>
-
-    <% if I18n.locale == :nl %>
-      <div class="col">
-        <h6><%= t("footer.themes") %></h6>
-        <ul>
-          <li><%= link_to t("footer.cmt"), "/convenant-medische-technologie.html" %></li>
-          <li><%= link_to t("footer.70-20-10"), "/70-20-10.html" %></li>
-        </ul>
-      </div>
-    <% end %>
-
-    <div class="col">
-      <h6><%= link_to t("header.about"), "/over-ons.html" %></h6>
-      <ul>
-        <li><%= link_to t("about.testimonials"), "/testimonials.html" %></li>
-        <li><%= link_to t("about.references"), "/referenties.html" %></li>
-        <li><%= link_to t("about.press"), "/media.html" %></li>
-        <li><%= link_to t("header.jobs"), "/jobs/index.html" %></li>
-        <li><%= link_to t("header.blog"), "/blog/" %></li>
-        <li><%= link_to t("footer.search"), "/zoeken/" %></li>
-      </ul>
-    </div>
+    <%= partial "footer/footer-nav" %>
 
     <div class="col contact">
       <h6><%= link_to t("header.contact"), "/contact.html" %></h6>
@@ -63,12 +13,7 @@
         T&nbsp;&nbsp;<a href="tel:<%= t("contact.phone_link") %>" class="phone"><%= t("contact.phone") %></a><br>
         E&nbsp;&nbsp;<a href="mailto:<%= t("contact.email") %>"><%= t("contact.email") %></a>
       </p>
-      <ul class="social-links">
-        <li><a href="https://twitter.com/DefactoSoftware" target="_blank" title="Twitter" class="icon-twitter" data-event="footer-twitter"></a></li>
-        <li><a href="https://www.linkedin.com/company/489640" target="_blank" title="LinkedIn" class="icon-linkedin" data-event="footer-linkedin"></a></li>
-        <li><a href="https://www.xing.com/companies/defactosoftware" target="_blank" title="Xing" class="icon-xing" data-event="footer-xing"></a></li>
-        <li><a href="https://github.com/DefactoSoftware" target="_blank" title="GitHub" class="icon-github" data-event="footer-github"></a></li>
-      </ul>
+      <%= partial "footer/social-links" %>
       <p>
         <a href="https://www.certipedia.com/quality_marks/9108633443?locale=en" target="_blank">
           <%= image_tag "tuv-certified.png", alt: "TUV Certified" %>

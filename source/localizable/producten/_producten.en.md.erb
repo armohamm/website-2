@@ -1,0 +1,53 @@
+<ul class="solutions-list">
+
+  <li class="capp">
+    <% link_to "/capp-lms.html", class: "col left" do %>
+      <h2><%= t("capp.name") %></h2>
+    <% end %>
+    <div class="col right">
+      <p><%= t("capp.desc", link: link_to(t("capp.name"), "/capp-lms.html")) %></p>
+      <%= link_to t("actions.more_about.capp"), "/capp-lms.html", class: "button blue outline" %>
+    </div>
+  </li>
+
+  <li class="kwaliteitspaspoort">
+    <% link_to "/kwaliteitspaspoort.html", class: "col left" do %>
+      <h2><%= image_tag t("kwaliteitspaspoort.logo"), alt: t("kwaliteitspaspoort.name") %></h2>
+    <% end %>
+    <div class="col right">
+      <p><%= t("kwaliteitspaspoort.desc", link: link_to(t("kwaliteitspaspoort.name"), "/kwaliteitspaspoort.html")) %></p>
+      <%= link_to t("actions.more_about.quality"), "/kwaliteitspaspoort.html", class: "button turquoise outline" %>
+    </div>
+  </li>
+
+  <li class="capp-agile">
+    <% link_to "/capp-agile-learning.html", class: "col left" do %>
+      <h2><%= image_tag t("capp-agile.logo"), alt: t("capp-agile.name") %></h2>
+    <% end %>
+    <div class="col right">
+      <p><%= t("capp-agile.desc", link: link_to(t("capp-agile.name"), "/capp-agile-learning.html")) %></p>
+      <%= link_to t("actions.more_about.capp-agile"), "/capp-agile-learning.html", class: "button green outline" %>
+    </div>
+  </li>
+
+  <li class="starterkit">
+    <% link_to "/e-learning-starterkit.html", class: "col left" do %>
+      <h2><%= t("elearning_starterkit.name") %></h2>
+    <% end %>
+    <div class="col right">
+      <p><%= t("elearning_starterkit.desc", link: link_to(t("elearning_starterkit.name"), "/e-learning-starterkit.html")) %></p>
+      <%= link_to t("actions.more_about.starterkit"), "/e-learning-starterkit.html", class: "button red outline" %>
+    </div>
+  </li>
+
+  <li class="threesixty">
+    <% link_to "/360-feedback.html", class: "col left" do %>
+      <h2><%= image_tag t("threesixty.logo"), alt: t("threesixty.name") %></h2>
+    <% end %>
+    <div class="col right">
+      <p><%= t("threesixty.desc", link: link_to(t("threesixty.name"), "/360-feedback.html")) %></p>
+      <%= link_to t("actions.more_about.threesixty"), "/360-feedback.html", class: "button orange outline" %>
+    </div>
+  </li>
+
+</ul>

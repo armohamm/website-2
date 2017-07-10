@@ -2,9 +2,11 @@
 title:
   nl: E-Learning maken met de Starterkit
   de: E-Learning Starterkit
+  en: Make E-Learning content with the Starterkit
 description:
-  nl: Maak je eigen content met de E-Learning Starterkit van Defacto. Zo bespaar je geld en sluit content beter aan.
+  nl: Maak je eigen content met de E-Learning Starterkit. Zo bespaar je geld en sluit content beter aan.
   de: Erstellen Sie Ihre eigenen Module mit dem E-Learning Starterkit. Sparen Sie Geld und passen Sie Ihre Inhalte besser an.
+  en: Create your own content with the E-Learning Starterkit. Get better suited content while saving money.
 ---
 
 <div class="hero">
@@ -17,7 +19,7 @@ description:
         <input type="hidden" name="utf8" value="✓">
         <input type="hidden" name="form" value="<%= t("elearning_starterkit.hero.formkeep_title") %>">
         <input type="text" name="name" placeholder="<%= t("form.name") %>">
-        <input type="text" name="organization" placeholder="<%= t("form.organization") %>">
+        <input type="text" name="organisation" placeholder="<%= t("form.organisation") %>">
         <input type="email" name="email" placeholder="<%= t("form.email") %>" required>
         <button type="submit" class="green"><%= t("actions.tell_me_more") %></button>
       </form>
@@ -46,7 +48,7 @@ description:
       <input type="hidden" name="utf8" value="✓">
       <input type="hidden" name="form" value="<%= t("elearning_ebook.formkeep_title") %>">
       <input type="text" name="name" placeholder="<%= t("form.name") %>">
-      <input type="text" name="organization" placeholder="<%= t("form.organization") %>">
+      <input type="text" name="organisation" placeholder="<%= t("form.organisation") %>">
       <input type="email" name="email" id="ebook-email" placeholder="<%= t("form.email") %>" required>
       <input type="hidden" name="download" value="<%= full_url(data.downloads.ebook[I18n.locale]) %>">
       <button type="submit"><%= t("actions.download") %></button>
