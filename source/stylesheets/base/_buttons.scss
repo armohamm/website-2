@@ -61,6 +61,10 @@
     @include button($blue);
   }
 
+  &.blue-gray {
+    @include button($blue-gray);
+  }
+
   &.green {
     @include button($green);
   }

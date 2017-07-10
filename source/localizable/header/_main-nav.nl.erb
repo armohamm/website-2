@@ -9,6 +9,9 @@
     <li class="has-dropdown" data-content="services">
       <%= nav_link_to t("header.services"), "/diensten.html" %>
     </li>
+    <li class="has-dropdown" data-content="themes">
+      <%= nav_link_to t("header.themes"), "/themas.html" %>
+    </li>
     <li class="has-dropdown" data-content="about-us">
       <%= nav_link_to t("header.about"), "/over-ons.html" %>
     </li>
@@ -90,7 +93,19 @@
             <li><%= nav_link_to t("services.services.implementaties.name"), "/implementaties.html" %></li>
             <li><%= nav_link_to t("services.services.hosting.name"), "/hosting-security.html" %></li>
             <li><%= nav_link_to t("services.services.koppelingen.name"), "/koppelingen.html" %></li>
-            <li><%= nav_link_to t("services.services.cmt.name"), "/convenant-medische-technologie.html" %></li>
+          </ul>
+        </div>
+      </li>
+
+      <li id="themes" class="dropdown links">
+        <div class="content">
+          <h2 class="dropdown-title">
+            <%= nav_link_to t("header.themes"), "/themas.html" %>
+          </h2>
+
+          <ul class="links-list">
+            <li><%= nav_link_to t("themes.70-20-10.name"), "/70-20-10.html" %></li>
+            <li><%= nav_link_to t("themes.cmt.name"), "/convenant-medische-technologie.html" %></li>
           </ul>
         </div>
       </li>

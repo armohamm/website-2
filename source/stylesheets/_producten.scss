@@ -1,5 +1,6 @@
 .producten_index,
-.diensten_index {
+.diensten_index,
+.themas_index {
 
   .solutions-list {
     > li {
@@ -128,10 +129,10 @@
 
     .left {
       background-color: $color;
-      background-size: 150px 150px;
       background-image:
-        linear-gradient(90deg, rgba(#fff, 0.08) 50%, transparent 50%),
-        linear-gradient(rgba(#fff, 0.08) 50%, transparent 50%);
+        linear-gradient(90deg, rgba($white, 0.08) 50%, transparent 50%),
+        linear-gradient(rgba($white, 0.08) 50%, transparent 50%);
+      background-size: 150px 150px;
     }
 
     h2 {
@@ -201,6 +202,24 @@
         rgba($color, 0.3) 66%,
         lighten($color, 5) 66%,
         $fallback: lighten($color, 10));
+    }
+  }
+
+  .x70-20-10 {
+    .left {
+      background-color: $green;
+      background-image: url("../images/moods/70-20-10.jpg");
+      background-position: center;
+      background-size: 250%;
+    }
+  }
+
+  .convenant-mt {
+    .left {
+      background-color: $blue-alt;
+      background-image: url("../images/moods/medische-technologie.jpg");
+      background-position: center;
+      background-size: 250%;
     }
   }
 }

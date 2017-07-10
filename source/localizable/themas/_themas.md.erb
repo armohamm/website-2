@@ -1,0 +1,23 @@
+<ul class="solutions-list">
+
+  <li class="x70-20-10">
+    <% link_to "/70-20-10.html", class: "col left" do %>
+      <h2><%= t("themes.70-20-10.name") %></h2>
+    <% end %>
+    <div class="col right">
+      <p><%= t("themes.70-20-10.desc", link: link_to(t("themes.70-20-10.name"), "/70-20-10.html")) %></p>
+      <%= link_to t("actions.more_about.70-20-10"), "/70-20-10.html", class: "button green outline" %>
+    </div>
+  </li>
+
+  <li class="convenant-mt">
+    <% link_to "/convenant-medische-technologie.html", class: "col left" do %>
+      <h2><%= t("themes.cmt.name") %></h2>
+    <% end %>
+    <div class="col right">
+      <p><%= t("themes.cmt.desc", link: link_to(t("themes.cmt.name"), "/convenant-medische-technologie.html")) %></p>
+      <%= link_to t("actions.more_about.cmt"), "/convenant-medische-technologie.html", class: "button blue-gray outline" %>
+    </div>
+  </li>
+
+</ul>

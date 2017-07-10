@@ -29,7 +29,9 @@ nl:
     make_appointment: "Maak een afspraak"
     read_more: "Lees verder"
     more_about:
+      70-20-10: "Meer 70:20:10"
       capp: "Meer CAPP"
+      cmt: "Meer CMT"
       quality: "Meer Kwaliteitspaspoort"
       capp-agile: "Meer CAPP Agile Learning"
       starterkit: "Meer E-learning Starterkit"
@@ -226,6 +228,7 @@ nl:
     products: Producten
     services: Diensten
     jobs: Jobs
+    themes: Thema's
   home:
     cta:
       button: "Maak een afspraak"
@@ -299,6 +302,14 @@ nl:
     message_download: 'De download zou nu automatisch moeten starten...
                       Zo niet, klik dan <a target="_blank">hier</a>.'
     back: Terug naar de vorige pagina.
+  themes:
+    title: "Actuele thema's"
+    70-20-10:
+      name: "70:20:10 in de praktijk"
+      desc: "Mensen leren continu in jouw organisatie. Het 70:20:10 leermodel kan eraan bijdragen de ontwikkelingen bij te houden, gericht op het behalen van doelen en verbeteren van prestaties."
+    cmt:
+      name: "Convenant Medische Technologie"
+      desc: "Ieder ziekenhuis heeft er mee te maken: aantoonbare en transparante bekwaamheid van medewerkers die gebruikmaken van medische technologie."
   threesixty:
     cta_bottom:
       heading_md: "Kijk in de spiegel met 360° Feedback."
