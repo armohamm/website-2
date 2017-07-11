@@ -4,6 +4,7 @@ The source code for our websites:
 
 [http://www.defacto.nl](http://www.defacto.nl)  
 [http://www.defactolearning.de](http://www.defactolearning.de)
+[http://en.defacto.nl](http://en.defacto.nl)
 
 More detailed information can be found at the [Wiki](https://github.com/DefactoSoftware/website/wiki).
 
@@ -38,7 +39,7 @@ rake deploy # Deploy all locales
 
 `:de` is deployed to [website-de/tree/gh-pages](https://github.com/DefactoSoftware/website-de/tree/gh-pages).
 
-`:en` is deployed to [website-de/tree/gh-pages](https://github.com/DefactoSoftware/website-en/tree/gh-pages).
+`:en` is deployed to [website-en/tree/gh-pages](https://github.com/DefactoSoftware/website-en/tree/gh-pages).
 
 ##### Useful links for debugging
 
