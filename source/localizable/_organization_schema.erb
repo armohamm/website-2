@@ -5,13 +5,13 @@
     "name": "Defacto Software",
     "description": "<%= meta_description %>",
     "url": "<%= t("urls.url") %>",
-    "logo": "http://www.defacto.nl/images/logos/defacto-16a6a805.svg",
+    "logo": "<%= full_url "images/logos/defacto.png" %>",
     "sameAs": [
+      "https://github.com/DefactoSoftware",
       "https://twitter.com/DefactoSoftware",
       "https://www.linkedin.com/company/defacto",
       "https://plus.google.com/101736158500234596266",
-      "https://github.com/DefactoSoftware",
-      "https://www.youtube.com/user/DefactoSoftware"
+      "https://www.youtube.com/channel/UCoyhrJQW4gCoZCuNVkwyrng"
     ],
     "address": {
       "@type": "PostalAddress",
@@ -20,7 +20,7 @@
       "addressLocality": "Groningen",
       "addressRegion": "Groningen, Nederland",
       "telephone": "<%= t("contact.phone") %>",
-      "email": "mailto:info@defacto.nl"
+      "email": "mailto:<%= t("contact.email") %>"
     }
   }
 </script>

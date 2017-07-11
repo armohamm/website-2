@@ -59,6 +59,8 @@
 
     <%= partial "footer" %>
 
+    <%= partial "organization_schema" if root_url? %>
+
     <%= partial "popup-ebook" if !is_blog? && current_page.data.popup != false && data.downloads.ebook[I18n.locale] %>
 
     <%= javascript_include_tag "jquery", "all" %>
