@@ -112,10 +112,8 @@ de:
     logo: logos/capp-agile-white.png
     hero:
       heading: "Performance-Support für alle Unternehmen und Organisationen"
-      action: "Kontaktieren Sie uns"
+      action: "Demo anfragen"
       img: screenshots/capp-agile-hero_de.png
-      quote: >
-        Ihre Arbeitsleistungen optimieren Sie ganz natürlich direkt am Arbeitsplatz. Und dann suchen Sie nicht erst nach einem Kurs oder einer Anleitung, sondern nach genau dem Stückchen Information, das Sie gerade benötigen.
     why:
       heading: "Warum CAPP Agile Learning?"
       make_share:
@@ -167,15 +165,9 @@ de:
         img: screenshots/capp-agile-fragen.png
         img_alt: "An der Nachfrage orientiert mit Frage und Antwort"
     form:
-      heading: "Kontakt aufnehmen"
-      options:
-        heading: "Ich interessiere mich für:"
-        info: "weitere Informationen über CAPP Agile Learning"
-        demo: "eine (Live-) Präsentation"
-        trial: "einen Test-Account"
-        inform: "Halten Sie mich per E-Mail auf dem Laufenden"
+      heading: "Demo anfragen"
       img: screenshots/capp-agile-demo_de.png
-      img_alt: "Weitere Informationen oder eine (Live-) Präsentation"
+      img_alt: "Eine (Live-) Präsentation anfragen"
     testimonials_heading: "Kundenstimmen"
     clients_heading: "Referenzen"
   contact:

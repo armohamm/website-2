@@ -9,9 +9,8 @@ header_style: white
 nav_white: true
 ---
 
+<%= partial "capp-agile/capp-agile-clients" %>
 <%= partial "capp-agile/capp-agile" %>
-
-<%= partial "capp-agile/capp-agile-testimonials" %>
 
 <section class="info-request gray" id="info-request">
 
@@ -23,28 +22,8 @@ nav_white: true
 
       <form class="form-contact" accept-charset="UTF-8" action="<%= t("urls.capp_agile") %>" method="POST">
         <input type="hidden" name="utf8" value="✓">
-        <input type="hidden" name="form" value="Contact - CAPP Agile Learning">
-
+        <input type="hidden" name="form" value="Demo - CAPP Agile Learning">
         <input type="email" name="email" placeholder="<%= t("form.email") %>" required>
-
-        <h3><%= t("capp-agile.form.options.heading") %></h3>
-        <div class="checkbox">
-          <input type="checkbox" name="info" id="info" checked>
-          <label for="info"><%= t("capp-agile.form.options.info") %></label>
-        </div>
-        <div class="checkbox">
-          <input type="checkbox" name="demo" id="demo">
-          <label for="demo"><%= t("capp-agile.form.options.demo") %></label>
-        </div>
-        <div class="checkbox">
-          <input type="checkbox" name="trial" id="trial">
-          <label for="trial"><%= t("capp-agile.form.options.trial") %></label>
-        </div>
-        <div class="checkbox">
-          <input type="checkbox" name="inform" id="inform">
-          <label for="inform"><%= t("capp-agile.form.options.inform") %></label>
-        </div>
-
         <button type="submit"><%= t("form.submit") %></button>
       </form>
 
@@ -58,4 +37,4 @@ nav_white: true
 
 </section>
 
-<%= partial "capp-agile/capp-agile-clients" %>
+<%= partial "capp-agile/capp-agile-testimonials" %>

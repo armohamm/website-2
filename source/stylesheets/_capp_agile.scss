@@ -1,22 +1,66 @@
 body.capp-agile-learning {
 
-  .logo {
-    margin: 0 auto 1.2em;
-    max-width: 300px;
+  .header-image {
+    $hero-image: "../images/moods/capp-agile-learning.jpg";
+    background: $green url($hero-image) center fixed;
   }
 
-  h1 {
-    color: $white;
-    font-size: 1.8em;
-    font-weight: 500;
-    margin: 0 auto 1.2em;
-    max-width: 800px;
+  .hero {
+    position: relative;
+
+    .logo {
+      margin: 0 auto 1.2em;
+      max-width: 400px;
+    }
+
+    .hero-inner {
+      padding: 2em 1em 4em;
+      position: relative;
+
+      @include media($large-up) {
+        padding: 2em 1em 18em;
+      }
+
+      .button {
+        display: inline-block;
+        margin-bottom: 2em;
+      }
+
+      .hero-img {
+        display: block;
+        margin: 0 auto 4em;
+
+        @include media($large-up) {
+          left: 0;
+          margin: 0 auto;
+          position: absolute;
+          right: 0;
+
+          &.nl {
+            top: 325px;
+          }
+
+          &.de {
+            top: 225px;
+          }
+        }
+      }
+    }
+
+    h1 {
+      color: $white;
+      font-family: $base-font-family;
+      font-size: 1.4em;
+      font-weight: 500;
+      margin: 0 auto 1.2em;
+      max-width: 800px;
+    }
   }
 
   h2 {
     color: $dark-gray;
     font-size: 1.6em;
-    font-weight: 500;
+    font-weight: 300;
     margin-bottom: 1.2em;
 
     @include media($medium-up) {
@@ -24,68 +68,118 @@ body.capp-agile-learning {
     }
   }
 
-  h3 {
-    color: $dark-gray;
-    font-size: 1.4em;
-    font-weight: 500;
+  .clients {
+    border-bottom: 1px solid $gray;
 
-    @include media($medium-up) {
-      font-size: 1.8em;
+    @include media($large-up) {
+      padding-top: 16em;
+    }
+
+    img {
+      opacity: 0.7;
     }
   }
 
-  .header-image {
-    $hero-image: "../images/moods/capp-agile-learning.jpg";
-    background: $green url($hero-image) center fixed;
+  .features {
+    text-align: center;
 
-    .hero-inner {
-      padding: 2em 1em 0;
+    .row {
+      display: flex;
+      flex-flow: row wrap;
+      margin-bottom: 2em;
+      padding: 2em 0;
+      text-align: left;
 
-      h2 {
-        color: $white;
-        font-size: 1.4em;
-        font-style: italic;
-        font-weight: 600;
-        margin: 0 auto 4em;
-        max-width: 960px;
-        text-shadow: 0 3px 1px rgba($black, 0.1);
-
-        @include media($medium-up) {
-          font-size: 2em;
-        }
-
-        &::before,
-        &::after {
-          color: lighten($gray, 0.5);
-          content: "“";
-          font-family: "Trebuchet MS", "Helvetica Neue", Arial, sans-serif;
-          font-size: 1.2em;
-          line-height: 0;
-          margin: 0 -6px 0 0;
-          position: relative;
-          top: 4px;
-        }
-
-        &::after {
-          content: "”";
-          margin: 0 0 0 -6px;
-        }
-      }
-
-      .button {
-        display: inline-block;
-        margin-bottom: 4em;
+      @include media($xlarge-up) {
+        display: block;
+        padding: 4em 0;
       }
     }
 
-    .hero-img {
-      display: block;
-      margin: 0 auto 4em;
+    .row:last-child {
+      border-bottom: 0;
+    }
+
+    .col {
+      flex: 2 100%;
+      padding: 0 1em;
+
+      @include media($large-up) {
+        @include span-columns(6);
+
+        &-img:first-child {
+          padding-right: 2em;
+        }
+
+        &-img:last-child {
+          padding-left: 2em;
+        }
+      }
+
+      img {
+        display: block;
+        margin: 0 auto 1em;
+      }
+
+      &-img {
+        margin-bottom: 1em;
+        order: 1;
+      }
+
+      &-text {
+        order: 2;
+      }
+    }
+
+    h3 {
+      font-weight: 500;
+    }
+
+    .screenshot {
+      $border-color: #f1f2f1;
+      border: 2px solid $border-color;
+    }
+  }
+
+  .testimonials {
+    background: $lighter-gray;
+  }
+
+  .info-request {
+    text-align: left;
+
+    h2 {
+      margin-bottom: 1em;
+      margin-top: 1em;
+    }
+
+    .col {
+      margin-bottom: 2em;
+
+      @include media($large-up) {
+        @include span-columns(7);
+        margin-top: 2em;
+
+        &:first-child {
+          @include span-columns(5);
+          padding-right: 2em;
+        }
+      }
+    }
+
+    h3 {
+      font-size: 1.4em;
+    }
+
+    label {
+      font-weight: 500;
+      margin-bottom: 0;
     }
   }
 
   .why {
     background: $lighter-gray;
+    padding: 4em 0;
     text-align: center;
 
     h2 {
@@ -94,7 +188,7 @@ body.capp-agile-learning {
 
     .row {
       max-width: 1380px;
-      padding: 2em 1em;
+      padding: 0 1em;
 
       @include media($large-up) {
         display: flex;
@@ -143,102 +237,6 @@ body.capp-agile-learning {
         font-size: 2em;
         font-weight: 700;
       }
-    }
-  }
-
-  .features {
-    padding: 0;
-
-    .row {
-      border-bottom: 1px solid $light-gray;
-      display: flex;
-      flex-flow: row wrap;
-      margin-bottom: 2em;
-      padding: 2em 0;
-
-      @include media($xlarge-up) {
-        display: block;
-        padding: 4em 0;
-      }
-    }
-
-    .row:last-child {
-      border-bottom: 0;
-    }
-
-    .col {
-      flex: 2 100%;
-      padding: 0 1em;
-
-      @include media($large-up) {
-        @include span-columns(6);
-
-        &-img:first-child {
-          padding-right: 2em;
-        }
-
-        &-img:last-child {
-          padding-left: 2em;
-        }
-      }
-
-      img {
-        display: block;
-        margin: 0 auto 1em;
-      }
-
-      &-img {
-        margin-bottom: 1em;
-        order: 1;
-      }
-
-      &-text {
-        order: 2;
-      }
-    }
-
-    h3 {
-      font-weight: 700;
-    }
-
-    .screenshot {
-      $border-color: #f1f2f1;
-      border: 2px solid $border-color;
-    }
-  }
-
-  .testimonials {
-    background: $lighter-gray;
-  }
-
-  .info-request {
-    text-align: left;
-
-    h2 {
-      margin-bottom: 1em;
-    }
-
-    .col {
-      margin-bottom: 2em;
-
-      @include media($large-up) {
-        @include span-columns(7);
-        margin-bottom: 0;
-
-        &:first-child {
-          @include span-columns(5);
-          padding-right: 2em;
-        }
-      }
-    }
-
-    h3 {
-      font-size: 1.4em;
-    }
-
-    label {
-      font-weight: 500;
-      margin-bottom: 0;
     }
   }
 }
