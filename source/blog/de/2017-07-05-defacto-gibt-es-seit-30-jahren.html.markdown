@@ -2,7 +2,7 @@
 title: Defacto gibt es seit 30 Jahren!
 date: 2017-07-05 08:00 CEST
 tags: Defacto, 30 Jahren
-author: Stephanie
+author: Stéphanie
 lang: de
 featured: true
 image: images/blog/social/30-jaar-1200x630.jpg
