@@ -17,7 +17,7 @@ Right now, *the metrics is the key of 'successful' performance*. Since it is ver
 
 The concept of knowledge worker was hyped by a management expert Peter Drucker in the 1950's, meaning before the internet happened! Difficult to comprehend how these knowledge workers were managed, and where was their expertise stored. But it all seemed to work, since 1950's was a time of transition from manual labor to work that requires high level of expertise and preciseness.
 
-Of course, knowledge workers existed since we stopped living in trees and became Homo Sapiens. For example, look at the middle ages; the craftsmen had their apprentices to [pass on the knowledge](http://blog.learningspaces.io/learning-in-the-age-of-the-tutorial/) they possessed. Hence, the first knowledge and expertise storage was another human being.
+Of course, knowledge workers existed since we stopped living in trees and became Homo Sapiens. For example, look at the middle ages; the craftsmen had their apprentices to [pass on the knowledge](/blog/learning-in-the-age-of-tutorial/) they possessed. Hence, the first knowledge and expertise storage was another human being.
 
 ![Evolution of Man](/images/blog/en/homosapiens.jpg)
 
