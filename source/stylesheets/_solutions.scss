@@ -7,7 +7,7 @@
     @include justify-content(space-around);
     margin-top: -5em;
 
-    @include media($medium-down) {
+    @include media($xlarge-down) {
       margin: 0;
     }
   }
@@ -26,7 +26,11 @@
     padding: 1.8em 0.4em 6em;
     position: relative;
     text-align: center;
-    width: 270px;
+    width: 360px;
+
+    body.de & {
+      width: 270px;
+    }
   }
 
   .button {

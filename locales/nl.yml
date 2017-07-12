@@ -232,13 +232,13 @@ nl:
       title: "Developing People"
     solutions:
       informal:
-        text_html: "<strong>Performance support door 'kennis-on-demand'</strong>. Verbeter prestaties door medewerkers te voorzien van just-in-time kennis. Leg kennis simpel vast en deel handleidingen, protocollen, werkinstructies, QR-codes e.d."
+        text_html: "Performance support door 'kennis-on-demand'. Voorzie medewerkers van _just-in-time_ kennis. Leg kennis simpel vast, deel handleidingen, werkinstructies en meer."
         title: "CAPP Agile Learning"
       learn:
         text_html: "Geef medewerkers efficiënte tools voor hun ontwikkelprocessen en een overzichtelijk persoonlijk portfolio. Creëer inzicht met %{link} Leren & Ontwikkelen."
         title: CAPP Leren & Ontwikkelen
       quality:
-        text_html: "Real-time inzicht in vakbevoegdheid van uzelf, uw team en uw organisatie. Voldoe permanent en zichtbaar aan de (formele) kwaliteitseisen."
+        text_html: "Real-time inzicht in de vakbevoegdheid van jezelf, het team en de gehele organisatie. Voldoe zichtbaar aan de gestelde kwaliteitseisen."
         title: CAPP Kwaliteitspaspoort
   hosting:
     heading: "Hosting & Security"

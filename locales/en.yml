@@ -236,7 +236,7 @@ en:
       title: "Developing People"
     solutions:
       informal:
-        text_html: "Real-time performance support. Improve your employee performance by providing knowledge on-demand. Keep track of the knowledge within your organisation, share protocols, manuals, QR-codes and work instructions."
+        text_html: "Real-time performance support. Improve employee performance by providing _on-demand_ knowledge. Keep track of the knowledge within your organisation, share protocols, manuals, instructions and more."
         title: "CAPP Agile Learning"
       learn:
         text_html: "Provide your employees with efficient tools for their professional development and a structured and accessible personal portfolio. Create professional insight with %{link}."
