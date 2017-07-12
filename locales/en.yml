@@ -307,8 +307,7 @@ en:
   thanks:
     heading: Thank you!
     message: You will hear from us as soon as possible.
-    message_download: 'The download should start automatically…
-                      If not, <a target="_blank">click here</a>.'
+    message_download: 'The download should start automatically…<br>If not, <a target="_blank">click here</a>.'
     back: Back to the previous page.
   threesixty:
     cta_bottom:
