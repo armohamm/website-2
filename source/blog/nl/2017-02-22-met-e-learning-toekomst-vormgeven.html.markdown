@@ -1,5 +1,5 @@
 ---
-title: Workshop “Hoe je met e-learning je toekomst vorm kunt geven"
+title: "Workshop: Hoe je met e-learning je toekomst vorm kunt geven"
 date: 2017-02-22 08:00 CEST
 tags: workshop, e-learning
 author: Martina

@@ -20,8 +20,6 @@ Unsere Kollegin Martina de Vos hat des Weiteren einen Vortrag zum Thema **Wissen
 
 <iframe src="https://www.youtube.com/embed/4meKUgypYmc?rel=0&amp;showinfo=0&amp;cc_lang_pref=de&amp;cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
 
-Für einen Einblick des Kongresses können Sie sich [hier Fotos ansehen](http://www.vernetzte-gesundheit.de/2017/fotoimpressionen/){:target="_blank"}.
-
 ---
 
 Spricht Sie dieses Thema an oder sind Sie an weiteren Informationen interessiert? [Schreiben Sie uns](mailto:info@defactolearning.de) oder rufen Sie uns an unter 040-306988472.

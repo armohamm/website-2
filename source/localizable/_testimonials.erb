@@ -23,13 +23,13 @@ end
       quote = testimonial.summary? ? testimonial.summary : testimonial.quote
       quote_html = locale_link_to(quote, "/testimonials.html##{quote_id}", class: "quote")
     else
-      quote = testimonial.quote
+      quote = simple_format(testimonial.quote)
       quote_html = content_tag(:div, quote, class: "quote")
     end
     %>
 
     <li id="<%= quote_id %>">
-      <%= simple_format quote_html %>
+      <%= quote_html %>
       <div class="author">
 
         <%=

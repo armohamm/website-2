@@ -65,7 +65,7 @@ nl:
   capp:
     cta_bottom:
       formkeep_title: "CAPP: afspraak maken"
-      heading_md: "Meer informatie over opleiden & leren met **CAPP LMS**?"
+      heading_md: "Meer informatie over opleiden & leren met CAPP LMS?"
       subheading: "Download de CAPP LMS Productsheet"
     desc: "%{link} zorgt er voor dat uw medewerkers op eenvoudige en doeltreffende wijze leren en hun talenten ontwikkelen."
     hero:
@@ -184,6 +184,7 @@ nl:
   error:
     heading: "Sorry, deze pagina bestaat niet."
     text_md: "Dit betekent niet dat je iets verkeerd hebt gedaan, het kan zijn dat we de pagina hernoemd of verplaatst hebben."
+    img_alt: "Pagina niet gevonden"
   footer:
     capp: "CAPP Leren & Ontwikkelen"
     copyright_html: "Deze website is %{link} © 1987 - %{year} Defacto"
@@ -292,6 +293,7 @@ nl:
     message: Je hoort zo snel mogelijk van ons.
     message_download: 'De download zou nu automatisch moeten starten…<br>Zo niet, klik dan <a target="_blank">hier</a>.'
     back: Terug naar de vorige pagina.
+    img_alt: "Bedankt!"
   themes:
     title: "Actuele thema's"
     70-20-10:

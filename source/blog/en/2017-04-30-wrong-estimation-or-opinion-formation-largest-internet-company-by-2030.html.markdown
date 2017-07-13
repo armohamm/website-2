@@ -16,7 +16,7 @@ A few weeks ago I stumbled upon an article about '[The largest internet company 
 
 During the past couple of years you hear a lot; *'Be careful the bot will steal your job!'* What about this one: *'Everything will be automated for the sake of efficiency, robots will take over most of the industries!'*
 
-![](/images/blog/en/giphy.gif)
+![Steve Urkel](/images/blog/en/giphy.gif)
 
 This is happening already. Robots are here, drones will deliver, and artificial intelligence is, and will play a bigger role in our lives. Though not to substitute someone, bots are here to advance every part of our lives.  
 

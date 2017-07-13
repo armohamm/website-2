@@ -12,12 +12,12 @@ testimonials = all_testimonials.clone
     <ul class="testimonial-list">
       <% testimonials.each do |testimonial|
 
-         quote = testimonial.quote
+         quote = simple_format(testimonial.quote)
          quote_html = content_tag(:div, quote, class: "quote")
       %>
 
         <li>
-          <%= simple_format quote_html %>
+          <%= quote_html %>
           <div class="author">
 
             <%=

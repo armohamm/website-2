@@ -77,7 +77,7 @@ en:
     desc: "CAPP ensures that your employees can learn and develop their talents in a straightforward and effective manner."
     cta_bottom:
       formkeep_title: "CAPP: make appointment"
-      heading_md: "More information on training & learning with **CAPP LMS**?"
+      heading_md: "More information on training & learning with CAPP LMS?"
     hero:
       formkeep_title: "CAPP: download productsheet"
       title: "Training & Learning with CAPP LMS"
@@ -202,6 +202,7 @@ en:
   error:
     heading: "Sorry, this page doesn't exist."
     text_md: "This doesn’t mean you did something wrong, it’s possible that we renamed the page or relocated it."
+    img_alt: "Page not found"
   footer:
     capp: "CAPP Learning & Developing"
     country: "The Netherlands"
@@ -309,6 +310,7 @@ en:
     message: You will hear from us as soon as possible.
     message_download: 'The download should start automatically…<br>If not, <a target="_blank">click here</a>.'
     back: Back to the previous page.
+    img_alt: "Thank you!"
   threesixty:
     cta_bottom:
       heading_md: "Look in the mirror with 360° Feedback."

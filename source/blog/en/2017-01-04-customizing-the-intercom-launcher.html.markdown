@@ -29,7 +29,7 @@ I think Intercom started using iframes to isolate/sandbox their widgets, e.g. to
 
 <script src="https://gist.github.com/852cfed0ee22b07b5263ca04930705c8.js?file=script.js" type="text/javascript"></script>
 
-We poll for the iframe to become ready, and append the `intercom.css` stylesheet to its head. Forgive me for the not so elegant polling, but this is because the Intercom Javascript API [lacks a ready callback](#intercomsmissingreadycallback) :(
+We poll for the iframe to become ready, and append the `intercom.css` stylesheet to its head. Forgive me for the not so elegant polling, but this is because the Intercom Javascript API lacks a ready callback :(
 
 The stylesheet that is injected by the script:
 
@@ -41,7 +41,7 @@ This stylesheet should **also be included in your app or website** (or at least 
 
 ## Create a custom launcher
 
-A custom launcher gives you more control over its appearance and behaviour. This is the "[official](https://docs.intercom.com/configure-intercom-for-your-product-or-site/customize-the-intercom-messenger/customize-the-intercom-messenger-technical){:target="_blank"}{:rel="noopener"}" way to customize the launcher, and probably more future proof compared to [injecting a stylesheet into the iframe](#injectastylesheetintotheiframe). The example below is a smaller recreation of the original launcher.
+A custom launcher gives you more control over its appearance and behaviour. This is the "[official](https://docs.intercom.com/configure-intercom-for-your-product-or-site/customize-the-intercom-messenger/customize-the-intercom-messenger-technical){:target="_blank"}{:rel="noopener"}" way to customize the launcher, and probably more future proof compared to injecting a stylesheet into the iframe. The example below is a smaller recreation of the original launcher.
 
 First create a link with a mailto address, which serves as a fallback in case Intercom is not (yet) booted. Don't forget to replace `YOUR_APP_ID`.
 

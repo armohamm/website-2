@@ -39,7 +39,7 @@ Tijdens de bijeenkomsten bleek dat er nog veel vragen zijn over de implementatie
 - Overdrijven we niet in het vinken en het verantwoorden waardoor we vergeten dat we in de zorg te maken hebben met professionals die eigen afwegingen en keuzes kunnen maken?
 - Kunnen we ook streven naar standaardisering op het gebied van risico-inventarisatie en profielen?
 
-Op verzoek van de aanwezige ziekenhuizen heeft Defacto een LearningSpace omgeving ingericht waarin kennis en ervaringen gedeeld kunnen worden. Rivierenland en het LUMC tonen hierin hun casus. Deze omgeving biedt de mogelijkheid tips, vragen en casussen te delen. Registreer u op [cmtseminar.learningspaces.io](http://cmtseminar.learningspaces.io) en denk mee!
+Op verzoek van de aanwezige ziekenhuizen heeft Defacto een LearningSpace omgeving ingericht waarin kennis en ervaringen gedeeld kunnen worden. Rivierenland en het LUMC tonen hierin hun casus. Deze omgeving biedt de mogelijkheid tips, vragen en casussen te delen. Registreer u op [cmtseminar.learningspaces.io](https://cmtseminar.cappagile.com/login) en denk mee!
 
 
 #### *Op 28 januari 2016 organiseren we een workshop over het Convenant Medische Technologie, waar we samen met u veel dieper in zullen gaan op het 3 stappen plan en alles dat erbij komt kijken. Meer informatie of aanmelden? Bezoek [de workshop pagina](/workshop-convenant-mt).*

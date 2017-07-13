@@ -4,6 +4,7 @@ title:
 description:
   nl: Leren is veel meer dan het zenden van informatie, breng 70:20:10 in de praktijk.
 popup: false
+unique_for_locale: true
 ---
 
 <div class="hero">
@@ -31,7 +32,7 @@ popup: false
 <section class="gray" id="contact-request">
   <div class="row">
     <h2><%= t("70-20-10.form.header") %></h2>
-    <p><%= simple_format t("70-20-10.form.text") %></p>
+    <%= simple_format t("70-20-10.form.text") %>
 
     <form class="form-inline" accept-charset="UTF-8" action="<%= t("urls.contact") %>" method="POST">
       <input type="hidden" name="utf8" value="✓">

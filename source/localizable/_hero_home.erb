@@ -4,7 +4,11 @@
       <h1><%= t("home.hero.title") %></h1>
       <h2><%= t("home.hero.text") %></h2>
       <%= nav_link_to t("actions.home.demo"), "/demo-aanvragen.html", "data-event": "home_demo", class: "button" %>
-      <%= nav_link_to t("actions.home.productsheet"), "/productsheet-downloaden.html", "data-event": "home_productsheet", class: "button white outline" unless root_locale == :en %>
+      <% if root_locale == :nl %>
+        <%= nav_link_to t("actions.home.productsheet"), "/productsheet-downloaden.html", "data-event": "home_productsheet", class: "button white outline" %>
+      <% elsif root_locale == :de %>
+        <%= nav_link_to t("actions.home.productsheet"), "/produktblatt-herunterladen.html", "data-event": "home_productsheet", class: "button white outline" %>
+      <% end %>
     </div>
   </div>
 </div>

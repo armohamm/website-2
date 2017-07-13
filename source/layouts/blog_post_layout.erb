@@ -1,41 +1,40 @@
 <% wrap_layout :layout do %>
 
-  <article class="post">
-    <header class="post-header">
-      <div class="row">
-        <div class="col">
-          <h1><%= current_article.title %></h1>
-          <%= partial "blog/blog-article-meta", locals: { article: current_article } %>
-        </div>
-      </div>
-    </header>
-
-    <div class="row post-body">
+<article class="post">
+  <header class="post-header">
+    <div class="row">
       <div class="col">
-        <%= yield %>
+        <h1><%= current_article.title %></h1>
+        <%= partial "blog/blog-article-meta", locals: { article: current_article } %>
       </div>
     </div>
+  </header>
 
-    <footer class="row post-footer">
-      <div class="col">
+  <div class="row post-body">
+    <div class="col">
+      <%= yield %>
+    </div>
+  </div>
 
-        <div class="author">
-          <%
-          author = blog_author(current_article)
-          author_name = author ? blog_author_name(author) : current_article.data.author
-          
-          if author && src = team_avatar_url(author) %>
-            <%= image_tag src, alt: author_name, class: "avatar" %>
-            <h4 class="author-name"><%= author_name %></h4>
-          <% end %>
-        </div>
+  <footer class="row post-footer">
+    <div class="col">
 
-        <%= partial "social-share" %>
+      <div class="author">
+        <%
+        author = blog_author(current_article)
+        author_name = author ? blog_author_name(author) : current_article.data.author
 
+        if author && src = team_avatar_url(author) %>
+          <%= image_tag src, alt: author_name, class: "avatar" %>
+          <h4 class="author-name"><%= author_name %></h4>
+        <% end %>
       </div>
-    </footer>
-  </article>
-</section>
+
+      <%= partial "social-share" %>
+
+    </div>
+  </footer>
+</article>
 
 <section class="post-related gray">
   <div class="row">

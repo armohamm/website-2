@@ -10,9 +10,9 @@ index: false
 
 <section class="gray">
   <div class="row">
-    <%= image_tag "warning.gif", class: "header-icon" %>
+    <%= image_tag "warning.gif", class: "header-icon", alt: t("error.img_alt") %>
     <h1><%= t("error.heading") %></h1>
-    <p><%= markitdown t("error.text_md") %></p>
+    <%= markitdown t("error.text_md") %>
   </div>
 </section>
 

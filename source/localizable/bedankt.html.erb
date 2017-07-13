@@ -10,11 +10,9 @@ index: false
 
 <section class="gray">
   <div class="row">
-    <%= image_tag "smile.gif", class: "header-icon" %>
+    <%= image_tag "smile.gif", class: "header-icon", alt: t("thanks.img_alt") %>
     <h1><%= t("thanks.heading") %></h1>
-    <h3>
-      <p class="thanks-message"><%= t("thanks.message") %></p>
-    </h3>
+    <h3 class="thanks-message"><%= t("thanks.message") %></h3>
     <p>
       <strong><a href="javascript:history.back()"><%= t("thanks.back") %></a></strong>
     </p>
