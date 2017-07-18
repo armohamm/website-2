@@ -4,7 +4,6 @@ date: 2017-07-14 8:00 CEST
 tags: kennis, e-learning
 author: Milda
 lang: nl
-featured: true
 image: images/blog/social/creation-1200x630.jpg
 featured_image: images/blog/featured/20170630-creation.jpg
 ---
