@@ -9,6 +9,7 @@ gem "middleman-deploy", "~> 1.0"
 gem "middleman-syntax"
 gem "middleman-autoprefixer"
 gem "middleman-search"
+gem "html-proofer"
 # gem "redcarpet"
 gem "nokogiri"
 gem "builder" # For feed.xml.builder

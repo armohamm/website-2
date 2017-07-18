@@ -53,22 +53,59 @@ namespace :build do
   end
 end
 
-## Deploy
-namespace :deploy do
-  def deploy(env)
+## Test
+namespace :test do
+  def test(env)
     begin
       Rake::Task["build:#{env}"].invoke
     rescue SystemExit => e
       puts "*"*50
-      puts "* Build failed, skipping deployment (locale #{env.upcase})"
+      puts "* Build failed, skipping test (locale #{env.upcase})"
       puts "*"*50
       exit(e.status)
     end
 
     puts "*"*50
-    puts "* Build successful, Deploying #{env.upcase} ... "
+    puts "* Build successful, Test #{env.upcase} ... "
     puts "*"*50
-    system "LOCALE=#{env} bundle exec middleman deploy"
+    system "ruby test.rb" or exit(1)
+  end
+
+  desc "Test NL"
+  task :nl do
+    test :nl
+  end
+
+  desc "Test DE"
+  task :de do
+    test :de
+  end
+
+  desc "Test EN"
+  task :en do
+    test :en
+  end
+end
+
+desc "Test all locales"
+task :test => ["test:nl", "test:de", "test:en"]
+
+# Deploy
+namespace :deploy do
+  def deploy(env)
+    begin
+      Rake::Task["test:#{env}"].invoke
+    rescue SystemExit => e
+      puts "*"*50
+      puts "* Test failed, skipping deployment (locale #{env.upcase})"
+      puts "*"*50
+      exit(e.status)
+    end
+
+    puts "*"*50
+    puts "* Test successful, Deploying #{env.upcase} ... "
+    puts "*"*50
+    system "LOCALE=#{env} bundle exec middleman deploy" or exit(1)
   end
 
   desc "Deploy NL"
