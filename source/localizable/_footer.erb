@@ -24,6 +24,9 @@
 
   <div class="copyright">
     <div class="row">
+      <% if root_locale == :de %>
+        <%= link_to "Datenschutz", "/datenschutz.html" %> |
+      <% end %>
       <%= t("footer.copyright_html", { link: link_to(t("footer.open_source"), "https://github.com/DefactoSoftware/website/", target: "_blank"), year: Time.now.year }) %>
     </div>
   </div>
