@@ -315,6 +315,12 @@ helpers do
     t("head.default_description")
   end
 
+  # Use frontmatter for meta robots or use default
+  def robots(page = current_page)
+    return page.data.robots if page.data.robots
+    "noydir,noodp,index,follow"
+  end
+
   # Page body classes
   def page_classes(path = current_path.dup, options = {})
     # Prevent page classes from being translated
