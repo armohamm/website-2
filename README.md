@@ -1,12 +1,19 @@
-## Defacto website
+## Defacto websites
 
 The source code for our websites:
 
 [http://www.defacto.nl](http://www.defacto.nl)  
-[http://www.defactolearning.de](http://www.defactolearning.de)
+[http://www.defactolearning.de](http://www.defactolearning.de)  
 [http://en.defacto.nl](http://en.defacto.nl)
 
 More detailed information can be found at the [Wiki](https://github.com/DefactoSoftware/website/wiki).
+
+##### Dependencies
+
+- Ruby 2.3.3 (install with [rbenv](https://github.com/sstephenson/rbenv))
+- Bundler
+
+To install other dependencies run `bundle install` from the root of the project.
 
 ##### Server
 
@@ -26,7 +33,16 @@ rake build:de
 rake build:en
 ```
 
-##### Deploy (and build before)
+##### Test (and build before)
+
+```bash
+rake test:nl
+rake test:de
+rake test:en
+rake test # Test all locales
+```
+
+##### Deploy (and build + test before)
 
 ```bash
 rake deploy:nl
@@ -46,9 +62,8 @@ rake deploy # Deploy all locales
 - http://localhost:4567/__middleman/config/
 - http://localhost:4567/__middleman/sitemap/
 
-##### Dependencies
+##### Thanks to
 
-- Ruby 2.3.3 (install with [rbenv](https://github.com/sstephenson/rbenv))
-- Bundler
-
-To install other dependencies run `bundle install` from the root of the project.
+- [Middleman](https://middlemanapp.com/)
+- [Middleman Search](https://github.com/manastech/middleman-search)
+- [HTMLproofer](https://github.com/gjtorikian/html-proofer)
