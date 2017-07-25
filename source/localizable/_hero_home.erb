@@ -2,12 +2,12 @@
   <div class="hero-inner">
     <div class="hero-copy">
       <h1><%= t("home.hero.title") %></h1>
-      <h2><%= t("home.hero.text") %></h2>
-      <%= nav_link_to t("actions.home.demo"), "/demo-aanvragen.html", "data-event": "home_demo", class: "button" %>
+      <h2><%= t("home.hero.text") unless root_locale == :de %></h2>
+      <%= nav_link_to t("actions.home.demo"), "/demo-aanvragen.html", "data-event" => "home_demo", class: "button" %>
       <% if root_locale == :nl %>
-        <%= nav_link_to t("actions.home.productsheet"), "/productsheet-downloaden.html", "data-event": "home_productsheet", class: "button white outline" %>
+        <%= nav_link_to t("actions.home.productsheet"), "/productsheet-downloaden.html", "data-event" => "home_productsheet", class: "button white outline" %>
       <% elsif root_locale == :de %>
-        <%= nav_link_to t("actions.home.productsheet"), "/produktblatt-herunterladen.html", "data-event": "home_productsheet", class: "button white outline" %>
+        <%= nav_link_to t("actions.home.productsheet"), "/produktblatt-herunterladen.html", "data-event" => "home_productsheet", class: "button white outline" %>
       <% end %>
     </div>
   </div>
