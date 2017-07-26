@@ -3,7 +3,7 @@
   text-align: center;
 
   .title {
-    color: #9eabb3;
+    color: $post-meta;
     margin-bottom: 5px;
   }
 
@@ -19,26 +19,31 @@
     margin: 0 5px;
   }
 
-  a {
-    color: #bbc7cc !important;
+  body.blog &,
+  body.jobs & {
 
-    &.icon-twitter2:hover {
-      color: #55acee !important;
-    }
+    a {
+      color: $social-share;
 
-    &.icon-facebook:hover {
-      color: #3b5998 !important;
-    }
+      &.icon-twitter2:hover {
+        color: $twitter;
+      }
 
-    &.icon-google-plus:hover {
-      color: #dd4b39 !important;
-    }
+      &.icon-facebook:hover {
+        color: $facebook;
+      }
 
-    &.icon-linkedin2:hover {
-      color: #00a0dc !important;
-    }
-    &.icon-xing:hover {
-      color: #026466 !important;
+      &.icon-google-plus:hover {
+        color: $google-plus;
+      }
+
+      &.icon-linkedin2:hover {
+        color: $linkedin;
+      }
+
+      &.icon-xing:hover {
+        color: $xing;
+      }
     }
   }
 

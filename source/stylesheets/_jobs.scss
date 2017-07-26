@@ -6,22 +6,22 @@
       padding: 3em 1em;
     }
 
+    a {
+      color: $blog-link-color;
+      text-decoration: none;
+
+      &:active,
+      &:focus,
+      &:hover {
+        color: darken($blog-link-color, 15%);
+      }
+    }
+
     article {
       float: none;
       margin: 0;
       max-width: none;
       width: 100%;
-
-      a {
-        color: $blog-link-color;
-        text-decoration: none;
-
-        &:active,
-        &:focus,
-        &:hover {
-          color: darken($blog-link-color, 15%);
-        }
-      }
     }
 
     .jobs-header {
