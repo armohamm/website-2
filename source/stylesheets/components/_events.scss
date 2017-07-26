@@ -1,0 +1,56 @@
+.events {
+  background: $gray;
+
+  h2 {
+    color: $medium-gray;
+    text-align: center;
+  }
+
+  h3 {
+    color: $medium-gray;
+    font-size: 1.4em;
+  }
+
+  .event-item {
+    background: $white;
+    border-radius: $base-border-radius;
+    margin: 0 auto;
+    max-width: 900px;
+    padding: 1.5em;
+
+    @include media($medium-up) {
+      @include clearfix;
+    }
+
+    .col {
+      &.left {
+        @include media($medium-up) {
+          @include span-columns(6);
+          border-right: 1px solid $gray;
+          padding-right: 4%;
+        }
+      }
+
+      &.right {
+        @include media($medium-up) {
+          @include span-columns(6);
+        }
+
+        img {
+          display: block;
+          margin: 1em auto;
+          max-width: 75%;
+
+          @include media($medium-up) {
+            margin: 0 0 2em;
+            max-width: 100%;
+          }
+        }
+      }
+    }
+
+    .info {
+      color: $post-meta;
+    }
+  }
+}

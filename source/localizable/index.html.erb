@@ -14,7 +14,10 @@ header_style: invert
 ---
 
 <%= partial "solutions-overview" %>
-<%= partial "home-copy" if root_locale == :de %>
+<% if root_locale == :de %>
+  <%= partial "events" %>
+  <%= partial "home-copy" %>
+<% end %>
 
 <section class="testimonials featured-testimonial">
   <div class="headline">
