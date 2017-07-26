@@ -11,6 +11,15 @@ nl:
     job_apply: https://formkeep.com/f/da32eaeda39e
     capp_agile: https://formkeep.com/f/0f2125be5045
     url: http://www.defacto.nl
+  70-20-10:
+    header: "70:20:10 in de praktijk"
+    subheading: "Leren is veel meer dan het zenden van informatie"
+    action: "Neem contact op"
+    form:
+      header: "Meer informatie?"
+      text: |
+        Wil je meer weten over de implementatie van 70:20:10 en Performance Support?
+        Laat je e-mailadres achter, dan nemen onze specialisten zo snel mogelijk contact met je op.
   about:
     about_defacto: Over Defacto
     contact: Contact
@@ -161,8 +170,10 @@ nl:
     email: info@defacto.nl
     phone: "050 3144832"
     phone_link: "+31503144832"
-  press:
-    heading: "Media"
+  demo_request:
+    title: "Demo aanvragen"
+    heading: "Vraag een demo aan"
+    formkeep_title: "Demo request"
   elearning:
     cta_bottom:
       formkeep_title: "E-Learning: meer informatie"
@@ -245,6 +256,19 @@ nl:
     heading: "Hosting & Security"
   implementaties:
     heading: "Implementaties hoeven niet ingewikkeld te zijn."
+  jobs:
+    hero:
+      header: "Werken bij Defacto?"
+      text: "Wij zijn altijd op zoek naar gemotiveerde mensen"
+    subheader: "Vacatures:"
+    form:
+      header: "Interesse?"
+      text: "Vul het onderstaande formulier in, dan nemen we zo snel mogelijk contact met je op."
+    more:
+      header: "Meer vacatures:"
+    share:
+      share_post: "Deel deze vacature:"
+    acquisition: "Let op: acquisitie op basis van deze vacature wordt niet op prijs gesteld."
   koppelingen:
     heading: "Gecertificeerde koppelingen"
   kwaliteitspaspoort:
@@ -259,12 +283,32 @@ nl:
       image: screenshots/hero-kwaliteitspaspoort.png
     logo: logos/kwaliteitspaspoort-white.png
     name: Kwaliteitspaspoort
+  nav:
+    capp-lms: "LMS en efficiënte tools voor de ontwikkelprocessen van je medewerkers"
+    kwaliteitspaspoort: "Real-time inzicht in bevoegd- en bekwaamheid binnen je organisatie"
+    capp-agile: "Performance support voor elke organisatie"
+    starterkit: "Creëer je eigen professionele e-learning content"
+    threesixty: "Maak een efficiëntieslag in je HRD"
+  press:
+    heading: "Media"
   products:
     title: "Producten waar we trots op zijn."
     capp:
       capp-lms: "CAPP Leren & Ontwikkelen"
+  productsheet_download:
+    title: "CAPP Productsheet downloaden"
+    heading: "Meer informatie over opleiden & leren met CAPP LMS?"
+    formkeep_title: "CAPP download productsheet page"
   references:
     title: "Onze referenties"
+  search:
+    heading: Zoeken
+    placeholder: Zoekopdracht
+    result: "resultaat"
+    results: "resultaten"
+    downloading: "Index downloaden"
+    vacancy: "Vacature"
+    page: "Pagina"
   services:
     services:
       elearning:
@@ -311,47 +355,3 @@ nl:
       title: "360° Feedback"
     logo: logos/360feedback.svg
     name: "360° Feedback"
-  jobs:
-    hero:
-      header: "Werken bij Defacto?"
-      text: "Wij zijn altijd op zoek naar gemotiveerde mensen"
-    subheader: "Vacatures:"
-    form:
-      header: "Interesse?"
-      text: "Vul het onderstaande formulier in, dan nemen we zo snel mogelijk contact met je op."
-    more:
-      header: "Meer vacatures:"
-    share:
-      share_post: "Deel deze vacature:"
-    acquisition: "Let op: acquisitie op basis van deze vacature wordt niet op prijs gesteld."
-  demo_request:
-    title: "Demo aanvragen"
-    heading: "Vraag een demo aan"
-    formkeep_title: "Demo request"
-  productsheet_download:
-    title: "CAPP Productsheet downloaden"
-    heading: "Meer informatie over opleiden & leren met CAPP LMS?"
-    formkeep_title: "CAPP download productsheet page"
-  nav:
-    capp-lms: "LMS en efficiënte tools voor de ontwikkelprocessen van je medewerkers"
-    kwaliteitspaspoort: "Real-time inzicht in bevoegd- en bekwaamheid binnen je organisatie"
-    capp-agile: "Performance support voor elke organisatie"
-    starterkit: "Creëer je eigen professionele e-learning content"
-    threesixty: "Maak een efficiëntieslag in je HRD"
-  search:
-    heading: Zoeken
-    placeholder: Zoekopdracht
-    result: "resultaat"
-    results: "resultaten"
-    downloading: "Index downloaden"
-    vacancy: "Vacature"
-    page: "Pagina"
-  70-20-10:
-    header: "70:20:10 in de praktijk"
-    subheading: "Leren is veel meer dan het zenden van informatie"
-    action: "Neem contact op"
-    form:
-      header: "Meer informatie?"
-      text: |
-        Wil je meer weten over de implementatie van 70:20:10 en Performance Support?
-        Laat je e-mailadres achter, dan nemen onze specialisten zo snel mogelijk contact met je op.
