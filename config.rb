@@ -77,10 +77,14 @@ page "/*.txt", layout: false
 ignore "/fonts/icons/selection.json"
 
 # Redirects to prevent 404's
-redirect "elearning.html", to: "e-learning.html"
-redirect "elearning-starterkit.html", to: "e-learning-starterkit.html"
-redirect "capp.html", to: "capp-lms.html"
-redirect "learningspaces.html", to: "capp-agile-learning.html"
+unless root_locale == :en
+  redirect "elearning.html", to: "e-learning.html"
+  redirect "elearning-starterkit.html", to: "e-learning-starterkit.html"
+  redirect "capp.html", to: "capp-lms.html"
+  redirect "learningspaces.html", to: "capp-agile-learning.html"
+end
+
+# Redirects locale specific
 case root_locale
 when :nl
   redirect "workshop-convenant-mt.html", to: "convenant-medische-technologie.html"

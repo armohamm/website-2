@@ -43,6 +43,7 @@ namespace :build do
     build :de
     FileUtils.rm_rf("build/nl", verbose: true)
     FileUtils.rm_rf("build/en", verbose: true)
+    FileUtils.rm_rf("build/de", verbose: true)
   end
 
   desc "Build EN"
