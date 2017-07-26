@@ -1,44 +1,48 @@
-#team {
-  background-color: #f6f6f6;
+.team {
+  background-color: $light-gray-two;
   text-align: center;
 
   li {
     display: inline-block;
     margin: 0 1em 1em;
-  }
 
-  .avatar {
-    background-color: #e6e6e6;
-    color: #c6c6c6;
-    margin-bottom: 8px;
+    &.you {
+      .avatar {
+        @include transition(background 0.1s linear);
+        background-color: $blue-alt;
+        color: $white;
+      }
 
-    &.no-image {
-      &:before,
-      &:after {
-        background-color: #d6d6d6;
+      a:hover .avatar {
+        background-color: darken($blue-alt, 15%);
+      }
+
+      a {
+        color: $blue-alt;
+        display: block;
+
+        &:active,
+        &:focus,
+        &:hover {
+          color: darken($blue-alt, 15%);
+        }
       }
     }
   }
 
-  li.you {
-    .avatar {
-      @include transition(background 0.1s linear);
-      background-color: $blue-alt;
-      color: #fff;
+  .avatar {
+    background-color: $avatar;
+    color: $avatar-color;
+    margin-bottom: 8px;
+
+    @include media($medium-up) {
+      @include avatar-size(80px);
     }
 
-    a:hover .avatar {
-      background-color: darken($blue-alt, 15%);
-    }
-
-    a {
-      color: $blue-alt;
-      display: block;
-
-      &:active,
-      &:focus,
-      &:hover {
-        color: darken($blue-alt, 15%);
+    &.no-image {
+      &::before,
+      &::after {
+        background-color: $no-image;
       }
     }
   }
@@ -47,18 +51,12 @@
     font-size: 0.8em;
     font-weight: 700;
 
+    @include media($medium-up) {
+      font-size: 1em;
+    }
+
     span {
       display: block;
-    }
-  }
-
-  @include media($medium-up) {
-    .avatar {
-      @include avatar-size(80px);
-    }
-
-    h5 {
-      font-size: 1em;
     }
   }
 }
