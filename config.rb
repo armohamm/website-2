@@ -319,6 +319,20 @@ helpers do
     t("head.default_description")
   end
 
+  # Use frontmatter for canonical urls
+  def canonical
+    if current_page.data.canonical_url
+      html = ""
+      if current_page.data.canonical_url.is_a?(Hash) && current_page.data.canonical_url[I18n.locale]
+        url = current_page.data.canonical_url.send(I18n.locale)
+      else
+        url = current_page.data.canonical_url
+      end
+      html << tag(:link, rel: "canonical", href: url)
+    end
+    html
+  end
+
   # Use frontmatter for meta robots or use default
   def robots(page = current_page)
     return page.data.robots if page.data.robots
