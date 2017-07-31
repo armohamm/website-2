@@ -4,7 +4,6 @@ date: 2017-07-05 08:00 CEST
 tags: Defacto, 30 Jahren
 author: Stéphanie
 lang: de
-featured: true
 image: images/blog/social/30-jaar-1200x630.jpg
 featured_image: images/blog/featured/20170627-30-jaar.jpg
 ---
