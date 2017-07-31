@@ -4,6 +4,7 @@ date: 2017-07-31 8:00 CEST
 tags: Wissen, E-Learning
 author: Milda
 lang: de
+featured: true
 image: images/blog/social/creation-1200x630.jpg
 featured_image: images/blog/featured/20170630-creation.jpg
 ---
