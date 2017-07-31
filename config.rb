@@ -93,6 +93,9 @@ when :de
   redirect "hosting-security.html", to: "hosting.html"
   redirect "capp-lms.html", to: "capp-bilden.html"
   redirect "kundenreferenzen.html", to: "kundenstimmen.html"
+when :en
+  redirect "capp-11.html", to: "capp-lms.html"
+  redirect "organisatie.html", to: "about-us.html"
 end
 
 # Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
