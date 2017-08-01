@@ -2,135 +2,111 @@
   background-color: $lighter-gray;
   text-align: center;
 
-  &.inverted {
-    background-color: $white;
-
-    .quote {
-      background-color: $lighter-gray;
-
-      &::before {
-        background-color: $lighter-gray;
-      }
-    }
-  }
-
-  &.cols .testimonial-list {
-    margin: 0;
-    max-width: none;
-
-    li {
-      @include media($large-up) {
-        @include span-columns(4);
-        @include omega(3n);
-      }
-    }
-  }
-
-  .button {
-    margin-top: 3em;
-  }
-}
-
-.testimonial-list {
-  $quote-background: #fff;
-  $quote-border: none;
-  $arrow-size: 25px;
-  $avatar-size: 50px;
-
-  margin: 0 auto;
-  max-width: 800px;
-  text-align: left;
-
-  li {
-    @include clearfix;
-    margin-bottom: 1em;
-    padding: 1em 0;
-
-    &:last-of-type {
-      margin-bottom: 0;
-    }
-  }
-
-  .quote {
-    background-color: $quote-background;
-    border: $quote-border;
-    border-radius: $base-border-radius;
-    color: #888;
-    display: block;
-    font-size: 1.1em;
-    font-style: italic;
-    line-height: 1.4em;
-    margin-bottom: 15px;
-    padding: 1.5em;
-    position: relative;
-
-    &::before {
-      @include transform(rotate(45deg));
-      background-color: $quote-background;
-      border: $quote-border;
-      bottom: -$arrow-size / 2;
-      content: "";
-      display: block;
-      height: $arrow-size;
-      left: 60px;
-      position: absolute;
-      width: $arrow-size;
-    }
-
-    p {
-      &:first-child {
-        margin-top: 0;
-      }
-
-      &:last-child {
-        margin-bottom: 0;
-      }
-    }
-  }
-
-  a.quote {
-    color: #888;
-
-    &:hover {
-      color: #444;
-    }
-  }
-
-  .author {
-    margin: $avatar-size/2 0 0;
-    position: relative;
-  }
-
-  .avatar {
-    background-color: #fcfcfc;
-    border-radius: 50%;
-    float: left;
-    height: $avatar-size;
-    margin: 0 $avatar-size/4 0 $avatar-size/2;
-    width: $avatar-size;
-
-    &.no-image {
-      &::before,
-      &::after {
-        background-color: #d6d6d6;
-      }
-    }
-  }
-
-  .name {
-    margin: 5px 0;
-  }
-
-  .company {
-    color: #999;
-    display: block;
-    font-size: 0.8em;
-  }
-}
-
-.featured-testimonial {
   .testimonial-list {
     margin: 0 auto;
     max-width: 800px;
+    text-align: left;
+
+    li {
+      padding: 1em 0;
+
+      &:last-of-type {
+        margin-bottom: 0;
+      }
+    }
+
+    .quote {
+      background-color: $white;
+      border: 0;
+      border-radius: $base-border-radius;
+      color: $testimonial-gray;
+      display: block;
+      font-size: 1.1em;
+      font-style: italic;
+      line-height: 1.4em;
+      margin-bottom: 15px;
+      padding: 1.5em;
+      position: relative;
+
+      &::before {
+        @include transform(rotate(45deg));
+        background-color: $white;
+        border: border;
+        bottom: -$arrow-size / 2;
+        content: "";
+        display: block;
+        height: $arrow-size;
+        left: 60px;
+        position: absolute;
+        width: $arrow-size;
+      }
+
+      p {
+        &:first-child {
+          margin-top: 0;
+        }
+
+        &:last-child {
+          margin-bottom: 0;
+        }
+      }
+    }
+
+    a.quote {
+      color: $testimonial-gray;
+
+      &:hover {
+        color: $dark-gray;
+      }
+    }
+
+    .author {
+      margin: $avatar-size / 2 0 0;
+      position: relative;
+
+      .avatar {
+        background-color: $avatar;
+        border-radius: 50%;
+        float: left;
+        height: $avatar-size;
+        margin: 0 $avatar-size / 4 0 $avatar-size / 2;
+        width: $avatar-size;
+
+        &.no-image {
+          &::before,
+          &::after {
+            background-color: $no-image;
+          }
+        }
+      }
+
+      .name {
+        margin: 5px 0;
+      }
+
+      .company {
+        color: $footer-gray;
+        display: block;
+        font-size: 0.8em;
+      }
+    }
+  }
+
+  &.featured-testimonials {
+    @include media($large-up) {
+      .testimonial-list {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 3em;
+        max-width: 1200px;
+
+        li {
+          flex: 1;
+          margin-left: 1em;
+          margin-right: 1em;
+          max-width: 800px;
+        }
+      }
+    }
   }
 }
