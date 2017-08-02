@@ -34,7 +34,7 @@
   cursor: pointer;
   display: inline-block;
   font-family: $base-font-family;
-  font-size: $base-font-size * 1.2;
+  font-size: $base-font-size;
   -webkit-font-smoothing: antialiased;
   font-weight: 600;
   padding: $base-spacing / 2;
@@ -42,6 +42,10 @@
   user-select: none;
   vertical-align: baseline;
   white-space: nowrap;
+
+  @include media($medium-up) {
+    font-size: $base-font-size * 1.2;
+  }
 
   &:disabled {
     cursor: not-allowed;
