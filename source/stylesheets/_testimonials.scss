@@ -8,8 +8,6 @@
     text-align: left;
 
     li {
-      padding: 1em 0;
-
       &:last-of-type {
         margin-bottom: 0;
       }
@@ -93,11 +91,12 @@
   }
 
   &.featured-testimonials {
-    @include media($large-up) {
-      .testimonial-list {
+    .testimonial-list {
+      margin-bottom: 3em;
+
+      @include media($large-up) {
         display: flex;
         justify-content: center;
-        margin-bottom: 3em;
         max-width: 1200px;
 
         li {

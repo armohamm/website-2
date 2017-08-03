@@ -244,18 +244,16 @@
         }
 
         .avatar {
-          $avatar-size: 80px;
-
-          @include avatar-size($avatar-size);
+          @include avatar-size($avatar-size-big);
           background-color: $white;
           box-shadow: $post-shadow 0 0 0 1px;
           box-sizing: border-box;
           display: block;
           left: 50%;
-          margin-left: -$avatar-size / 2;
+          margin-left: -$avatar-size-big / 2;
           padding: 6px;
           position: absolute;
-          top: -$avatar-size / 2;
+          top: -$avatar-size-big / 2;
           z-index: 2;
         }
       }
@@ -265,14 +263,14 @@
 
 // Blog featured
 .blog-featured {
-  padding: 4em 1em 5em;
+  padding: 4em 1em;
   text-align: center;
+
+  .blog-article-preview {
+    margin-bottom: 3em;
+  }
 
   .headline {
     color: $medium-gray;
-  }
-
-  .button {
-    margin-top: 3em;
   }
 }
