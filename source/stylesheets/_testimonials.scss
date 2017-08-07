@@ -8,6 +8,8 @@
     text-align: left;
 
     li {
+      margin-bottom: 2em;
+
       &:last-of-type {
         margin-bottom: 0;
       }
@@ -101,9 +103,14 @@
 
         li {
           flex: 1;
+          margin-bottom: 2em;
           margin-left: 1em;
           margin-right: 1em;
           max-width: 800px;
+
+          @include media($medium-up) {
+            margin-bottom: 0;
+          }
         }
       }
     }
