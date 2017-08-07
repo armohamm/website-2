@@ -4,7 +4,6 @@ date: 2017-07-18 8:00 CEST
 tags: Defacto, 30 jaar
 author: Stéphanie
 lang: nl
-featured: true
 image: images/blog/social/pand-historie-1200x630.jpg
 featured_image: images/blog/featured/20170718-pand-historie.jpg
 ---
