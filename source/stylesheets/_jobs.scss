@@ -3,7 +3,7 @@
     $blog-link-color: darken($blue, 10);
 
     .row {
-      padding: 3em 1em;
+      padding: 2em 1em;
     }
 
     a {
@@ -31,12 +31,18 @@
       h1 {
         color: $white;
         font-weight: 700;
+        margin: 0 auto;
+        max-width: 800px;
+        padding: 1em 0;
       }
 
       p {
         color: $white;
-        font-size: 1.4em;
         text-align: center;
+
+        @include media($medium-up) {
+          font-size: 1.4em;
+        }
       }
     }
 
@@ -62,7 +68,9 @@
     text-align: center;
 
     h1 {
-      font-size: 4em;
+      @include media($medium-up) {
+        font-size: 3em;
+      }
     }
   }
 }
@@ -70,10 +78,11 @@
 .job-form {
   background: $lightest-gray;
   margin-top: 2em;
-  padding: 3em;
+  padding: 1em;
 
   @include media($medium-up) {
     margin-left: -3em;
     margin-right: -3em;
+    padding: 3em;
   }
 }

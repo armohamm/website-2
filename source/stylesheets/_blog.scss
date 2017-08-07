@@ -178,7 +178,6 @@
   }
 
   .prev {
-
     @include media($medium-up) {
       margin-right: 3em;
     }
@@ -189,7 +188,6 @@
   }
 
   .next {
-
     @include media($medium-up) {
       margin-left: 3em;
     }

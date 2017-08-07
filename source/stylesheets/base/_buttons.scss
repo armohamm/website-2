@@ -125,4 +125,12 @@
     margin-top: -12px;
     vertical-align: middle;
   }
+
+  .icon-pdf {
+    display: none;
+
+    @include media($medium-up) {
+      display: inline-block;
+    }
+  }
 }

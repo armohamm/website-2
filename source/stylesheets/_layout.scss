@@ -128,26 +128,23 @@ figcaption {
 .featured {
   background: $blue-alt;
   color: $white;
-  font-size: 1.2em;
-  padding: 1em 1em 1em 4em;
+  padding: 1em 1em 1em 3em;
   position: relative;
 }
 
 .star {
   color: $white;
-  font-size: 3em;
+  font-size: 2em;
   font-weight: bold;
   left: 20px;
   position: absolute;
-  top: 0;
+  top: 5px;
 }
 
 .featured-transparant {
   border: 1px solid $blue-alt;
   margin: 0 auto 2em;
-  max-width: 640px;
-  padding: 2em;
-  position: relative;
+  padding: 1em;
 
   p:last-child {
     margin: 0;

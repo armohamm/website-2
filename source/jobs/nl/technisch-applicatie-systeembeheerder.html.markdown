@@ -1,5 +1,5 @@
 ---
-title: "Vacature: Technisch applicatiebeheerder/systeembeheerder"
+title: "Vacature: Technisch applicatie- & systeembeheerder"
 date: 2017-05-01 08:00 CEST
 tags:
 lang: nl
@@ -9,7 +9,7 @@ popup: false
 ---
 Defacto beweegt zich al jaren als toonaangevend ontwikkelaar van innovatieve software in het werkveld van Opleiden en Ontwikkelen. Defacto is uitgegroeid tot een solide, internationaal opererend, bedrijf. De kernactiviteiten bestaan uit het digitaliseren en automatiseren van opleidingsafdelingen, bedrijfsacademies en opleidingsinstituten. 
 
-Voor ons Learning Management System CAPP (200.000+ gebruikers in Nederland) zijn we op zoek naar een **technisch applicatiebeheerder/systeembeheerder**.
+Voor ons Learning Management System CAPP (200.000+ gebruikers in Nederland) zijn we op zoek naar een **technisch applicatie- & systeembeheerder**.
 
 Als ideale kandidaat vind jij het niet alleen leuk en uitdagend om een complex pakket als CAPP functioneel te beheren, maar ook om alle processen er omheen te optimaliseren. Daarnaast voer je alledaagse en structurele taken uit die betrekking hebben op het intern systeembeheer.
 

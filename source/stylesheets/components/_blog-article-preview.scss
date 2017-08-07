@@ -1,5 +1,4 @@
 .blog-article-preview {
-
   @include media($medium-up) {
     @include fill-parent();
     @include row(table);
@@ -41,10 +40,11 @@
   }
 
   .post-body {
-    font-size: 1.2em;
+    font-size: $base-font-size;
     margin: 1em 0;
 
     @include media($medium-up) {
+      font-size: $base-font-size * 1.2;
       padding-right: 4em;
     }
 
@@ -54,18 +54,22 @@
   }
 
   .post-title {
-    font-size: 1.6em;
+    font-size: $base-font-size;
     font-weight: 600;
     margin: 0;
     max-width: none;
     text-align: left;
+
+    @include media($medium-up) {
+      font-size: $base-font-size * 1.6;
+    }
   }
 
   .post-meta {
-    font-size: 0.8em;
+    font-size: $base-font-size * 0.8;
 
     @include media($medium-up) {
-      font-size: 1em;
+      font-size: $base-font-size;
     }
 
     .author-name {
@@ -81,7 +85,7 @@
 
       @include media($medium-up) {
         display: inline-block;
-        font-size: 1em;
+        font-size: $base-font-size;
       }
 
       &::before,

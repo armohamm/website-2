@@ -22,7 +22,6 @@
 
     button,
     .button {
-      display: block;
       margin: 0 0 1.5em;
 
       @include media($medium-up) {
