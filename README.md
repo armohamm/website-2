@@ -39,7 +39,7 @@ rake build:en
 rake test:nl
 rake test:de
 rake test:en
-rake test # Test all locales
+rake test # Test all locales with HTML-proofer
 ```
 
 ##### Deploy (and build + test before)
@@ -51,10 +51,8 @@ rake deploy:en
 rake deploy # Deploy all locales
 ```
 
-`:nl` is deployed to [website/tree/gh-pages](https://github.com/DefactoSoftware/website/tree/gh-pages).
-
-`:de` is deployed to [website-de/tree/gh-pages](https://github.com/DefactoSoftware/website-de/tree/gh-pages).
-
+`:nl` is deployed to [website/tree/gh-pages](https://github.com/DefactoSoftware/website/tree/gh-pages).  
+`:de` is deployed to [website-de/tree/gh-pages](https://github.com/DefactoSoftware/website-de/tree/gh-pages).  
 `:en` is deployed to [website-en/tree/gh-pages](https://github.com/DefactoSoftware/website-en/tree/gh-pages).
 
 ##### Useful links for debugging
@@ -66,4 +64,6 @@ rake deploy # Deploy all locales
 
 - [Middleman](https://middlemanapp.com/)
 - [Middleman Search](https://github.com/manastech/middleman-search)
-- [HTMLproofer](https://github.com/gjtorikian/html-proofer)
+- [HTML-proofer](https://github.com/gjtorikian/html-proofer)
+- [CircleCI](https://circleci.com/)
+- [Hound](https://houndci.com/)
