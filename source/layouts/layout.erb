@@ -22,19 +22,18 @@
     <title><%= content_for?(:page_title) ? yield_content(:page_title) : page_title(current_page) %></title>
     <meta name="description" content="<%= meta_description %>">
     <meta name="robots" content="<%= robots %>">
-    <%= canonical %>
-    <%= href_langs unless is_blog_article? || current_page.data.unique_for_locale == true -%>
+    <%= canonical -%>
+
+    <%= alternate_link_tags(current_page) -%>
 
     <%= partial "open_graph" unless current_page.data.robots && current_page.data.robots.include?("noindex") -%>
 
     <link href="https://plus.google.com/101736158500234596266" rel="publisher">
-
     <%= feed_tag :atom, "#{blog("blog").options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
     <%= stylesheet_link_tag "main" %>
     <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
     <%= partial "google_analytics" %>
     <%= partial "hotjar" %>
-    <meta name="msvalidate.01" content="429A8C49E66C4263CE326C50DA965E95" />
   </head>
 
   <body class="<%= page_classes %>">

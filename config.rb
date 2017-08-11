@@ -428,22 +428,21 @@ helpers do
     html
   end
 
-  # Href langs
-  def href_langs
-    html = ""
-    langs.each do |lang|
-      if is_blog_index?
-        url = full_url("/blog/", lang)
-      elsif jobs_page?
-        url = full_url("/jobs/", lang)
-      else
-        locale_root_path = current_page.locale_root_path
-        url = locale_root_path ? locale_root_path : "/"
-        url = full_url locale_url_for(url, locale: lang)
+  # Returns alternate link tags for a given page
+  def alternate_link_tags(page)
+    link_tags = []
+    (langs - [I18n.locale]).each do |locale|
+      sitemap.resources.select do |resource|
+        if (resource.proxied_to == page.proxied_to &&
+            resource.metadata[:options][:lang] == locale)
+          href = resource.url.sub("/#{locale}/", full_url("/", locale))
+          link_tags << tag(:link, rel: :alternate, hreflang: locale, href: href)
+          next
+        end
       end
-      html << tag(:link, rel: "alternate", href: url, hreflang: "#{lang}-#{lang}") + "\n    "
     end
-    html
+
+    link_tags.join("\n    ")
   end
 
   def root_url?
