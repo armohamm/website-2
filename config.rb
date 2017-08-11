@@ -38,13 +38,14 @@ if root_locale == :nl
   end
 end
 
-# Ignore blog for other languages
+# Ignore blog & some pages for specific langs
 case root_locale
 when :nl
   ignore "/blog/de/*"
   ignore "/jobs/de/*"
   ignore "/blog/en/*"
   ignore "/jobs/en/*"
+  ignore "e-learning-starterkit.html"
 when :de
   ignore "/blog/nl/*"
   ignore "/jobs/nl/*"
@@ -79,7 +80,6 @@ ignore "/fonts/icons/selection.json"
 # Redirects to prevent 404's
 unless root_locale == :en
   redirect "elearning.html", to: "e-learning.html"
-  redirect "elearning-starterkit.html", to: "e-learning-starterkit.html"
   redirect "capp.html", to: "capp-lms.html"
   redirect "learningspaces.html", to: "capp-agile-learning.html"
 end
@@ -93,6 +93,7 @@ when :de
   redirect "hosting-security.html", to: "hosting.html"
   redirect "capp-lms.html", to: "capp-bilden.html"
   redirect "kundenreferenzen.html", to: "kundenstimmen.html"
+  redirect "elearning-starterkit.html", to: "e-learning-starterkit.html"
 when :en
   redirect "capp-11.html", to: "capp-lms.html"
   redirect "organisatie.html", to: "about-us.html"

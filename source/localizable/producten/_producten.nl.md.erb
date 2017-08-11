@@ -29,17 +29,7 @@
       <%= link_to t("actions.more_about.capp-agile"), "/capp-agile-learning.html", class: "button green outline" %>
     </div>
   </li>
-
-  <li class="starterkit">
-    <% link_to "/e-learning-starterkit.html", class: "col left" do %>
-      <h2><%= t("elearning_starterkit.name") %></h2>
-    <% end %>
-    <div class="col right">
-      <p><%= t("elearning_starterkit.desc", link: link_to(t("elearning_starterkit.name"), "/e-learning-starterkit.html")) %></p>
-      <%= link_to t("actions.more_about.starterkit"), "/e-learning-starterkit.html", class: "button red outline" %>
-    </div>
-  </li>
-
+  
   <li class="threesixty">
     <% link_to "/360-feedback.html", class: "col left" do %>
       <h2><%= image_tag t("threesixty.logo"), alt: t("threesixty.name") %></h2>

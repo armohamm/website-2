@@ -44,7 +44,6 @@ nl:
       cmt: "Meer CMT"
       quality: "Meer Kwaliteitspaspoort"
       capp-agile: "Meer CAPP Agile Learning"
-      starterkit: "Meer E-learning Starterkit"
       threesixty: "Meer 360° Feedback"
       elearning: "Meer E-Learning"
       implementaties: "Meer implementaties"
@@ -186,13 +185,6 @@ nl:
     heading_html: "Ontvang gratis ons <span class=\"pre\">E-Learning</span> Handboek"
     image_alt: "E-Learning Handboek Leren & Laten Leren"
     close_alt: "Sluiten"
-  elearning_starterkit:
-    desc: "Maak je eigen content met de %{link}. Zo bespaar je geld en sluit je content beter aan bij je behoeften. De E-Learning Starterkit bevat alles wat je nodig hebt om meteen van start te gaan."
-    hero:
-      formkeep_title: "E-Learning Starterkit"
-      text_md: "Op eenvoudige en betaalbare wijze zelf lesmateriaal ontwikkelen"
-      title: "E-Learning Starterkit"
-    name: "E-Learning Starterkit"
   error:
     heading: "Sorry, deze pagina bestaat niet."
     text_md: "Dit betekent niet dat je iets verkeerd hebt gedaan, het kan zijn dat we de pagina hernoemd of verplaatst hebben."
@@ -288,7 +280,6 @@ nl:
     capp-lms: "LMS en efficiënte tools voor de ontwikkelprocessen van je medewerkers"
     kwaliteitspaspoort: "Real-time inzicht in bevoegd- en bekwaamheid binnen je organisatie"
     capp-agile: "Performance support voor elke organisatie"
-    starterkit: "Creëer je eigen professionele e-learning content"
     threesixty: "Maak een efficiëntieslag in je HRD"
   press:
     heading: "Media"
