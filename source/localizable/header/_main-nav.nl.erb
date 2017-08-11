@@ -46,29 +46,37 @@
           <ul>
             <li>
               <% nav_link_to("/capp-lms.html", { class: "nav-capp" }) do %>
-                <h3><%= t("products.capp.capp-lms") %></h3>
-                <%= t("nav.capp-lms") %>
+                <div>
+                  <h3><%= t("products.capp.capp-lms") %></h3>
+                  <%= markitdown t("nav.capp-lms") %>
+                </div>
               <% end %>
             </li>
 
             <li>
               <% nav_link_to("/kwaliteitspaspoort.html", { class: "nav-kwaliteitspaspoort" }) do %>
-                <h3><%= t("kwaliteitspaspoort.name") %></h3>
-                <%= t("nav.kwaliteitspaspoort") %>
+                <div>
+                  <h3><%= t("kwaliteitspaspoort.name") %></h3>
+                  <%= markitdown t("nav.kwaliteitspaspoort") %>
+                </div>
               <% end %>
             </li>
 
             <li>
               <% nav_link_to("/capp-agile-learning.html", { class: "nav-capp-agile" }) do %>
-                <h3><%= t("capp-agile.name") %></h3>
-                <%= t("nav.capp-agile") %>
+                <div>
+                  <h3><%= t("capp-agile.name") %></h3>
+                  <%= markitdown t("nav.capp-agile") %>
+                </div>
               <% end %>
             </li>
 
             <li>
               <% nav_link_to("/360-feedback.html", { class: "nav-360-feedback" }) do %>
-                <h3><%= t("threesixty.name") %></h3>
-                <%= t("nav.threesixty") %>
+                <div>
+                  <h3><%= t("threesixty.name") %></h3>
+                  <%= markitdown t("nav.threesixty") %>
+                </div>
               <% end %>
             </li>
           </ul>

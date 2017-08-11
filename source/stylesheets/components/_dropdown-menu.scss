@@ -147,11 +147,14 @@
   }
 
   .dropdown-arrow {
+    display: none;
+
     @include media($menu-desktop) {
       backface-visibility: hidden;
       border: 12px solid transparent;
       border-bottom-color: $gray;
       bottom: 100%;
+      display: block;
       height: 0;
       left: 0;
       margin-left: -12px;
@@ -440,11 +443,12 @@
     }
 
     li {
-      flex: 1 100%;
+      display: block;
+      width: 100%;
 
       @include media($menu-desktop) {
-        flex: 0 0 50%;
         margin-top: 0;
+        width: 50%;
 
         // Last odd item
         &:nth-child(odd) {
@@ -464,32 +468,49 @@
         }
       }
 
-      h3 {
-        font-size: 1.1em;
-        font-style: normal;
-        font-weight: 700;
-        margin-bottom: 0.5em;
-        margin-top: 0.5em;
-      }
-
       a {
-        @include clearfix;
+        align-items: center;
         color: $medium-gray;
-        display: block;
+        display: flex;
         font-size: 0.9em;
         height: 100%;
         line-height: 1.2em;
         padding: 1em;
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+
+        @include media($menu-desktop) {
+          padding-left: 1em;
+          padding-right: 1em;
+        }
 
         // Gallery icons
         &::before {
           background: url("../images/icons/menu-icons-sprite.png") no-repeat 0 0;
           content: "";
-          display: inline-block;
-          float: left;
+          display: block;
+          flex: 0 0 auto;
           height: 70px;
           margin-right: 0.7em;
           width: 70px;
+        }
+
+        div {
+          display: block;
+          flex: 1;
+          width: auto;
+
+          h3 {
+            font-size: 1.1em;
+            font-style: normal;
+            font-weight: 700;
+            margin-bottom: 0.2em;
+          }
+
+          p {
+            margin-bottom: 0;
+            margin-top: 0;
+          }
         }
       }
     }
