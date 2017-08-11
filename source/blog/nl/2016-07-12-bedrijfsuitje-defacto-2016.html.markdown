@@ -30,4 +30,4 @@ Mijn angsten voor een standaard bedrijfsuitje blijken ongegrond. Er worden geen 
 *'Iwanna schrijf jij even een blog over ons uitje?'*, vraagt Hans me op mijn tweede werkdag. Maar natuurlijk!
 
 ---
-Heb je deze blog met plezier gelezen en wil je de gezichten achter Defacto zien? Dat kan, aarzel niet en klik gauw hierboven op de YouTube-link. Ben je enthousiast geworden en wil je ook [werken bij Defacto](http://jobs.defacto.nl)? Kijk dan gauw of er vacatures openstaan waarin jij jouw eigenzinnigheid kwijt kunt.
+Heb je deze blog met plezier gelezen en wil je de gezichten achter Defacto zien? Dat kan, aarzel niet en klik gauw hierboven op de YouTube-link. Ben je enthousiast geworden en wil je ook [werken bij Defacto](/jobs/)? Kijk dan gauw of er vacatures openstaan waarin jij jouw eigenzinnigheid kwijt kunt.
