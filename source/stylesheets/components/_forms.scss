@@ -26,6 +26,20 @@
   position: relative;
   text-align: left;
 
+  @include media ($medium-up) {
+    .form-name,
+    .form-phone {
+      float: left;
+      width: 48.5%;
+    }
+
+    .form-company,
+    .form-email {
+      float: right;
+      width: 48.5%;
+    }
+  }
+
   &:last-child {
     margin-bottom: -$base-spacing;
   }
@@ -40,20 +54,6 @@
   .button {
     border-width: 1px;
     margin-bottom: $base-spacing;
-  }
-
-  @include media ($medium-up) {
-    .form-name,
-    .form-phone {
-      float: left;
-      width: 48.5%;
-    }
-
-    .form-company,
-    .form-email {
-      float: right;
-      width: 48.5%;
-    }
   }
 
   .form-text {
