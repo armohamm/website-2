@@ -51,6 +51,7 @@ when :de
   ignore "/jobs/nl/*"
   ignore "/blog/en/*"
   ignore "/jobs/en/*"
+  ignore "nl/e-learning-starterkit.html"
 when :en
   ignore "/blog/de/*"
   ignore "/jobs/de/*"
@@ -58,6 +59,7 @@ when :en
   ignore "/jobs/nl/*"
   ignore "/jobs/index.html"
   ignore "/jobs/feed.xml"
+  ignore "nl/e-learning-starterkit.html"
 end
 
 # # Prevent other locales from building (breaks page_classes)
