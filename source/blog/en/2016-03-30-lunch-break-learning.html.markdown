@@ -12,7 +12,7 @@ Lunch break: the time of the day when people stop work to have lunch. But if you
 
 Thought so, you haven't! The office and lunch breaks cause even stronger connectedness and heavy idea flow. It's a time of the day when you see everyone: hear their thoughts, jokes, problems, solutions and much more.
 
-Just recently I've got in contact with [Stuart Blacker](http://www.stuartblackler.me){:target="_blank"}{:rel="noopener"} and heard his success story. So here's a lunch talk share for you:
+Just recently I've got in contact with [Stuart Blacker](https://im5tu.io/){:target="_blank"}{:rel="noopener"} and heard his success story. So here's a lunch talk share for you:
 
 ## Past:
 

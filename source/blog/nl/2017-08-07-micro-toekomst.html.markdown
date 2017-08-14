@@ -4,7 +4,6 @@ date: 2017-08-07 08:00 CEST
 tags: microleren, e-learning, kennis
 author: Milda
 lang: nl
-featured: true
 image: images/blog/social/micro-future-1200x630.jpg
 featured_image: images/blog/featured/20160517-micro-future.jpg
 ---
