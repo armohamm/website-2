@@ -4,7 +4,6 @@ date: 2017-08-10 08:00 CEST
 tags: Mikrolernen, e-learning, Wissen
 author: Milda
 lang: de
-featured: true
 image: images/blog/social/micro-future-1200x630.jpg
 featured_image: images/blog/featured/20160517-micro-future.jpg
 ---
