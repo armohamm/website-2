@@ -8,7 +8,7 @@ image: images/blog/social/micro-future-1200x630.jpg
 featured_image: images/blog/featured/20160517-micro-future.jpg
 ---
 
-Notendop-kennis. Ooit van gehoord? Heel kort gezegd is het het microdoseren van dagelijkse kennis. Hoewel **microleren** geen nieuw begrip is, vinden steeds meer mensen (waaronder ikzelf) het erg belangrijk
+Notendop-kennis. Ooit van gehoord? Heel kort gezegd is het het microdoseren van dagelijkse kennis. Hoewel **microleren** geen nieuw begrip is, vinden steeds meer mensen (waaronder ikzelf) het erg belangrijk.
 
 ## Informatiestroom
 
