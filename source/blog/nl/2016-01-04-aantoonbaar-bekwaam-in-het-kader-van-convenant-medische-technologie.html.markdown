@@ -16,7 +16,7 @@ Rivierenland en LUMC hebben hun oplossing, het zogenoemde **3 stappen plan**, ti
 ### 3 stappen plan
 
 #### 1. Definiëren van profielen
-Met behulp van [het Kwaliteitspaspoort van Defacto](/kwaliteitspaspoort) kan van alle functies aangegeven worden met welke medische apparatuur de medewerkers werken en waarvoor deze medewerkers dus gecertificeerd moeten zijn.
+Met behulp van [het Kwaliteitspaspoort van Defacto](/kwaliteitspaspoort/) kan van alle functies aangegeven worden met welke medische apparatuur de medewerkers werken en waarvoor deze medewerkers dus gecertificeerd moeten zijn.
 
 #### 2. Monitoren van de profielen
 Iedere medewerker en zijn leidinggevenden hebben via het Kwaliteitspaspoort *real time* inzicht in de status van de certificering van de medewerker in kwestie.
@@ -39,7 +39,4 @@ Tijdens de bijeenkomsten bleek dat er nog veel vragen zijn over de implementatie
 - Overdrijven we niet in het vinken en het verantwoorden waardoor we vergeten dat we in de zorg te maken hebben met professionals die eigen afwegingen en keuzes kunnen maken?
 - Kunnen we ook streven naar standaardisering op het gebied van risico-inventarisatie en profielen?
 
-Op verzoek van de aanwezige ziekenhuizen heeft Defacto een LearningSpace omgeving ingericht waarin kennis en ervaringen gedeeld kunnen worden. Rivierenland en het LUMC tonen hierin hun casus. Deze omgeving biedt de mogelijkheid tips, vragen en casussen te delen. Registreer u op [cmtseminar.learningspaces.io](https://cmtseminar.cappagile.com/login) en denk mee!
-
-
-#### *Op 28 januari 2016 organiseren we een workshop over het Convenant Medische Technologie, waar we samen met u veel dieper in zullen gaan op het 3 stappen plan en alles dat erbij komt kijken. Meer informatie of aanmelden? Bezoek [de workshop pagina](/workshop-convenant-mt).*
+Op verzoek van de aanwezige ziekenhuizen heeft Defacto een CAPP Agile Learning omgeving ingericht waarin kennis en ervaringen gedeeld kunnen worden. Rivierenland en het LUMC tonen hierin hun casus. Deze omgeving biedt de mogelijkheid tips, vragen en casussen te delen. Registreer u op [cmtseminar.cappagile.com](https://cmtseminar.cappagile.com/login){:target="_blank"}{:title="CMT Seminar - CAPP Agile Learning"} en denk mee!

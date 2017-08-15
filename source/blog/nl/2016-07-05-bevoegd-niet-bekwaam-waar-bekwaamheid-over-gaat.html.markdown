@@ -20,7 +20,7 @@ Als in de zorg gesproken wordt over registratie van opleiden en professionalitei
 
 ### Bevoegd en bekwaam: hoe we het aantoonbaar maken
 
-Om te werken in een zorginstelling dient iemand dus bevoegd én bekwaam te zijn. Het aantonen van bevoegdheid is uiteraard de uitdaging niet. Zorg dat de juiste papieren op een makkelijk toegankelijke plek worden bewaard en klaar is Kees. De meeste organisaties doen dit tegenwoordig in [hun LMS](/capp-lms).
+Om te werken in een zorginstelling dient iemand dus bevoegd én bekwaam te zijn. Het aantonen van bevoegdheid is uiteraard de uitdaging niet. Zorg dat de juiste papieren op een makkelijk toegankelijke plek worden bewaard en klaar is Kees. De meeste organisaties doen dit tegenwoordig in [hun LMS](/capp-lms/).
 
 Bekwaamheid is lastiger. Want wanneer is iemand nou eigenlijk goed in wat hij doet? En hoe toets je dat? Toetsen kost tijd en dus geld. Om hierop zoveel mogelijk te besparen, is het een lange tijd de trend geweest om voor elke handeling een E-Learning toets beschikbaar te stellen. Het goed kunnen beantwoorden van deze kennistoets werd in dezen gezien als het aantonen van je bekwaamheid. De vraag is of dit wel zo 1 op 1 gesteld kan worden.
 

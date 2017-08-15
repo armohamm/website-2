@@ -8,7 +8,7 @@ image: images/blog/social/zelfsturende-teams-ondersteunen-kwaliteitspaspoort.png
 featured_image: images/blog/featured/20160726-kpp.jpg
 ---
 
-**Mijn collega Marian schreef recent over [zelfsturende teams in de zorg](/blog/zelfsturende-teams-hot-topic-in-de-zorg) en hoe het *CAPP Kwaliteitspaspoort* daarbij kan ondersteunen.**
+**Mijn collega Marian schreef recent over [zelfsturende teams in de zorg](/blog/zelfsturende-teams-hot-topic-in-de-zorg/) en hoe het *CAPP Kwaliteitspaspoort* daarbij kan ondersteunen.**
 
 De grote uitdaging daarvan is om een oplossing te vinden die:
 
@@ -33,7 +33,7 @@ Bij Defacto proberen we uit het oogpunt van de gebruiker onze software te ontwik
 Een lijnmanager kan niet van alle 100 medewerkers bijhouden wie in welk team zit en welke wisselingen daar plaatsvinden. Een afdeling P&O heeft hier ook niet altijd zicht op. Het bijhouden hiervan in een systeem is daardoor een lastig proces. In de praktijk is het uiteindelijk de medewerker zelf die het beste weet wie er in zijn team werkzaam is, wie teamleider is en wanneer er wijzigingen plaatsvinden. Waarom de verantwoordelijkheid daarvoor dan ook niet bij de teams zelf neerleggen?
 
 ## Hoe het Kwaliteitspaspoort teams ondersteunt
-[CAPP Kwaliteitspaspoort](/kwaliteitspaspoort) voorziet teamleden om zelf te bepalen wie inzicht heeft in zijn of haar bekwaamheden. En we gaan daarin nog een stap verder: wie zijn of haar teamleider is en daardoor ook aanpassingen kan doen in de status van bevoegd- en bekwaamheden.
+[CAPP Kwaliteitspaspoort](/kwaliteitspaspoort/) voorziet teamleden om zelf te bepalen wie inzicht heeft in zijn of haar bekwaamheden. En we gaan daarin nog een stap verder: wie zijn of haar teamleider is en daardoor ook aanpassingen kan doen in de status van bevoegd- en bekwaamheden.
 
 Denk bijvoorbeeld aan bekwaamheden die 6 personen in een team onder de knie moeten hebben en daardoor voor de overige teamleden niet van toepassing zijn. Hier heeft het team zelf controle over.
 
