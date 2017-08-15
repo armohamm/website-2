@@ -4,7 +4,6 @@ date: 2017-08-14 8:00 CEST
 tags: lunch, leren, ideeën, delen
 author: Milda
 lang: nl
-featured: true
 image: images/blog/social/lunchbreak-learning-1200x630.jpg
 featured_image: images/blog/featured/20160330-lunchbreak-learning.jpg
 ---
