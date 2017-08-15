@@ -27,3 +27,6 @@ Defacto zelf kreeg ook een nieuw bord. Het nieuwe glazen bord werd onder luid ap
 ![Defacto band](/images/blog/30-jaar-04.jpg)
 
 Het hoogtepunt van de avond was de Defacto band die, nu al, klassiekers opvoerde zoals het Defacto lied ('Defacto werkt al jaren zo'). Ook Milda ontving luid applaus voor haar politieke lied over Rusland in het Litouws. Tussen de liedjes door blikte Hans terug op de afgelopen 30 jaar Defacto. De lessen die hij geleerd heeft: je kan alleen maar ondernemer zijn als je privé en werk *niet* gescheiden houdt. En: het is geweldig om mensen te helpen zichzelf te ontwikkelen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ExxabKjIr3M?rel=0" frameborder="0" allowfullscreen></iframe>
+[Video gemaakt door BEMedia](http://www.bemedia.nl/){:target="_blank"}{:rel="noopener"}{:title="BEMedia"}

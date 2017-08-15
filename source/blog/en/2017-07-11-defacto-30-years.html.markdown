@@ -28,3 +28,6 @@ Defacto also got a new sign. The new glass sign was revealed with a loud applaus
 ![Defacto band](/images/blog/30-jaar-04.jpg)
 
 The highlight of the evening was the Defacto band who performed already classics like the Defacto song (‘Defacto werkt al jaren zo’). Milda too got the crowd cheering with her political Lithuanian song. In between songs Hans looked back at 30 years Defacto and the lessons he’d learned: as an entrepreneur, you can’t keep work separate. And: it’s amazing to help people develop.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ExxabKjIr3M?rel=0" frameborder="0" allowfullscreen></iframe>
+[Video by BEMedia](http://www.bemedia.nl/){:target="_blank"}{:rel="noopener"}{:title="BEMedia"}
