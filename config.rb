@@ -303,7 +303,7 @@ helpers do
 
   # Get full url
   def full_url(url, locale = I18n.locale)
-    URI.join("http://#{I18n.t('CNAME', locale: locale)}", url).to_s
+    URI.join("https://#{I18n.t('CNAME', locale: locale)}", url).to_s
   end
 
   # Use frontmatter for I18n titles
