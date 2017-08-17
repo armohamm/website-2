@@ -104,7 +104,7 @@ linters:
 
   NestingDepth:
     enabled: true
-    max_depth: 5
+    max_depth: 6
     ignore_parent_selectors: false
 
   PlaceholderInExtend:
