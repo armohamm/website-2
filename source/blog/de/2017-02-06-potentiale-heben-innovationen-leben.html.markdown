@@ -1,7 +1,7 @@
 ---
 title: Potentiale heben - Innovationen leben
 date: 2017-02-06 08:00 CEST
-tags: kongress, innovation, digitalisierung
+tags: kongress, innovation, digitalisierung, video
 author: Isabela
 lang: de
 image: images/blog/social/potentiale-heben-1200x630.png

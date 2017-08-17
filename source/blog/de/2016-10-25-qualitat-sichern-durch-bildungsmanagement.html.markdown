@@ -1,7 +1,7 @@
 ---
 title: Qualität sichern durch Bildungsmanagement
 date: 2016-10-25 08:00 CEST
-tags: workshop, CAPP, Qualitätspass
+tags: workshop, CAPP, Qualitätspass, video
 author: Isabela
 lang: de
 image: images/blog/social/qualitat-sichern-durch-bildungsmanagement-1200x630.png
@@ -22,4 +22,4 @@ Anschließend erzählte Cas Paauwe vom [Gelre Krankenhaus](https://www.gelreziek
 
 Insgesamt war es ein entspannter und lernreicher Mittag. Das größte Kompliment für Defacto war die Antwort auf die Frage, was unsere Kunden an der Software nicht so gut finden: nach längerer Überlegung konnten sie nichts nennen. Außer vielleicht, dass es etwas dauert bis man das System kennt, aber das hatte auch damit zu tun das CAPP viel kann!
 
-<iframe src="https://www.youtube.com/embed/UTq90cLCMxQ" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/UTq90cLCMxQ?rel=0" frameborder="0" allowfullscreen></iframe>

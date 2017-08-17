@@ -1,7 +1,7 @@
 ---
 title: Gebruikersoverleg 22 september 2016
 date: 2016-10-05 08:00 CEST
-tags: gebruikersoverleg, LearningSpaces, CAPP
+tags: gebruikersoverleg, LearningSpaces, CAPP, video
 author: Joke Coens
 lang: nl
 image: images/blog/social/gebruikersoverleg-september-2016-1200x630.png
@@ -25,6 +25,6 @@ Team LearningSpaces werkt momenteel hard aan de nieuwe functionaliteit Groups. M
 
 ### We hebben een video gemaakt waar je  de sfeer van de dag kunt proeven:
 
-<iframe src="https://www.youtube.com/embed/DLQDleSzE2M" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/DLQDleSzE2M?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Alles wat wij doen, staat in het teken van ontwikkeling. Defacto staat daarom nooit stil en blijft ontwikkelen aan bestaande en nieuwe producten, dit het liefste in samenwerking met onze klanten.

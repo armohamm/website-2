@@ -1,7 +1,7 @@
 ---
 title: 30 years Defacto
 date: 2017-07-11 8:00 CEST
-tags: Defacto, anniversary, 30 years
+tags: Defacto, anniversary, 30 years, video
 author: Stéphanie
 lang: en
 featured: true

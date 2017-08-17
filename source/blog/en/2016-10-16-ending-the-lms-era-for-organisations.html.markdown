@@ -1,7 +1,7 @@
 ---
 title: "Ending the LMS era for organisations"
 date: 2016-10-16 14:10 CEST
-tags: LMS, app, CAPP Agile Learning
+tags: LMS, app, CAPP Agile Learning, video
 author: Milda
 lang: en
 image: images/blog/social/ending-lms-era-1200x630.gif
@@ -23,4 +23,4 @@ We started building CAPP Agile Learning when we've noticed that 'oldschool' lear
 
 ## Have you seen our video yet?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wk2eMm22cz0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wk2eMm22cz0?rel=0" frameborder="0" allowfullscreen></iframe>
