@@ -1,99 +1,52 @@
 .blog-article-preview {
-  @include media($medium-up) {
-    @include fill-parent();
-    @include row(table);
+  text-align: left;
+
+  @include media($large-up) {
+    display: flex;
   }
 
   .col {
-    vertical-align: top;
-
     &.left {
       margin-bottom: 1em;
 
-      @include media($medium-up) {
-        @include span-columns(3);
+      @include media($large-up) {
+        margin-bottom: 0;
+        margin-right: 3em;
+        max-width: 310px;
       }
 
       img {
         display: block;
-        margin: 0;
         width: 100%;
       }
     }
 
     &.right {
-      padding: 0;
-      text-align: left;
-      vertical-align: middle;
-
-      @include media($medium-up) {
-        @include span-columns(9);
-        @include reset-display;
-        padding-left: 4%;
-      }
-    }
-  }
-
-  article {
-    margin: 0;
-    max-width: 100%;
-  }
-
-  .post-body {
-    font-size: $base-font-size;
-    margin: 1em 0;
-
-    @include media($medium-up) {
-      font-size: $base-font-size * 1.2;
-      padding-right: 4em;
-    }
-
-    @include media($large-up) {
-      padding-right: 6em;
-    }
-  }
-
-  .post-title {
-    font-size: $base-font-size;
-    font-weight: 600;
-    margin: 0;
-    max-width: none;
-    text-align: left;
-
-    @include media($medium-up) {
-      font-size: $base-font-size * 1.6;
-    }
-  }
-
-  .post-meta {
-    font-size: $base-font-size * 0.8;
-
-    @include media($medium-up) {
-      font-size: $base-font-size;
-    }
-
-    .author-name {
-      display: block;
-
-      @include media($medium-up) {
-        display: inline-block;
-      }
-    }
-
-    time {
-      display: block;
-
-      @include media($medium-up) {
-        display: inline-block;
-        font-size: $base-font-size;
+      @include media($large-up) {
+        flex: 1;
       }
 
-      &::before,
-      &::after {
-        display: none;
+      article {
+        max-width: none;
+        width: 100%;
 
-        @include media($medium-up) {
-          display: inline;
+        .post-title {
+          font-size: $base-font-size * 1.2;
+          font-weight: 700;
+          text-align: left;
+
+          @include media($medium-up) {
+            font-size: $base-font-size * 1.6;
+          }
+        }
+
+        p {
+          font-size: $base-font-size;
+          margin: 1.25em 0;
+
+          @include media($medium-up) {
+            font-size: $base-font-size * 1.2;
+          }
         }
       }
     }

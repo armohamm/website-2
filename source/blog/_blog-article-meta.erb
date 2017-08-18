@@ -9,9 +9,11 @@ author_name = author ? blog_author_name(author) : article.data.author
     <%= I18n.l(article.date, format: :blog_date) %>
   </time>
   <span class="post-tags">
-    <% article.tags.each do |tag| %>
+    <% article.tags.each_with_index do |tag, index| %>
       <%= link_to capitalize(tag), tag_path(tag, "blog"), class: "tag" %>
-      <span class="separator">&bull;</span>
+      <% unless index == article.tags.size - 1 %>
+        <span class="separator">&bull;</span>
+      <% end %>
     <% end %>
   </span>
 </div>

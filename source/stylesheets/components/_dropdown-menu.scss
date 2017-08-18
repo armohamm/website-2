@@ -213,6 +213,8 @@
     }
 
     .button {
+      color: $white;
+
       span {
         margin-right: 0.4em;
       }
@@ -242,6 +244,12 @@
 
     a {
       color: $gray-menu;
+
+      &:active,
+      &:focus,
+      &:hover {
+        color: $gray-menu;
+      }
 
       &.active {
         background: $white;

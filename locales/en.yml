@@ -58,10 +58,10 @@ en:
     tell_me_more: "Tell me more"
     try_for_free: "Free Trial"
   blog:
-    more_on_our_blog: "More on our blog"
+    more_on_our_blog: "More blogs"
     more_articles: "More articles"
     read_more: "Read more"
-    title: "Blog – What engages us"
+    title: "Blog – Learning & Developing"
     share:
       share_post: "Share this article:"
       twitter: Share on Twitter
@@ -69,8 +69,6 @@ en:
       google_plus: Share on Google+
       linkedin: Share on LinkedIn
       xing: Share on Xing
-    next: "Next"
-    prev: "Previous"
     tags:
       meta_description: "Blogs from Defacto related to %{tagname}"
   capp:

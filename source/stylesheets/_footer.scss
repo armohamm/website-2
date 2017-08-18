@@ -10,18 +10,24 @@
     height: 524px;
   }
 
-  a {
-    color: $footer-gray;
-
-    &:active,
-    &:focus,
-    &:hover {
-      color: $orange;
-    }
-  }
-
   .row {
     max-width: 1500px;
+
+    a {
+      color: $footer-gray;
+      display: inline-block;
+      padding: 7px 0;
+
+      @include media($medium-only) {
+        padding: 3px 0;
+      }
+
+      &:active,
+      &:focus,
+      &:hover {
+        color: $orange;
+      }
+    }
   }
 
   .col {
@@ -51,15 +57,6 @@
 
       a {
         padding: 0;
-      }
-    }
-
-    a {
-      display: inline-block;
-      padding: 7px 0;
-
-      @include media($medium-only) {
-        padding: 3px 0;
       }
     }
 

@@ -68,10 +68,10 @@ de:
       demo: "Demo anfragen"
       productsheet: "Produktblatt herunterladen"
   blog:
-    more_on_our_blog: "Mehr dazu auf unseren Blog"
+    more_on_our_blog: "Mehr Blogs"
     more_articles: "Mehr Artikel"
     read_more: "Weiter lesen"
-    title: "Blog - Was uns beschäftigt"
+    title: "Blog - Bilden und Entwickeln"
     share:
       share_post: "Teile diesen Artikel:"
       twitter: Teile auf Twitter
@@ -79,8 +79,6 @@ de:
       google_plus: Teile auf Google+
       linkedin: Teile auf LinkedIn
       xing: Teile auf Xing
-    next: "Nächste Seite"
-    prev: "Vorherige Seite"
     tags:
       meta_description: "Blogs von Defacto im Zusammenhang mit %{tagname}"
   capp:

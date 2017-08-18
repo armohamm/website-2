@@ -1,13 +1,15 @@
 <% if paginate && num_pages > 1 %>
-  <div class="text-center">
-    <ul class="pagination">
+  <div class="pagination">
+    <ul>
       <% if prev_page %>
-        <li><%= link_to t("blog.prev"), prev_page, class: "page-step prev" %></li>
+        <li><%= link_to "", prev_page, class: "page-step icon-chevron-left" %></li>
       <% end %>
 
       <% for page in 1..num_pages %>
         <% if page == page_number %>
-          <li class="current"><%= page %></li>
+          <li class="current">
+            <span><%= page %></span>
+          </li>
         <% else %>
           <%
           page_url = "/blog/"
@@ -19,7 +21,7 @@
       <% end %>
 
       <% if next_page %>
-        <li><%= link_to t("blog.next"), next_page, class: "page-step next" %></li>
+        <li><%= link_to "", next_page, class: "page-step icon-chevron-right" %></li>
       <% end %>
     </ul>
   </div>
