@@ -1,14 +1,14 @@
 ---
-title: LearningSpaces op Websummit 2016
+title: CAPP Agile Learning op Websummit 2016
 date: 2016-11-28 08:00 CEST
-tags: LearningSpaces, WebSummit
+tags: CAPP Agile Learning, WebSummit
 author: Iwanna de Jonge
 lang: nl
-image: images/blog/social/learningspaces-op-websummit-1200x630.png
+image: images/blog/social/cappagilelearning-op-websummit-1200x630.png
 featured_image: images/blog/featured/20161128-websummit.jpg
 ---
 
-**WebSummit, Europa's grootste technologiebeurs, vond plaats van 7 tot en met 11 november in Lissabon Portugal. [LearningSpaces](http://www.learningspaces.nl){:target="_blank"} was één van de uitgenodigde start-ups om daar met mensen te praten over het product, onze activiteiten en om feedback te krijgen.**
+**WebSummit, Europa's grootste technologiebeurs, vond plaats van 7 tot en met 11 november in Lissabon Portugal. [CAPP Agile Learning](/capp-agile-learning/) was één van de uitgenodigde start-ups om daar met mensen te praten over het product, onze activiteiten en om feedback te krijgen.**
 
 Lissabon werd gekozen voor dit enorme evenement als gevolg van de sterk ondernemende tech scene, die exponentiële groei heeft doorgemaakt in de afgelopen jaren. CEO's, key wereldleiders, culturele iconen, start-ups, investeerders, leidende academici en de meest iconische bedrijven - denk aan Uber, Facebook en Microsoft - zijn allemaal verzameld op één plek: Lissabon. Er zijn meer dan 20 podia en workshops, tal van lezingen en discussies. Er is de WebSummit overdag, Sunset Summit en Night Summit. Alles gaat bijna 24 uur per dag door.
 
@@ -24,27 +24,27 @@ WebSummit is niet dé plek om gesprekken te hebben over innovatie. Nieuwe innova
 ## Voors
 Als start-up ontmoet je er veel mensen en veel investeerders in korte tijd. Voor ons is het ontmoeten van een investeerder niet aan de orde, want zoals mijn collega en productmanager Hugo eerder in het [Dagblad van het Noorden](http://www.dvhn.nl/economie/LearningSpaces-is-%E2%80%98vreemde-eend-in-de-bijt%E2%80%99-21731305.html){:target="_blank"} zei: *"Voor ons is het leuk om te zien in hoeverre we de internationale markt op kunnen gaan. We zoeken naar naamsbekendheid, partners en volgende stappen."*
 
-Al deze dingen vind je inderdaad op WebSummit. Een korte opsomming: We hebben advies gekregen, over hoe we de internationale markt kunnen veroveren, van Johan van Mil en Stefan Bary (Peak Capital), waarvoor dank! Tijdens de standdag laten we zien wat LearningSpaces is, wat het kan en hoe het wordt gebruikt. We laten zien hoe LearningSpaces succesvol gebruikt wordt bij espresso franchise Doppio (met dank aan Peter van Eijl en Werner Lindeboom) en het Universitair Medisch Centrum Groningen (met dank aan Ronald van Rheenen). En er is volop oprechte aandacht voor onze visie op het delen van expertise binnen teams.
+Al deze dingen vind je inderdaad op WebSummit. Een korte opsomming: We hebben advies gekregen, over hoe we de internationale markt kunnen veroveren, van Johan van Mil en Stefan Bary (Peak Capital), waarvoor dank! Tijdens de standdag laten we zien wat CAPP Agile Learning is, wat het kan en hoe het wordt gebruikt. We laten zien hoe CAPP Agile Learning succesvol gebruikt wordt bij espresso franchise Doppio (met dank aan Peter van Eijl en Werner Lindeboom) en het Universitair Medisch Centrum Groningen (met dank aan Ronald van Rheenen). En er is volop oprechte aandacht voor onze visie op het delen van expertise binnen teams.
 
 Waardevol advies over de internationale markt en onboarding krijgen we van Maria d'Orey van Faber ventures. Adviezen over de nationale markt en overheid van Zijne Koninklijke Hoogheid Prins Constantijn - de foto hieronder is geschoten met dank aan Anke Schaeffers van de Nederlandse ambassade in Portugal. Er zijn uitgebreide kansen om, buiten de Summit om, te netwerken. Zoals tijdens onze avond op de Nederlandse ambassade waar we één van de oprichters van TomTom spreken. Als start-up moet je er wel zelf voor zorgen dat je uitgenodigd wordt voor deze netwerkborrels en adviesmomenten.
 
 ![Foto met ZKH Prins Constantijn](/images/blog/websummit-2016-01.jpg)
 <p class="caption">v.l.n.r. ZKH Prins Constantijn, techblogger Omar Saberi en ik (Iwanna)</p>
 
-WebSummit is de grootste tech marktplaats van Europa: mee eens. Maar, het is absoluut niet dé plek voor de 'bedrijven met de meeste impact'. Het is volgens ons meer een plek om ideeën uit te wisselen, dan een plek waar je bij elkaar komt om bepaalde markten te innoveren. WebSummit is uiteindelijk wat je er zelf van maakt. Voor LearningSpaces is het de perfecte plek geweest om gelijkgestemden te ontmoeten en goede adviezen te krijgen.
+WebSummit is de grootste tech marktplaats van Europa: mee eens. Maar, het is absoluut niet dé plek voor de 'bedrijven met de meeste impact'. Het is volgens ons meer een plek om ideeën uit te wisselen, dan een plek waar je bij elkaar komt om bepaalde markten te innoveren. WebSummit is uiteindelijk wat je er zelf van maakt. Voor CAPP Agile Learning is het de perfecte plek geweest om gelijkgestemden te ontmoeten en goede adviezen te krijgen.
 
-![Team LearningSpaces op de foto](/images/blog/websummit-2016-02.jpg)
+![Team CAPP Agile Learning op de foto](/images/blog/websummit-2016-02.jpg)
 <p class="caption">Gedeelte van ons te gekke team: v.l.n.r. Tim, Marcel, Milda</p>
 
 Onze mannen Tim Bakker en Marcel Horlings krijgen veel aandacht in hun prachtige pakken. Marcel (PAC-MAN) is een hit op Twitter en Tim (geruit pak) is door [Leadfeeder](https://www.leadfeeder.com/){:target="_blank"} zelfs uitgeroepen tot *'best geklede man van WebSummit'*.
 
 ![Best geklede Tim Bakker screenshot](/images/blog/websummit-2016-03.jpg)
 
-Op onze standdag komt niet iedereen voor de inmiddels legendarische pakken langs. Bezoekers waren er echt op uit om [de visie achter LearningSpaces](http://blog.learningspaces.io/what-is-learningspaces/){:target="_blank"} te horen. Voor de mensen die onze pitch nog niet gehoord hebben: bel of mail ons en we maken het goed! We deelden ook onze eigen gemaakte boekjes over e-learning uit. Als je geïnteresseerd bent in het in elkaar zetten van e-learning en het is je niet gelukt om een boek mee te nemen: neem dan contact op en we zorgen er alsnog voor dat je één toegestuurd krijgt.
+Op onze standdag komt niet iedereen voor de inmiddels legendarische pakken langs. Bezoekers waren er echt op uit om de visie achter CAPP Agile Learning te horen. Voor de mensen die onze pitch nog niet gehoord hebben: bel of mail ons en we maken het goed! We deelden ook onze eigen gemaakte boekjes over e-learning uit. Als je geïnteresseerd bent in het in elkaar zetten van e-learning en het is je niet gelukt om een boek mee te nemen: neem dan contact op en we zorgen er alsnog voor dat je één toegestuurd krijgt.
 
 ## Was het 't avontuur waard?
 Hoe gebrekkig het begin ook was, we moeten toegeven dat WebSummit een mooie kans is om te netwerken, veel adviezen te ontvangen en nieuwe contacten op te doen. WebSummit gaat niet om de organisatie, het zijn uiteindelijk de start-ups en bezoekers die samen zoeken naar de beste oplossingen voor de toekomst.
 
 ---
 
-Wil je meer weten over LearningSpaces? Kijk dan eens op [de LearningSpaces website](http://www.learningspaces.nl){:target="_blank"} of bel met Defacto op 050 3144832.
+Wil je meer weten over CAPP Agile Learning? Kijk dan eens op [de CAPP Agile Learning pagina](/capp-agile-learning/) of bel met Defacto op 050 3144832.

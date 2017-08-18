@@ -1,7 +1,7 @@
 ---
 title: Laat de babyboomers in elk geval hun kennis inleveren
 date: 2015-09-24 17:15 CEST
-tags: babyboomers, kennis delen, LearningSpaces
+tags: babyboomers, kennis delen, CAPP Agile Learning
 author: Hans
 lang: nl
 featured_image: images/blog/featured/20150924-babyboomers-kennis.png
@@ -15,7 +15,7 @@ De vraag is natuurlijk hoe je dat voor elkaar krijgt. In de meeste organisaties 
 
 Dank zij die vermaledijde moderne techniek is het tegenwoordig vrij simpel om het maken en delen van kennis in organisaties eenvoudig en goedkoop te faciliteren.
 
-Wij ondersteunen dat met [LearningSpaces](http://www.learningspaces.nl){:target="_blank"}, waarmee zelfs babyboomers hun kennis kunnen vastleggen en in de organisatie kunnen delen, maar er zijn zeker ook andere producten die dit kunnen.
+Wij ondersteunen dat met [CAPP Agile Learning](/capp-agile-learning/), waarmee zelfs babyboomers hun kennis kunnen vastleggen en in de organisatie kunnen delen, maar er zijn zeker ook andere producten die dit kunnen.
 
 De invoering van een dergelijk systeem maakt een einde aan papieren en gedateerde handboeken, aan niet bijgewerkte SharePoint documenten en aan eindeloos gebel naar collega’s om te vragen hoe iets moet/werkt.
 

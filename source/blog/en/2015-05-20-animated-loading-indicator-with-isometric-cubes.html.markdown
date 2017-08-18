@@ -4,7 +4,7 @@ date: 2015-05-20 14:10 CEST
 tags: frontend, UI/UX, css
 author: Matthijs
 lang: en
-image: images/blog/social/learningspaces-1200x630.jpg
+image: images/blog/social/cappagilelearning-1200x630.jpg
 featured_image: images/blog/featured/20150520-animated-loading.png
 ---
 
@@ -14,7 +14,7 @@ Fortunately, [CAPP Agile Learning](/capp-agile-learning/) is pretty fast and the
 
 So we can't prevent loading time but we can make it less boring. Show something awesome instead of a simple spinner or loading message. At least tickle the user's senses a bit while waiting. The first thing that came to mind was the __[isometric](http://en.wikipedia.org/wiki/Isometric){:target="_blank"}{:rel="noopener"}__ shape in our logo, consisting of a cube within a cube (or three times the letter "L" surrounding a cube). Perfect for our loading indicator:
 
-![LearningSpaces logo](/images/blog/en/logo-learningspaces.png)
+![CAPP Agile Learning logo](/images/blog/en/logo-cappagilelearning.png)
 
 In this post I will explain and demonstrate how we recreated and animated our logo, and how to use it as a loading indicator in Ember.js.
 
@@ -151,7 +151,7 @@ Like the animations but think all the isometric projection math is too much fuzz
 
 The [demo](http://codepen.io/snap/pen/MYwVeP?editors=110){:target="_blank"}{:rel="noopener"} below shows the HTML and the SVG aproach, both powered by the same CSS animation! The only difference with SVG is we have to animate the path's "fill" attribute instead of background color.
 
-<iframe height='335' scrolling='no' src='http://codepen.io/snap/embed/MYwVeP/?height=335' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/snap/pen/MYwVeP/'>LearningSpaces logo with CSS (animated)</a> by Matthijs Kuiper (<a href='http://codepen.io/snap'>@snap</a>) on <a href='http://codepen.io'>CodePen</a>.
+<iframe height='335' scrolling='no' src='http://codepen.io/snap/embed/MYwVeP/?height=335' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/snap/pen/MYwVeP/'>CAPP Agile Learning logo with CSS (animated)</a> by Matthijs Kuiper (<a href='http://codepen.io/snap'>@snap</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
 
 ## Loading template in Ember.js

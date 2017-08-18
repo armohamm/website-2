@@ -4,8 +4,8 @@ date: 2016-12-22 08:00 CEST
 tags: CAPP Agile Learning, workshop
 author: Iwanna de Jonge
 lang: nl
-image: images/blog/social/waardevolle-kennis-learningspaces-1200x630.png
-featured_image: images/blog/featured/20161214-workshop-learningspaces.jpg
+image: images/blog/social/waardevolle-kennis-cappagilelearning-1200x630.png
+featured_image: images/blog/featured/20161214-workshop-cappagilelearning.jpg
 ---
 
 **Eind november was het tijd voor een workshop [CAPP Agile Learning](/capp-agile-learning/) in het mooie Zwolle. Medewerkers van onder andere het Radboud Universitair Medisch Centrum, Syndion, Maastricht Universitair Medisch Centrum, Albert Schweitzer ziekenhuis en Gelre Ziekenhuis zijn hier aanwezig om te leren hoe zij op een eenvoudige manier kennis kunnen delen. Als spreker is vandaag present Ronald van Rheenen, nucleair geneeskundige in het UMCG en early adopter van CAPP Agile Learning.**
@@ -34,12 +34,12 @@ Mooie reactie op een product waar mijn collega's en ik zelf al fan van zijn. Bij
 
 ## Foto's
 
-![Workshop LearningSpaces](/images/blog/20161214-workshop-learningspaces-01.jpg)
+![Workshop CAPP Agile Learning](/images/blog/20161214-workshop-cappagilelearning-01.jpg)
 
-![Introductie LearningSpaces](/images/blog/20161214-workshop-learningspaces-02.jpg)
+![Introductie CAPP Agile Learning](/images/blog/20161214-workshop-cappagilelearning-02.jpg)
 
-![Introductie LearningSpaces 2](/images/blog/20161214-workshop-learningspaces-03.jpg)
+![Introductie CAPP Agile Learning 2](/images/blog/20161214-workshop-cappagilelearning-03.jpg)
 
-![Samenwerken](/images/blog/20161214-workshop-learningspaces-04.jpg)
+![Samenwerken](/images/blog/20161214-workshop-cappagilelearning-04.jpg)
 
-![Samenwerken 2](/images/blog/20161214-workshop-learningspaces-05.jpg)
+![Samenwerken 2](/images/blog/20161214-workshop-cappagilelearning-05.jpg)

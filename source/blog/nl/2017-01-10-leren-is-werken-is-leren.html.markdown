@@ -28,7 +28,7 @@ We weten dat we het meeste leren van elkaar en om ons werk goed te doen de kenni
 
 In onze vrije tijd leren we dus continu op deze manier van elkaar. Volgens mij is het tijd om dit op dezelfde manier in onze werkomgevingen te gaan regelen. Pas wanneer medewerkers onderling makkelijk, snel kennis kunnen uitwisselen, van elkaar kunnen leren kun je mijns inziens spreken van een lerende organisatie.
 
-*Wij doen dit nu [met LearningSpaces](http://www.learningspaces.nl){:target="_blank"}.*
+*Wij doen dit nu [met CAPP Agile Learning](/capp-agile-learning/)
 
 ---
 Heb je vragen naar aanleiding van deze blog? Neem dan contact op met [Joep](mailto:j.lenglet@defacto.nl) of bel Defacto op 050 3144832.

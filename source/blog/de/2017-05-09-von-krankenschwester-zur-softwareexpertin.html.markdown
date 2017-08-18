@@ -34,11 +34,11 @@ Martina arbeitet seit 2 Jahren bei Defacto, kommt ursprünglich allerdings aus d
 
 **M:** "Eines der Kerngedanken, die man gut ausarbeiten sollte ist die Frage nach dem Ziel der Anschaffung eines LMS. Ob man die Entwicklung der Mitarbeiter verbessern, die Qualität der Mitarbeiter auf strukturellem Niveau aufzeigen oder Akkreditierungen möglich machen möchte ist egal, hauptsache man hat sein eigenes Ziel klar vor Augen."
 
-### **A:** Wieso sind CAPP und LearningSpaces aus deiner Sicht die ultimativen Lösungen für ein effizienteres Aus- und Weiterbildungssystem, vor allem auch im Gesundheitswesen?
+### **A:** Wieso sind CAPP und CAPP Agile Learning aus deiner Sicht die ultimativen Lösungen für ein effizienteres Aus- und Weiterbildungssystem, vor allem auch im Gesundheitswesen?
 
 **M:** "Durch unsere Lösungen haben Sie als Organisation immer eine Übersicht über Ihre eigenen Daten. Tag und Nacht können Sie den aktuellen Stand der Entwicklung Ihrer Mitarbeiter abrufen. Transparenz in der Qualität der Mitarbeiter zu haben ist ein sehr hohes Gut."
 
-"Ein weiterer Grund für die Anschaffung von [CAPP](/capp-entwickeln/){:title="CAPP Enwitckeln"} und/oder [LearningSpaces](/learningspaces/){:title="LearningSpaces"} ist die Möglichkeit für Ihre Mitarbeiter, fortwährend zu sehen, welche Möglichkeiten sie haben um sich zu qualifizieren. Hierfür bieten wir z.B. den sogenannten Qualitätspass. Darin können Sie als Manager oder Stationsleiter alle Kernkompetenzen, die nötig sind, festlegen und die Entwicklung von Mitarbeitern verfolgen."
+"Ein weiterer Grund für die Anschaffung von [CAPP](/capp-entwickeln/){:title="CAPP Enwitckeln"} und/oder [CAPP Agile Learning](/capp-agile-learning/) ist die Möglichkeit für Ihre Mitarbeiter, fortwährend zu sehen, welche Möglichkeiten sie haben um sich zu qualifizieren. Hierfür bieten wir z.B. den sogenannten Qualitätspass. Darin können Sie als Manager oder Stationsleiter alle Kernkompetenzen, die nötig sind, festlegen und die Entwicklung von Mitarbeitern verfolgen."
 
 "Da Zeit vor allem im Gesundheitswesen eine knappe Resource ist, wird es Ihren Mitarbeitern entgegen kommen, wenn sie selbstständig entscheiden können wann und wo sie die E-Learning Module abspielen möchten."
 

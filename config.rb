@@ -80,6 +80,10 @@ page "/*.txt", layout: false
 ignore "/fonts/icons/selection.json"
 
 # Redirects to prevent 404's
+unless root_locale == :de
+  redirect "blog/tags/learningspaces.html", to: "/blog/tags/capp-agile-learning/"
+end
+
 unless root_locale == :en
   redirect "elearning.html", to: "e-learning.html"
   redirect "capp.html", to: "capp-lms.html"
@@ -91,6 +95,8 @@ case root_locale
 when :nl
   redirect "workshop-convenant-mt.html", to: "convenant-medische-technologie.html"
   redirect "hosting.html", to: "hosting-security.html"
+  redirect "blog/learningspaces-op-websummit.html", to: "/blog/capp-agile-learning-op-websummit/"
+  redirect "blog/learningspaces-een-veilige-ruimte-om-te-leren-van-elkaar.html", to: "/blog/capp-agile-learning-een-veilige-ruimte-om-te-leren-van-elkaar/"
 when :de
   redirect "hosting-security.html", to: "hosting.html"
   redirect "capp-lms.html", to: "capp-bilden.html"

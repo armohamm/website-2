@@ -14,7 +14,7 @@ We can say whatever we want about the importance of being unique, but let’s ad
 
 **iGeneration:**
 
-Some call this generation “screen addicts”. Others state that these kids have an attention span of a golden fish. But I would call us an online generation with limitless options and very limited time. We are not screen addicts, we just feel the urge to sort and access enormous amounts of different information. E.g. I am not only working with LearningSpaces marketing, I am also striving to finish my International Relations bachelor. Believe me, staying on top of the game is difficult: you need to read, talk and listen about various topics constantly. Multitasking is the key!
+Some call this generation “screen addicts”. Others state that these kids have an attention span of a golden fish. But I would call us an online generation with limitless options and very limited time. We are not screen addicts, we just feel the urge to sort and access enormous amounts of different information. E.g. I am not only working with CAPP Agile Learning marketing, I am also striving to finish my International Relations bachelor. Believe me, staying on top of the game is difficult: you need to read, talk and listen about various topics constantly. Multitasking is the key!
 
 **Juggling:**
 

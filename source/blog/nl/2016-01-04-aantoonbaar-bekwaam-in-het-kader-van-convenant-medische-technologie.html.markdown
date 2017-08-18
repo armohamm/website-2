@@ -1,13 +1,13 @@
 ---
 title: Aantoonbaar bekwaam in het kader van het Convenant Medische Technologie
 date: 2016-01-04 15:30 CET
-tags: gebruikersoverleg, CAPP, LearningSpaces
+tags: gebruikersoverleg, CAPP, CAPP Agile Learning
 author: Marian
 lang: nl
 featured_image: images/blog/featured/20160104-convenant.jpg
 ---
 
-### *Samen met onze klanten Ziekenhuis Rivierenland Tiel en het Leids Universitair Medisch Centrum (LUMC) hebben we een tweetal ´ronde tafel´-bijeenkomsten georganiseerd in het kader van het Convenant Medische Technologie (CMT). Het convenant regelt een veilige toepassing van medische technologie in ziekenhuizen. Dit betekent een veilig product in handen van een opgeleide gebruiker, in een omgeving die veilig gebruik garandeert.*
+**Samen met onze klanten Ziekenhuis Rivierenland Tiel en het Leids Universitair Medisch Centrum (LUMC) hebben we een tweetal 'ronde tafel'-bijeenkomsten georganiseerd in het kader van het Convenant Medische Technologie (CMT). Het convenant regelt een veilige toepassing van medische technologie in ziekenhuizen. Dit betekent een veilig product in handen van een opgeleide gebruiker, in een omgeving die veilig gebruik garandeert.**
 
 Tijdens de bijeenkomsten zijn we ingegaan op het aspect van het convenant waar nog veel vragen over leven binnen ziekenhuizen: hoe maak je iedereen bewust en aantoonbaar bekwaam in het werken met medische apparatuur en hoe borg je dit? Dit leidt tot vragen als: hoe regel je dit effectief en efficiënt, *just in time* voor elke medewerker? En uiteindelijk heel belangrijk: hoe draagt dit bij aan de kwaliteit van de zorg?
 
@@ -26,10 +26,10 @@ Iedere medewerker en zijn leidinggevenden hebben via het Kwaliteitspaspoort *re
 
 
 #### 3. Actueel houden van de kennis van de medewerkers én de organisatie
-Met de applicatie [LearningSpaces van Defacto](/learningspaces/) wordt er een platform gecreëerd waar iedere medewerker alle belangrijke informatie rondom de medische apparatuur op de afdeling kan vinden. Door de mogelijkheid tot het stellen van vragen en het verbeteren van bestaande teksten leren medewerkers van elkaar en draagt iedereen de verantwoordelijkheid voor het up-to-date houden van bestaande kennis. Op deze manier kan opgedane kennis gedeeld en verrijkt worden. Ook kunnen kritische bedrijfssituaties in LearningSpaces gemeld, opgelost en zichtbaar worden zodat de hele organisatie ervan kan leren.
+Met de applicatie [CAPP Agile Learning van Defacto](/capp-agile-learning/) wordt er een platform gecreëerd waar iedere medewerker alle belangrijke informatie rondom de medische apparatuur op de afdeling kan vinden. Door de mogelijkheid tot het stellen van vragen en het verbeteren van bestaande teksten leren medewerkers van elkaar en draagt iedereen de verantwoordelijkheid voor het up-to-date houden van bestaande kennis. Op deze manier kan opgedane kennis gedeeld en verrijkt worden. Ook kunnen kritische bedrijfssituaties in CAPP Agile Learning gemeld, opgelost en zichtbaar worden zodat de hele organisatie ervan kan leren.
 
-#### LearningSpaces:
-![Learningspaces Defacto](/images/blog/learningspaces-defacto.png)
+#### CAPP Agile Learning:
+![CAPP Agile Learning Defacto](/images/blog/cappagilelearning-defacto.png)
 
 Tijdens de bijeenkomsten bleek dat er nog veel vragen zijn over de implementatie en de borging:
 

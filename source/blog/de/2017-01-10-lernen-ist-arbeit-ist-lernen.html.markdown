@@ -29,7 +29,7 @@ Obwohl wir also wissen, dass wir am meisten voneinander lernen - von der Experti
 
 Im Grunde lernen wir in unserer Freizeit also schon lange auf diese Weise voneinander. Meiner Meinung nach ist es an der Zeit, dies auch in unseren Arbeitskontext zu integrieren. Erst wenn Mitarbeiter untereinander einfach und schnell Wissen austauschen können und voneinander lernen können, kann man denke ich von einer stetig lernenden Organisation sprechen.
 
-*Wir tun das [mit LearningSpaces](http://www.learningspaces.de){:target="_blank"}, und ihr?*
+*Wir tun das [mit CAPP Agile learning](/capp-agile-learning/), und ihr?*
 
 ---
 

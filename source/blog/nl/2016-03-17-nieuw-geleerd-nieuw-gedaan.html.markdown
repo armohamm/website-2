@@ -15,7 +15,7 @@ Ik kan me nog goed herinneren hoe ik op de middelbare school achter MSN zat om t
 ![WhatsApp](/images/blog/whatsapp.jpg)
 <p class="caption">We gebruiken allemaal WhatsApp</p>
 
-In mijn baan als consultant bij Defacto is het interessant om te kijken wat precies maakt dat een nieuwe applicatie zo succesvol is dat deze bestaande applicaties vervangt. De sleutel tot die formule is immers de sleutel tot succes. Iedere keer als ik hier over nadenk kom ik terug bij de uitleg die [mijn collega Hugo](http://blog.learningspaces.io/author/hugo/){:target="_blank"} hier ooit voor gaf:
+In mijn baan als consultant bij Defacto is het interessant om te kijken wat precies maakt dat een nieuwe applicatie zo succesvol is dat deze bestaande applicaties vervangt. De sleutel tot die formule is immers de sleutel tot succes. Iedere keer als ik hier over nadenk kom ik terug bij de uitleg die mijn collega Hugo hier ooit voor gaf:
 
 >#### 'Digitalisering is geen vernieuwing, de echte revolutie komt pas daarna'
 
