@@ -7,7 +7,7 @@ featured: false
 header_image: moods/code.jpg
 popup: false
 ---
-Voor de uitbreiding van ons team zijn wij op zoek naar Ruby on Rails developers. We zijn sinds september 2014 bezig met [LearningSpaces](http://www.learningspaces.io){:target="_blank"}, dat we graag verder ontwikkelen en waar we backend developers voor zoeken. LearningSpaces wordt gemaakt in _Ruby on Rails_ met een _Ember_ front-end.
+Voor de uitbreiding van ons team zijn wij op zoek naar Ruby on Rails developers. We zijn sinds september 2014 bezig met [CAPP Agile Learning](/capp-agile-learning/), dat we graag verder ontwikkelen en waar we backend developers voor zoeken. CAPP Agile Learning wordt gemaakt in _Ruby on Rails_ met een _Ember_ front-end.
 
 Je hebt bij voorkeur ervaring met:
 
