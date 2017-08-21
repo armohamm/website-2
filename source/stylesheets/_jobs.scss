@@ -1,88 +1,134 @@
 .jobs {
-  .main {
-    $blog-link-color: darken($blue, 10);
+  a {
+    color: $blog-link-color;
+    text-decoration: none;
 
+    &:active,
+    &:focus,
+    &:hover {
+      color: darken($blog-link-color, 15%);
+    }
+  }
+
+  .main {
     .row {
-      padding: 2em 1em;
+      padding: 1em;
+
+      p {
+        @include media($medium-up) {
+          font-size: $base-font-size * 1.2;
+        }
+      }
     }
 
-    a {
-      color: $blog-link-color;
-      text-decoration: none;
+    .col {
+      margin: 0 auto;
+      max-width: 960px;
+    }
 
-      &:active,
-      &:focus,
-      &:hover {
-        color: darken($blog-link-color, 15%);
+    .job {
+      h1 {
+        margin: 0;
+      }
+
+      h2 {
+        font-size: 1.6em;
+
+        @include media($medium-up) {
+          font-size: 1.8em;
+        }
+      }
+    }
+
+    .jobs-header {
+      background-image: url("../images/moods/defacto-pand.jpg");
+      background-position: center;
+      background-size: cover;
+      padding-bottom: 1em;
+      padding-top: 1em;
+      width: 100%;
+
+      @include media($medium-up) {
+        padding-bottom: 3em;
+        padding-top: 3em;
+      }
+
+      .col {
+        color: $white;
+        max-width: 800px;
+        text-align: center;
+
+        h1 {
+          font-size: $base-font-size * 1.5;
+          font-weight: 700;
+
+          @include media($medium-up) {
+            font-size: $base-font-size * 2.4;
+          }
+        }
+
+        p {
+          margin: 0;
+        }
+      }
+    }
+
+    .jobs-overview {
+      padding-bottom: 3em;
+      padding-top: 3em;
+
+      .jobs-list-title {
+        font-size: 2em;
       }
     }
 
     article {
-      float: none;
       margin: 0;
       max-width: none;
       width: 100%;
     }
 
-    .jobs-header {
-      background-position: center;
-      background-size: cover;
-
-      h1 {
-        color: $white;
-        font-weight: 700;
-        margin: 0 auto;
-        max-width: 800px;
-        padding: 1em 0;
+    .jobs-list {
+      li:first-child article {
+        padding-top: 0;
       }
 
-      p {
-        color: $white;
-        text-align: center;
+      li {
+        border-bottom: $post-border 1px solid;
+        padding: 2em 0 1em;
 
-        @include media($medium-up) {
-          font-size: 1.4em;
+        h2 {
+          font-size: $base-font-size * 1.6;
+          font-weight: 700;
         }
       }
     }
 
-    .post-related {
-      padding: 0;
-      text-align: left;
-
-      h3 {
-        border-bottom: $post-border 1px solid;
-        padding-bottom: 1em;
-      }
-
-      li:last-child {
-        border: 0;
-      }
-    }
-  }
-}
-
-.jobs_index {
-  .jobs-header {
-    background-image: url("../images/moods/defacto-pand.jpg");
-    text-align: center;
-
-    h1 {
+    .post-body li {
       @include media($medium-up) {
-        font-size: 3em;
+        font-size: $base-font-size * 1.2;
       }
     }
+
+    .jobs-related {
+      background-color: $lightest-gray;
+    }
   }
-}
 
-.job-form {
-  background: $lightest-gray;
-  margin-top: 2em;
-  padding: 1em;
+  .job-form {
+    background: $lightest-gray;
+    margin-bottom: 3em;
+    margin-top: 3em;
+    padding: 1em;
 
-  @include media($medium-up) {
-    margin-left: -3em;
-    margin-right: -3em;
-    padding: 3em;
+    @include media($medium-up) {
+      margin-left: -3em;
+      margin-right: -3em;
+      padding: 3em;
+    }
+
+    .form-contact {
+      max-width: none;
+    }
   }
 }
