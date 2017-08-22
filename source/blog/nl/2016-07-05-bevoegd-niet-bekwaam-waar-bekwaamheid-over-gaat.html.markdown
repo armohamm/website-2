@@ -4,7 +4,7 @@ date: 2016-07-05 08:00 CEST
 tags: accreditaties, performance support, CAPP
 author: Joep
 lang: nl
-image: images/blog/social/bevoegd-is-niet-bewkaam-1200x630.png
+image: images/blog/social/bevoegd-is-niet-bekwaam-1200x630.png
 featured_image: images/blog/featured/20160705-bevoegd.png
 ---
 
