@@ -4,7 +4,6 @@ date: 2017-08-15 8:00 CEST
 tags: Defacto, 30 jaar
 author: Stéphanie
 lang: nl
-featured: true
 image: images/blog/social/defacto-movie-1200x630.jpg
 featured_image: images/blog/featured/20170815-partymovie.jpg
 ---
