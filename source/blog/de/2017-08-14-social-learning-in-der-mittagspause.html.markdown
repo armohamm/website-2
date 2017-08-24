@@ -4,7 +4,6 @@ date: 2017-08-14 08:00 CEST
 tags: Mittagessen, Lernen, Idee, teilen
 author: Milda
 lang: de
-featured: true
 image: images/blog/social/lunchbreak-learning-1200x630.jpg
 featured_image: images/blog/featured/20160330-lunchbreak-learning.jpg
 ---
