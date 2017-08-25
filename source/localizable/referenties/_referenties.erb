@@ -1,0 +1,12 @@
+<%
+all_clients = data["clients_" + I18n.locale.to_s]
+clients = all_clients.clone
+%>
+
+<ul class="references-list">
+  <% clients.each do |client| %>
+    <li>
+      <%= image_tag "#{client.logo}", alt: "#{client.client}", title: "#{client.client}" %>
+    </li>
+  <% end %>
+</ul>
