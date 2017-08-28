@@ -4,7 +4,6 @@ date: 2017-08-24 14:10 CEST
 tags: leadership, management, team
 author: Milda
 lang: de
-featured: true
 image: images/blog/social/leadership-1200x630.jpg
 featured_image: images/blog/featured/20151008-leadership.jpg
 ---
