@@ -4,7 +4,6 @@ date: 2017-08-28 07:00 CEST
 tags: generaties, team, leiderschap, kennis
 author: Milda
 lang: nl
-featured: true
 image: images/blog/social/knowledge-transfer-1200x630.jpg
 featured_image: images/blog/featured/20151030-knowledge-transfer.jpg
 ---
