@@ -4,7 +4,6 @@ date: 2017-07-11 8:00 CEST
 tags: Defacto, anniversary, 30 years, video
 author: Stéphanie
 lang: en
-featured: true
 image: images/blog/social/30-jaar-1200x630.jpg
 featured_image: images/blog/featured/20170627-30-jaar.jpg
 ---
