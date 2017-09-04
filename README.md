@@ -2,9 +2,9 @@
 
 The source code for our websites:
 
-[http://www.defacto.nl](http://www.defacto.nl)  
-[http://www.defactolearning.de](http://www.defactolearning.de)  
-[http://en.defacto.nl](http://en.defacto.nl)
+[https://www.defacto.nl](https://www.defacto.nl)  
+[https://www.defactolearning.de](https://www.defactolearning.de)  
+[https://en.defacto.nl](https://en.defacto.nl)
 
 More detailed information can be found at the [Wiki](https://github.com/DefactoSoftware/website/wiki).
 
@@ -42,7 +42,7 @@ rake test:en
 rake test # Test all locales with HTML-proofer
 ```
 
-##### Deploy (and build + test before)
+##### Deploy (and build before)
 
 ```bash
 rake deploy:nl

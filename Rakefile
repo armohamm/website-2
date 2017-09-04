@@ -95,16 +95,16 @@ task :test => ["test:nl", "test:de", "test:en"]
 namespace :deploy do
   def deploy(env)
     begin
-      Rake::Task["test:#{env}"].invoke
+      Rake::Task["build:#{env}"].invoke
     rescue SystemExit => e
       puts "*"*50
-      puts "* Test failed, skipping deployment (locale #{env.upcase})"
+      puts "* Build failed, skipping deployment (locale #{env.upcase})"
       puts "*"*50
       exit(e.status)
     end
 
     puts "*"*50
-    puts "* Test successful, Deploying #{env.upcase} ... "
+    puts "* Build successful, Deploying #{env.upcase} ... "
     puts "*"*50
     system "LOCALE=#{env} bundle exec middleman deploy" or exit(1)
   end
