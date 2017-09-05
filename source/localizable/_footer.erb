@@ -9,11 +9,14 @@
         Zuiderpark 3<br>
         9724 AD Groningen<br>
         <%= t("footer.country") %>
-      </p><p>
+      </p>
+      <p>
         T&nbsp;&nbsp;<a href="tel:<%= t("contact.phone_link") %>" class="phone"><%= t("contact.phone") %></a><br>
         E&nbsp;&nbsp;<a href="mailto:<%= t("contact.email") %>"><%= t("contact.email") %></a>
       </p>
+
       <%= partial "footer/social-links" %>
+
       <p>
         <a href="https://www.certipedia.com/quality_marks/9108633443?locale=en" target="_blank">
           <%= image_tag "tuv-certified.png", alt: "TUV Certified" %>

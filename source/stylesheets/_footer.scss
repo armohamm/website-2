@@ -31,13 +31,14 @@
   }
 
   .col {
-    margin-bottom: 2em;
-    margin-top: 2em;
+    margin-bottom: 1em;
+    margin-top: 1em;
     text-align: left;
 
     @include media($medium-only) {
       @include span-columns(6);
       @include omega(2n);
+      margin-bottom: 0;
     }
 
     @include media($large-up) {
@@ -73,15 +74,13 @@
   }
 
   .social-links {
-    li {
-      display: inline-block;
-    }
+    align-items: flex-start;
+    display: flex;
 
-    a {
-      display: inline-block;
-      font-size: 1.6em;
-      margin-right: 12px;
-      vertical-align: middle;
+    li {
+      flex: 1;
+      font-size: 1.4em;
+      max-width: 36px;
     }
   }
 
