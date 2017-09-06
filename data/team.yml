@@ -65,6 +65,10 @@
   lastname: Veenhuizen
   email: e.veenhuizen@defacto.nl
 
+- firstname: Femke
+  lastname: Santema
+  email: femke@defacto.nl
+
 - firstname: Frits
   lastname: Ypeij
   email: f.ypeij@defacto.nl
@@ -133,10 +137,6 @@
   prefix: de
   lastname: Vos
   email: martina@defacto.nl
-
-- firstname: Mark
-  lastname: Vredegoor
-  email: m.vredegoor@defacto.nl
 
 - firstname: Matthijs
   lastname: Kuiper
