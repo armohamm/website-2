@@ -11,5 +11,7 @@ HTMLProofer.check_directory("./build",
   check_html: true, :validation => { :report_missing_names => false },
   check_favicon: false,
   check_opengraph: true,
-  alt_ignore: ["https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1008438803/?value=0&guid=ON&script=0"],
+  alt_ignore: ["https://googleads.g.doubleclick.net/" \
+               "pagead/viewthroughconversion/1008438803/" \
+               "?value=0&guid=ON&script=0"],
   http_status_ignore: [0, 999, 403, 401]).run
