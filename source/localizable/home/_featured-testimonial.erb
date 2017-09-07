@@ -1,0 +1,15 @@
+<section class="testimonials featured-testimonials">
+  <div class="headline">
+    <h2><%= t("testimonials.title") %></h2>
+  </div>
+  <div class="row">
+
+    <%= partial "testimonials", locals: {
+      count: 2,
+      featured: true,
+      summary: true
+    } %>
+
+    <%= nav_link_to t("testimonials.more_testimonials"), "/testimonials.html", class: "button blue outline" %>
+  </div>
+</section>

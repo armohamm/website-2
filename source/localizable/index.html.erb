@@ -17,27 +17,11 @@ blog: blog
 header_style: invert
 ---
 
-<%= partial "solutions-overview" %>
+<%= partial "home/solutions" %>
 <% if root_locale == :de %>
-  <%= partial "events" %>
-  <%= partial "home-copy" %>
+  <%= partial "home/events" %>
+  <%= partial "home/copy" %>
 <% end %>
-
-<section class="testimonials featured-testimonials">
-  <div class="headline">
-    <h2><%= t("testimonials.title") %></h2>
-  </div>
-  <div class="row">
-
-    <%= partial "testimonials", locals: {
-      count: 2,
-      featured: true,
-      summary: true
-    } %>
-
-    <%= nav_link_to t("testimonials.more_testimonials"), "/testimonials.html", class: "button blue outline" %>
-  </div>
-</section>
-
-<%= partial "blog/featured" %>
+<%= partial "home/featured-testimonial" %>
+<%= partial "home/featured-blog" %>
 <%= partial "clients/clients" %>
