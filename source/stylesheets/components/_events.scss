@@ -8,10 +8,18 @@
 
   h3 {
     color: $base-font-color;
-    font-size: 1.2em;
+    font-size: $base-font-size * 1.2;
 
     @include media($large-up) {
-      font-size: 1.6em;
+      font-size: $base-font-size * 1.6;
+    }
+  }
+
+  h4 {
+    font-size: $base-font-size;
+
+    @include media($large-up) {
+      font-size: $base-font-size * 1.4;
     }
   }
 
@@ -23,7 +31,6 @@
     padding: 1em;
 
     @include media($medium-up) {
-      align-items: center;
       display: flex;
     }
 

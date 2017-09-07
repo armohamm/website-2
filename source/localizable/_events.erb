@@ -16,15 +16,25 @@
         <h3>
           13. Gesundheitswirtschaftskongress
         </h3>
+
         <p class="info">
-          20. und 21. September 2017
+          20. und 21. September 2017 | Grand Elysee, Hamburg
         </p>
-        <p>
-          Grand Elysee, Hamburg
-        </p>
-        <a href="http://www.gesundheitswirtschaftskongress.de/" target="_blank" rel="noopener">
-          Mehr
-        </a>
+
+        <div class="cta-appointment">
+
+          <button class="button outline appointment-button"><%= t("actions.make_appointment") %></button>
+
+          <form class="form-contact" accept-charset="UTF-8" action="<%= t("urls.appointment") %>" method="POST">
+            <input type="hidden" name="utf8" value="✓">
+            <input type="hidden" name="form" value="Make appointment">
+            <input type="text" name="name" placeholder="<%= t("form.name") %>">
+            <input type="text" name="company" placeholder="<%= t("form.organisation") %>">
+            <input type="email" name="email" placeholder="<%= t("form.email") %>" required>
+            <button type="submit"><%= t("actions.make_appointment") %></button>
+          </form>
+
+        </div>
       </div>
 
     </div>
