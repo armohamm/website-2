@@ -75,4 +75,4 @@ The Intercom [JavaScript API](https://docs.intercom.com/configure-intercom-for-y
 
 ---
 
-I hope this helps someone! If you have questions or improvements, please contact us on [Twitter](https://twitter.com/DefactoSoftware) or [Intercom](javascript:Intercom('show')) :)
+I hope this helps someone! If you have questions or improvements, please contact us on [Twitter](https://twitter.com/DefactoEN) or [Intercom](javascript:Intercom('show')) :)

@@ -170,4 +170,4 @@ But like I said at the beginning of this post CAPP Agile Learning is pretty fast
 
 > we find ourselves in the awkward position of complaining that our application isn't slow enough...
 
-If you have any questions, contact us on [twitter](https://twitter.com/defactosoftware)!
+If you have any questions, contact us on [Twitter](https://twitter.com/defactoEN)!
