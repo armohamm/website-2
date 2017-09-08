@@ -26,21 +26,21 @@
 
     <%= alternate_link_tags(current_page) -%>
 
-    <%= partial "open_graph" unless current_page.data.robots && current_page.data.robots.include?("noindex") -%>
+    <%= partial "partials/open_graph" unless current_page.data.robots && current_page.data.robots.include?("noindex") -%>
 
     <link href="https://plus.google.com/101736158500234596266" rel="publisher">
     <%= feed_tag :atom, "#{blog("blog").options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
     <%= stylesheet_link_tag "main" %>
     <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <%= partial "google_analytics" %>
-    <%= partial "hotjar" %>
+    <%= partial "partials/google_analytics" %>
+    <%= partial "partials/hotjar" %>
   </head>
 
   <body class="<%= page_classes %>">
 
     <div class="page-wrap">
 
-      <%= partial "header" %>
+      <%= partial "partials/header" %>
 
       <div class="main" role="main">
         <%= yield %>
@@ -48,11 +48,11 @@
 
     </div>
 
-    <%= partial "footer" %>
+    <%= partial "partials/footer" %>
 
-    <%= partial "organization_schema" if root_url? %>
+    <%= partial "partials/organization_schema" if root_url? %>
 
-    <%= partial "popup-ebook" if !is_blog? && current_page.data.popup != false && data.downloads.ebook[I18n.locale] %>
+    <%= partial "partials/popup-ebook" if !is_blog? && current_page.data.popup != false && data.downloads.ebook[I18n.locale] %>
 
     <%= javascript_include_tag "jquery", "all" %>
     <%= javascript_include_tag "search" if current_page.locale_root_path =~ /zoeken.html/ %>

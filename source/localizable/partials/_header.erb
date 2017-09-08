@@ -7,7 +7,7 @@
       <div class="logo">
 
         <% locale_link_to("/") do %>
-          <%= partial "logo" %>
+          <%= partial "partials/logo" %>
         <% end %>
 
       </div>
@@ -23,6 +23,6 @@
   </header>
 
   <%= partial "home/hero" if current_page.url == "/" %>
-  <%= partial "hero_capp-agile" if current_page.url == "/capp-agile-learning/" %>
+  <%= partial "capp-agile/hero" if current_page.url == "/capp-agile-learning/" %>
 
 </div>
