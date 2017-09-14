@@ -28,7 +28,7 @@ Op dit moment staat de blockchain technologie nog in de kinderschoenen. Er wordt
 
 ## Veiligheid en privacy
 
-Een van de belangrijkste punten die naar voren kwamen tijdens de conferentie had meer te maken met ethiek dan met de technologie. Hoe kun je er zeker van zijn dat een instantie de juiste kwaliteit scholing heeft? Maar ook: hoe kun je er zeker van zijn dat iemand niet met vrienden heeft afgesproken dat ze elkaar kwaliteiten toeschrijven zonder daarvoro naar school te zijn geweest? Daarnaast was de algehele veiligheid van informatie en data ook een groot punt.
+Een van de belangrijkste punten die naar voren kwamen tijdens de conferentie had meer te maken met ethiek dan met de technologie. Hoe kun je er zeker van zijn dat een instantie de juiste kwaliteit scholing heeft? Maar ook: hoe kun je er zeker van zijn dat iemand niet met vrienden heeft afgesproken dat ze elkaar kwaliteiten toeschrijven zonder daarvoor naar school te zijn geweest? Daarnaast was de algehele veiligheid van informatie en data ook een groot punt.
 
 Hoewel iedereen denkt dat blockchain dé oplossing is voor veilige informatie, zet Jaap-Henk Hoepman daar zijn vraagtekens bij. Zijn presentatie “Blockchain en waarom je het moet mijden als de pest” bracht een discussie op gang over het online zetten van informatie en dat blockchain juist niet bevorderend is voor de privacy. Daarnaast is de blockchain een stuk trager in het verwerken en versturen van informatie (7 transacties per seconden, tegen 1000den transacties per seconde voor creditcards). Volgens hem is er meer behoefte aan een goed peer-to-peer systeem waarmee je informatie direct naar een geïnteresseerde partij stuurt zonder alles openbaar op het internet of de blockchain te zetten.
 
