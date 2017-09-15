@@ -1,7 +1,7 @@
 ---
 title: "Blockchain in Education conferentie RUG 2017"
 date: 2017-09-12 07:00 CEST
-tags: blockchain, security, Defacto, data, conference
+tags: blockchain, security, data, conference
 author: Stéphanie
 lang: nl
 featured: true
