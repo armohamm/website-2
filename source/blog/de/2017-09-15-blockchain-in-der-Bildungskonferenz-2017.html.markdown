@@ -4,7 +4,6 @@ date: 2017-09-15 07:00 CEST
 tags: blockchain, sicherheit, daten, konferenz
 author: Stéphanie
 lang: de
-featured: true
 image: images/blog/social/blockchain-1200x630.jpg
 featured_image: images/blog/featured/20170912-blockchain.jpg
 ---
