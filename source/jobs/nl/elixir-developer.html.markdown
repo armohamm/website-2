@@ -8,9 +8,9 @@ header_image: moods/code.jpg
 popup: false
 ---
 
-Sinds juni zijn wij bezig met het ontwikkelen van een nieuwe applicatie in [Elixir](https://elixir-lang.org/){:target="_blank"}{:rel="noopener"}{:title="Elixir"} i.c.m. [Phoenix](http://phoenixframework.org/){:target="_blank"}{:rel="noopener"}{:title="Phoenix Framework"}. Deze nieuwe applicatie wordt vanaf de grond af opgebouwd, een mooie kans om aan mee te werken!
+Wij zijn op zoek naar een nieuwe collega voor het ontwikkelen van onze software. Sinds juni zijn wij bezig met het ontwikkelen van een nieuwe applicatie in [Elixir](https://elixir-lang.org/){:target="_blank"}{:rel="noopener"}{:title="Elixir"} i.c.m. [Phoenix](http://phoenixframework.org/){:target="_blank"}{:rel="noopener"}{:title="Phoenix Framework"}. Deze nieuwe applicatie wordt vanaf de grond af opgebouwd, een mooie kans om aan mee te werken!
 
-De kennis die we opgedaan hebben bij [ElixirConf](https://elixirconf.com/){:target="_blank"}{:rel="noopener"}{:title="ElixerConf"} passen we toe bij de development van de app en gaan we natuurlijk ook aan jou overdragen.
+De kennis die we onder andere opgedaan hebben bij [ElixirConf](https://elixirconf.com/){:target="_blank"}{:rel="noopener"}{:title="ElixerConf"} passen we toe bij de development van de app en gaan we natuurlijk ook aan jou overdragen.
 
 Je hebt bij voorkeur ervaring met (maar dit zijn geen vereisten!):
 
@@ -27,8 +27,8 @@ Defacto kent een platte organisatie en hoge mate van transparantie. De verantwoo
 
 We geloven dat het belangrijk is om in een leuke omgeving te kunnen werken. Onze werktijden zijn flexibel, het gaat om de kwaliteit die je levert.
 
-Je hebt de mogelijkheid gebruik te maken van een BYOD regeling, Defacto betaalt de helft van je device en hij is van jou!
+Je hebt de mogelijkheid gebruik te maken van een Bring Your Own Device-regeling, Defacto betaalt de helft van je device en hij is van jou!
 
-Elke vrijdag is er ruimte om je te verdiepen in nieuwe technieken, producten, etc.
+Elke vrijdag is er ruimte om je te verdiepen in nieuwe technieken en producten. Daarnaast krijg je een jaarlijks opleidingsbudget van €3000,- (incl. benodigde vakliteratuur) die vrij is te besteden en ontvang je een variabele winstdeling.
 
 [Bekijk ons GitHub profiel](https://github.com/DefactoSoftware/){:target="_blank"}{:rel="noopener"}{:title="Ons GitHub profiel"}.
