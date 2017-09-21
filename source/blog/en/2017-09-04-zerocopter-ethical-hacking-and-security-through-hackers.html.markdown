@@ -4,7 +4,6 @@ date: 2017-09-04 07:00 CEST
 tags: zerocopter, security, Defacto, data
 author: Stéphanie
 lang: en
-featured: true
 image: images/blog/social/zerocopter-1200x630.jpg
 featured_image: images/blog/featured/20170904-zerocopter.jpg
 ---
