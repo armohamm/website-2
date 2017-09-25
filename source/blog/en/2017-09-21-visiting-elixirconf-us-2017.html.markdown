@@ -4,7 +4,6 @@ date: 2017-09-21 08:00 CEST
 tags: elixir, phoenix, elixirconf, development
 author: Gerwin & Maarten
 lang: en
-featured: true
 image: images/blog/social/elixirconf-1200x630.jpg
 featured_image: images/blog/featured/20170921-elixirconf.jpg
 ---
