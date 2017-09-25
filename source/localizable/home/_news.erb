@@ -1,0 +1,22 @@
+<%
+all_news_items = data["news_" + I18n.locale.to_s]
+news_items = all_news_items.clone
+%>
+
+<section class="news">
+  <div class="row">
+    <% news_items.each do |news_item| %>
+
+      <% link_to news_item.link, title: news_item.title, class: "news-item" do %>
+        <div class="image">
+          <%= image_tag news_item.image, alt: news_item.alt, title: news_item.alt %>
+        </div>
+        <div class="text">
+          <p><%= news_item.meta %></p>
+          <h3><%= news_item.title %></h3>
+        </div>
+      <% end %>
+      
+    <% end %>
+  </div>
+</section>

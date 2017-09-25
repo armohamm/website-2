@@ -225,12 +225,6 @@ nl:
     jobs: Jobs
     themes: Thema's
   home:
-    cta:
-      button: "Maak een afspraak"
-      email_placeholder: E-mail
-      form_submit: "Maak een afspraak"
-      form_title: "Maak een afspraak"
-      text_html: "Meer weten? Bel <a href=\"tel:+31503144832\" class=\"phone\">050 314 48 32</a> of"
     hero:
       text: "Meer dan 200.000 professionals gebruiken onze software om te leren en hun talenten te ontwikkelen"
       title: "Developing People"
@@ -283,7 +277,7 @@ nl:
   press:
     heading: "Media"
   products:
-    title: "Producten waar we trots op zijn."
+    title: "Producten waar we trots op zijn"
     capp:
       capp-lms: "CAPP Leren & Ontwikkelen"
   productsheet_download:

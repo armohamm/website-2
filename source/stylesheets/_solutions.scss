@@ -1,15 +1,9 @@
 .solutions {
-  padding: 0 0 1.8em;
 
   .row {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
-    margin-top: -5em;
-
-    @include media($xlarge-down) {
-      margin: 0;
-    }
   }
 
   a {
@@ -23,7 +17,7 @@
 
   .solution {
     margin: 0 auto;
-    padding: 1.8em 0.4em 6em;
+    padding: 1em 1em 6em;
     position: relative;
     text-align: center;
     width: 360px;
