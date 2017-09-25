@@ -11,6 +11,8 @@ set :root_locale, root_locale
 
 activate :i18n, mount_at_root: root_locale, langs: %i(nl de en)
 
+set :ga_code, "UA-6700447-1"
+
 # Change Compass configuration
 # compass_config do |config|
 #   config.output_style = :compact
