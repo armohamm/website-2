@@ -4,7 +4,6 @@ date: 2017-09-18 07:00 CEST
 tags: Gesundheitswesen, Wahl 2017, Pflege, Digitalisierung
 author: David
 lang: de
-featured: true
 image: images/blog/social/bundestagswahl-1200x630.jpg
 featured_image: images/blog/featured/20170918-bundestagswahl-2017.jpg
 ---
