@@ -34,6 +34,6 @@ We denken dat je je werknemers niet alles kunt leren. Het beste wat je kunt doen
 
 ## De tweede ronde
 
-De rebranding gaf Defacto de mogelijkheid om een grote sprong te maken en iets nieuws te ontwikkelen. Tegelijkertijd geeft het een nieuwe definitie aan een leermanagementsystemen. Voor onze klanten betekent dit dat er meer op maat gemaakte oplossingen komen voor hun bedrijfsspecifieke uitdagingen.
+De rebranding gaf Defacto de mogelijkheid om een grote sprong te maken en iets nieuws te ontwikkelen. Tegelijkertijd geeft het een nieuwe definitie aan een leermanagementsysteem. Voor onze klanten betekent dit dat er meer op maat gemaakte oplossingen komen voor hun bedrijfsspecifieke uitdagingen.
 
 We gaan daarom door met het ondersteunen van organisaties die zichzelf willen innoveren door hun medewerkers te helpen ontwikkelen.
