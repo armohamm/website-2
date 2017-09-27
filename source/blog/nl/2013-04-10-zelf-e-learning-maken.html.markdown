@@ -7,11 +7,11 @@ lang: nl
 featured_image: images/blog/featured/20130410-e-learning.jpg
 ---
 
-Om de zoveel maanden gebeurt er weer wat nieuws op het gebied van e-learning. Zo heb je waarschijnlijk de afgelopen jaren de termen _Serious Gaming_, _Microlearning, Gamification_ en _Flipped Classroom_ al wel eens langs horen komen. Stuk voor stuk interessante onderwerpen waar je meteen enthousiast van wordt, zodra je er over hoort. Maar het lijkt wel of deze hypes voor veel organisaties uiteindelijk slechts hypothetisch blijven.
+**Om de zoveel maanden gebeurt er weer wat nieuws op het gebied van e-learning. Zo heb je waarschijnlijk de afgelopen jaren de termen _Serious Gaming_, _Microlearning, Gamification_ en _Flipped Classroom_ al wel eens langs horen komen. Stuk voor stuk interessante onderwerpen waar je meteen enthousiast van wordt, zodra je er over hoort. Maar het lijkt wel of deze hypes voor veel organisaties uiteindelijk slechts hypothetisch blijven.**
 
 De succesverhalen horen we uitsluitend op congressen en gaan vooral over grote (Amerikaanse) bedrijven.
 
-#### Hoe komt dit?
+## Hoe komt dit?
 
 Zo’n vraag blijft lastig te beantwoorden, maar ik doe een aantal suggesties:
 
@@ -34,21 +34,19 @@ Wanneer je e-learning materiaal ziet als een combinatie van **inhoud, didactiek 
 
 Maar laten we nog even het technische aspect van het ontwikkelen van e-learning onder de loep nemen. Tenzij je meteen wilt beginnen met het ontwikkelen van een _virtual reality_ simulatie, moeten we dit niet groter of enger maken dan het is. Bijna iedereen is wel bekend met Office, Powerpoint, Social Media en smartphones. In combinatie met de huidige generatie authoring software en met een beetje training en oefening ben je dan al snel op weg.
 
-#### De voordelen van je eigen e-learning modules maken:
+### De voordelen van je eigen e-learning modules maken:
 
 *   E-learning komt in dienst te staan van de organisatie
 *   Geen standaard materiaal meer
 *   De ervaren experts van de opleidingsafdeling leren zelf kennis in praktische e-learning modules te verwerken
 *   De e-learning wordt zó toegepast dat het functioneel, effectief en zowel kosten- als tijdbesparend is
 
-#### Dat is geweldig! Maar, hoe dan?
+## Dat is geweldig! Maar, hoe dan?
 
 _Hoe kan zoiets worden gefaciliteerd? Wat heb je daarvoor nodig? Hoe weet ik wat goede e-learning is? Hoe maak ik zélf goed e-learning materiaal?_
 
-Dat is allemaal een stuk minder ingewikkeld dan het lijkt. Al deze _randvoorwaarden_zijn in korte tijd te leren en toe te passen en in feite basisvaardigheden voor een docent of opleidingsadviseur anno 2013.
+Dat is allemaal een stuk minder ingewikkeld dan het lijkt. Al deze _randvoorwaarden_ zijn in korte tijd te leren en toe te passen en in feite basisvaardigheden voor een docent of opleidingsadviseur anno 2013.
 
-#### Zelf eenvoudig e-learning maken?
+## Zelf eenvoudig e-learning maken?
 
-Enthousiast geworden en wil je eigenlijk wel aan de slag? Begin dan met het bezoeken van onze workshop ‘Weet u al hoe u zelf eenvoudig e-learning maakt?’ (leveranciersessie 11) tijdens het E-Learning Event op 16 april a.s. om 14.00 uur en Hugo Veeger van Defacto legt het je uit.
-
-Niet aanwezig op het E-Learning Event, maar wil je toch meer informatie over het zelf maken van e-learning, dan kun je altijd contact met ons opnemen door een mail te sturen naar [info@defacto.nl](mailto:info@defacto.nl "info@defacto.nl") of te bellen naar 050 3144 832.
+Enthousiast geworden en wil je eigenlijk wel aan de slag? Dan kun je altijd contact met ons opnemen door een mail te sturen naar [info@defacto.nl](mailto:info@defacto.nl) of te bellen naar 050 3144 832.
