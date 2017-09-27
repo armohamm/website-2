@@ -14,8 +14,9 @@ body.capp-entwickeln {
     h1 {
       font-family: 'Montserrat', $base-font-family;
       font-size: 1.8em;
-      font-weight: 700;
+      font-weight: 500;
       margin: 0 auto 1.5em;
+      max-width: 1100px;
       text-align: center;
 
       @include media($medium-up) {
