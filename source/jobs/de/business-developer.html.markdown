@@ -1,5 +1,5 @@
 ---
-title: "Vakanz: Business Developer"
+title: "Business Developer"
 date: 2017-01-10 08:00 CEST
 tags:
 lang: de
