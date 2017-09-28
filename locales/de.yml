@@ -363,7 +363,7 @@ de:
       heading_md: "Testen Sie 360° Feedback jetzt gratis!"
     desc: "%{link} ist ein effizientes Tool für eine transparente Personalentwicklung und motivierte Entwicklung Ihrer Mitarbeiter."
     hero:
-      text_md: "Die Sichtweisen der anderen kennen um sich selbst weiterzuentwickeln!"
+      text_md: "Aus dem 360°-Feedback entsteht ein individueller Entwicklungsplan für jeden Mitarbeiter"
       title: "360° Feedback"
     logo: logos/360feedback.svg
     name: "360° Feedback"
