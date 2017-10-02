@@ -1,7 +1,7 @@
 ---
 title: Animated loading indicator with isometric cubes
 date: 2015-05-20 14:10 CEST
-tags: CAPP Agile learning, development
+tags: CAPP Agile Learning, development
 author: Matthijs
 lang: nl
 image: images/blog/social/cappagilelearning-1200x630.jpg
