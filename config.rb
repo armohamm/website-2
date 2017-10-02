@@ -481,6 +481,11 @@ helpers do
     Tilt['markdown'].new { string }.render(scope=self)
   end
 
+  # Full lastname for team members
+  def full_last_name(person)
+    person.prefix ? "#{person.prefix} #{person.lastname}" : person.lastname
+  end
+
   # Get avatar url for team members
   def team_avatar_url(person)
     return person.avatar if person.avatar
