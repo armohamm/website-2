@@ -11,7 +11,7 @@
 #
 # The avatar will be determined as follows:
 #
-# 1. Use `avatar` propery, ie:
+# 1. Use `avatar` property, ie:
 #    avatar: /images/team/madeyes.jpg
 #    avatar: http://defacto.nl/madeyes.jpg
 #
@@ -24,6 +24,10 @@
 # 4. Use a placeholder as fallback.
 #
 ###############################################################################
+
+- firstname: Albert
+  lastname: Dijkslag
+  email: a.dijkslag@defacto.nl
 
 - firstname: Albert
   lastname: Thie
@@ -179,3 +183,8 @@
 - firstname: Tim
   lastname: Bakker
   email: t.bakker@defacto.nl
+
+- firstname: Wietske
+  prefix: van
+  lastname: Elsdingen
+  email: wietske@defacto.nl
