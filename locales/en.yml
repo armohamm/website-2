@@ -77,12 +77,12 @@ en:
     desc: "CAPP ensures that your employees can learn and develop their talents in a straightforward and effective manner."
     cta_bottom:
       formkeep_title: "CAPP: make appointment"
-      heading_md: "More information on training & learning with CAPP LMS?"
+      heading_md: "More information on learning & development with CAPP LMS?"
     hero:
       formkeep_title: "CAPP: download productsheet"
-      title: "Training & Learning with CAPP LMS"
-      subtitle_1: "Knowledge-intensive organisations can’t survive without well-trained employees."
-      subtitle_2: "Ensure that your employees are qualified and certified through CAPP LMS."
+      title: "Learning & Development with CAPP LMS"
+      subtitle_1: "Intuitive learning management system for knowledge-intensive organisations."
+      subtitle_2: "Better compliance and qualification with CAPP LMS."
       image: screenshots/hero-capp-lms_en.png
   capp-agile:
     name: CAPP Agile Learning
