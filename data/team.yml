@@ -28,6 +28,7 @@
 - firstname: Albert
   lastname: Dijkslag
   email: a.dijkslag@defacto.nl
+  avatar: /images/team/albert-dijkslag.jpg
 
 - firstname: Albert
   lastname: Thie
@@ -230,3 +231,4 @@
   prefix: van
   lastname: Elsdingen
   email: wietske@defacto.nl
+  avatar: /images/team/wietske-van-elsdingen.jpg
