@@ -43,7 +43,8 @@ body.capp-entwickeln {
     .hero-copy {
       padding: 2em;
 
-      h2 {
+      h2,
+      h3 {
         @include media($large-up) {
           text-align: left;
         }
