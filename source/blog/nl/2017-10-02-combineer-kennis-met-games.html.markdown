@@ -4,7 +4,6 @@ date: 2017-10-02 07:00 CEST
 tags: leren, gamification
 author: Milda
 lang: nl
-featured: true
 image: images/blog/social/modern-learner-1200x630.png
 featured_image: images/blog/featured/20150521-modern-learner.png
 ---
