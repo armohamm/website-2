@@ -13,8 +13,9 @@ featured_image: images/blog/featured/20171004-gebruikersoverleg.jpg
 
 Onder het genot van een uitgebreide lunch kwamen de deelnemers binnen. De gesprekken kwamen meteen op gang en er werden direct ideeën uitgewisseld. Dat is de kern van ons Gebruikersoverleg: onze klanten de mogelijkheid geven om zowel met elkaar als met ons in gesprek te gaan. Even bij elkaar in de keuken kijken en zo elkaar vooruit helpen.
 
-![Rondetafelgesprekken](/images/blog/gebruikersoverleg-21092017-01.jpg)
-<p class="caption">Even bij elkaar in de keuken kijken</p>
+![Even bij elkaar in de keuken kijken 1](/images/blog/gebruikersoverleg-21092017-01.jpg)
+
+![Even bij elkaar in de keuken kijken 2](/images/blog/gebruikersoverleg-21092017-03.jpg)
 
 ## Aankondiging Kwaliteitsmonitor en nieuwe CAPP
 
@@ -29,8 +30,9 @@ De nieuwe versie van CAPP was niet het enige dat aangekondigd werd. Voor de rece
 
 Omdat het Gebruikersoverleg een dag volledig voor de gebruikers van onze software is, zijn de rondetafelgesprekken een belangrijk, interactief onderdeel van het programma. Het is een mooie mogelijkheid voor onze klanten om met elkaar in gesprek te gaan, maar geeft tevens de mogelijkheid om vragen aan ons te stellen. Zo horen wij wat er speelt, waar onze klanten tegenaan lopen en hoe wij onze software beter kunnen maken.
 
-![Rondetafelgesprekken](/images/blog/gebruikersoverleg-21092017-02.jpg)
-<p class="caption">Rondetafelgesprekken</p>
+![Rondetafelgesprekken 1](/images/blog/gebruikersoverleg-21092017-02.jpg)
+
+![Rondetafelgesprekken 2](/images/blog/gebruikersoverleg-21092017-04.jpg)
 
 Dit keer leverde de interactie van onze klanten met elkaar weer een verscheidenheid aan inzichten op. **Met elkaar en van elkaar leren!** Uiteraard werd zo nu en dan een kritische noot geplaatst, waardoor wij in Groningen weer wat te doen hebben...
 
