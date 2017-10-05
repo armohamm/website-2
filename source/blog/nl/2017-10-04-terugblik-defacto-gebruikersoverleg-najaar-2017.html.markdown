@@ -4,7 +4,6 @@ date: 2017-10-04 07:00 CEST
 tags: gebruikersoverleg, CAPP Agile Learning, CAPP
 author: Stéphanie
 lang: nl
-featured: true
 image: images/blog/social/gebruikersoverleg-2-2017-1200x630.jpg
 featured_image: images/blog/featured/20171004-gebruikersoverleg.jpg
 ---
