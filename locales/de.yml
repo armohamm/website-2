@@ -356,6 +356,7 @@ de:
     heading: "Vielen Dank."
     message: "Wir melden uns so schnell wie möglich bei Ihnen."
     message_download: 'Das Herunterladen sollte jetzt automatisch starten…<br>Wenn nicht, klicke <a target="_blank">hier</a>.'
+    message_newsletter: Um die Anmeldung abzuschließen, klicken Sie bitte auf den Link in der E-Mail, die wir Ihnen gerade gesendet haben.
     back: Zurück zur vorherigen Seite.
     thanks: "Vielen Dank."
   threesixty:

@@ -26,13 +26,16 @@ window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value)
   urlParams[key] = decodeURIComponent(value);
 });
 document.addEventListener('DOMContentLoaded', function() {
-  if (urlParams.download) {
-    // Replace message with download message if it was a download form
-    var downloadMessage = '<%= t("thanks.message_download") %>';
-    var messageEl = document.querySelector('body.bedankt .thanks-message');
+  var messageEl = document.querySelector('body.bedankt .thanks-message');
 
-    messageEl.innerHTML = downloadMessage;
-    messageEl.querySelector('a').href = urlParams.download;
+  if (urlParams.download) {
+  // Replace message with download message if it was a download form
+  messageEl.innerHTML = '<%= t("thanks.message_download") %>';
+  messageEl.querySelector('a').href = urlParams.download;
+  }
+  else if (urlParams.newsletter) {
+    // Replace message with newsletter message if it was a newsletter signup
+    messageEl.innerHTML = '<%= t("thanks.message_newsletter") %>';
   }
 });
 </script>

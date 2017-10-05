@@ -321,6 +321,7 @@ nl:
     heading: Bedankt!
     message: Je hoort zo snel mogelijk van ons.
     message_download: 'De download zou nu automatisch moeten starten…<br>Zo niet, klik dan <a target="_blank">hier</a>.'
+    message_newsletter: Om het inschrijfproces te voltooien klik je op de link in de e-mail die we net naar je hebben gestuurd.
     back: Terug naar de vorige pagina.
     img_alt: "Bedankt!"
   themes:
