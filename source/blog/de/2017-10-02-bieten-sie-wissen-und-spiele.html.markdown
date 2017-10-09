@@ -4,7 +4,6 @@ date: 2017-10-02 7:00 CEST
 tags: learning, gamification
 author: Milda
 lang: de
-featured: true
 image: images/blog/social/modern-learner-1200x630.png
 featured_image: images/blog/featured/20150521-modern-learner.png
 ---
