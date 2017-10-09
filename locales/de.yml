@@ -298,7 +298,7 @@ de:
     desc: "Bündeln Sie die Qualifikation, Entwicklungsstände und andere Kompetenzen Ihrer Mitarbeiter im %{link} und behalten Sie den Überblick."
     hero:
       formkeep_title: "Kwaliteitspaspoort: meer informatie"
-      text_md: "Überblick aller Qualifikationen und Kompetenzen"
+      text_md: "Vom Qualitätspass zum Entwicklungsplan für alle Mitarbeiter"
       title: "Qualitätspass"
       image: screenshots/hero-qualitatspass.png
     logo: logos/qualitatspass-white.png
