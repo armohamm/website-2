@@ -111,7 +111,7 @@ de:
     desc: "Performance-Support mit CAPP Agile Learning: schnell, effektiv und genau auf Ihr Unternehmen zugeschnitten."
     logo: logos/capp-agile-white.png
     hero:
-      heading: "Performance-Support für alle Unternehmen und Organisationen"
+      heading: "Flexibles E-Learning mit CAPP Agile Learning"
       action: "Demo anfragen"
       img: screenshots/capp-agile-hero_de.png
     why:
@@ -128,42 +128,6 @@ de:
         heading: "Verbessern Sie Ihre Leistungen"
         copy: |
           Verbessern Sie Ihre eigenen Leistungen und die Ihres Unternehmens. Mit CAPP Agile Learning erstellen Sie eine Plattform, die genau an das Wissen angepasst ist, das in Ihrem Unternehmen vorhanden ist. Performance-Support mit CAPP Agile Learning&#58; schnell, effektiv und genau auf Ihr Unternehmen zugeschnitten.
-    features:
-      make_share:
-        heading: "Erstellen & teilen"
-        copy: |
-          Ob Sie jetzt selbst Inhalte erstellen oder vorhandene Inhalte nutzen möchten&#58; CAPP Agile Learning unterstützt beides. Unser raffinierter Editor erkennt Links beispielsweise zu YouTube-Videos oder zu Abbildungen im Internet und wandelt diese automatisch in Bilder oder Videos um.
-
-          Geschriebene Inhalte werden automatisch in ein übersichtliches Layout eingefügt, damit Ihre Plattform eine klare, professionelle Ausstrahlung bekommt.
-
-          Kurz gesagt, Sie brauchen sich nur um den Inhalt zu kümmern, das Layout übernimmt CAPP Agile Learning.
-        img: screenshots/capp-agile-editor.png
-        img_alt: "CAPP Agile Learning editor"
-      up_to_date:
-        heading: "Bleiben Sie auf dem Laufenden"
-        copy: |
-          Wählen Sie aus dem Angebot die Themen aus, die für Sie relevant sind. Wählen Sie aus den angebotenen Inhalten aus, was Sie interessiert, und Sie erhalten eine Mitteilung, sobald sich etwas ändert. So sind und bleiben Sie jederzeit auf dem Laufenden.
-        img: "screenshots/capp-agile-auf-dem-laufenden.png"
-        img_alt: "Jederzeit auf dem Laufenden"
-      on_demand:
-        heading: "On demand"
-        link: https://germany.learningspaces.de/s/ikCgK3FBddGP9uu7HcD2Qg
-        copy: |
-          Bieten Sie Ihren Mitarbeitern Informationen genau zu dem Zeitpunkt, wenn diese sie brauchen. Statten Sie Geräte oder andere Gegenstände mit QR-Codes aus, die direkt mit Arbeitsanweisungen oder Protokollen verlinkt sind (scannen Sie einfach den nebenstehenden QR-Code und erleben Sie, wie schnell das funktioniert).
-
-          Nutzen Sie die Funktion ‚Shared Spaces‘, um Informationen bereitzustellen, ohne dass ein Einloggen auf der Plattform erforderlich ist.
-
-          So erhält jeder Mitarbeiter ‚just in time‘ genau die richtigen Informationen, die zu diesem Zeitpunkt für eine optimale Leistung benötigt werden.
-        img: screenshots/capp-agile-qr-code_de.png
-        img_alt: "On demand mit QR-Codes"
-      demand_driven:
-        heading: "An der Nachfrage orientiert"
-        copy: |
-          Niemand kann genau vorhersagen, welche Informationen in einem Unternehmen gebraucht werden. Oftmals wird fehlendes Wissen erst (zu) spät entdeckt, da die Nachfrage nach diesem Wissen nicht offensichtlich ist. Mit CAPP Agile Learning verhindern wir das, indem wir mit dem Mitarbeiter in einen Dialog treten.
-
-          Mit unserer ‚Frage und Antwort‘-Funktion kann der Mitarbeiter dem Unternehmen eine Frage stellen, wenn er eine Information benötigt oder nicht finden kann. Helfen Sie diesem Mitarbeiter sofort weiter, indem Sie ihm eine direkte Antwort geben, und nutzen Sie seinen Input zur Erstellung von zusätzlichem Inhalt.
-        img: screenshots/capp-agile-fragen.png
-        img_alt: "An der Nachfrage orientiert mit Frage und Antwort"
     form:
       heading: "Demo anfragen"
       img: screenshots/capp-agile-demo_de.png
