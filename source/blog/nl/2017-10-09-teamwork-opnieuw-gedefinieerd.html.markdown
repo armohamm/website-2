@@ -4,7 +4,6 @@ date: 2017-10-09 7:00 CEST
 tags: teamwork, leiderschap, leren, babyboomers
 author: Milda
 lang: nl
-featured: true
 image: images/blog/social/teamwork-1200x630.jpg
 featured_image: images/blog/featured/20160316-teamwork.jpg
 ---
