@@ -4,7 +4,6 @@ date: 2017-10-09 07:00 CEST
 tags: teamwork, social learning, training
 author: Milda
 lang: de
-featured: true
 image: images/blog/social/teamwork-1200x630.jpg
 featured_image: images/blog/featured/20160316-teamwork.jpg
 ---
