@@ -29,13 +29,27 @@ document.addEventListener('DOMContentLoaded', function() {
   var messageEl = document.querySelector('body.bedankt .thanks-message');
 
   if (urlParams.download) {
-  // Replace message with download message if it was a download form
-  messageEl.innerHTML = '<%= t("thanks.message_download") %>';
-  messageEl.querySelector('a').href = urlParams.download;
+    // Replace message with download message if it was a download form
+    messageEl.innerHTML = '<%= t("thanks.message_download") %>';
+    messageEl.querySelector('a').href = urlParams.download;
   }
   else if (urlParams.newsletter) {
-    // Replace message with newsletter message if it was a newsletter signup
-    messageEl.innerHTML = '<%= t("thanks.message_newsletter") %>';
+    var message;
+
+    switch (urlParams.newsletter) {
+      case 'subscribed':
+        message = '<%= t("thanks.newsletter.subscribed") %>';
+        break;
+      case 'confirmed':
+        message = '<%= t("thanks.newsletter.confirmed") %>';
+        break;
+      case 'unsubscribed':
+        message = '<%= t("thanks.newsletter.unsubscribed") %>';
+        break;
+    }
+
+    // Replace message with newsletter message if it was a newsletter action
+    messageEl.innerHTML = message || '';
   }
 });
 </script>

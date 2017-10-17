@@ -13,6 +13,7 @@ nl:
     url: https://www.defacto.nl
     jobs: https://www.defacto.nl/jobs
     twitter: https://twitter.com/DefactoSoftware
+    mc_newsletter: 227ea150fe
   70-20-10:
     header: "70:20:10 in de praktijk"
     subheading: "Leren is veel meer dan het zenden van informatie"
@@ -190,14 +191,23 @@ nl:
     img_alt: "Pagina niet gevonden"
   footer:
     capp: "CAPP Leren & Ontwikkelen"
-    copyright_html: "Deze website is %{link} © 1987 - %{year} Defacto"
+    copyright_html: "Deze website is %{link}. © 1987 - %{year} Defacto"
     open_source: "open source"
-    jobs: "Werken bij Defacto"
+    jobs: "Jobs"
     country: ""
+    hiring: "Hiring!"
     cmt: "Convenant Medische Technologie"
     70-20-10: "70:20:10 in de praktijk"
     search: Zoeken
     themes: Thema's
+    contact: "Contact opnemen &raquo;"
+    subscribe:
+      title: "Nieuwsbrief"
+      text: "Schrijf je nu in en blijf op de hoogte"
+    follow:
+      title: "Volg Defacto"
+      text: "Volg ons via social media"
+    slogan: "Defacto — Developing People sinds 1987"
   form:
     email: E-mail
     message: "Wat kunnen we voor je betekenen?"
@@ -222,7 +232,7 @@ nl:
     menu: Menu
     products: Producten
     services: Diensten
-    jobs: Jobs
+    jobs: Werken bij Defacto
     themes: Thema's
   home:
     hero:
@@ -321,7 +331,10 @@ nl:
     heading: Bedankt!
     message: Je hoort zo snel mogelijk van ons.
     message_download: 'De download zou nu automatisch moeten starten…<br>Zo niet, klik dan <a target="_blank">hier</a>.'
-    message_newsletter: Om het inschrijfproces te voltooien klik je op de link in de e-mail die we net naar je hebben gestuurd.
+    newsletter:
+      subscribed: "Om het inschrijfproces te voltooien klik je op de link in de e-mail die we net naar je hebben gestuurd."
+      confirmed: "Je inschrijving voor onze nieuwsbrief is bevestigd."
+      unsubscribed: "Je bent uitgeschreven van onze nieuwsbrief."
     back: Terug naar de vorige pagina.
     img_alt: "Bedankt!"
   themes:

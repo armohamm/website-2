@@ -60,3 +60,24 @@
     clear: both;
   }
 }
+
+.form-subscribe {
+  .form-subscribe-inputs {
+    display: flex;
+  }
+
+  input {
+    flex: 1;
+    margin-bottom: 0;
+    max-width: 320px;
+  }
+
+  input,
+  button {
+    padding: 0.5em 0.75em;
+  }
+
+  button {
+    width: auto;
+  }
+}

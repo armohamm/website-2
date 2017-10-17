@@ -1,36 +1,91 @@
 <footer class="footer">
   <div class="row">
 
-    <%= partial "footer/footer-nav" %>
+    <div class="footer-main">
 
-    <div class="col contact">
-      <h6><%= link_to t("header.contact"), "/contact.html" %></h6>
-      <p>
-        Zuiderpark 3<br>
-        9724 AD Groningen<br>
-        <%= t("footer.country") %>
-      </p>
-      <p>
-        T&nbsp;&nbsp;<a href="tel:<%= t("contact.phone_link") %>" class="phone"><%= t("contact.phone") %></a><br>
-        E&nbsp;&nbsp;<a href="mailto:<%= t("contact.email") %>"><%= t("contact.email") %></a>
-      </p>
+      <div class="connect">
 
-      <%= partial "footer/social-links" %>
+        <div class="newsletter-subscribe">
+          <h3><%= t("footer.subscribe.title") %></h3>
+          <p>
+            <%= t("footer.subscribe.text") %>
+          </p>
+          <%= partial "footer/newsletter-subscribe-form" %>
+        </div>
 
-      <p>
-        <a href="https://www.certipedia.com/quality_marks/9108633443?locale=en" target="_blank">
-          <%= image_tag "tuv-certified.png", alt: "TUV Certified" %>
-        </a>
-      </p>
+        <div class="social-links">
+          <h3><%= t("footer.follow.title") %></h3>
+          <p>
+            <%= t("footer.follow.text") %>
+          </p>
+          <ul>
+            <li>
+              <a href="https://github.com/DefactoSoftware" target="_blank" title="GitHub" class="icon-github" data-event="footer-github" rel="noopener"></a>
+            </li>
+            <li>
+              <a href="<%= t("urls.twitter") %>" target="_blank" title="Twitter" class="icon-twitter" data-event="footer-twitter" rel="noopener"></a>
+            </li>
+            <li>
+              <a href="https://www.linkedin.com/company/489640" target="_blank" title="LinkedIn" class="icon-linkedin" data-event="footer-linkedin" rel="noopener"></a>
+            </li>
+            <li>
+              <a href="https://www.youtube.com/channel/UCoyhrJQW4gCoZCuNVkwyrng" target="_blank" title="YouTube" class="icon-youtube" data-event="footer-youtube" rel="noopener"></a>
+            </li>
+            <li>
+              <a href="https://www.xing.com/companies/defactosoftware" target="_blank" title="Xing" class="icon-xing" data-event="footer-xing" rel="noopener"></a>
+            </li>
+          </ul>
+        </div>
+
+      </div>
+
+      <div class="navigation">
+        <%= partial "footer/footer-nav" %>
+      </div>
+
     </div>
-  </div>
 
-  <div class="copyright">
-    <div class="row">
+    <div class="footer-sub">
+
+      <div class="about">
+        <h4><%= t("footer.slogan") %></h4>
+        <p>
+          <span>Zuiderpark 3, 9724 AD, Groningen <%= t("footer.country") %></span>
+          <span class="divider">|</span>
+          <span><a href="tel:<%= t("contact.phone_link") %>" class="phone"><%= t("contact.phone") %></a></span>
+          <span class="divider">|</span>
+          <span><a href="mailto:<%= t("contact.email") %>"><%= t("contact.email") %></a></span>
+        </p>
+      </div>
+
+      <div class="certificates">
+        <div>
+          <a href="https://www.certipedia.com/quality_marks/9108633443?locale=en" target="_blank" rel="noopener" title="ISO 9001:2015 &amp; ISO 14001:2015">
+            <%= image_tag "footer/iso-9001-14001.png", alt: "ISO 9001:2015 &amp; ISO 14001:2015" %>
+          </a>
+        </div>
+        <div>
+          <a href="https://www.qscert.com/buxus/generate_page.php?page_id=21830" target="_blank" rel="noopener" title="ISO/IEC 27001:2013">
+            <%= image_tag "footer/iso-27001.png", alt: "ISO/IEC 27001:2013" %>
+          </a>
+        </div>
+        <div>
+          <a href="https://www.qscert.com/buxus/generate_page.php?page_id=21829" target="_blank" rel="noopener" title="NEN7510:1100">
+            <%= image_tag "footer/nen-7510.png", alt: "NEN 7510:1100" %>
+          </a>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="footer-last">
+
       <% if root_locale == :de %>
         <%= link_to "Datenschutz", "/datenschutz.html" %> |
       <% end %>
       <%= t("footer.copyright_html", { link: link_to(t("footer.open_source"), "https://github.com/DefactoSoftware/website/", target: "_blank"), year: Time.now.year }) %>
+
     </div>
+
   </div>
 </footer>

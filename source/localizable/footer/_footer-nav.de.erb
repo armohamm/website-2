@@ -1,4 +1,4 @@
-<div class="col">
+<div class="navigation-list">
   <h6><%= link_to t("header.products"), "/producten.html" %></h6>
   <ul>
     <li><%= link_to t("footer.capp.learn"), "/capp-bilden.html" %></li>
@@ -10,7 +10,7 @@
   </ul>
 </div>
 
-<div class="col">
+<div class="navigation-list">
   <h6><%= link_to t("header.services"), "/diensten.html" %></h6>
   <ul>
     <li><%= link_to t("services.services.elearning.name"), "/e-learning.html" %></li>
@@ -20,14 +20,18 @@
   </ul>
 </div>
 
-<div class="col">
+<div class="navigation-list">
   <h6><%= link_to t("header.about"), "/over-ons.html" %></h6>
   <ul>
     <li><%= link_to t("about.testimonials"), "/testimonials.html" %></li>
     <li><%= link_to t("about.references"), "/referenties.html" %></li>
     <li><%= link_to t("about.press"), "/media.html" %></li>
-    <li><%= link_to t("header.jobs"), "/jobs/index.html" %></li>
+    <li>
+      <% link_to "/jobs/index.html" do %>
+        <%= t("header.jobs") %>
+        <span class="badge"><%= t("footer.hiring") %></span>
+      <% end %>
+    </li>
     <li><%= link_to t("header.blog"), "/blog/index.html" %></li>
-    <li><%= link_to t("footer.search"), "/zoeken.html" %></li>
   </ul>
 </div>
