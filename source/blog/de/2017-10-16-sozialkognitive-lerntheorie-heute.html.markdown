@@ -4,7 +4,6 @@ date: 2017-10-16 07:10 CEST
 tags: Lerntheorie, Social Learning, Wissensmanagement
 author: Milda
 lang: de
-featured: true
 image: images/blog/social/social-learning-1200x630.jpg
 featured_image: images/blog/featured/20160208-social-learning.jpg
 ---
