@@ -148,6 +148,7 @@
 - firstname: Lizette
   lastname: Weening
   email: l.weening@defacto.nl
+  avatar: /images/team/lizette-weening.jpg
 
 - firstname: Maarten
   lastname: Jacobs
@@ -195,6 +196,11 @@
   email: patrick@defacto.nl
   avatar: /images/team/patrick-scharmin.jpg
 
+- firstname: Pieter
+  lastname: Kaal
+  email: pieter@defacto.nl
+  avatar: /images/team/pieter-kaal.jpg
+
 - firstname: Richard
   prefix: van der
   lastname: Veen
@@ -216,6 +222,11 @@
   lastname: Geus
   email: stephanie@defacto.nl
   avatar: /images/team/stephanie-de-geus.jpg
+
+- firstname: Susan
+  lastname: Apfel
+  email: susan@defacto.nl
+  avatar: /images/team/susan-apfel.jpg
 
 - firstname: Tim
   lastname: Bakker
