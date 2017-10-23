@@ -1,0 +1,46 @@
+---
+title: "Vacature: Front End Developer"
+date: 2017-10-20 08:00 CEST
+tags:
+lang: nl
+featured: false
+header_image: moods/code.jpg
+popup: false
+---
+
+Ben je op zoek naar een plek waar je zowel inhoudelijk als technisch uitgedaagd wordt? Wil jij je zelf verder ontwikkelen? Bij Defacto zijn we op zoek naar een Front End Developer om mee te ontwikkelen aan de nieuwe versie van ons product CAPP!
+
+'Developing People' is het credo van Defacto en onze software. Iets wat we voor onze eigen medewerkers ook belangrijk vinden. We vinden het bijvoorbeeld tof om eens per jaar een conferentie te bezoeken over een onderwerp dat voor ons belangrijk is zoals Fronteers, ElixirConf of Full Stack Fest.
+
+We hebben een brede technology stack, we werken o.a. met:
+
+* Elixir en Phoenix Framework
+* Ruby on Rails
+* EmberJS
+* PostCSS / SASS
+
+Binnen onze workflow spelen code review en pair programming een belangrijke rol. We werken met een feature branch / pull request workflow in Git.
+
+## Vind jij:
+
+* Ins en Outs van JavaScript interessant
+* Het belangrijk meerdere JavaScript Frameworks te kennen
+* CSS op een gestructureerde manier inzetten belangrijk
+* UX / UI van een app belangrijk
+
+Kom dan gerust eens langs!
+
+## Wie zijn wij
+
+Defacto is ouder dan de meeste van onze medewerkers. We zijn gevestigd in het centrum van Groningen, nabij het centraal station. We zijn een platte organisatie met een hoge mate van transparantie. De verantwoordelijkheid ligt op de werkvloer en wordt door de mensen zelf bewaakt. We geloven dat het belangrijk is om in een leuke omgeving te werken. Kwaliteit boven kwantiteit.
+
+## Wat bieden we:
+
+* Een goede werksfeer in een tof team
+* Een lunch die voor je geregeld wordt
+* Een competitief salaris
+* Ruime opleidingsmogelijkheden, waaronder trips naar conferenties
+* Ruimte voor eigen initiatief
+* Een omgeving die leren en kennisdeling stimuleert
+
+[Bekijk ons GitHub profiel](https://github.com/DefactoSoftware/){:target="_blank"}{:rel="noopener"}{:title="Ons GitHub profiel"}.
