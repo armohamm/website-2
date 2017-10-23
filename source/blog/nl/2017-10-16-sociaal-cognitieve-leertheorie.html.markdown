@@ -4,7 +4,6 @@ date: 2017-10-16 7:10 CEST
 tags: sociaal leren, kennis, management, team
 author: Milda
 lang: nl
-featured: true
 image: images/blog/social/social-learning-1200x630.jpg
 featured_image: images/blog/featured/20160208-social-learning.jpg
 ---
