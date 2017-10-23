@@ -1,7 +1,7 @@
 ---
 title: "Sozialkognitive Lerntheorie heute"
 date: 2017-10-16 07:10 CEST
-tags: Lerntheorie, Social Learning, Wissensmanagement
+tags: lerntheorie, soziales lernen, wissensmanagement
 author: Milda
 lang: de
 image: images/blog/social/social-learning-1200x630.jpg

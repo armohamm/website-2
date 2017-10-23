@@ -1,7 +1,7 @@
 ---
 title: Von Krankenschwester zur Softwareexpertin - Interview mit Martina de Vos
 date: 2017-05-09 08:00 CEST
-tags: interview, CAPP, Gesundheitswesen
+tags: interview, CAPP, gesundheitswesen
 author: Anne
 lang: de
 image: images/blog/social/interview-martina-1200x630.jpg

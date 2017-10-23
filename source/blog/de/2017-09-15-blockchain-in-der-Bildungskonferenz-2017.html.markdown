@@ -1,7 +1,7 @@
 ---
 title: "Blockchain in der Bildungskonferenz RUG 2017"
 date: 2017-09-15 07:00 CEST
-tags: blockchain, sicherheit, daten, konferenz
+tags: blockchain, sicherheit, daten, kongress
 author: Stéphanie
 lang: de
 image: images/blog/social/blockchain-1200x630.jpg

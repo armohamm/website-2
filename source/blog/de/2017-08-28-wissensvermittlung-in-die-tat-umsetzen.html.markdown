@@ -1,7 +1,7 @@
 ---
 title: Wissensvermittlung in die Tat umsetzen
 date: 2017-08-28 07:00 CEST
-tags: Generationen, team, Führer, wissen
+tags: generationen, team, wissen
 author: Milda
 lang: de
 image: images/blog/social/knowledge-transfer-1200x630.jpg

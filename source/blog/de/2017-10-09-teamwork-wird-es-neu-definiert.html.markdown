@@ -1,7 +1,7 @@
 ---
 title: "Teamwork: Wird es neu definiert?"
 date: 2017-10-09 07:00 CEST
-tags: teamwork, social learning, training
+tags: teamwork, soziales lernen, training
 author: Milda
 lang: de
 image: images/blog/social/teamwork-1200x630.jpg

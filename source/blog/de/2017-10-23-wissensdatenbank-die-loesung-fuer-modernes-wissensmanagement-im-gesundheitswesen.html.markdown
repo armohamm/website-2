@@ -1,7 +1,7 @@
 ---
 title: "Wissensdatenbank: Die Lösung für modernes Wissensmanagement im Gesundheitswesen"
 date: 2017-10-23 7:10 CEST
-tags: Wissensdatenbank, Wissensmanangement, CAPP Agile Learning
+tags: wissensdatenbank, wissensmanagement, CAPP Agile Learning
 author: David
 lang: de
 featured: true

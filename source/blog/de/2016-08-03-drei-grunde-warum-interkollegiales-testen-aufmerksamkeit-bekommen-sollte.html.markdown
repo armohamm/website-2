@@ -1,7 +1,7 @@
 ---
 title: Drei Gründe warum interkollegiales Testen mehr Aufmerksamkeit bekommen sollte
 date: 2016-08-03 08:00 CEST
-tags: interkollegiales Testen, 70-20-10-Prinzip, soziales Lernen, video
+tags: interkollegiales testen, 70-20-10-Prinzip, soziales lernen, video
 author: Joep
 lang: de
 image: images/blog/social/drei-grunde-1200x630.png
