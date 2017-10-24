@@ -31,9 +31,6 @@
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
   ga('create', '<%= config[:ga_code] %>', 'auto', {'allowLinker': true});
-  <% if root_locale == :de %>
-    ga('set', 'anonymizeIp', true);
-  <% end %>
   ga('require', 'linkid');
   ga('require', 'linker');
   ga('linker:autoLink', ['www.defacto.nl', 'jobs.defacto.nl', 'www.defactolearning.de', 'en.defacto.nl']);
