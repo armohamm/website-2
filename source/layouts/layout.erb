@@ -53,7 +53,11 @@
     <%= partial "partials/popup-ebook" if !is_blog? && current_page.data.popup != false && data.downloads.ebook[I18n.locale] %>
     <%= javascript_include_tag "jquery", "all" %>
     <%= javascript_include_tag "search" if current_page.locale_root_path =~ /zoeken.html/ %>
-    <%= partial "partials/intercom" %>
+    <% if current_page.locale_root_path =~ /contact.html/ %>
+      <%= partial "partials/intercom", locals: { intercom_id: "tf7cx147"} %>
+    <% else %>
+      <%= partial "partials/intercom", locals: { intercom_id: "yb5mzq3j"} %>
+    <% end %>
     <%= partial "partials/google_remarketing" %>
 
   </body>
