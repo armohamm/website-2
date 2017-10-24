@@ -175,9 +175,6 @@ nl:
     heading: "Vraag een demo aan"
     formkeep_title: "Demo request"
   elearning:
-    cta_bottom:
-      formkeep_title: "E-Learning: meer informatie"
-      heading_md: "Weten wat E-Learning voor jouw organisatie kan betekenen?"
     heading: "E-Learning ontwikkelen met Defacto"
   elearning_ebook:
     formkeep_title: "E-book download"

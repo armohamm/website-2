@@ -184,9 +184,6 @@ en:
     heading: "Request a demo"
     formkeep_title: "Demo request"
   elearning:
-    cta_bottom:
-      formkeep_title: "E-Learning: more information"
-      heading_md: "Want to know what E-learning can do for your organisation? "
     heading: Advance your employees by applying E-learning to your organisation
   elearning_ebook:
     formkeep_title: "E-book download"

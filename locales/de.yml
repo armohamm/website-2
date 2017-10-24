@@ -162,10 +162,7 @@ de:
     heading: "Senden Sie uns Ihre Details und fragen Sie eine Demo an! Wir freuen uns!"
     formkeep_title: "Demo request"
   elearning:
-    cta_bottom:
-      formkeep_title: "E-Learning: meer informatie"
-      heading_md: "Möchten Sie wissen was E-Learning für Ihre Organisation bedeuten kann?"
-    heading: "Nutzen Sie unser Wissen und unsere Erfahrung als Werkzeug für Ihre E-Learning Module!"
+    heading: "Qualität im Krankenhaus sichern: E-Learning mit Defacto"
   elearning_ebook:
     formkeep_title: "E-book download"
     formkeep_title_popup: "E-book download popup"
