@@ -4,7 +4,6 @@ date: 2017-10-23 8:00 CEST
 tags: conference, innovatie, performance support
 author: Joep
 lang: nl
-featured: true
 image: images/blog/social/masie-learning-2017-1200x630.jpg
 featured_image: images/blog/featured/20171023-learning-2017-masie.jpg
 ---
