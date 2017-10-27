@@ -257,6 +257,7 @@ nl:
     form:
       header: "Interesse?"
       text: "Vul het onderstaande formulier in, dan nemen we zo snel mogelijk contact met je op."
+      apply: "Solliciteren &raquo;"
     more:
       header: "Meer vacatures:"
     share:

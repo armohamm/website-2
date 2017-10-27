@@ -8,6 +8,10 @@
     &:hover {
       color: darken($blog-link-color, 15%);
     }
+
+    &.apply {
+      color: $white;
+    }
   }
 
   .main {

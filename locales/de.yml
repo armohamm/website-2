@@ -222,6 +222,7 @@ de:
     form:
       header: "Anwenden"
       text: "Schön, dass Sie sich bei uns bewerben wollen! Füllen Sie das Formular aus und wir werden uns so schnell wie möglich bei Ihnen melden."
+      apply: "Bewerben &raquo;"
     more:
       header: "Weitere Jobs:"
     share:
