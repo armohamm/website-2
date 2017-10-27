@@ -2,6 +2,6 @@
 <meta property="og:title" content="<%= content_for?(:page_title) ? yield_content(:page_title) : page_title(current_page) %>">
 <meta property="og:url" content="<%= full_url(current_page.url) %>">
 <meta property="og:type" content="<%= is_blog_article? ? "article" : "website" %>">
-<meta property="og:description" content="<%= meta_description %>">
+<meta property="og:description" content="<%= h(meta_description) %>">
 <meta property="og:image" content="<%= full_url(asset_url(current_page.data.image || "images/social/defacto-1200x630.png")) %>">
 <meta property="og:locale" content="<%= full_locale %>">
