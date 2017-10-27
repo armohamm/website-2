@@ -5,9 +5,13 @@ news_items = all_news_items.clone
 
 <section class="news">
   <div class="row">
-    <% news_items.each do |news_item| %>
+    <% news_items.each do |news_item|
 
-      <% link_to news_item.link, title: news_item.title, class: "news-item" do %>
+      news_index = all_news_items.index(news_item) + 1
+      news_event = "news-#{news_index}"
+    %>
+
+      <% link_to news_item.link, title: news_item.title, class: "news-item", "data-event" => "#{news_event}" do %>
         <div class="image">
           <%= image_tag news_item.image, alt: news_item.alt, title: news_item.alt %>
         </div>
@@ -16,7 +20,7 @@ news_items = all_news_items.clone
           <h3><%= news_item.title %></h3>
         </div>
       <% end %>
-      
+
     <% end %>
   </div>
 </section>
