@@ -4,7 +4,6 @@ date: 2017-10-26 8:00 CEST
 tags: Defacto, consultants
 author: Stéphanie
 lang: nl
-featured: true
 image: images/blog/social/bastiaan-barelds1200x630.jpg
 featured_image: images/blog/featured/20171026-bastiaan-barelds.jpg
 ---
