@@ -17,7 +17,7 @@ But, hacking is what we *don't* want right? Not by normal hackers, no, but Zeroc
 
 ## Ethical hackers
 
-Ethical hackers are using the same methods to break into our software as their not so morally high counterparts. The big difference is that these hackers are trying to help companies to up their security game. Together with Zerocopter, we've created a list of items the hackers can test. The great thing about this method is that they are really focussing their efforts on areas that are important to us. When the hackers find a weak spot in our security they report this to Zerocopter who will then investigate if this is crucial. If it is they will pass it on to use and [the hackers will get their bounty](https://zerocopter.com/product/researcher-program){:target="_blank"}{:rel="Zerocopter researcher-program"}{:title="Zerocopter"}, depending on what they find.
+Ethical hackers are using the same methods to break into our software as their not so morally high counterparts. The big difference is that these hackers are trying to help companies to up their security game. Together with Zerocopter, we've created a list of items the hackers can test. The great thing about this method is that they are really focussing their efforts on areas that are important to us. When the hackers find a weak spot in our security they report this to Zerocopter who will then investigate if this is crucial. If it is they will pass it on to use and the hackers will get their bounty, depending on what they find.
 
 We also have security scanners scan all our products on a monthly basis. This ensures we have ongoing security checks for all our software. We can, therefore, ensure that new releases will not cause for new leaks and keep your data safe.
 
