@@ -106,7 +106,6 @@ when :nl
   redirect "blog/learningspaces-een-veilige-ruimte-om-te-leren-van-elkaar.html", to: "/blog/capp-agile-learning-een-veilige-ruimte-om-te-leren-van-elkaar/"
 when :de
   redirect "hosting-security.html", to: "hosting.html"
-  redirect "capp-lms.html", to: "capp-bilden.html"
   redirect "kundenreferenzen.html", to: "kundenstimmen.html"
   redirect "elearning-starterkit.html", to: "e-learning-starterkit.html"
 when :en
