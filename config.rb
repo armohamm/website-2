@@ -54,6 +54,7 @@ when :de
   ignore "/blog/en/*"
   ignore "/jobs/en/*"
   ignore "nl/e-learning-starterkit.html"
+  ignore "capp-lms.html"
 when :en
   ignore "/70-20-10.html"
   ignore "/blog/de/*"
