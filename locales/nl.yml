@@ -148,6 +148,11 @@ nl:
       img: screenshots/capp-agile-demo_nl.png
       img_alt: "Vraag een demo aan"
     testimonials_heading: "Wat onze klanten zeggen"
+  cmt:
+    title: "In 3 stappen geen zorgen meer rondom het Convenant Medische Technologie"
+    form:
+      header: "Meer weten over het Convenant Medische Technologie?"
+      text: "Wil je meer weten over het Convenant Medische Technologie en de oplossingen die wij daarvoor bieden, neem dan contact met ons op."
   contact:
     heading: Aangenaam
     heading2: "We zijn er om je meer informatie te geven, vragen te beantwoorden en effectieve support te bieden."

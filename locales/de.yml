@@ -10,6 +10,7 @@ de:
     bedankt: danke
     producten: produkte
     diensten: service
+    themas: themen
     over-ons: "uber-uns"
     contact: kontakt
     kwaliteitspaspoort: qualitatspass
@@ -21,6 +22,8 @@ de:
     demo-aanvragen: "demo-anfragen"
     productsheet-downloaden: "produktblatt-herunterladen"
     zoeken: suche
+    convenant-medische-technologie: medizinproduktegesetz
+    themas: themen
   urls:
     appointment: https://formkeep.com/f/823938297f51
     contact: https://formkeep.com/f/bfad79e126e9
@@ -32,6 +35,17 @@ de:
     jobs: https://www.defactolearning.de/jobs
     twitter: https://twitter.com/DefactoSoftware
     mc_newsletter: e21fb76d69
+  70-20-10:
+    header: "70:20:10 in der Praxis"
+    subheading: "Lernen ist viel mehr als das Versenden von Informationen"
+    action: "Kontakt aufnehmen"
+    name: "70:20:10 in der Praxis"
+    desc: "Menschen lernen täglich neu in ihren Organisationen und bilden sich weiter. Das 70:20:10-Lernmodell kann dazu beitragen, geeignete Rahmenbedingungen zu schaffen und so diese Entwicklung zu fördern."
+    form:
+      header: "Mehr Informationen?"
+      text: |
+        Möchten Sie mehr über die Implementation von 70:20:10 Lernen und Performance Support erfahren?
+        Geben Sie Ihre E-mail an, damit unsere Experten so schnell wie möglich Kontakt mit Ihnen aufnehmen können.
   about:
     about_defacto: "Über Defacto"
     contact: "Kontakt"
@@ -51,6 +65,8 @@ de:
     read_more: "Mehr"
     register: "Anmelden"
     more_about:
+      70-20-10: "Mehr zu 70:20:10"
+      cmt: "Mehr zu Medizinproduktegesetz"
       capp-bilden: "Zu CAPP Bilden"
       more_capp-bilden: "Mehr zu CAPP Bilden"
       capp-entwickeln: "Zu CAPP Entwickeln"
@@ -135,6 +151,13 @@ de:
       img_alt: "Eine (Live-) Präsentation anfragen"
     testimonials_heading: "Kundenstimmen"
     clients_heading: "Referenzen"
+  cmt:
+    title: "In 3 Schritten das Medizinproduktegesetz erfüllen"
+    form:
+      header: "Mehr Informationen?"
+      text: |
+        Möchten Sie mehr über das Medizinproduktegesetz und unsere Lösungen erfahren?
+        Geben Sie Ihre E-mail an, damit unsere Experten so schnell wie möglich Kontakt mit Ihnen aufnehmen können.
   contact:
     heading: "Wir lernen Sie gerne kennen!"
     heading2: "Kontaktieren Sie uns für mehr Informationen, stellen Sie Ihre Fragen oder nutzen Sie unseren effektiven Support."
@@ -240,6 +263,7 @@ de:
     products: "Produkte"
     services: "Service"
     jobs: "Jobs"
+    themes: "Themen"
   home:
     hero:
       title: "E-Learning und Personalentwicklung im Krankenhaus: mit Software von Defacto Qualität sichern"
@@ -333,6 +357,14 @@ de:
       unsubscribed: "Sie haben sich von unserem Newsletter abgemeldet."
     back: Zurück zur vorherigen Seite.
     thanks: "Vielen Dank."
+  themes:
+    title: "Aktuelle Themen"
+    70-20-10:
+      name: "70:20:10 in der Praxis"
+      desc: "Menschen lernen täglich neu in ihren Organisationen und bilden sich weiter. Das 70:20:10-Lernmodell kann dazu beitragen, geeignete Rahmenbedingungen zu schaffen und so diese Entwicklung zu fördern."
+    cmt:
+      name: "Medizinproduktegesetz erfüllen"
+      desc: "Jedes Krankenhaus in Deutschland ist mit dieser Herausforderung vertraut: Auf nachweisbare und transparente Weise die Fähigkeiten von Mitarbeitern bei dem Einsatz von Medizinprodukten anzeigen zu können."
   threesixty:
     cta_bottom:
       heading_md: "Testen Sie 360° Feedback jetzt gratis!"

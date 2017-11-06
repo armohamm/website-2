@@ -1,8 +1,13 @@
 ---
-title: "Convenant Medische Technologie: in 3 stappen zorgeloos"
-description: Met CAPP Kwaliteitspaspoort en CAPP Agile Learning ontzorgen wij zorginstellingen. Hoe regelt jouw organisatie de kwaliteitsregistratie?
+title:
+  nl: "Convenant Medische Technologie: in 3 stappen zorgeloos"
+  de: "In 3 Schritten das Medizinproduktegesetz erfüllen"
+description:
+  nl: "Met CAPP Kwaliteitspaspoort en CAPP Agile Learning ontzorgen wij zorginstellingen. Hoe regelt jouw organisatie de kwaliteitsregistratie?"
+  de: "Defacto unterstützt Ihr Krankenhaus bei den Anforderungen des MPG und der MPBetreibV und sichert so nachhaltig Ihre Qualität."
 unique_for_locale: true
 popup: false
+lang_ignore: en
 ---
 
 <% permalink_url = full_url(current_page.url) %>
@@ -10,7 +15,7 @@ popup: false
 <div class="hero">
   <div class="hero-inner">
     <div class="hero-copy">
-      <h1>In 3 stappen geen zorgen meer rondom het Convenant Medische Technologie</h1>
+      <h1><%= t("cmt.title") %></h1>
     </div>
   </div>
 </div>
@@ -27,9 +32,9 @@ popup: false
 
 <section id="contact-form" class="gray">
   <div class="row">
-    <h2>Meer weten over het Convenant Medische Technologie?</h2>
+    <h2><%= t("cmt.form.header") %></h2>
     <p>
-      Wil je meer weten over het Convenant Medische Technologie en de oplossingen die wij daarvoor bieden, neem dan contact met ons op.
+      <%= t("cmt.form.text") %>
     </p>
   </div>
 

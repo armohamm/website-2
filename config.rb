@@ -55,13 +55,16 @@ when :de
   ignore "/jobs/en/*"
   ignore "nl/e-learning-starterkit.html"
 when :en
+  ignore "/70-20-10.html"
   ignore "/blog/de/*"
-  ignore "/jobs/de/*"
   ignore "/blog/nl/*"
+  ignore "/convenant-medische-technologie.html"
+  ignore "/jobs/de/*"
   ignore "/jobs/nl/*"
   ignore "/jobs/index.html"
   ignore "/jobs/feed.xml"
   ignore "nl/e-learning-starterkit.html"
+  ignore "/themas.html"
 end
 
 # # Prevent other locales from building (breaks page_classes)
@@ -444,7 +447,8 @@ helpers do
     (langs - [I18n.locale]).each do |locale|
       sitemap.resources.select do |resource|
         if (resource.proxied_to == page.proxied_to &&
-            resource.metadata[:options][:lang] == locale)
+            resource.metadata[:options][:lang] == locale &&
+            resource.data.lang_ignore.to_s != locale.to_s)
           href = resource.url.sub("/#{locale}/", full_url("/", locale))
           link_tags << tag(:link, rel: :alternate, hreflang: locale, href: href)
           next
