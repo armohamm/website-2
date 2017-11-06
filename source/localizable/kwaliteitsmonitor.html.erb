@@ -1,0 +1,44 @@
+---
+title:
+  nl: CAPP Kwaliteitsmonitor
+  de: CAPP Qualitätsmonitor
+  en: CAPP Quality Monitor
+description:
+  nl: Description
+  de: Description
+  en: Description
+---
+
+<div class="hero">
+  <div class="hero-inner">
+    <div class="hero-copy">
+
+      <%= image_tag t("kwaliteitsmonitor.logo"), alt: t("kwaliteitsmonitor.name"), class: "km-logo" %>
+
+      <h1><%= t("kwaliteitsmonitor.hero.text_md") %></h1>
+
+      <%= image_tag t("kwaliteitsmonitor.hero.image"), title: t("kwaliteitsmonitor.name"), alt: t("kwaliteitsmonitor.name") %>
+
+    </div>
+  </div>
+</div>
+
+<%= partial "kwaliteitsmonitor/kwaliteitsmonitor" %>
+
+<section class="cta-bottom gray">
+  <div class="row">
+    <h3><%= t("kwaliteitsmonitor.cta_bottom.heading_md") %></h3>
+
+    <form class="form-inline" accept-charset="UTF-8" action="<%= t("urls.contact") %>" method="POST">
+      <input type="hidden" name="utf8" value="✓">
+      <input type="hidden" name="form" value="<%= t("kwaliteitsmonitor.cta_bottom.formkeep_title") %>">
+      <input type="text" name="name" placeholder="<%= t("form.name") %>">
+      <input type="text" name="organisation" placeholder="<%= t("form.organisation") %>">
+      <input class="required" type="email" name="email" placeholder="<%= t("form.email") %>" required>
+      <button type="submit"><%= t("actions.make_appointment") %></button>
+    </form>
+
+  </div>
+</section>
+
+<%= partial "clients/clients" %>

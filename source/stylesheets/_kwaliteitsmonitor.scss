@@ -1,0 +1,44 @@
+.kwaliteitsmonitor {
+  $color: lighten($turquoise, 5);
+
+  .hero {
+    @include radial-gradient(circle at 50%,
+      lighten($color, 10) 33%,
+      rgba($color, 0.3) 33%,
+      rgba($color, 0.3) 66%,
+      lighten($color, 5) 66%,
+      $fallback: lighten($color, 10));
+
+    background-attachment: scroll;
+    padding-bottom: 0;
+
+    + section {
+      box-shadow: 0 -20px 20px -20px rgba($black, 0.2);
+      position: relative;
+    }
+
+    .hero-inner {
+      padding: 5em 1em 0;
+
+      img {
+        display: block;
+        margin: 0 auto;
+
+        &.km-logo {
+          margin-bottom: 2em;
+          max-width: 320px;
+
+          @include media($medium-up) {
+            max-width: 400px;
+          }
+        }
+      }
+    }
+
+    h1 {
+      font-family: 'Montserrat', $base-font-family;
+      font-size: 2em;
+      font-weight: 500;
+    }
+  }
+}

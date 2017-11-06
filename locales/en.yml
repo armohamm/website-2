@@ -48,6 +48,7 @@ en:
     more_about:
       capp: "More CAPP"
       quality: "More Quality Portfolio"
+      kwaliteitsmonitor: "More Quality Monitor"
       capp-agile: "More CAPP Agile Learning"
       starterkit: "More E-Learning Starterkit"
       threesixty: "More 360° Feedback"
@@ -256,6 +257,16 @@ en:
   koppelingen:
     heading: "Certified integration"
     subheading: "Our trustworthy HR importer will ensure a swift integration with our software."
+  kwaliteitsmonitor:
+    cta_bottom:
+      formkeep_title: "Kwaliteitsmonitor: afspraak maken"
+      heading_md: "Heading: conversion title"
+    desc: "Check it real-time with %{link}."
+    hero:
+      text_md: "Tagline Quality Monitor"
+      image: screenshots/hero-kwaliteitsmonitor.png
+    logo: logos/kwaliteitsmonitor-white.png
+    name: Quality Monitor
   kwaliteitspaspoort:
     cta_bottom:
       formkeep_title: "Kwaliteitspaspoort: make appointment"

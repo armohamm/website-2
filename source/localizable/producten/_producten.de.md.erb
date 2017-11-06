@@ -30,6 +30,16 @@
     </div>
   </li>
 
+  <li class="kwaliteitsmonitor">
+    <% link_to "/kwaliteitsmonitor.html", class: "col left" do %>
+      <h2><%= image_tag t("kwaliteitsmonitor.logo"), alt: t("kwaliteitsmonitor.name") %></h2>
+    <% end %>
+    <div class="col right">
+      <p><%= t("kwaliteitsmonitor.desc", link: link_to(t("kwaliteitsmonitor.name"), "/kwaliteitsmonitor.html")) %></p>
+      <%= link_to t("actions.more_about.kwaliteitsmonitor"), "/kwaliteitsmonitor.html", class: "button turquoise outline" %>
+    </div>
+  </li>
+
   <li class="capp-agile">
     <% link_to "/capp-agile-learning.html", class: "col left" do %>
       <h2><%= image_tag t("capp-agile.logo"), alt: t("capp-agile.name") %></h2>

@@ -45,6 +45,7 @@ nl:
       capp: "Meer CAPP"
       cmt: "Meer CMT"
       quality: "Meer Kwaliteitspaspoort"
+      kwaliteitsmonitor: "Meer Kwaliteitsmonitor"
       capp-agile: "Meer CAPP Agile Learning"
       threesixty: "Meer 360° Feedback"
       elearning: "Meer E-Learning"
@@ -270,6 +271,16 @@ nl:
     acquisition: "Let op: acquisitie op basis van deze vacature wordt niet op prijs gesteld."
   koppelingen:
     heading: "Gecertificeerde koppelingen"
+  kwaliteitsmonitor:
+    cta_bottom:
+      formkeep_title: "Kwaliteitsmonitor: afspraak maken"
+      heading_md: "Heading: conversietitel"
+    desc: "Hoe staat het ervoor met de kwaliteit in jouw organisatie? Bekijk het real-time met %{link}."
+    hero:
+      text_md: "Tagline Kwaliteitsmonitor"
+      image: screenshots/hero-kwaliteitsmonitor.png
+    logo: logos/kwaliteitsmonitor-white.png
+    name: Kwaliteitsmonitor
   kwaliteitspaspoort:
     cta_bottom:
       formkeep_title: "Kwaliteitspaspoort: afspraak maken"

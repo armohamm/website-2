@@ -97,7 +97,8 @@
     }
   }
 
-  .kwaliteitspaspoort {
+  .kwaliteitspaspoort,
+  .kwaliteitsmonitor {
     $color: lighten($turquoise, 5);
 
     .left {
