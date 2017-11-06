@@ -18,6 +18,7 @@ de:
     implementaties: implementierungen
     koppelingen: schnittstellen
     kwaliteitspaspoort: qualitatspass
+    kwaliteitsmonitor: qualitatsmonitor
     media: presse
     over-ons: "uber-uns"
     privacy-statement: "datenschutz"
@@ -321,6 +322,7 @@ de:
   nav:
     capp-learn: "Software für ein effizientes Bildungsmanagement und E-Learning"
     capp-develop: "Bieten Sie nachhaltige und innovative Talententwicklung"
+    kwaliteitsmonitor: "Description"
     kwaliteitspaspoort: "Schaffen Sie einen Überblick aller Qualifikationen und Kompetenzen"
     capp-agile: "Performance-Support für alle Unternehmen und Organisationen"
     starterkit: "Lernen Sie, eigene E-Learning Module zu erstellen"

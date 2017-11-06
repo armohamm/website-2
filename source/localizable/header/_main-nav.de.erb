@@ -72,6 +72,15 @@
             </li>
 
             <li>
+              <% nav_link_to("/kwaliteitsmonitor.html", { class: "nav-kwaliteitspaspoort" }) do %>
+                <div>
+                  <h3><%= t("kwaliteitsmonitor.name") %></h3>
+                  <%= markitdown t("nav.kwaliteitsmonitor") %>
+                </div>
+              <% end %>
+            </li>
+
+            <li>
               <% nav_link_to("/capp-agile-learning.html", { class: "nav-capp-agile" }) do %>
                 <div>
                   <h3><%= t("capp-agile.name") %></h3>
