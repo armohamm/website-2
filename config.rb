@@ -63,6 +63,7 @@ when :en
   ignore "/jobs/nl/*"
   ignore "/jobs/index.html"
   ignore "/jobs/feed.xml"
+  ignore "productsheet-downloaden.html"
   ignore "nl/e-learning-starterkit.html"
   ignore "/themas.html"
 end
