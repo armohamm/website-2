@@ -28,7 +28,7 @@
 
 - name: Isabel Juliana
   company: "Head of study department, Albert Schweitzer Ziekenhuis"
-  avatar: testimonials/isabel_juliana.jpg
+  avatar: testimonials/isabel-juliana.jpg
   featured: true
   quote: |
     We decided to collaborate with Defacto early in 2016 and start implementing our digital learning environment. Later that year, we also started using the Quality Portfolio for nurses. The implementation period was intense, but very constructive and insightful due to Defacto's guidance. The skills, high quality engagement and helpfulness of the consultants have lead us to develop our own concept of learning.
@@ -41,7 +41,7 @@
 
 - name: Kristel Vissers
   company: "Project manager Quality Portfolio, Máxima Medical Centre"
-  avatar: testimonials/kristel_vissers.jpg
+  avatar: testimonials/kristel-vissers.jpg
   quote: |
     We have noticed that several departments and medical care professionals in the Máxima Medical Centre (MMC) had the desire to stimulate, keep track and further develop their skills and competencies. Hence we have decided to implement the Quality Portfolio to scale knowledge, improve the quality of care and create a recognizable image for our service.
 
@@ -57,7 +57,7 @@
 
 - name: Marieke van Kernebeek
   company: "Office manager, Phoenix Educations"
-  avatar: testimonials/marieke_van_kernebeek.jpg
+  avatar: testimonials/marieke-van-kernebeek.jpg
   quote: |
     The best thing about collaborating with Defacto is that we know we can rely on each other because we have maintained such intensive contact for a long perion of time. Due to the high level of trust between Defacto and Phoenix Education, there is always room for continuous feedback.
 

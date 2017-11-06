@@ -28,7 +28,7 @@
 
 - name: Anne Merlind Monier
   company: "Personalentwicklung, Friedrich-Ebert-Krankenhaus Neumünster"
-  avatar: testimonials/anne_merlind_monier.jpg
+  avatar: testimonials/anne-merlind-monier.jpg
   featured: true
   quote: |
     Wir verglichen mehrere Softwareanbieter für Bildungsmanagement und Personalentwicklung. Defacto konnte sich mit seinen flexiblen Modulen in der Auswahl durchsetzen und überzeugt uns bis heute.
@@ -43,7 +43,7 @@
 
 - name: Alke Stade
   company: "Referentin Personalentwicklung, Evangelisches Krankenhaus Oldenburg"
-  avatar: testimonials/alke_stade.jpg
+  avatar: testimonials/alke-stade.jpg
   featured: true
   quote: |
     Die Einführung eines softwaregestützten Personalentwicklungssystems wie CAPP mit seinen vielfältigen Modulen, stellt hohe Anforderungen an eine Organisation wie unser Krankenhaus. In verschiedenen Arbeitsgruppen werden bisherige Prozesse überdacht und neue Prozesse entwickelt.
@@ -56,7 +56,7 @@
 
 - name: Kristel Vissers
   company: "Projektleiter Qualitätspass, Máxima Medisch Centrum"
-  avatar: testimonials/kristel_vissers.jpg
+  avatar: testimonials/kristel-vissers.jpg
   quote: |
     Im Máxima Medisch Centrum (MMC) brauchten wir ein System, welches das MMC-(Pflege)Personal stimuliert um kontinuierlich seine oder ihre Kompetenzen und Fähigkeiten einzusehen und weiter zu entwickeln, sodass die beste Pflege mit einem erkennbaren Profil geboten werden kann. Gemeinsam mit Defacto haben wir hierfür den Qualitätspass implementiert.
 
@@ -72,7 +72,7 @@
 
 - name: Marieke van Kernebeek
   company: "Office manager, Phoenix Opleidingen"
-  avatar: testimonials/marieke_van_kernebeek.jpg
+  avatar: testimonials/marieke-van-kernebeek.jpg
   quote: |
     Das schönste an der Zusammenarbeit mit den Leuten von Defacto ist, dass wir schon so lange so einen intensiven Kontakt haben, dass man weiß das man aufeinander zählen kann. Dieses Vertrauen schafft auch Raum für kritische Anmerkungen. In den letzten Jahren haben wir so einen guten Kontakt aufgebaut, dass man das nicht so einfach mal zur Seite schiebt. Angenehm ist auch, dass sie an dem Ton der E-Mail oder Telefongespräch bereits merken ob etwas dringend ist oder nicht und immer für dich bereit stehen. Kurzum: eine ganz tolle Zusammenarbeit.
   summary: |
@@ -80,18 +80,18 @@
 
 - name: Michael Hebben
   company: Corporate Learning Consultant
-  avatar: testimonials/michael_hebben.jpg
+  avatar: testimonials/michael-hebben.jpg
   quote: |
     Mit CAPP Agile Learning kann ich meine persönliche/eigene Entwicklung in die Hand nehmen und zur gleichen Zeit zum Lernprozess von anderen beitragen.
 
 - name: Ronald van Rheenen
   company: Nuklearmediziner, University Medical Center Groningen
-  avatar: testimonials/ronald_van_rheenen.jpg
+  avatar: testimonials/ronald-van-rheenen.jpg
   quote: |
     Mit CAPP Agile Learning wird es mir möglich, Wissen zu teilen und Wissen von anderen zu bekommen.
 
 - name: Esther Douma
   company: Schulungskoordinatorin, DPA Benkis
-  avatar: testimonials/esther_douma.jpg
+  avatar: testimonials/esther-douma.jpg
   quote: |
     CAPP Agile Learning hilft uns, mit unseren Trainees klar und eindeutig zu kommunizieren, und vereinfacht auch die Kommunikation der Trainees untereinander. Wir nutzen die Spaces für das Traineeprogramm Bancair bei verschiedenen Schulungen, Workshops und beim Coaching. Damit lassen sich vorbereitende Aufgaben, Evaluierungen, Diskussionen untereinander und praktische Informationen ganz einfach verwalten!

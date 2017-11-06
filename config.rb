@@ -427,7 +427,7 @@ helpers do
     flag_titles = { nl: "Nederlands", de: "Deutsch", en: "English" }
     html = ""
     (langs - [I18n.locale]).each do |lang|
-      img = image_tag("flags/#{lang}.gif", alt: flag_titles[lang])
+      img = image_tag("flags/#{lang}.png", alt: flag_titles[lang])
       if is_blog_index?
         url = full_url("/blog/", lang)
       elsif jobs_index?
