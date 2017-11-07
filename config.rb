@@ -48,6 +48,7 @@ when :nl
   ignore "/blog/en/*"
   ignore "/jobs/en/*"
   ignore "e-learning-starterkit.html"
+  ignore "de/capp-lms.html"
 when :de
   ignore "/blog/nl/*"
   ignore "/jobs/nl/*"
@@ -93,7 +94,6 @@ end
 
 unless root_locale == :en
   redirect "elearning.html", to: "e-learning.html"
-  redirect "capp.html", to: "capp-lms.html"
   redirect "learningspaces.html", to: "capp-agile-learning.html"
 end
 
