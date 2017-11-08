@@ -10,11 +10,15 @@ de:
     bedankt: danke
     capp-lms: "capp-bilden"
     contact: kontakt
+<<<<<<< HEAD
     convenant-medische-technologie: medizinproduktegesetz
     demo-aanvragen: "demo-anfragen"
     diensten: service
     digital-hospital: "digitalisierung-im-krankenhaus"
     hosting-security: "hosting-sicherheit"
+=======
+    kwaliteitspaspoort: qualitatspass
+>>>>>>> Remove EN and DE at first
     implementaties: implementierungen
     koppelingen: schnittstellen
     kwaliteitspaspoort: qualitatspass
@@ -77,7 +81,6 @@ de:
       capp-entwickeln: "Zu CAPP Entwickeln"
       more_capp-entwickeln: "Mehr zu CAPP Entwickeln"
       quality: "Zum Qualitätspass"
-      kwaliteitsmonitor: "Mehr zu Qualitätsmonitor"
       more_quality: "Mehr zum Qualitätspass"
       capp-agile: "Zu CAPP Agile Learning"
       more_capp-agile: "Mehr zu CAPP Agile Learning"
@@ -297,16 +300,6 @@ de:
     heading: "Bildungsmanagement-Software mit Defacto implementieren"
   koppelingen:
     heading: "Zertifizierte Schnittstellen"
-  kwaliteitsmonitor:
-    cta_bottom:
-      formkeep_title: "Kwaliteitsmonitor: afspraak maken"
-      heading_md: "Heading: conversion title"
-    desc: "Schau es real-time mit %{link}."
-    hero:
-      text_md: "Tagline Qualitätmonitor"
-      image: screenshots/hero-kwaliteitsmonitor.png
-    logo: logos/kwaliteitsmonitor-white.png
-    name: Qualitätmonitor
   kwaliteitspaspoort:
     cta_bottom:
       formkeep_title: "Kwaliteitspaspoort: afspraak maken"
@@ -322,7 +315,6 @@ de:
   nav:
     capp-learn: "Software für ein effizientes Bildungsmanagement und E-Learning"
     capp-develop: "Bieten Sie nachhaltige und innovative Talententwicklung"
-    kwaliteitsmonitor: "Description"
     kwaliteitspaspoort: "Schaffen Sie einen Überblick aller Qualifikationen und Kompetenzen"
     capp-agile: "Performance-Support für alle Unternehmen und Organisationen"
     starterkit: "Lernen Sie, eigene E-Learning Module zu erstellen"

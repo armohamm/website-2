@@ -11,7 +11,6 @@ en:
     producten: products
     diensten: services
     over-ons: "about-us"
-    kwaliteitsmonitor: "quality-monitor"
     kwaliteitspaspoort: "quality-portfolio"
     implementaties: implementations
     koppelingen: integrations
@@ -49,7 +48,6 @@ en:
     more_about:
       capp: "More CAPP"
       quality: "More Quality Portfolio"
-      kwaliteitsmonitor: "More Quality Monitor"
       capp-agile: "More CAPP Agile Learning"
       starterkit: "More E-Learning Starterkit"
       threesixty: "More 360° Feedback"
@@ -258,16 +256,6 @@ en:
   koppelingen:
     heading: "Certified integration"
     subheading: "Our trustworthy HR importer will ensure a swift integration with our software."
-  kwaliteitsmonitor:
-    cta_bottom:
-      formkeep_title: "Kwaliteitsmonitor: afspraak maken"
-      heading_md: "Heading: conversion title"
-    desc: "Check it real-time with %{link}."
-    hero:
-      text_md: "Tagline Quality Monitor"
-      image: screenshots/hero-kwaliteitsmonitor.png
-    logo: logos/kwaliteitsmonitor-white.png
-    name: Quality Monitor
   kwaliteitspaspoort:
     cta_bottom:
       formkeep_title: "Kwaliteitspaspoort: make appointment"
@@ -281,7 +269,6 @@ en:
     name: CAPP Quality Portfolio
   nav:
     capp-lms: "LMS and efficiency software to advance the development of your employees"
-    kwaliteitsmonitor: "Description"
     kwaliteitspaspoort: "Real-time insights into competencies within your organisation"
     capp-agile: "Performance support on demand"
     starterkit: "Create your own professional e-learning content"
