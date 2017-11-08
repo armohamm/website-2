@@ -465,7 +465,7 @@ helpers do
   end
 
   def lang_ignore?(page, locale)
-    page.data.lang_ignore && page.data.lang_ignore.include?(locale.to_s)
+    page.data.lang_ignore&.include?(locale.to_s)
   end
 
   def root_url?
