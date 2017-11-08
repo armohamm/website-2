@@ -49,6 +49,7 @@ when :nl
   ignore "/jobs/en/*"
   ignore "e-learning-starterkit.html"
   ignore "de/capp-lms.html"
+  ignore "datenschutz.html"
 when :de
   ignore "/blog/nl/*"
   ignore "/jobs/nl/*"
@@ -68,6 +69,7 @@ when :en
   ignore "productsheet-downloaden.html"
   ignore "nl/e-learning-starterkit.html"
   ignore "/themas.html"
+  ignore "datenschutz.html"
 end
 
 # # Prevent other locales from building (breaks page_classes)
@@ -433,7 +435,7 @@ helpers do
         url = lang == :en ? "/" : full_url("/jobs/", lang)
       elsif current_page.data.unique_for_locale == true
         url = full_url("", lang)
-      elsif current_page.data.lang_ignore == lang.to_s
+      elsif lang_ignore?(current_page, lang)
         url = full_url("", lang)
       else
         locale_root_path = current_page.locale_root_path
@@ -451,7 +453,7 @@ helpers do
       sitemap.resources.select do |resource|
         if (resource.proxied_to == page.proxied_to &&
             resource.metadata[:options][:lang] == locale &&
-            resource.data.lang_ignore.to_s != locale.to_s)
+            !lang_ignore?(resource, locale))
           href = resource.url.sub("/#{locale}/", full_url("/", locale))
           link_tags << tag(:link, rel: :alternate, hreflang: locale, href: href)
           next
@@ -460,6 +462,10 @@ helpers do
     end
 
     link_tags.join("\n    ")
+  end
+
+  def lang_ignore?(page, locale)
+    page.data.lang_ignore && page.data.lang_ignore.include?(locale.to_s)
   end
 
   def root_url?
