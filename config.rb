@@ -433,6 +433,8 @@ helpers do
         url = lang == :en ? "/" : full_url("/jobs/", lang)
       elsif current_page.data.unique_for_locale == true
         url = full_url("", lang)
+      elsif current_page.data.lang_ignore == lang.to_s
+        url = full_url("", lang)
       else
         locale_root_path = current_page.locale_root_path
         url = locale_root_path ? locale_root_path : "/"
