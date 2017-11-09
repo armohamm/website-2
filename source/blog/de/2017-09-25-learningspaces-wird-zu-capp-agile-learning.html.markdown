@@ -2,7 +2,7 @@
 title: "LearningSpaces wird zu CAPP Agile Learning"
 date: 2017-09-25 08:00 CEST
 tags: CAPP Agile Learning, Defacto
-author: milda
+author: Milda
 lang: de
 image: images/blog/social/learningspaces-cappagilelearning-1200x630.jpg
 featured_image: images/blog/featured/20170925-learningspaces-cappagilelearning.jpg
