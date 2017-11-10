@@ -8,22 +8,22 @@ de:
   # Path translations
   paths:
     bedankt: danke
-    producten: produkte
-    diensten: service
-    themas: themen
-    over-ons: "uber-uns"
     contact: kontakt
-    kwaliteitspaspoort: qualitatspass
+    convenant-medische-technologie: medizinproduktegesetz
+    demo-aanvragen: "demo-anfragen"
+    diensten: service
+    hosting-security: hosting
     implementaties: implementierungen
     koppelingen: schnittstellen
-    testimonials: kundenstimmen
-    referenties: referenzen
+    kwaliteitspaspoort: qualitatspass
     media: presse
-    demo-aanvragen: "demo-anfragen"
+    over-ons: "uber-uns"
+    producten: produkte
     productsheet-downloaden: "produktblatt-herunterladen"
-    zoeken: suche
-    convenant-medische-technologie: medizinproduktegesetz
+    referenties: referenzen
+    testimonials: kundenstimmen
     themas: themen
+    zoeken: suche
   urls:
     appointment: https://formkeep.com/f/823938297f51
     contact: https://formkeep.com/f/bfad79e126e9

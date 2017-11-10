@@ -103,11 +103,9 @@ end
 case root_locale
 when :nl
   redirect "workshop-convenant-mt.html", to: "convenant-medische-technologie.html"
-  redirect "hosting.html", to: "hosting-security.html"
   redirect "blog/learningspaces-op-websummit.html", to: "/blog/capp-agile-learning-op-websummit/"
   redirect "blog/learningspaces-een-veilige-ruimte-om-te-leren-van-elkaar.html", to: "/blog/capp-agile-learning-een-veilige-ruimte-om-te-leren-van-elkaar/"
 when :de
-  redirect "hosting-security.html", to: "hosting.html"
   redirect "kundenreferenzen.html", to: "kundenstimmen.html"
   redirect "elearning-starterkit.html", to: "e-learning-starterkit.html"
 when :en
