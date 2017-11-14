@@ -81,7 +81,7 @@
     <div class="footer-last">
 
       <% if root_locale == :de %>
-        <%= link_to "Datenschutz", "/datenschutz.html" %> |
+        <%= link_to t("privacy-statement.name"), "/privacy-statement.html" %> |
       <% end %>
       <%= t("footer.copyright_html", { link: link_to(t("footer.open_source"), "https://github.com/DefactoSoftware/website/", target: "_blank"), year: Time.now.year }) %>
 

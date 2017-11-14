@@ -49,7 +49,7 @@ when :nl
   ignore "/jobs/en/*"
   ignore "e-learning-starterkit.html"
   ignore "de/capp-lms.html"
-  ignore "datenschutz.html"
+  ignore "privacy-statement.html"
 when :de
   ignore "/blog/nl/*"
   ignore "/jobs/nl/*"
@@ -69,7 +69,7 @@ when :en
   ignore "productsheet-downloaden.html"
   ignore "nl/e-learning-starterkit.html"
   ignore "/themas.html"
-  ignore "datenschutz.html"
+  ignore "privacy-statement.html"
 end
 
 # # Prevent other locales from building (breaks page_classes)

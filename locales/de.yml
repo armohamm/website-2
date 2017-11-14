@@ -18,6 +18,7 @@ de:
     kwaliteitspaspoort: qualitatspass
     media: presse
     over-ons: "uber-uns"
+    privacy-statement: "datenschutz"
     producten: produkte
     productsheet-downloaden: "produktblatt-herunterladen"
     referenties: referenzen
@@ -307,6 +308,9 @@ de:
     threesixty: "Die Sichtweisen der anderen kennen, um sich selbst weiterzuentwickeln"
   press:
     heading: "Presse"
+  privacy-statement:
+    name: "Datenschutz"
+    title: "Datenschutzerklärung von Defacto Software"
   products:
     title: "Produkte, auf die wir stolz sind"
     capp:
