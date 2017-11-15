@@ -33,43 +33,26 @@ set :ga_code, "UA-6700447-1"
 #   page "/admin/*"
 # end
 
-if root_locale == :nl
-  # Redirect :de pages
-  with_layout :redirect do
-    page "/de/*"
+ready do
+  case root_locale
+  when :nl
+    ignores = ["/blog/de/*", "/jobs/de/*", "/blog/en/*"]
+  when :de
+    ignores = ["/blog/en/*", "/blog/nl/*", "/jobs/nl/*"]
+  when :en
+    ignores = ["/blog/de/*", "/blog/nl/*", "/jobs/*"]
   end
-end
 
-# Ignore blog & some pages for specific langs
-case root_locale
-when :nl
-  ignore "/blog/de/*"
-  ignore "/jobs/de/*"
-  ignore "/blog/en/*"
-  ignore "/jobs/en/*"
-  ignore "e-learning-starterkit.html"
-  ignore "de/capp-lms.html"
-  ignore "privacy-statement.html"
-when :de
-  ignore "/blog/nl/*"
-  ignore "/jobs/nl/*"
-  ignore "/blog/en/*"
-  ignore "/jobs/en/*"
-  ignore "nl/e-learning-starterkit.html"
-  ignore "capp-lms.html"
-when :en
-  ignore "/70-20-10.html"
-  ignore "/blog/de/*"
-  ignore "/blog/nl/*"
-  ignore "/convenant-medische-technologie.html"
-  ignore "/jobs/de/*"
-  ignore "/jobs/nl/*"
-  ignore "/jobs/index.html"
-  ignore "/jobs/feed.xml"
-  ignore "productsheet-downloaden.html"
-  ignore "nl/e-learning-starterkit.html"
-  ignore "/themas.html"
-  ignore "privacy-statement.html"
+  ignores.each do |path|
+    ignore path
+  end
+
+  sitemap.resources.each do |resource|
+    if resource.path =~ /\.html/ &&
+       resource.data&.lang_ignore.to_s.include?(I18n.locale.to_s)
+      ignore resource.path
+    end
+  end
 end
 
 # # Prevent other locales from building (breaks page_classes)
