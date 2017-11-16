@@ -207,6 +207,25 @@ activate :autoprefixer do |config|
   config.browsers = ["last 3 versions", "Explorer >= 9"]
 end
 
+activate :minify_html do |html|
+  html.remove_multi_spaces        = true
+  html.remove_comments            = true
+  html.remove_intertag_spaces     = false
+  html.remove_quotes              = true
+  html.simple_doctype             = false
+  html.remove_script_attributes   = true
+  html.remove_style_attributes    = true
+  html.remove_link_attributes     = true
+  html.remove_form_attributes     = false
+  html.remove_input_attributes    = true
+  html.remove_javascript_protocol = true
+  html.remove_http_protocol       = false
+  html.remove_https_protocol      = false
+  html.preserve_line_breaks       = false
+  html.simple_boolean_attributes  = true
+  html.preserve_patterns          = nil
+end
+
 set :relative_links, true
 set :css_dir, "stylesheets"
 set :js_dir, "javascripts"
