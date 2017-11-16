@@ -359,6 +359,9 @@ helpers do
       classes.sub!(/blog_\d+_index/, "blog_index")
     elsif is_blog_article?
       classes += " blog-article"
+    elsif current_page.url == "/capp-entwickeln/"
+      # Replace `capp-entwickeln` with `capp-lms`
+      classes.sub!("capp-entwickeln capp-entwickeln_index", "capp-lms")
     end
 
     # Prepend language class

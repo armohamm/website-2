@@ -8,6 +8,7 @@ de:
   # Path translations
   paths:
     bedankt: danke
+    capp-lms: "capp-bilden"
     contact: kontakt
     convenant-medische-technologie: medizinproduktegesetz
     demo-aanvragen: "demo-anfragen"

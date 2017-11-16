@@ -9,11 +9,11 @@
     <% if root_locale == :de %>
       <div class="solution">
         <div class="solution-icon">
-          <%= locale_link_to image_tag("icons/leren-blue.png", alt: t("home.solutions.learn.title")), "/capp-bilden.html" %>
+          <%= locale_link_to image_tag("icons/leren-blue.png", alt: t("home.solutions.learn.title")), "/capp-lms.html" %>
         </div>
-        <h3><%= locale_link_to t("home.solutions.learn.title"), "/capp-bilden.html" %></h3>
-        <%= markitdown t("home.solutions.learn.text_html", link: locale_link_to("CAPP", "/capp-bilden.html")) %>
-        <%= locale_link_to t("actions.more_about.capp-bilden"), "/capp-bilden.html", class: "button small blue" %>
+        <h3><%= locale_link_to t("home.solutions.learn.title"), "/capp-lms.html" %></h3>
+        <%= markitdown t("home.solutions.learn.text_html", link: locale_link_to("CAPP", "/capp-lms.html")) %>
+        <%= locale_link_to t("actions.more_about.capp-bilden"), "/capp-lms.html", class: "button small blue" %>
       </div>
 
       <div class="solution">
