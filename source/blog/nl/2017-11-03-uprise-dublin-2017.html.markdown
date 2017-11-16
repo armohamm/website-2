@@ -4,7 +4,6 @@ date: 2017-11-03 8:00 CEST
 tags: conference, innovatie
 author: Stéphanie
 lang: nl
-featured: true
 image: images/blog/social/uprise-dublin-2017-1230x630.jpg
 featured_image: images/blog/featured/20171031-uprise-dublin-2017.jpg
 ---
