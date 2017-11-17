@@ -5,11 +5,15 @@ tags: conference, innovatie
 author: Joep
 lang: nl
 featured: true
-image: images/blog/social/
-featured_image: images/blog/featured/
+image: images/blog/social/masie-learning-2017.jpg
+featured_image: images/blog/featured/20171120-masie-learning-2017.jpg
 ---
 
 Het is inmiddels al weer 2 weken geleden dat ik in Orlando het Learning2017 congres van Eliott Masie bezocht. Nog steeds duizelt het me van alle indrukken en inspiratie die dit congres opgeleverd heeft. Voordat ik in een serie van blogs dieper op specifieke zaken in ga, wil ik graag mijn belangrijkste take aways van het congres met jullie delen.
+
+![Julian Stodd & Eliott Maise](/images/blog/social/masie-learning-2017.jpg)
+![Milda, Stéphanie & Marc Buckley](/images/blog/learning-2017-escape-room.jpg)
+![Milda, Stéphanie & Marc Buckley](/images/blog/learning-2017-michelle-obama.jpg)
 
 ## Falen is goed
 
@@ -39,8 +43,8 @@ Bovenstaande betekent niet alleen dat wij uit verschillende hoeken onze data goe
 Leren en performance komen steeds dichter bij elkaar te liggen. Aan ons de uitdaging om ons gehele ecosysteem van leren aan elkaar te verbinden in de komende jaren. Het geheel is dan werkelijk meer dan de som van de delen.
 
 ## En verder leuk om te weten….
-Michelle Obama is een fantastische spreker, en kan heel goed en heel subtiel Trump onderuit halen
+Michelle Obama is een fantastische spreker, en kan heel goed en heel subtiel Trump onderuit halen.
 
-De show van John Litgow op Broadway is zeer de moeite waard om te bezoeken
+De show van John Litgow op Broadway is zeer de moeite waard om te bezoeken.
 
 Pas altijd goed op waar je je robot neerzet…[link filmpje robot die omvalt]
