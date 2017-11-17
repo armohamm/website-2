@@ -34,12 +34,4 @@ body.x70-20-10 {
       margin: 0;
     }
   }
-
-  button {
-    width: 100%;
-
-    @include media($medium-up) {
-      width: auto;
-    }
-  }
 }
