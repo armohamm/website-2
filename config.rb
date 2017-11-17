@@ -89,8 +89,9 @@ when :nl
   redirect "blog/learningspaces-op-websummit.html", to: "/blog/capp-agile-learning-op-websummit/"
   redirect "blog/learningspaces-een-veilige-ruimte-om-te-leren-van-elkaar.html", to: "/blog/capp-agile-learning-een-veilige-ruimte-om-te-leren-van-elkaar/"
 when :de
-  redirect "kundenreferenzen.html", to: "kundenstimmen.html"
   redirect "elearning-starterkit.html", to: "e-learning-starterkit.html"
+  redirect "hosting.html", to: "hosting-sicherheit.html"
+  redirect "kundenreferenzen.html", to: "kundenstimmen.html"
 when :en
   redirect "capp-11.html", to: "capp-lms.html"
   redirect "organisatie.html", to: "about-us.html"

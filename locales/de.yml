@@ -13,7 +13,7 @@ de:
     convenant-medische-technologie: medizinproduktegesetz
     demo-aanvragen: "demo-anfragen"
     diensten: service
-    hosting-security: hosting
+    hosting-security: "hosting-sicherheit"
     implementaties: implementierungen
     koppelingen: schnittstellen
     kwaliteitspaspoort: qualitatspass
@@ -81,7 +81,7 @@ de:
       threesixty: "Mehr zu 360° Feedback"
       elearning: "Mehr zu E-Learning"
       implementaties: "Mehr zu Implementierungen"
-      hosting: "Mehr zu Hosting"
+      hosting: "Mehr zu Hosting & Sicherheit"
       koppelingen: "Mehr zu Schnittstellen"
     tell_me_more: "Erzähl mir mehr"
     try_for_free: "Gratis testen"
@@ -283,7 +283,7 @@ de:
         text_html: "Erhalten Sie eine Übersicht in die Qualifikationen Ihrer Organisation sowie Ihrem Team und erhöhen Sie so die Qualität Ihrer Gesundheitseinrichtung."
         title: "Qualitätspass"
   hosting:
-    heading: "Hosting"
+    heading: "Hosting und Sicherheit"
   implementaties:
     heading: "Bildungsmanagement-Software mit Defacto implementieren"
   koppelingen:
@@ -338,8 +338,8 @@ de:
         name: E-Learning
       hosting:
         desc: "Durch 25 Jahre Erfahrung mit IT-Implementierungen bei großen (behördlichen) Institutionen wissen wir ganz besonders, dass solides %{link} Grundvoraussetzungen sind."
-        link: "Hosting"
-        name: "Hosting"
+        link: "Hosting und Sicherheit"
+        name: "Hosting & Sicherheit"
       implementaties:
         desc: "Defacto hat eine eigene %{link} entwickelt wobei unsere Projektleiter und Berater gemeinsam mit Ihrem Management Team die Strategie und Ausführung gewährleisten."
         link: Implementierungsmethodik
