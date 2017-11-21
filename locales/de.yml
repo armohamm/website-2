@@ -13,6 +13,7 @@ de:
     convenant-medische-technologie: medizinproduktegesetz
     demo-aanvragen: "demo-anfragen"
     diensten: service
+    digital-hospital: "digitalisierung-im-krankenhaus"
     hosting-security: "hosting-sicherheit"
     implementaties: implementierungen
     koppelingen: schnittstellen
@@ -186,6 +187,11 @@ de:
     title: "Demo anfragen"
     heading: "Senden Sie uns Ihre Details und fragen Sie eine Demo an! Wir freuen uns!"
     formkeep_title: "Demo request"
+  digital-hospital:
+    header: "Digitalisierung im Krankenhaus"
+    form:
+      header: "Kontakt aufnehmen"
+      text: "Möchten Sie mehr über die Möglichkeiten der Digitalisierung in Ihrem Krankenhaus erfahren? Nutzen Sie das Kontaktformular, damit unsere Berater mit Ihnen Kontakt aufnehmen können"
   elearning:
     heading: "Qualität im Krankenhaus sichern: E-Learning mit Defacto"
   elearning_ebook:
