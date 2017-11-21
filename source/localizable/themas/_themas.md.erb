@@ -20,4 +20,15 @@
     </div>
   </li>
 
+  <% if root_locale == :de %>
+    <li class="digital-hospital">
+      <% link_to "/digital-hospital.html", class: "col left" do %>
+        <h2><%= t("themes.digital-hospital.name") %></h2>
+        <% end %>
+        <div class="col right">
+          <p><%= t("themes.digital-hospital.desc", link: link_to(t("themes.digital-hospital.name"), "/digital-hospital.html")) %></p>
+          <%= link_to t("actions.more_about.digital-hospital"), "/digital-hospital.html", class: "button red outline" %>
+        </div>
+    </li>
+  <% end %>
 </ul>
