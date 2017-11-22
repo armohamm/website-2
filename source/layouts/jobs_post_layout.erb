@@ -21,7 +21,8 @@
         <%= link_to t("jobs.form.apply"), "https://defacto.homerun.co/#{current_article.data.apply_link}/#{root_locale.to_s}/apply",
             class: "button apply",
             target: "_blank",
-            rel: "noopener" %>
+            rel: "noopener",
+            "data-event" => "button_apply"  %>
 
       <% else %>
 
