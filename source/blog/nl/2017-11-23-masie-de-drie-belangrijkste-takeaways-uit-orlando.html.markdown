@@ -9,7 +9,7 @@ image: images/blog/social/masie-stodd-learning-2017.jpg
 featured_image: images/blog/featured/20171120-masie-learning-2017.jpg
 ---
 
-Het is inmiddels al weer twee weken geleden dat ik in [Orlando het Learning2017 congres van Eliott Masie bezocht](/masie-over-masie-learning-2017/). Nog steeds duizelt het me van alle indrukken en inspiratie die dit congres opgeleverd heeft. Voordat ik in een serie van blogs dieper op specifieke zaken in ga, wil ik graag mijn belangrijkste take aways van het congres met jullie delen.
+Het is inmiddels al weer twee weken geleden dat ik [het Learning2017 congres van Eliott Masie in Orlando bezocht](/blog/masie-over-masie-learning-2017/). Nog steeds duizelt het me van alle indrukken en inspiratie die dit congres opgeleverd heeft. Voordat ik in een serie van blogs dieper op specifieke zaken in ga, wil ik graag mijn belangrijkste take aways van het congres met jullie delen.
 
 ![Julian Stodd & Eliott Maise](/images/blog/masie-learning-2017-julian-stodd.jpg)
 <p class="caption">Julian Stodd & Eliott Maise</p>
