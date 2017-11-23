@@ -1,6 +1,6 @@
 ---
 title: "Learning 2017: Meine drei wichtigsten Erkenntnisse aus Orlando"
-date: 2017-11-21 8:00 CEST
+date: 2017-11-23 8:00 CEST
 tags: Kongress, Innovation, Lernen
 author: Joep
 lang: de
