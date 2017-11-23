@@ -1,15 +1,15 @@
 ---
-title: "Learning 2017: die drei wichtigsten Erkenntnisse aus Orlando"
+title: "Learning 2017: Meine drei wichtigsten Erkenntnisse aus Orlando"
 date: 2017-11-21 8:00 CEST
 tags: Kongress, Innovation, Lernen
 author: Joep
 lang: de
 featured: true
-image:
-featured_image:
+image: images/blog/social/masie-learning-2017-1200x630.jpg
+featured_image: images/blog/featured/20171023-learning-2017-masie.jpg
 ---
 
-**Meine Teilnahme am [Learning 2017 Kongress](https://www.learning2017.com){:target="_blank"}{:rel="noopener"}{:title="Learning 2017"} von [Eliott Masie](https://masie.com/MASIE-Information/who-is-elliott-masie.html){:target="_blank"}{:rel="noopener"}{:title="Eliott Masie"} in Orlando ist inzwischen schon wieder zwei Wochen her. Dennoch befinde ich mich wegen all der Eindrücke und Inspirationen immer noch in einer Art Rauschzustand. Bevor ich aber in einer Reihe von Blogs genauer auf Einzelheiten eingehe, möchte ich gerne meine wichtigsten "Take-away’s" dieses Kongresses mit Ihnen teilen.**
+**Meine Teilnahme am [Learning 2017 Event](https://www.learning2017.com){:target="_blank"}{:rel="noopener"}{:title="Learning 2017"} von [Eliott Masie](https://masie.com/MASIE-Information/who-is-elliott-masie.html){:target="_blank"}{:rel="noopener"}{:title="Eliott Masie"} in Orlando ist inzwischen schon wieder zwei Wochen her. Dennoch befinde ich mich wegen all der Eindrücke und Inspirationen immer noch in einer Art Rauschzustand. Bevor ich aber in einer Reihe von Blogs genauer auf Einzelheiten eingehe, möchte ich gerne meine wichtigsten "Take-away’s" dieses Kongresses mit Ihnen teilen.**
 
 ## Scheitern ist gut.
 
@@ -26,7 +26,7 @@ Wie oft machen wir das? Vier, fünf Dinge tatsächlich ausprobieren und folgli
 
 Das Lernen ist noch zu sehr eine Art isolierte Insel innerhalb einer Organisation. Ein Lernmanagementsystem (LMS) dient etwa der Registrierung von Schulungen oder es verzeichnet, welche Filme oder Instruktionen ein Mitarbeiter gesehen bzw. gelesen hat. Wir wissen lediglich, ob jemand einen Kursus absolviert hat, so dass wir ihn wieder “abhaken” können.
 
-##### Warum?
+**Was können wir tun?**
 
 Seitdem wir Big Data und die Vernetzung von Systemen erleben, stehen die Learning & Development- Profis vor der Herausforderung, die zur Verfügung stehenden Daten vielfältiger zu nutzen. Wir sollten uns nicht damit zufriedengeben, dass wir nachweisen können, welche Kurse jemand belegt hat. Stattdessen sollten wir danach streben, aufzeigen zu können, dass das Absolvieren eines Kurses zu einer besseren Leistung des Mitarbeiters -und somit des Betriebes im Allgemeinen- geführt hat.
 
@@ -40,10 +40,14 @@ Das Obengenannte bedeutetet nicht nur, dass wir lernen müssen, die Daten aus v
 
 Lernen und Leistung rücken immer dichter zusammen. Für uns ist es eine Herausforderung, dass gesamte “Ökosystem” des Lernens in den nächsten Jahren miteinander zu verbinden. Das Ganze wäre dann wirklich mehr als die Summe der Einzelkomponenten.
 
-## Noch schön zu wissen...
+![Networken und Teamwork bei Learning 2017](/images/blog/social/masie-learning-network.jpg)
+<p class="caption">Networken und Teamarbeit bei Learning 2017</p>
+
+## Noch einige Eindrücke...
 
 Michelle Obama ist eine hervorragende Rednerin, die imstande ist, Trump auf sehr subtile Weise das Wasser abzugraben.
 
-Die Show von John Litgow am Broadway ist sehr empfehlenswert.
+![Eliott Masie begrüßt Michelle Obama](/images/blog/social/masie-learning-obama.jpg)
+<p class="caption">Eliott Masie begrüßt Michelle Obama bei Learning 2017</p>
 
-Achte darauf, wohin Du deinen Roboter stellst...(LINK MISSING)
+Die Show von [John Litgow](https://www.roundabouttheatre.org/Shows-Events/John-Lithgow-Stories-by-Heart.aspx){:target="_blank"}{:rel="noopener"}{:title="John Litgow"} am Broadway ist sehr empfehlenswert.
