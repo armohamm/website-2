@@ -4,7 +4,6 @@ date: 2017-11-09 8:00 CEST
 tags: Kongress, Innovation
 author: Stéphanie
 lang: de
-featured: true
 image: images/blog/social/uprise-dublin-2017-1230x630.jpg
 featured_image: images/blog/featured/20171031-uprise-dublin-2017.jpg
 ---
