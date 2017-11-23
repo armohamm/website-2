@@ -1,0 +1,45 @@
+---
+title:
+  de: Digitalisierung im Krankenhaus
+description:
+  de: "Die Digitalisierung im Krankenhaus bietet Ihnen und Ihrem Personal viele Entwicklungsmöglichkeiten. Defacto zeigt Ihnen einige davon auf."
+popup: false
+lang_ignore: en, nl
+---
+
+<div class="hero">
+  <div class="hero-inner">
+    <div class="hero-copy">
+
+      <h1><%= t("digital-hospital.header") %></h1>
+
+      <a class="button outline white" href="#contact-request" data-event="digital-hospital_button" data-scroll-to-form><%= t("70-20-10.action") %></a>
+
+    </div>
+  </div>
+</div>
+
+<section>
+  <div class="row">
+    <article>
+      <%= partial "themas/digital-hospital" %>
+    </article>
+  </div>
+</section>
+
+<section class="gray" id="contact-request">
+  <div class="row">
+    <h2><%= t("digital-hospital.form.header") %></h2>
+    <%= simple_format t("digital-hospital.form.text") %>
+
+    <form class="form-inline" accept-charset="UTF-8" action="<%= t("urls.contact") %>" method="POST">
+      <input type="hidden" name="utf8" value="✓">
+      <input type="hidden" name="form" value="Contact - digital hospital">
+      <input type="text" name="name" placeholder="<%= t("form.name") %>">
+      <input type="text" name="organisation" placeholder="<%= t("form.organisation") %>" required>
+      <input class="required" type="email" name="email" placeholder="<%= t("form.email") %>" required>
+      <button type="submit"><%= t("form.submit") %></button>
+    </form>
+
+  </div>
+</section>

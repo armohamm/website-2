@@ -13,6 +13,7 @@ de:
     convenant-medische-technologie: medizinproduktegesetz
     demo-aanvragen: "demo-anfragen"
     diensten: service
+    digital-hospital: "digitalisierung-im-krankenhaus"
     hosting-security: "hosting-sicherheit"
     implementaties: implementierungen
     koppelingen: schnittstellen
@@ -70,6 +71,7 @@ de:
       70-20-10: "Mehr zu 70:20:10"
       cmt: "Mehr zu Medizinproduktegesetz"
       capp-bilden: "Zu CAPP Bilden"
+      digital-hospital: "Mehr über Digitalisierung"
       more_capp-bilden: "Mehr zu CAPP Bilden"
       capp-entwickeln: "Zu CAPP Entwickeln"
       more_capp-entwickeln: "Mehr zu CAPP Entwickeln"
@@ -186,6 +188,11 @@ de:
     title: "Demo anfragen"
     heading: "Senden Sie uns Ihre Details und fragen Sie eine Demo an! Wir freuen uns!"
     formkeep_title: "Demo request"
+  digital-hospital:
+    header: "Digitalisierung im Krankenhaus"
+    form:
+      header: "Kontakt aufnehmen"
+      text: "Möchten Sie mehr über die Möglichkeiten der Digitalisierung in Ihrem Krankenhaus erfahren? Nutzen Sie das Kontaktformular, damit unsere Berater mit Ihnen Kontakt aufnehmen können"
   elearning:
     heading: "Qualität im Krankenhaus sichern: E-Learning mit Defacto"
   elearning_ebook:
@@ -370,6 +377,9 @@ de:
     cmt:
       name: "Medizinproduktegesetz"
       desc: "Jedes Krankenhaus in Deutschland ist mit dieser Herausforderung vertraut: Auf nachweisbare und transparente Weise die Fähigkeiten von Mitarbeitern bei dem Einsatz von Medizinprodukten anzeigen zu können."
+    digital-hospital:
+      name: "Digitalisierung im Krankenhaus"
+      desc: "Ob Fachkräftemangel oder neue gesetzliche Vorgaben an das Gesundheitswesen, digitale Lösungen für die Personalentwicklung von Krankenhäusern und Kliniken bietet Ihnen vielfältige Möglichkeiten."
   threesixty:
     cta_bottom:
       heading_md: "Testen Sie 360° Feedback jetzt gratis!"
