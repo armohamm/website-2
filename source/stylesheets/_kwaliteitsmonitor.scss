@@ -41,4 +41,16 @@
       font-weight: 500;
     }
   }
+
+  .main {
+    .row {
+      padding: 0 2em;
+    }
+
+    .col {
+      @include media($large-up) {
+        @include span-columns(6);
+      }
+    }
+  }
 }
