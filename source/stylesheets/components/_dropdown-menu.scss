@@ -583,6 +583,26 @@
       }
     }
 
+    a.nav-kwaliteitsmonitor {
+      h3 {
+        color: $blue;
+      }
+
+      &::before {
+        background-position: -420px 0;
+      }
+
+      &:hover {
+        h3 {
+          color: darken($blue, 15%);
+        }
+
+        &::before {
+          background-position: -420px -70px;
+        }
+      }
+    }
+
     a.nav-capp-agile {
       h3 {
         color: $green;
