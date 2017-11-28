@@ -277,7 +277,7 @@ nl:
       heading_md: "Heading: conversietitel"
     desc: "Hoe staat het ervoor met de kwaliteit in jouw organisatie? Bekijk het real-time met %{link}."
     hero:
-      text_md: "Automaiseer het vinken"
+      text_md: "Automatiseer het vinken"
       image: screenshots/hero-kwaliteitsmonitor.png
     logo: logos/kwaliteitsmonitor-white.png
     name: Kwaliteitsmonitor

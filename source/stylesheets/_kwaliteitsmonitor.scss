@@ -1,5 +1,5 @@
 .kwaliteitsmonitor {
-  $color: lighten($turquoise, 5);
+  $color: lighten(#7dc5d5, 5);
 
   .hero {
     @include radial-gradient(circle at 50%,
