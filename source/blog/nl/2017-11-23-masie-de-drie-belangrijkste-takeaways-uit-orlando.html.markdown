@@ -45,7 +45,7 @@ Webshops en adverteerders maken al jaren gebruik van de veelheid aan data die er
 ![Eliott Masie introduceert Michelle Obama](/images/blog/masie-learning-2017-michelle-obama.jpg)
 <p class="caption">Eliott Masie introduceert Michelle Obama</p>
 
-## 4 Everything’s connected
+## 3 Everything’s connected
 Bovenstaande betekent niet alleen dat wij uit verschillende hoeken onze data goed moeten leren gebruiken, het betekent ook dat de verschillende systemen die onze organisatie gebruikt steeds vaker samen moeten werken. Met moderne uitwisselingsstandaarden zoals bijvoorbeeld de xAPI kunnen systemen tegenwoordig steeds makkelijker data van elkaar gebruiken. Met de opkomst van ‘The Internet of Things’ wordt daar zelfs nog een extra dimensie aan toegevoegd; denk bijvoorbeeld aan een auto die je pas kunt starten wanneer je een geldig rijbewijs hebt. Of software dat je automatisch extra tips geeft bij taken waarbij het je eerder niet lukte ze juist uit te voeren; je logt in, start een proces en krijgt meteen een pop-up: 'vorige keer ben je vergeten ... te doen, kijk hier hoe dit gedaan moet worden...'.
 
 Leren en performance komen steeds dichter bij elkaar te liggen. Aan ons de uitdaging om ons gehele ecosysteem van leren aan elkaar te verbinden in de komende jaren. Het geheel is dan werkelijk meer dan de som van de delen.
