@@ -279,7 +279,7 @@ nl:
     hero:
       text_md: "Automatiseer het vinken"
       image: screenshots/hero-kwaliteitsmonitor.png
-    logo: logos/kwaliteitsmonitor-white.png
+    logo: logos/kwaliteitsmonitor.png
     name: Kwaliteitsmonitor
   kwaliteitspaspoort:
     cta_bottom:
