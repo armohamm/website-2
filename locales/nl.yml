@@ -274,7 +274,7 @@ nl:
   kwaliteitsmonitor:
     cta_bottom:
       formkeep_title: "Kwaliteitsmonitor: afspraak maken"
-      heading_md: "Heading: conversietitel"
+      heading_md: "Download de Kwaliteitsmonitor productsheet"
     desc: "Hoe staat het ervoor met de kwaliteit in jouw organisatie? Bekijk het real-time met %{link}."
     hero:
       text_md: "Automatiseer het vinken"
@@ -295,7 +295,7 @@ nl:
     name: Kwaliteitspaspoort
   nav:
     capp-lms: "LMS en efficiënte tools voor de ontwikkelprocessen van je medewerkers"
-    kwaliteitsmonitor: "Automatiseer het vinken"
+    kwaliteitsmonitor: "Altĳd en overal inzicht in de kwaliteit en bevoegdheid van je organisatie"
     kwaliteitspaspoort: "Real-time inzicht in bevoegd- en bekwaamheid binnen je organisatie"
     capp-agile: "Performance support voor elke organisatie"
     threesixty: "Maak een efficiëntieslag in je HRD"
