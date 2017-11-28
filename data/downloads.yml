@@ -14,3 +14,5 @@ capp_productsheet:
   nl: "/pdf/Productsheet_CAPP.pdf"
   de: "/pdf/Produktblatt_CAPP.pdf"
   en: "/pdf/Productsheet_CAPP.pdf" # REPLACE_LATER!
+kwaliteitsmonitor_productsheet:
+  nl: "/pdf/Productsheet_Kwaliteitsmonitor.pdf"
