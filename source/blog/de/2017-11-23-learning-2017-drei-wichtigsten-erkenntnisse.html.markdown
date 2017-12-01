@@ -4,7 +4,6 @@ date: 2017-11-23 8:00 CEST
 tags: Kongress, Innovation, Lernen
 author: Joep
 lang: de
-featured: true
 image: images/blog/social/masie-learning-2017-1200x630.jpg
 featured_image: images/blog/featured/20171023-learning-2017-masie.jpg
 ---
