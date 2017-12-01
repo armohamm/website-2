@@ -7,6 +7,7 @@ nl:
   urls:
     contact: https://formkeep.com/f/aff54030c202
     productsheet: https://formkeep.com/f/eb01a315df5e
+    km_productsheet: https://formkeep.com/f/8861ffd32f0a
     ebook: https://formkeep.com/f/15eb7434fd49
     job_apply: https://formkeep.com/f/da32eaeda39e
     capp_agile: https://formkeep.com/f/0f2125be5045
@@ -45,6 +46,7 @@ nl:
       capp: "Meer CAPP"
       cmt: "Meer CMT"
       quality: "Meer Kwaliteitspaspoort"
+      kwaliteitsmonitor: "Meer Kwaliteitsmonitor"
       capp-agile: "Meer CAPP Agile Learning"
       threesixty: "Meer 360° Feedback"
       elearning: "Meer E-Learning"
@@ -270,6 +272,16 @@ nl:
     acquisition: "Let op: acquisitie op basis van deze vacature wordt niet op prijs gesteld."
   koppelingen:
     heading: "Gecertificeerde koppelingen"
+  kwaliteitsmonitor:
+    cta_bottom:
+      formkeep_title: "Kwaliteitsmonitor: afspraak maken"
+      heading_md: "Download de Kwaliteitsmonitor productsheet"
+    desc: "Hoe staat het ervoor met de kwaliteit in jouw organisatie? Bekijk het real-time met %{link}."
+    hero:
+      text_md: "Automatiseer het vinken"
+      image: screenshots/hero-kwaliteitsmonitor.png
+    logo: logos/kwaliteitsmonitor.png
+    name: Kwaliteitsmonitor
   kwaliteitspaspoort:
     cta_bottom:
       formkeep_title: "Kwaliteitspaspoort: afspraak maken"
@@ -284,6 +296,7 @@ nl:
     name: Kwaliteitspaspoort
   nav:
     capp-lms: "LMS en efficiënte tools voor de ontwikkelprocessen van je medewerkers"
+    kwaliteitsmonitor: "Altĳd en overal inzicht in de kwaliteit en bevoegdheid van je organisatie"
     kwaliteitspaspoort: "Real-time inzicht in bevoegd- en bekwaamheid binnen je organisatie"
     capp-agile: "Performance support voor elke organisatie"
     threesixty: "Maak een efficiëntieslag in je HRD"

@@ -10,7 +10,7 @@ de:
     bedankt: danke
     capp-lms: "capp-bilden"
     contact: kontakt
-    convenant-medische-technologie: medizinproduktegesetz
+    convenant-medische-technologie: "medizinproduktegesetz"
     demo-aanvragen: "demo-anfragen"
     diensten: service
     digital-hospital: "digitalisierung-im-krankenhaus"
@@ -18,6 +18,7 @@ de:
     implementaties: implementierungen
     koppelingen: schnittstellen
     kwaliteitspaspoort: qualitatspass
+    kwaliteitsmonitor: qualitatsmonitor
     media: presse
     over-ons: "uber-uns"
     privacy-statement: "datenschutz"

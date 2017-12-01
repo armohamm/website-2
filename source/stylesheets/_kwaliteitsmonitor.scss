@@ -1,0 +1,42 @@
+.kwaliteitsmonitor {
+
+  .hero {
+    background: $blue;
+    padding-bottom: 0;
+
+    + section {
+      box-shadow: 0 -20px 20px -20px rgba($black, 0.2);
+      position: relative;
+    }
+
+    .hero-inner {
+      padding: 5em 1em 0;
+
+      img {
+        display: block;
+        margin: 0 auto;
+
+        &.km-logo {
+          margin-bottom: 2em;
+          max-width: 320px;
+
+          @include media($medium-up) {
+            max-width: 400px;
+          }
+        }
+      }
+    }
+
+    h1 {
+      font-family: 'Montserrat', $base-font-family;
+      font-size: 2em;
+      font-weight: 500;
+    }
+  }
+
+  .main {
+    .row {
+      padding: 0 2em;
+    }
+  }
+}
