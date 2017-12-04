@@ -4,7 +4,6 @@ date: 2017-11-28 8:00 CEST
 tags: lms, nieuws, capp
 author: Stéphanie
 lang: nl
-featured: true
 image: images/blog/social/rivm-wint-award-2017.jpg
 featured_image: images/blog/featured/20171128-rivm-wint-award-2017.jpg
 ---
