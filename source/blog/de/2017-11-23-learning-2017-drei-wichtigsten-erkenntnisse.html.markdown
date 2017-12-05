@@ -24,7 +24,7 @@ Wie oft machen wir das? Vier, fünf Dinge tatsächlich ausprobieren und folgli
 
 ## Sieh mehr als nur das Lernen!
 
-Das Lernen ist noch zu sehr eine Art isolierte Insel innerhalb einer Organisation. Ein [Lernmanagementsystem (LMS)](/capp-bilden) dient etwa der Registrierung von Schulungen oder es verzeichnet, welche Filme oder Instruktionen ein Mitarbeiter gesehen bzw. gelesen hat. Wir wissen lediglich, ob jemand einen Kursus absolviert hat, so dass wir ihn wieder “abhaken” können.
+Das Lernen ist noch zu sehr eine Art isolierte Insel innerhalb einer Organisation. Ein [Lernmanagementsystem (LMS)](/capp-bilden/) dient etwa der Registrierung von Schulungen oder es verzeichnet, welche Filme oder Instruktionen ein Mitarbeiter gesehen bzw. gelesen hat. Wir wissen lediglich, ob jemand einen Kursus absolviert hat, so dass wir ihn wieder “abhaken” können.
 
 ### Was können wir tun?
 

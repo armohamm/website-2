@@ -11,7 +11,7 @@ featured_image: images/blog/featured/20170918-bundestagswahl-2017.jpg
 
 ## Personalbegrenzungen in der Pflege?
 
-Bereits bei dem diesjährigen Deutschen Pflegetag im April haben wir feststellen können, dass das Thema Pflege eine bedeutende Rolle in der neuen Legislaturperiode einnehmen wird. Der zunehmende Personaldruck und die Belastungen am Arbeitsplatz erfordere neue politische Lösungsansätze, wurde schon damals von den Pflegern gefordert. Den Bericht zu der Veranstaltung [können Sie hier nachlesen](/blog/pflegetag-2017){:title="Pflegetag 2017"}.
+Bereits bei dem diesjährigen Deutschen Pflegetag im April haben wir feststellen können, dass das Thema Pflege eine bedeutende Rolle in der neuen Legislaturperiode einnehmen wird. Der zunehmende Personaldruck und die Belastungen am Arbeitsplatz erfordere neue politische Lösungsansätze, wurde schon damals von den Pflegern gefordert. Den Bericht zu der Veranstaltung [können Sie hier nachlesen](/blog/pflegetag-2017/){:title="Pflegetag 2017"}.
 
 Während alle genannten Parteien sich daher für eine Verbesserung der Arbeitsbedingungen oder Ausbildung im Bereich Pflege stark machen, gehen die Vorstellung bei Personalbemessungen auseinander: Die CDU, SPD und Grüne fordern einheitlich einen Personalschlüssel, um mögliche Untergrenzen festzulegen, auch wenn die Sozialdemokraten diese in andere Bereiche der Krankenpflege ausweiten möchten und die Grünen zusätzlich die Altenpflege dazuzählen. Die FDP dagegen lehnt Konzepte der Personalbemessung ab.
 

@@ -48,6 +48,6 @@ Außerdem sollten Sie das Lernen spielerisch gestalten: Die Motivation Ihrer Arb
 
 * Menschen sind so „programmiert“, dass sie Spaß an Spielen haben. Sie haben eine natürliche Tendenz, sich eher und mit mehr Eifer in Aktivitäten zu stürzen, die in einem spielerischen Rahmen stattfinden.
 
-Mit diesen Fakten im Hinterkopf können Sie die Kraft des modernen Lerners nutzen, Ihre Arbeitnehmer zu einem informellen Wissensaustausch motivieren und Ihr Unternehmen erfolgreicher machen. Wenn Sie Hilfe beim Aufbau Ihrer sozialen Lernplattform benötigen, können Sie uns über [CAPP Agile Learning](/capp-agile-learning) kontaktieren.
+Mit diesen Fakten im Hinterkopf können Sie die Kraft des modernen Lerners nutzen, Ihre Arbeitnehmer zu einem informellen Wissensaustausch motivieren und Ihr Unternehmen erfolgreicher machen. Wenn Sie Hilfe beim Aufbau Ihrer sozialen Lernplattform benötigen, können Sie uns über [CAPP Agile Learning](/capp-agile-learning/) kontaktieren.
 
 (Einige dieser Gedanken stammen ursprünglich von [www.langevin.com](http://www.langevin.com){:target="_blank"}{:rel="noopener"}{:title="Langevin"} und [www.gartner.com](http://www.gartner.com){:target="_blank"}{:rel="noopener"}{:title="Gartner"}, vielen Dank dafür!)

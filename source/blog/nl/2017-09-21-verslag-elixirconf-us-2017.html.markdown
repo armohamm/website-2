@@ -35,4 +35,4 @@ Na de tweedaagse training begon de daadwerkelijke conferentie. Veel interessante
 
 We gaan de opgedane kennis tijdens ElixirConf absoluut nuttig kunnen gebruiken in ons dagelijks werk en tijdens het ontwikkelen van de nieuwe versie van ons huidige product. Op deze manier dragen we, door ergens actief aan te werken, kennis over. Een manier van leren die ons uitermate aanstaat en waarvan we de kracht onderstrepen.
 
-Wil je meer weten over de conferentie, Elixir of Phoenix? Laat het ons weten! We hebben bovendien een [vacature voor een Elixir developer](/jobs/elixir-developer){:title="Elixir Developer vacature"}.
+Wil je meer weten over de conferentie, Elixir of Phoenix? Laat het ons weten! We hebben bovendien een [vacature voor een Elixir developer](/jobs/elixir-developer/){:title="Elixir Developer vacature"}.
