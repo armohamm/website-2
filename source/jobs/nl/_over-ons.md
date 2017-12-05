@@ -10,4 +10,4 @@ We geloven dat het belangrijk is om in een leuke omgeving te kunnen werken. Onze
 
 Je hebt de mogelijkheid gebruik te maken van een Bring Your Own Device-regeling, Defacto betaalt de helft van je device en hij is van jou.
 
-Elke vrijdag is er ruimte om je te verdiepen in nieuwe technieken en producten. Daarnaast krijg je een jaarlijks opleidingsbudget van €3000,- (incl. benodigde vakliteratuur) die vrij te besteden is, en ontvang je een variabele winstdeling.
+Elke vrijdag is er ruimte om je te verdiepen in nieuwe technieken en producten. Daarnaast krijg je jaarlijks een ruim individueel opledingsbudget en ontvang je een variabele winstdeling.
