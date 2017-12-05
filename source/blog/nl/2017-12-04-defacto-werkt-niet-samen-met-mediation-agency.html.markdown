@@ -9,4 +9,4 @@ image: images/blog/social/decato-mediation-agency.jpg
 featured_image: images/blog/featured/20171204-decato-mediation-agency.jpg
 ---
 
-**Het is ons ter ore gekomen dat Mediation Agency namens De-Facto consumenten aanmaningen verstuurt. Wij willen via deze weg laten weten dat wij hier niets mee van doen hebben. Wij vinden het heel vervelend dat dit gebeurt en verwijzen iedereen met vragen naar de rechtsbijstand.**
+**Het is ons ter ore gekomen dat Mediation Agency namens De-Facto consumenten aanmaningen verstuurt. Wij willen via deze weg laten weten dat wij hier niets mee van doen hebben. Wij vinden het heel vervelend dat dit gebeurt en adviseren iedereen juridisch advies in te winnen zoals wij zelf ook hebben gedaan.**
