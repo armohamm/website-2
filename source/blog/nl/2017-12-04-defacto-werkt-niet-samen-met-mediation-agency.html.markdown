@@ -1,7 +1,7 @@
 ---
 title: "Defacto werkt niet samen met Mediation Agency"
 date: 2017-12-04 8:00 CEST
-tags: nieuws, defacto
+tags: nieuws, Defacto
 author: Stéphanie
 lang: nl
 featured: true

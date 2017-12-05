@@ -1,7 +1,7 @@
 ---
 title: "RIVM wint award voor beste corporate academy 2017"
 date: 2017-11-28 8:00 CEST
-tags: lms, nieuws, capp
+tags: LMS, nieuws, CAPP
 author: Stéphanie
 lang: nl
 image: images/blog/social/rivm-wint-award-2017.jpg
