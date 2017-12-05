@@ -97,8 +97,7 @@
     }
   }
 
-  .kwaliteitspaspoort,
-  .kwaliteitsmonitor {
+  .kwaliteitspaspoort {
     $color: lighten($turquoise, 5);
 
     .left {
@@ -112,6 +111,18 @@
       h2 {
         img {
           width: 250px;
+        }
+      }
+    }
+  }
+
+  .kwaliteitsmonitor {
+    .left {
+      background: $blue;
+
+      h2 {
+        img {
+          width: 300px;
         }
       }
     }
