@@ -16,3 +16,5 @@ capp_productsheet:
   en: "/pdf/Productsheet_CAPP.pdf" # REPLACE_LATER!
 kwaliteitsmonitor_productsheet:
   nl: "/pdf/Productsheet_Kwaliteitsmonitor.pdf"
+kwaliteitspaspoort_productsheet:
+  de: "/pdf/Productsheet_Qualitaetspass.pdf"
