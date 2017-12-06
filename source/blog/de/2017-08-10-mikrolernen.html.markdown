@@ -1,7 +1,7 @@
 ---
 title: "Mikrolernen"
 date: 2017-08-10 08:00 CEST
-tags: mikrolernen, e-learning, wissen
+tags: Mikrolernen, E-Learning, Wissen
 author: Milda
 lang: de
 image: images/blog/social/micro-future-1200x630.jpg

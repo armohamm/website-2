@@ -1,7 +1,7 @@
 ---
 title: "Social Learning in der Mittagspause"
 date: 2017-08-14 08:00 CEST
-tags: mittagessen, lernen, idee, teilen
+tags: Lernen, Innovation, Soziales Lernen
 author: Milda
 lang: de
 image: images/blog/social/lunchbreak-learning-1200x630.jpg

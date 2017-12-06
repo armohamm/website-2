@@ -1,7 +1,7 @@
 ---
 title: Hilfe! Mein E-Learning Modul funktioniert nicht! 
 date: 2016-07-21 08:00 CEST
-tags: SCORM, e-learning, CAPP
+tags: SCORM, E-Learning, CAPP
 author: Joep
 lang: de
 image: images/blog/social/mein-e-learning-modul-1200x630.png

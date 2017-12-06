@@ -1,7 +1,7 @@
 ---
 title: Ein Workshop zum Thema “Mittels E-Learning Zukunftsthemen bewegen”
 date: 2017-02-21 08:00 CEST
-tags: workshop, e-learning
+tags: Workshop, E-Learning
 author: Martina
 lang: de
 image: images/blog/social/workshop-zukunftsthemen-1200x630.png

@@ -1,7 +1,7 @@
 ---
 title: "Besuch der ElixirConf 2017 in der USA"
 date: 2017-09-21 08:00 CEST
-tags: elixir, phoenix, elixirconf, development, kongress
+tags: Elixir, Phoenix, Elixirconf, Kongress
 author: Gerwin & Maarten
 lang: de
 image: images/blog/social/elixirconf-1200x630.jpg

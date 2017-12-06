@@ -1,7 +1,7 @@
 ---
 title: „Lernen ist Arbeit und Arbeit ist Lernen“
 date: 2017-01-10 08:00 CEST
-tags: e-learning, bildungsmanagement
+tags: E-Learning, Bildungsmanagement
 author: Joep
 lang: de
 featured: false

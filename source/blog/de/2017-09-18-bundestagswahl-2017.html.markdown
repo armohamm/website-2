@@ -1,7 +1,7 @@
 ---
 title: "Bundestagswahl: Was passiert im Gesundheitswesen?"
 date: 2017-09-18 07:00 CEST
-tags: gesundheitswesen, wahl 2017, pflege, digitalisierung
+tags: Gesundheitswesen, Wahl 2017, Pflege, Digitalisierung
 author: David
 lang: de
 image: images/blog/social/bundestagswahl-1200x630.jpg

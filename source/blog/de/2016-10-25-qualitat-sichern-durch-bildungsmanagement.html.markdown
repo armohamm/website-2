@@ -1,7 +1,7 @@
 ---
 title: Qualität sichern durch Bildungsmanagement
 date: 2016-10-25 08:00 CEST
-tags: workshop, CAPP, Qualitätspass, video
+tags: Workshop, CAPP, Qualitätspass, Video
 author: Isabela
 lang: de
 image: images/blog/social/qualitat-sichern-durch-bildungsmanagement-1200x630.png
