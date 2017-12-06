@@ -1,7 +1,7 @@
 ---
 title: "Zerocopter: Durch ethische Hacker an Sicherheit gewinnen"
 date: 2017-09-06 07:00 CEST
-tags: Zerocopter, sicherheit, Defacto, data
+tags: Zerocopter, Sicherheit, Defacto, Datenschutz
 author: Stéphanie
 lang: de
 image: images/blog/social/zerocopter-1200x630.jpg

@@ -1,7 +1,7 @@
 ---
 title: Mit CAPP an Talentmanagement im Gesundheitswesen arbeiten
 date: 2016-10-04 09:00 CEST
-tags: talentmanagement, CAPP, Qualitätspass
+tags: Talentmanagement, CAPP, Qualitätspass
 author: Marian
 lang: de
 image: images/blog/social/CAPP-talentmanagement-im-gesundheitswesen-1200x630.png

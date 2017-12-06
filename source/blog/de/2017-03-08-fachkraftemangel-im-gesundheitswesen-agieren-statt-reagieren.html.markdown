@@ -1,7 +1,7 @@
 ---
 title: "Fachkräftemangel im Gesundheitswesen: Agieren statt reagieren!"
 date: 2017-03-08 08:00 CEST
-tags: gesundheitswesen
+tags: Gesundheitswesen, Pflege
 author: David
 lang: de
 image: images/blog/social/fachkraftemangel-1200x630.png

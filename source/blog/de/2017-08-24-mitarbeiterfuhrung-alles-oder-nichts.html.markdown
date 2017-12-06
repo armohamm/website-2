@@ -1,7 +1,7 @@
 ---
 title: "Mitarbeiterführung: Alles oder nichts"
 date: 2017-08-24 14:10 CEST
-tags: leadership, management, team
+tags: Führungsmanagement, Team
 author: Milda
 lang: de
 image: images/blog/social/leadership-1200x630.jpg

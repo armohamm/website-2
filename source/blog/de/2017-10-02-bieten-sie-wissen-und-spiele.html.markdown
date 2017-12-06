@@ -1,7 +1,7 @@
 ---
 title: "Bieten Sie Wissen und Spiele"
 date: 2017-10-02 7:00 CEST
-tags: learning, gamification
+tags: Lernen, Gamification
 author: Milda
 lang: de
 image: images/blog/social/modern-learner-1200x630.png

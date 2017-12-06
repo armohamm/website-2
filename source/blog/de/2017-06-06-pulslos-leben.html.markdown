@@ -1,7 +1,7 @@
 ---
 title: Ohne Puls aber dafür mit umso mehr Herz!
 date: 2017-06-06 08:00 CEST
-tags: pulslos leben, herzunterstützungssystem, website
+tags: Pulslos Leben, Herzunterstützungssystem, Website
 author: Anne
 lang: de
 image: images/blog/social/pulslos-leben-1200x630.gif

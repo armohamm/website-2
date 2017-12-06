@@ -1,7 +1,7 @@
 ---
 title: Warum unsere Geschichte so wichtig ist
 date: 2016-12-05 07:00 CEST
-tags: CAPP
+tags: CAPP, LMS
 author: Martina
 lang: de
 image: images/blog/social/warum-unsere-geschichte-1200x630.png

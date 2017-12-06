@@ -1,7 +1,7 @@
 ---
 title: Pflegetag 2017
 date: 2017-04-03 08:00 CEST
-tags: pflegetag, kongress
+tags: Pflegetag, Kongress, Pflege
 author: David
 lang: de
 image: images/blog/social/pflegetag-2017-1200x630.png
