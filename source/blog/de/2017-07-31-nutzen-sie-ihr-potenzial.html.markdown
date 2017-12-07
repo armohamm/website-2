@@ -1,7 +1,7 @@
 ---
 title: "Nutzen Sie Ihr Potenzial: Wissensarbeiter machen ein Unternehmen aus"
 date: 2017-07-31 8:00 CEST
-tags: Wissen, E-learning
+tags: Wissen, E-Learning
 author: Milda
 lang: de
 image: images/blog/social/creation-1200x630.jpg

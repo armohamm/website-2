@@ -1,7 +1,7 @@
 ---
 title: KlinikManagementPersonal 2017
 date: 2017-05-22 08:00 CEST
-tags: kongress, gesundheitswesen, 70-20-10-Prinzip
+tags: Kongress, Gesundheitswesen, 70-20-10-Prinzip
 author: David
 lang: de
 image: images/blog/social/klinikmanagementpersonal-1200x630.jpg
