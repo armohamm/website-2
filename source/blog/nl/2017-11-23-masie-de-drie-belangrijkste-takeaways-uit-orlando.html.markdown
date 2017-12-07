@@ -26,8 +26,8 @@ Ik heb fantastische initiatieven gezien. Zoals bijvoorbeeld een app die medewerk
 
 Hoe vaak doen wij dit? Vier, vijf dingen daadwerkelijk uitproberen en dus ook vier keer een idee afschieten en opnieuw beginnen. Te weinig, als je het de Amerikanen vraagt. De wereld van leren en ontwikkelen moet steeds sneller inspelen op veranderingen in alle aspecten van je organisatie. Dat dit gepaard gaat met trial en error om de juiste weg te vinden zou een logisch gevolg moeten zijn.
 
-![Joep Langlet ontsnapt uit de escape room](/images/blog/masie-learning-2017-escaperoom.jpg)
-<p class="caption">Joep Langlet ontsnapt uit de escape room</p>
+![Joep Lenglet ontsnapt uit de escape room](/images/blog/masie-learning-2017-escaperoom.jpg)
+<p class="caption">Joep Lenglet ontsnapt uit de escape room</p>
 
 ## 2 Kijk verder dan het leren alleen
 Met de komst van big data, en toenemende interconnectiviteit van systemen, wordt het voor ons als Learning & Development (L&D) professionals de uitdaging om meer te doen met de data die we hebben. We zouden geen genoegen moeten nemen met het kunnen aantonen dat iemand een cursus heeft gedaan. In plaats daarvan, zouden we moeten willen aantonen dat het volgen van de cursus leidde tot betere performance van de medewerker en daarmee de organisatie als geheel.
