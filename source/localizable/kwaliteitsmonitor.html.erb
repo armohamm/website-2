@@ -10,7 +10,7 @@ lang_ignore: en, de
   <div class="hero-inner">
     <div class="hero-copy">
 
-      <%= image_tag t("kwaliteitsmonitor.logo"), alt: t("kwaliteitsmonitor.name"), class: "km-logo" %>
+      <%= image_tag t("kwaliteitsmonitor.logo"), title: t("kwaliteitsmonitor.name"), alt: t("kwaliteitsmonitor.name"), class: "km-logo" %>
 
       <h1><%= t("kwaliteitsmonitor.hero.text_md") %></h1>
 
@@ -20,7 +20,15 @@ lang_ignore: en, de
   </div>
 </div>
 
-<%= partial "kwaliteitsmonitor/kwaliteitsmonitor" %>
+<section>
+  <article>
+    <div class="row">
+
+      <%= partial "kwaliteitsmonitor/kwaliteitsmonitor" %>
+
+    </div>
+  </article>
+</section>
 
 <% if data.downloads.kwaliteitsmonitor_productsheet[I18n.locale] %>
   <section class="cta-bottom gray">
