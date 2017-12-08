@@ -233,3 +233,9 @@
   lastname: Elsdingen
   email: wietske@defacto.nl
   avatar: /images/team/wietske-van-elsdingen.jpg
+
+- firstname: Pien
+  prefix: van
+  lastname: Dalen
+  email: pien@defacto.nl
+  avatar: /images/team/pien-van-dalen.jpg
