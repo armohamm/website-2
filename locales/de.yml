@@ -66,6 +66,8 @@ de:
   actions:
     download: "Herunterladen"
     download_productsheet: "Produktblatt herunterladen"
+    download_kwaliteitspaspoort: "Datenblatt Qualitätspass"
+    download_kwaliteitsmonitor: "Datenblatt Qualitätsmonitor"
     make_appointment: "Termin vereinbaren"
     read_more: "Mehr"
     register: "Anmelden"
@@ -300,7 +302,7 @@ de:
   kwaliteitspaspoort:
     cta_bottom:
       formkeep_title: "Kwaliteitspaspoort: afspraak maken"
-      heading_md: "Endlich eine Übersicht aller Qualifikationen in Ihrer Organisation mit dem Qualitätspass?"
+      heading_md: "Endlich eine Übersicht aller Qualifikationen in Ihrer Organisation?"
     desc: "Bündeln Sie die Qualifikation, Entwicklungsstände und andere Kompetenzen Ihrer Mitarbeiter im %{link} und behalten Sie den Überblick."
     hero:
       formkeep_title: "Kwaliteitspaspoort: meer informatie"
