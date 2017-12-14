@@ -71,6 +71,7 @@ en:
       google_plus: Share on Google+
       linkedin: Share on LinkedIn
       xing: Share on Xing
+    subscribe: "Subscribe to our newsletter and stay up to date."
     tags:
       meta_description: "Blogs from Defacto related to %{tagname}"
   capp:
@@ -209,7 +210,7 @@ en:
     open_source: "open source"
     subscribe:
       title: "Newsletter"
-      text: "Sign up to keep up to date"
+      text: "Sign up to stay up to date"
     follow:
       title: "Follow Defacto"
       text: "Follow us on social media"

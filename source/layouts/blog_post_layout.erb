@@ -11,10 +11,16 @@
   </header>
 
   <div class="row post-body">
+
     <div class="col">
       <%= yield %>
     </div>
+
+    <%= partial "blog/blog-subscribe" unless current_article.data.hide_subscribe %>
+
   </div>
+
+
 
   <footer class="row post-footer">
     <div class="col">

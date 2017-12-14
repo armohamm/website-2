@@ -72,6 +72,7 @@ nl:
       google_plus: Deel op Google+
       linkedin: Deel op LinkedIn
       xing: Deel op Xing
+    subscribe: "Schrijf je in voor onze nieuwsbrief en blijf op de hoogte."
     tags:
       meta_description: "Blogs van Defacto gerelateerd aan %{tagname}"
   capp:

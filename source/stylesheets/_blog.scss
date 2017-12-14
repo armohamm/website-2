@@ -93,6 +93,19 @@
         max-width: 960px;
       }
 
+      .post-subscribe {
+        background: $lightest-gray;
+        margin-bottom: 3em;
+        margin-top: 3em;
+        max-width: 960px;
+        padding: 2em;
+
+        h2 {
+          font-size: 1.6em;
+          text-align: center;
+        }
+      }
+
       .post-body {
         font-size: $base-font-size;
         margin-bottom: 2em;

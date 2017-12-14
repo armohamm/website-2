@@ -105,6 +105,7 @@ de:
       google_plus: Teile auf Google+
       linkedin: Teile auf LinkedIn
       xing: Teile auf Xing
+    subscribe: "Abonnieren Sie unseren Newsletter und bleiben Sie informiert." 
     tags:
       meta_description: "Blogs von Defacto im Zusammenhang mit %{tagname}"
   capp:
