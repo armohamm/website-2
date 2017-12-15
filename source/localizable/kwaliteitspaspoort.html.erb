@@ -37,20 +37,22 @@ description:
       <% if root_locale == :de && data.downloads.kwaliteitspaspoort_productsheet[I18n.locale] %>
         <input type="hidden" name="download" value="<%= full_url(data.downloads.kwaliteitspaspoort_productsheet[I18n.locale]) %>">
         <button type="submit"><%= t("actions.download_kwaliteitspaspoort") %>&nbsp;&nbsp;<span class="icon-pdf"></span></button>
-
-        <form class="form-inline" accept-charset="UTF-8" action="<%= t("urls.kwaliteitspaspoort") %>" method="POST">
-          <input type="hidden" name="utf8" value="✓">
-          <input type="hidden" name="form" value="<%= t("kwaliteitspaspoort.cta_bottom.formkeep_title") %>">
-          <input type="text" name="name" placeholder="<%= t("form.name") %>">
-          <input type="text" name="organisation" placeholder="<%= t("form.organisation") %>" required>
-          <input class="required" type="email" name="email" placeholder="<%= t("form.email") %>" required>
-          <input type="hidden" name="download" value="<%= full_url(data.downloads.kwaliteitspaspoort_productsheet[I18n.locale]) %>">
-          <button type="submit"><%= t("actions.download_kwaliteitsmonitor") %>&nbsp;&nbsp;<span class="icon-pdf"></span></button>
-        </form>
       <% else %>
         <button type="submit"><%= t("actions.make_appointment") %></button>
       <% end %>
     </form>
+
+    <% if root_locale == :de %>
+      <form class="form-inline" accept-charset="UTF-8" action="<%= t("urls.kwaliteitspaspoort") %>" method="POST">
+        <input type="hidden" name="utf8" value="✓">
+        <input type="hidden" name="form" value="<%= t("kwaliteitspaspoort.cta_bottom.formkeep_title") %>">
+        <input type="text" name="name" placeholder="<%= t("form.name") %>">
+        <input type="text" name="organisation" placeholder="<%= t("form.organisation") %>" required>
+        <input class="required" type="email" name="email" placeholder="<%= t("form.email") %>" required>
+        <input type="hidden" name="download" value="<%= full_url(data.downloads.kwaliteitspaspoort_productsheet[I18n.locale]) %>">
+        <button type="submit"><%= t("actions.download_kwaliteitsmonitor") %>&nbsp;&nbsp;<span class="icon-pdf"></span></button>
+      </form>
+    <% end %>
 
   </div>
 </section>
