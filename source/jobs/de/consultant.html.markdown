@@ -32,4 +32,4 @@ Als Consultant bist du der Link zwischen den Developern und dem Kunden. Du arbei
 * Eigenverantwortliche, herausfordernde Aufgaben
 * Luft, Liebe, Leben und Arbeiten in Groningen
 
-Haben wir Dein Interesse geweckt? Dann freuen wir uns über Deine aussagekräftige Bewerbung. Deine Ansprechpartnerin ist Esther Joosten, [e.joosten@defacto.nl](mailto:e.joosten@defacto.nl).
+Haben wir Dein Interesse geweckt? Dann freuen wir uns über Deine aussagekräftige Bewerbung. Deine Ansprechpartnerin ist Isabela Wojtowicz, [isabela@defactolearning.de](mailto:isabela@defactolearning.de).
