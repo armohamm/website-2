@@ -4,7 +4,6 @@ date: 2017-12-04 8:00 CEST
 tags: nieuws, Defacto
 author: Stéphanie
 lang: nl
-featured: true
 image: images/blog/social/decato-mediation-agency.jpg
 featured_image: images/blog/featured/20171204-decato-mediation-agency.jpg
 hide_subscribe: true
