@@ -35,4 +35,4 @@ Als Software Developer arbeitest du in unserem facettenreichen Team an den versc
 
 [Unsere GitHub Profil](https://github.com/DefactoSoftware/){:target="_blank"}.
 
-Haben wir Dein Interesse geweckt? Dann freuen wir uns über Deine aussagekräftige Bewerbung. Deine Ansprechpartnerin ist Esther Joosten, [e.joosten@defacto.nl](mailto:e.joosten@defacto.nl).
+Haben wir Dein Interesse geweckt? Dann freuen wir uns über Deine aussagekräftige Bewerbung. Deine Ansprechpartnerin ist Isabela Wojtowicz, [isabela@defactolearning.de](mailto:isabela@defactolearning.de).
