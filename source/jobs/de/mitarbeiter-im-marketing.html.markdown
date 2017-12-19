@@ -1,5 +1,5 @@
 ---
-title: "Mitarbeiter in Marketing"
+title: "Mitarbeiter im Marketing"
 date: 2017-12-19 08:01 CEST
 tags:
 lang: de
@@ -7,13 +7,17 @@ featured: false
 popup: false
 apply_link: vacature-de
 ---
-Als Mitarbeiter im Marketing bist du verantwortlich für die Ausführung diverser Marketingaktivitäten mit der Zielsetzung u.a. Leads zu generieren und die Kundenzufriedenheit zu erhöhen. An diesen Zielen arbeitest du gemeinsam mit den Kollegen aus den Abteilungen Sales und Accountmanagement.
+Lust dich kreativ auszutoben und in einem internationalen Umfeld zu arbeiten?
 
 **Dann bewerbe dich jetzt bei Defacto in Groningen!**
 
 Zur Unterstützung unseres stetig wachsenden Teams suchen wir zum nächstmöglichen Zeitpunkt einen
 
-# Marketingmanager (m/w)
+# Mitarbeiter im Marketing (m/w)
+
+Als Mitarbeiter im Marketing bist du verantwortlich für die Ausführung diverser Marketingaktivitäten mit der Zielsetzung u.a. Leads zu generieren und die Kundenzufriedenheit zu erhöhen. An diesen Zielen arbeitest du gemeinsam mit den Kollegen aus den Abteilungen Sales und Accountmanagement.
+
+## Deine Aufgaben:
 
 - Erstellung von Content für diverse Kommunikationsmittel
 - Optimalisieren und verwalten von Content (offline/online)
