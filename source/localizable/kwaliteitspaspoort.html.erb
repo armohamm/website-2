@@ -13,7 +13,11 @@ description:
   <div class="hero-inner">
     <div class="hero-copy">
 
-      <%= image_tag t("kwaliteitspaspoort.logo"), alt: t("kwaliteitspaspoort.name"), class: "kpp-logo" %>
+      <% if root_locale == :de %>
+        <%= image_tag t("kwaliteitspaspoort.logo"), alt: t("kwaliteitspaspoort.name"), class: "kpp-logo-de", width: "750" %>
+      <% else %>
+        <%= image_tag t("kwaliteitspaspoort.logo"), alt: t("kwaliteitspaspoort.name"), class: "kpp-logo" %>
+      <% end %>
 
       <h1><%= t("kwaliteitspaspoort.hero.text_md") %></h1>
 

@@ -111,6 +111,10 @@
       h2 {
         img {
           width: 250px;
+
+          &.kwaliteitsmonitor_integration_de {
+            width: 350px;
+          }
         }
       }
     }

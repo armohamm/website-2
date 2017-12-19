@@ -309,7 +309,8 @@ de:
       text_md: "Vom Qualitätspass zum Entwicklungsplan für alle Mitarbeiter"
       title: "Qualitätspass"
       image: screenshots/hero-qualitatspass.png
-    logo: logos/qualitatspass-white.png
+    logo: logos/qualitatspass_qualitatsmonitor_white.png
+    logo_underneath: logos/qualitatspass_qualitatsmonitor_underneath.png
     name: "Qualitätspass"
   nav:
     capp-learn: "Software für ein effizientes Bildungsmanagement und E-Learning"
