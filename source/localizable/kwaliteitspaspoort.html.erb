@@ -1,11 +1,11 @@
 ---
 title:
   nl: CAPP Kwaliteitspaspoort
-  de: Talentmanagement dank Qualitätspass
+  de: Talentmanagement dank Qualitätspass und Qualitätsmonitor
   en: CAPP Quality Portfolio
 description:
   nl: In één oogopslag zicht op bevoegd- en bekwaamheid met het CAPP Kwaliteitspaspoort van Defacto.
-  de: Der Qualitätspass von Defacto ist die Basis für den individuellen Entwicklungsplan der Mitarbeiter und damit für gezieltes Talentmanagement.
+  de: Der Qualitätspass und Qualitätsmonitor von Defacto ist die Basis für den individuellen Entwicklungsplan der Mitarbeiter und damit für gezieltes Talentmanagement.
   en: Get insight into the competencies and skills within your organisation at a glance with Defacto’s CAPP Quality  Portfolio.
 ---
 
@@ -38,25 +38,13 @@ description:
       <input type="text" name="name" placeholder="<%= t("form.name") %>">
       <input type="text" name="organisation" placeholder="<%= t("form.organisation") %>" required>
       <input class="required" type="email" name="email" placeholder="<%= t("form.email") %>" required>
-      <% if root_locale == :de && data.downloads.kwaliteitspaspoort_productsheet[I18n.locale] %>
-        <input type="hidden" name="download" value="<%= full_url(data.downloads.kwaliteitspaspoort_productsheet[I18n.locale]) %>">
-        <button type="submit"><%= t("actions.download_kwaliteitspaspoort") %>&nbsp;&nbsp;<span class="icon-pdf"></span></button>
+      <% if root_locale == :de && data.downloads.kwaliteitspaspoort_kwaliteitsmonitor_productsheet[I18n.locale] %>
+        <input type="hidden" name="download" value="<%= full_url(data.downloads.kwaliteitspaspoort_kwaliteitsmonitor_productsheet[I18n.locale]) %>">
+        <button type="submit"><%= t("actions.download_kwaliteitspaspoort_kwaliteitsmonitor") %>&nbsp;&nbsp;<span class="icon-pdf"></span></button>
       <% else %>
         <button type="submit"><%= t("actions.make_appointment") %></button>
       <% end %>
     </form>
-
-    <% if root_locale == :de %>
-      <form class="form-inline" accept-charset="UTF-8" action="<%= t("urls.kwaliteitspaspoort") %>" method="POST">
-        <input type="hidden" name="utf8" value="✓">
-        <input type="hidden" name="form" value="<%= t("kwaliteitspaspoort.cta_bottom.formkeep_title") %>">
-        <input type="text" name="name" placeholder="<%= t("form.name") %>">
-        <input type="text" name="organisation" placeholder="<%= t("form.organisation") %>" required>
-        <input class="required" type="email" name="email" placeholder="<%= t("form.email") %>" required>
-        <input type="hidden" name="download" value="<%= full_url(data.downloads.kwaliteitspaspoort_productsheet[I18n.locale]) %>">
-        <button type="submit"><%= t("actions.download_kwaliteitsmonitor") %>&nbsp;&nbsp;<span class="icon-pdf"></span></button>
-      </form>
-    <% end %>
 
   </div>
 </section>
