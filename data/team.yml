@@ -70,11 +70,6 @@
   email: e.kuiper@defacto.nl
   avatar: /images/team/ellie-kuiper.jpg
 
-- firstname: Esther
-  lastname: Joosten
-  email: e.joosten@defacto.nl
-  avatar: /images/team/esther-joosten.jpg
-
 - firstname: Ewoud
   lastname: Veenhuizen
   email: e.veenhuizen@defacto.nl
@@ -191,6 +186,12 @@
   email: patrick@defacto.nl
   avatar: /images/team/patrick-scharmin.jpg
 
+- firstname: Pien
+  prefix: van
+  lastname: Dalen
+  email: pien@defacto.nl
+  avatar: /images/team/pien-van-dalen.jpg
+
 - firstname: Pieter
   lastname: Kaal
   email: pieter@defacto.nl
@@ -212,12 +213,6 @@
   email: ronald@defacto.nl
   avatar: /images/team/ronald-dijkstra.jpg
 
-- firstname: Stéphanie
-  prefix: de
-  lastname: Geus
-  email: stephanie@defacto.nl
-  avatar: /images/team/stephanie-de-geus.jpg
-
 - firstname: Susan
   lastname: Apfel
   email: susan@defacto.nl
@@ -233,9 +228,3 @@
   lastname: Elsdingen
   email: wietske@defacto.nl
   avatar: /images/team/wietske-van-elsdingen.jpg
-
-- firstname: Pien
-  prefix: van
-  lastname: Dalen
-  email: pien@defacto.nl
-  avatar: /images/team/pien-van-dalen.jpg
