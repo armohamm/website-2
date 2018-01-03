@@ -19,7 +19,7 @@
 
     // Download search index and then set up search.
     $.ajax({
-      url: '/search.json',
+      url: '/search.json?v=' + data.buildDate,
       cache: true,
       method: 'GET',
       success: function (data) {

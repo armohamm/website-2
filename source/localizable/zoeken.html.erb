@@ -14,7 +14,8 @@ index: false
 <% content_tag :div, class: "js-search", data: {
   result: t("search.result"),
   results: t("search.results"),
-  read_more: t("actions.read_more")
+  read_more: t("actions.read_more"),
+  build_date: DateTime.now().to_time.to_i,
 } do %>
   <section class="gray">
     <div class="row">
