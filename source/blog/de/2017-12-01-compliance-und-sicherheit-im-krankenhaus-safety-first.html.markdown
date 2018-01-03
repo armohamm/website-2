@@ -4,7 +4,6 @@ date: 2017-12-01 8:00 CEST
 tags: Sicherheit, Compliance
 author: David
 lang: de
-featured: true
 image: images/blog/social/compliance-sicherheit-1200x630.jpg
 featured_image: images/blog/featured/20171201-compliance-sicherheit.jpg
 ---
