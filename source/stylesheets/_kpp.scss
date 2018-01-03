@@ -1,5 +1,28 @@
+.kpp-logo {
+  margin-bottom: 1em;
+  max-width: 240px;
+
+  @include media($medium-up) {
+    max-width: 300px;
+  }
+
+  body.de & {
+    max-width: 100%;
+
+    @include media($large-up) {
+      max-width: 750px;
+    }
+  }
+}
+
 .kwaliteitspaspoort {
   $color: lighten($turquoise, 5);
+
+  h1 {
+    font-family: 'Montserrat', $base-font-family;
+    font-size: 2em;
+    font-weight: 500;
+  }
 
   .hero {
     @include radial-gradient(circle at 50%,
@@ -17,28 +40,15 @@
       position: relative;
     }
 
-    .hero-inner {
-      padding: 5em 1em 0;
-
+    .hero-copy {
       img {
         display: block;
         margin: 0 auto;
-
-        &.kpp-logo {
-          margin-bottom: 2em;
-          max-width: 240px;
-
-          @include media($medium-up) {
-            max-width: 300px;
-          }
-        }
       }
     }
+  }
 
-    h1 {
-      font-family: 'Montserrat', $base-font-family;
-      font-size: 2em;
-      font-weight: 500;
-    }
+  .hero-inner {
+    padding: 5em 1em 0;
   }
 }
