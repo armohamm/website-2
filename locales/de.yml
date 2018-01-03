@@ -17,7 +17,7 @@ de:
     hosting-security: "hosting-sicherheit"
     implementaties: implementierungen
     koppelingen: schnittstellen
-    kwaliteitspaspoort: qualitatspass
+    kwaliteitspaspoort: qualitatspass-qualitatsmonitor
     kwaliteitsmonitor: qualitatsmonitor
     media: presse
     over-ons: "uber-uns"
@@ -78,7 +78,7 @@ de:
       capp-entwickeln: "Zu CAPP Entwickeln"
       more_capp-entwickeln: "Mehr zu CAPP Entwickeln"
       quality: "Zum Qualitätspass"
-      more_quality: "Mehr zum Qualitätspass"
+      more_quality: "Mehr zu Qualitätspass"
       capp-agile: "Zu CAPP Agile Learning"
       more_capp-agile: "Mehr zu CAPP Agile Learning"
       starterkit: "Mehr zum E-learning Starterkit"
@@ -291,7 +291,7 @@ de:
         title: "Bilden"
       quality:
         text_html: "Erhalten Sie eine Übersicht in die Qualifikationen Ihrer Organisation sowie Ihrem Team und erhöhen Sie so die Qualität Ihrer Gesundheitseinrichtung."
-        title: "Qualitätspass"
+        title: "Qualitätspass & Qualitätsmonitor"
   hosting:
     heading: "Hosting und Sicherheit"
   implementaties:
@@ -301,15 +301,16 @@ de:
   kwaliteitspaspoort:
     cta_bottom:
       formkeep_title: "Kwaliteitspaspoort: afspraak maken"
-      heading_md: "Endlich eine Übersicht aller Qualifikationen in Ihrer Organisation mit dem Qualitätspass?"
+      heading_md: "Endlich eine Übersicht aller Qualifikationen in Ihrer Organisation?"
     desc: "Bündeln Sie die Qualifikation, Entwicklungsstände und andere Kompetenzen Ihrer Mitarbeiter im %{link} und behalten Sie den Überblick."
     hero:
       formkeep_title: "Kwaliteitspaspoort: meer informatie"
-      text_md: "Vom Qualitätspass zum Entwicklungsplan für alle Mitarbeiter"
-      title: "Qualitätspass"
+      text_md: "Übersicht aller Qualifkationen und Entwicklungsstände der Mitarbeiter"
+      title: "Qualitätspass & Qualitätsmonitor"
       image: screenshots/hero-qualitatspass.png
-    logo: logos/qualitatspass-white.png
-    name: "Qualitätspass"
+    logo: logos/qualitatspass_qualitatsmonitor_white.png
+    logo_underneath: logos/qualitatspass_qualitatsmonitor_underneath.png
+    name: "Qualitätspass & Qualitätsmonitor"
   nav:
     capp-learn: "Software für ein effizientes Bildungsmanagement und E-Learning"
     capp-develop: "Bieten Sie nachhaltige und innovative Talententwicklung"

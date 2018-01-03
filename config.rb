@@ -92,6 +92,7 @@ when :de
   redirect "elearning-starterkit.html", to: "e-learning-starterkit.html"
   redirect "hosting.html", to: "hosting-sicherheit.html"
   redirect "kundenreferenzen.html", to: "kundenstimmen.html"
+  redirect "qualitatspass.html", to: "qualitatspass-qualitatsmonitor.html"
 when :en
   redirect "capp-11.html", to: "capp-lms.html"
   redirect "organisatie.html", to: "about-us.html"

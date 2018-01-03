@@ -1,23 +1,26 @@
 ---
 title:
   nl: CAPP Kwaliteitspaspoort
-  de: Talentmanagement dank Qualitätspass
+  de: Talentmanagement dank Qualitätspass und Qualitätsmonitor
   en: CAPP Quality Portfolio
 description:
   nl: In één oogopslag zicht op bevoegd- en bekwaamheid met het CAPP Kwaliteitspaspoort van Defacto.
-  de: Der Qualitätspass von Defacto ist die Basis für den individuellen Entwicklungsplan der Mitarbeiter und damit für gezieltes Talentmanagement.
+  de: Der Qualitätspass und Qualitätsmonitor von Defacto ist die Basis für den individuellen Entwicklungsplan der Mitarbeiter und damit für gezieltes Talentmanagement.
   en: Get insight into the competencies and skills within your organisation at a glance with Defacto’s CAPP Quality  Portfolio.
 ---
 
 <div class="hero">
-  <div class="hero-inner">
-    <div class="hero-copy">
 
-      <%= image_tag t("kwaliteitspaspoort.logo"), alt: t("kwaliteitspaspoort.name"), class: "kpp-logo" %>
+  <div class="hero-inner">
+
+    <%= image_tag t("kwaliteitspaspoort.logo"), alt: t("kwaliteitspaspoort.name"), class: "kpp-logo" %>
+
+    <div class="hero-copy">
 
       <h1><%= t("kwaliteitspaspoort.hero.text_md") %></h1>
 
       <%= image_tag t("kwaliteitspaspoort.hero.image"), title: t("kwaliteitspaspoort.name"), alt: t("kwaliteitspaspoort.name") %>
+
     </div>
   </div>
 </div>
@@ -34,8 +37,8 @@ description:
       <input type="text" name="name" placeholder="<%= t("form.name") %>">
       <input type="text" name="organisation" placeholder="<%= t("form.organisation") %>" required>
       <input class="required" type="email" name="email" placeholder="<%= t("form.email") %>" required>
-      <% if root_locale == :de && data.downloads.kwaliteitspaspoort_productsheet[I18n.locale] %>
-        <input type="hidden" name="download" value="<%= full_url(data.downloads.kwaliteitspaspoort_productsheet[I18n.locale]) %>">
+      <% if root_locale == :de && data.downloads.kwaliteitspaspoort_kwaliteitsmonitor_productsheet[I18n.locale] %>
+        <input type="hidden" name="download" value="<%= full_url(data.downloads.kwaliteitspaspoort_kwaliteitsmonitor_productsheet[I18n.locale]) %>">
         <button type="submit"><%= t("actions.download_productsheet") %>&nbsp;&nbsp;<span class="icon-pdf"></span></button>
       <% else %>
         <button type="submit"><%= t("actions.make_appointment") %></button>
