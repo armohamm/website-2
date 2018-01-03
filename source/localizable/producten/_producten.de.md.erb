@@ -22,15 +22,11 @@
 
   <li class="kwaliteitspaspoort">
     <% link_to "/kwaliteitspaspoort.html", class: "col left" do %>
-      <% if root_locale == :de %>
-        <h2><%= image_tag t("kwaliteitspaspoort.logo_underneath"), class: "kwaliteitsmonitor_integration_de", alt: t("kwaliteitspaspoort.name.de") %></h2>
-      <% else %>
-        <h2><%= image_tag t("kwaliteitspaspoort.logo"), alt: t("kwaliteitspaspoort.name") %></h2>
-      <% end %>
+      <h2><%= image_tag t("kwaliteitspaspoort.logo_underneath"), alt: t("kwaliteitspaspoort.name") %></h2>
     <% end %>
     <div class="col right">
       <p><%= t("kwaliteitspaspoort.desc", link: link_to(t("kwaliteitspaspoort.name"), "/kwaliteitspaspoort.html")) %></p>
-      <%= link_to t("actions.more_about.more_quality"), "/kwaliteitspaspoort.html", class: "button turquoise outline" %>
+      <%= link_to t("actions.more_about.quality"), "/kwaliteitspaspoort.html", class: "button turquoise outline" %>
     </div>
   </li>
 
