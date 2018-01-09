@@ -19,7 +19,7 @@
       background-color: $white;
       border: 0;
       border-radius: $base-border-radius;
-      color: $testimonial-gray;
+      color: $base-font-color;
       display: block;
       font-size: 1.1em;
       font-style: italic;
@@ -49,14 +49,6 @@
         &:last-child {
           margin-bottom: 0;
         }
-      }
-    }
-
-    a.quote {
-      color: $testimonial-gray;
-
-      &:hover {
-        color: $dark-gray;
       }
     }
 
