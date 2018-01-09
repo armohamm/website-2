@@ -259,19 +259,12 @@ nl:
   implementaties:
     heading: "Implementaties hoeven niet ingewikkeld te zijn."
   jobs:
-    hero:
-      header: "Werken bij Defacto?"
-      text: "Wij zijn altijd op zoek naar gemotiveerde mensen"
-    subheader: "Vacatures:"
-    form:
-      header: "Interesse?"
-      text: "Vul het onderstaande formulier in, dan nemen we zo snel mogelijk contact met je op."
-      apply: "Solliciteren &raquo;"
-    more:
-      header: "Meer vacatures:"
-    share:
-      share_post: "Deel deze vacature:"
     acquisition: "Let op: acquisitie op basis van deze vacature wordt niet op prijs gesteld."
+    apply: "Solliciteer nu &raquo;"
+    header: "Defacto als jouw werkgever"
+    more: "Meer vacatures:"
+    share: "Deel deze vacature:"
+    vacancies: "Vacatures:"
   koppelingen:
     heading: "Gecertificeerde koppelingen"
   kwaliteitsmonitor:

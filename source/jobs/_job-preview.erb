@@ -4,12 +4,6 @@
       <header class="job-preview-header">
         <h2 class="job-preview-title"><%= link_to article.title, article.url %></h2>
       </header>
-      <div class="job-preview-body">
-        <p>
-          <%= Nokogiri::HTML(article.summary).text %>
-          <%= link_to t("blog.read_more"), article.url, class: "read-more" %>
-        </p>
-      </div>
     </article>
   </div>
 </li>

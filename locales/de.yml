@@ -105,7 +105,7 @@ de:
       google_plus: Teile auf Google+
       linkedin: Teile auf LinkedIn
       xing: Teile auf Xing
-    subscribe: "Abonnieren Sie unseren Newsletter und bleiben Sie informiert." 
+    subscribe: "Abonnieren Sie unseren Newsletter und bleiben Sie informiert."
     tags:
       meta_description: "Blogs von Defacto im Zusammenhang mit %{tagname}"
   capp:
@@ -250,19 +250,12 @@ de:
     informal: "CAPP Agile Learning"
     product: "Ein Produkt wählen"
   jobs:
-    hero:
-      header: "Arbeiten bei Defacto"
-      text: "Sind Sie jemand mit interessanter Persönlichkeit und setzen Sie gerne Ihren Verstand ein? Bei Defacto suchen wir immer nach Menschen, die uns inspirieren."
-    subheader: "Aktuell bieten wir die folgenden offenen Stellen an:"
-    form:
-      header: "Anwenden"
-      text: "Schön, dass Sie sich bei uns bewerben wollen! Füllen Sie das Formular aus und wir werden uns so schnell wie möglich bei Ihnen melden."
-      apply: "Bewerben &raquo;"
-    more:
-      header: "Weitere Jobs:"
-    share:
-      share_post: "Teile dieses Stellenagebot:"
     acquisition: "Achtung: Keine Werbung auf diese Stellenanzeige verschicken."
+    apply: "Bewerben &raquo;"
+    header: "Defacto als Dein Arbeitgeber​"
+    more: "Weitere Jobs:"
+    share: "Teile dieses Stellenagebot:"
+    vacancies: "Stellenmarkt:"
   head:
     default_description: "Defacto hilft Unternehmen bei der Personalentwicklung und Zertifizierung von Mitarbeitern"
     default_title: "Defacto"

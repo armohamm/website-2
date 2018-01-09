@@ -12,9 +12,15 @@ index: false
 unique_for_locale: true
 ---
 
+<section class="row">
+  <div class="col">
+    <%= partial "jobs/job-text" %>
+  </div>
+</section>
+
 <section class="row jobs-overview">
   <div class="col">
-    <h2 class="jobs-list-title"><%= t("jobs.subheader") %></h2>
+    <h2><%= t("jobs.vacancies") %></h2>
     <ol class="jobs-list">
       <% page_articles.each do |article| %>
         <%= partial "jobs/job-preview", locals: { article: article } %>

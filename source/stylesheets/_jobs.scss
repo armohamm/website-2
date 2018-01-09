@@ -16,8 +16,6 @@
 
   .main {
     .row {
-      padding: 1em;
-
       p {
         @include media($medium-up) {
           font-size: $base-font-size * 1.2;
@@ -31,32 +29,13 @@
     }
   }
 
-  .job {
-    h1 {
-      margin: 0;
-    }
-
-    h2 {
-      font-size: 1.6em;
-
-      @include media($medium-up) {
-        font-size: 1.8em;
-      }
-    }
-  }
-
   .jobs-header {
     background-image: url("../images/moods/defacto-pand.jpg");
     background-position: center;
     background-size: cover;
-    padding-bottom: 1em;
-    padding-top: 1em;
+    padding-bottom: 3em;
+    padding-top: 3em;
     width: 100%;
-
-    @include media($medium-up) {
-      padding-bottom: 3em;
-      padding-top: 3em;
-    }
 
     .col {
       color: $white;
@@ -66,24 +45,12 @@
       h1 {
         font-size: $base-font-size * 1.5;
         font-weight: 700;
+        margin: 0;
 
         @include media($medium-up) {
           font-size: $base-font-size * 2.4;
         }
       }
-
-      p {
-        margin: 0;
-      }
-    }
-  }
-
-  .jobs-overview {
-    padding-bottom: 3em;
-    padding-top: 3em;
-
-    .jobs-list-title {
-      font-size: 2em;
     }
   }
 
@@ -94,17 +61,27 @@
   }
 
   .jobs-list {
-    li:first-child article {
-      padding-top: 0;
-    }
+    padding-bottom: 2em;
 
     li {
       border-bottom: $post-border 1px solid;
       padding: 2em 0 1em;
 
+      &:first-child article {
+        padding-top: 0;
+      }
+
+      &:last-child {
+        border-bottom: 0;
+      }
+
       h2 {
-        font-size: $base-font-size * 1.6;
+        font-size: $base-font-size * 1.2;
         font-weight: 700;
+
+        @include media($medium-up) {
+          font-size: $base-font-size * 1.6;
+        }
       }
     }
   }
@@ -117,22 +94,5 @@
 
   .jobs-related {
     background-color: $lightest-gray;
-  }
-
-  .job-form {
-    background: $lightest-gray;
-    margin-bottom: 3em;
-    margin-top: 3em;
-    padding: 1em;
-
-    @include media($medium-up) {
-      margin-left: -3em;
-      margin-right: -3em;
-      padding: 3em;
-    }
-
-    .form-contact {
-      max-width: none;
-    }
   }
 }

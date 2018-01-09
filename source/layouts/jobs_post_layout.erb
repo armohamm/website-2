@@ -16,19 +16,11 @@
 
     <div class="col">
 
-      <% if current_article.data.apply_link %>
-
-        <%= link_to t("jobs.form.apply"), "https://defacto.homerun.co/#{current_article.data.apply_link}/#{root_locale.to_s}/apply",
-            class: "button apply",
-            target: "_blank",
-            rel: "noopener",
-            "data-event" => "button_apply"  %>
-
-      <% else %>
-
-        <%= partial "jobs/apply-form" %>
-
-      <% end %>
+      <%= link_to t("jobs.apply"), "https://defacto.homerun.co/#{current_article.data.apply_link}/#{root_locale.to_s}/apply",
+          class: "button apply",
+          target: "_blank",
+          rel: "noopener",
+          "data-event" => "button_apply" %>
 
     </div>
 
@@ -48,7 +40,7 @@
 <section class="jobs-related">
   <div class="row">
     <div class="col">
-      <h3><%= t("jobs.more.header") %></h3>
+      <h3><%= t("jobs.more") %></h3>
       <ol class="jobs-list">
         <% (blog.articles - [current_article]).each do |article| %>
           <%= partial "jobs/job-preview", locals: { article: article } %>
