@@ -110,42 +110,6 @@ en:
         heading: "Improve your performance"
         copy: >
           Improve your and your organisation's performance. CAPP Agile Learning enables you to create a platform that is dedicated to your organisation's expertise. Performance Support made Agile; quick, effective and customised to your organisation.
-    features:
-      make_share:
-        heading: "Create & share"
-        copy: |
-          Whether you produce your own content or wish to share existing information, CAPP Agile Learning makes it all possible. Our smart editor recognises links to YouTube, graphics and other online media, and automatically converts them into videos or images within the platform.
-
-          Written content is automatically published in a sleek layout, giving your platform a uniform and professional look.
-
-          This means you only need to focus on the content while CAPP Agile Learning takes care of the layout.
-        img: screenshots/capp-agile-editor_en.png
-        img_alt: "The CAPP Agile Learning Markdown Editor"
-      up_to_date:
-        heading: "Stay up to date"
-        copy: |
-          Select the subjects that matter to you. Subscribe to relevant information and receive notifications of any content changes. This way, you will always be up to date.
-        img: "screenshots/capp-agile-up-to-date_en.png"
-        img_alt: "Always up-to-date"
-      on_demand:
-        heading: "On demand"
-        link: https://learningspaces.cappagile.com/s/pFcU-F6g-7ji_MkiQW7pYw
-        copy: |
-          Give your employees information exactly when they need it. Assign QR codes that link directly to work instructions or protocols to devices or other physical objects (try it for yourself by scanning the adjacent QR code and see how fast it works).
-
-          Use the Shared Spaces functionality to make information available without having to log on to the platform.
-
-          This ensures that every user receives the information required for optimal performance exactly when they need it, in other words: just in time.
-        img: screenshots/capp-agile-qr-code_en.png
-        img_alt: "On demand with QR-codes"
-      demand_driven:
-        heading: "Demand-driven"
-        copy: |
-          It is impossible to predict exactly which expertise will be required within an organisation. A lack of knowledge is often discovered (too) late because the need for this expertise is hidden. CAPP Agile Learning solves this problem by starting a dialogue with the users.
-
-          Our Question and Answer functionality allows employees to ask the organisation questions when they lack or cannot locate certain information. Help your staff on their way by providing an immediate answer and use their input to create extra content.
-        img: screenshots/capp-agile-questions_en.png
-        img_alt: "Demand-driven with Questions & Answers"
     form:
       heading: "Contact us"
       options:

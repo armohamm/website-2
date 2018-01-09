@@ -9,57 +9,6 @@ root_locale = (ENV["LOCALE"] ? ENV["LOCALE"].to_sym : :nl)
 # Accessible as `root_locale` in helpers and `config[:root_locale]` in templates
 set :root_locale, root_locale
 
-# Search
-activate :search do |search|
-  search.resources = ["blog/", "jobs/"]
-
-  ready do
-    pages = sitemap.resources.select do |r|
-      r.path =~ /\.html/ &&
-      r.metadata[:options][:lang] == I18n.locale &&
-      !r.path.start_with?(*search.resources) &&
-      !(r.data["index"] == false)
-    end
-
-    pages.each do |page|
-      search.resources << page.path
-    end
-  end
-
-  case root_locale
-  when :nl
-    search.language = "du"
-  when :de
-    search.language = "de"
-  when :en
-    search.language = "en"
-  end
-
-  search.fields = {
-    title:   { boost: 100, store: true, required: true },
-    content: { boost: 50, store: true },
-    url:     { index: false, store: true },
-    author:  { boost: 70 },
-    type:  { boost: 0, store: true }
-  }
-
-  search.before_index = proc do |_to_index, to_store, resource|
-    if resource.data.title.is_a?(Hash) && resource.data.title[I18n.locale]
-      to_store[:title] = resource.data.title.send(I18n.locale)
-    end
-    if resource.url.start_with?("/blog/")
-      to_store[:type] = "Blog"
-    elsif resource.url.start_with?("/jobs/")
-      to_store[:type] = t("search.vacancy")
-    else
-      to_store[:type] = t("search.page")
-    end
-    if resource.data.author.present?
-      to_store[:author] = resource.data.author
-    end
-  end
-end
-
 activate :i18n, mount_at_root: root_locale, langs: %i(nl de en)
 
 set :ga_code, "UA-6700447-1"
@@ -204,6 +153,64 @@ page "jobs/index.html", layout: :jobs_layout
 page "jobs/feed.xml", layout: false
 
 activate :directory_indexes
+
+# Search
+activate :search do |search|
+  search.resources = ["blog/", "jobs/"]
+
+  ready do
+    pages = sitemap.resources.select do |r|
+      r.path =~ /\.html/ &&
+        r.metadata[:options][:lang] == I18n.locale &&
+        !r.path.start_with?(*search.resources) &&
+        (r.data["index"] != false)
+    end
+
+    pages.each do |page|
+      search.resources << page.path
+    end
+  end
+
+  case root_locale
+  when :nl
+    search.language = "du"
+  when :de
+    search.language = "de"
+  when :en
+    search.language = "en"
+  end
+
+  search.fields = {
+    title:   { boost: 100, store: true, required: true },
+    content: { boost: 50, store: true },
+    url:     { index: false, store: true },
+    author:  { boost: 70 },
+    type:  { boost: 0, store: true }
+  }
+
+  search.before_index = proc do |_to_index, to_store, resource|
+    if resource.data.title.is_a?(Hash) && resource.data.title[I18n.locale]
+      to_store[:title] = resource.data.title.send(I18n.locale)
+    end
+
+    to_store[:type] = to_store(resource)
+
+    if resource.data.author.present?
+      to_store[:author] = resource.data.author
+    end
+  end
+end
+
+# Store content types for search
+def to_store(resource)
+  if resource.url.start_with?("/blog/")
+    "Blog"
+  elsif resource.url.start_with?("/jobs/")
+    t("search.vacancy")
+  else
+    t("search.page")
+  end
+end
 
 activate :autoprefixer do |config|
   config.browsers = ["last 3 versions", "Explorer >= 9"]
