@@ -27,12 +27,12 @@ nl:
         Laat je e-mailadres achter, dan nemen onze specialisten zo snel mogelijk contact met je op.
   about:
     about_defacto: Over Defacto
+    clients: Klanten
     contact: Contact
     heading: "Wij zijn Defacto"
     heading2: "Leren en ontwikkelen sinds 1987"
-    references: Referenties
-    press: Media
     jobs: Werken bij Defacto
+    press: Media
     team:
       work_with_us: Werken bij
       you: jij?
@@ -116,6 +116,8 @@ nl:
       img: screenshots/capp-agile-demo_nl.png
       img_alt: "Vraag een demo aan"
     testimonials_heading: "Wat onze klanten zeggen"
+  clients:
+    title: "Onze klanten"
   cmt:
     title: "In 3 stappen geen zorgen meer rondom het Convenant Medische Technologie"
     form:
@@ -270,8 +272,6 @@ nl:
     title: "CAPP Productsheet downloaden"
     heading: "Meer informatie over opleiden & leren met CAPP LMS?"
     formkeep_title: "CAPP download productsheet page"
-  references:
-    title: "Onze referenties"
   search:
     heading: Zoeken
     placeholder: Zoekopdracht

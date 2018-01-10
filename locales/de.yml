@@ -16,6 +16,7 @@ de:
     digital-hospital: "digitalisierung-im-krankenhaus"
     hosting-security: "hosting-sicherheit"
     implementaties: implementierungen
+    klanten: kunden
     koppelingen: schnittstellen
     kwaliteitspaspoort: qualitatspass-qualitatsmonitor
     kwaliteitsmonitor: qualitatsmonitor
@@ -24,7 +25,6 @@ de:
     privacy-statement: "datenschutz"
     producten: produkte
     productsheet-downloaden: "produktblatt-herunterladen"
-    referenties: referenzen
     testimonials: kundenstimmen
     themas: themen
     zoeken: suche
@@ -53,12 +53,12 @@ de:
         Geben Sie Ihre E-mail an, damit unsere Experten so schnell wie möglich Kontakt mit Ihnen aufnehmen können.
   about:
     about_defacto: "Über Defacto"
+    clients: Kunden
     contact: "Kontakt"
     heading: "Wir sind Defacto"
     heading2: "Bilden und Entwickeln seit 1987"
-    references: "Referenzen"
-    press: Presse
     jobs: Arbeiten bei Defacto
+    press: Presse
     team:
       work_with_us: "Arbeiten bei"
       you: "Sie?"
@@ -157,7 +157,8 @@ de:
       img: screenshots/capp-agile-demo_de.png
       img_alt: "Eine (Live-) Präsentation anfragen"
     testimonials_heading: "Kundenstimmen"
-    clients_heading: "Referenzen"
+  clients:
+    title: "Unsere kunden"
   cmt:
     title: "In 3 Schritten das Medizinproduktegesetz erfüllen"
     form:
@@ -325,8 +326,6 @@ de:
     title: "Mehr Informationen über Fort- und Weiterbilden mit CAPP LMS?"
     heading: "CAPP Produktblatt herunterladen"
     formkeep_title: "CAPP: download productsheet page"
-  references:
-    title: "Einige Referenzen"
   search:
     heading: Suche
     placeholder: Sucheingabe

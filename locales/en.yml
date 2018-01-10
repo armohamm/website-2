@@ -8,15 +8,15 @@ en:
   # Path translations
   paths:
     bedankt: thanks
-    producten: products
-    diensten: services
-    over-ons: "about-us"
-    kwaliteitspaspoort: "quality-portfolio"
-    implementaties: implementations
-    koppelingen: integrations
-    referenties: references
     demo-aanvragen: "request-demo"
+    diensten: services
+    implementaties: implementations
     jobs: careers
+    klanten: clients
+    koppelingen: integrations
+    kwaliteitspaspoort: "quality-portfolio"
+    over-ons: "about-us"
+    producten: products
     zoeken: search
   urls:
     contact: https://formkeep.com/f/631f058db68f
@@ -30,12 +30,13 @@ en:
     mc_newsletter: 76408ce116
   about:
     about_defacto: "About Defacto"
+    clients: Clients
     contact: Contact
     heading: "We are Defacto"
     heading2: "Learning and developing since 1987"
+    jobs: Careers
     references: References
     press: Media
-    jobs: Careers
     team:
       work_with_us: Work at
       you: you?
@@ -122,6 +123,8 @@ en:
       img_alt: "Request a demo or information"
     testimonials_heading: "Read what our customers have to say"
     clients_heading: "Our customers"
+  clients:
+    title: "Our clients"
   contact:
     heading: "Hi, nice to meet you!"
     heading2: "We’re here to help, provide you with more information and answer your questions."
@@ -248,8 +251,6 @@ en:
   productsheet_download:
     heading: "More information about training and learning with CAPP LMS?"
     title: "Download CAPP Productsheet"
-  references:
-    title: "Our references"
   search:
     heading: Search
     placeholder: Search our website

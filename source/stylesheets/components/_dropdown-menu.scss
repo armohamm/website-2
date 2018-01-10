@@ -423,7 +423,7 @@
         border-bottom: 0;
       }
 
-      &.blog-link {
+      &.mobile-link {
         @include media ($menu-desktop) {
           display: none;
         }

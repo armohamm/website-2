@@ -1,24 +1,38 @@
-.clients {
-  background-color: $lightest-gray;
-  background-image: linear-gradient(darken($lightest-gray, 2), $lightest-gray 120px);
-  padding: 4em 1em 2em;
+body.klanten_index {
   text-align: center;
 
-  .logos {
-    align-items: center;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+  h1 {
+    margin-bottom: 1.5em;
+  }
 
-    .client {
-      align-items: center;
-      display: flex;
+  .references-list {
+    > li {
+      background-color: $white;
+      height: 150px;
+      line-height: 150px;
       margin-bottom: 2em;
-      padding-left: 30px;
-      padding-right: 30px;
+      vertical-align: middle;
+
+      @include media($medium-only) {
+        @include span-columns(6);
+        @include omega(2n);
+      }
+
+      @include media($large-only) {
+        @include span-columns(3);
+        @include omega(4n);
+      }
+
+      @include media($xlarge-up) {
+        @include span-columns(2);
+        @include omega(6n);
+      }
 
       img {
-        opacity: 0.5;
+        display: inline-block;
+        max-height: 130px;
+        max-width: 80%;
+        vertical-align: middle;
       }
     }
   }

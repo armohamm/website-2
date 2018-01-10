@@ -1,0 +1,25 @@
+section.clients {
+  background-color: $lightest-gray;
+  background-image: linear-gradient(darken($lightest-gray, 2), $lightest-gray 120px);
+  padding: 4em 1em 2em;
+  text-align: center;
+
+  .logos {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    .client {
+      align-items: center;
+      display: flex;
+      margin-bottom: 2em;
+      padding-left: 30px;
+      padding-right: 30px;
+
+      img {
+        opacity: 0.5;
+      }
+    }
+  }
+}

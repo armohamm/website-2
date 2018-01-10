@@ -88,14 +88,17 @@ when :nl
   redirect "workshop-convenant-mt.html", to: "convenant-medische-technologie.html"
   redirect "blog/learningspaces-op-websummit.html", to: "/blog/capp-agile-learning-op-websummit/"
   redirect "blog/learningspaces-een-veilige-ruimte-om-te-leren-van-elkaar.html", to: "/blog/capp-agile-learning-een-veilige-ruimte-om-te-leren-van-elkaar/"
+  redirect "referenties.html", to: "klanten.html"
 when :de
   redirect "elearning-starterkit.html", to: "e-learning-starterkit.html"
   redirect "hosting.html", to: "hosting-sicherheit.html"
   redirect "kundenreferenzen.html", to: "kundenstimmen.html"
   redirect "qualitatspass.html", to: "qualitatspass-qualitatsmonitor.html"
+  redirect "referenzen.whtml", to: "kunden.html"
 when :en
   redirect "capp-11.html", to: "capp-lms.html"
   redirect "organisatie.html", to: "about-us.html"
+  redirect "references.html", to: "clients.html"
 end
 
 # Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
