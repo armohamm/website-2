@@ -16,18 +16,7 @@
       </li>
     <% end %>
 
-    <li class="you">
-
-      <% unless root_locale == :en %>
-        <% locale_link_to("/jobs/index.html") do %>
-          <div class="avatar"><%= t("about.team.you") %></div>
-          <h5>
-            <span><%= t("about.team.work_with_us") %></span>
-            <span>Defacto</span>
-          </h5>
-        <% end %>
-      <% end %>
-    </li>
+    <%= partial "over-ons/you" unless current_page.url == "/jobs/" %>
 
   </ol>
 </section>
