@@ -145,7 +145,7 @@ activate :blog do |blog|
     blog.sources = "/de/{title}.html"
   end
   blog.paginate = false
-end unless root_locale == :en
+end
 
 page "blog/*", layout: :blog_post_layout
 page "blog/tags/*", layout: :blog_layout
