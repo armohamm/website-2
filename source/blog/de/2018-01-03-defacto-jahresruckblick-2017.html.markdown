@@ -4,7 +4,6 @@ date: 2018-01-03 8:00 CEST
 tags: Defacto, Qualitätspass, Qualitätsmonitor, CAPP Agile Learning
 author: David
 lang: de
-featured: true
 image: images/blog/social/frohe-feiertage-1200x630.jpg
 featured_image: images/blog/featured/20171222-jahresruckblick-defacto.png
 ---
