@@ -4,7 +4,6 @@ date: 2017-12-22 8:00 CEST
 tags: nieuws, Defacto
 author: Susan
 lang: nl
-featured: true
 image: images/blog/social/jaaroverzicht-2017-1200x630.jpg
 featured_image: images/blog/featured/20171222-jaaroverzicht-schrijven.jpg
 ---
