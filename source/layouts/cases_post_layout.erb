@@ -1,0 +1,100 @@
+<% wrap_layout :layout do %>
+
+<article class="case">
+
+  <header class="case-header" style="background-image: url(<%= image_path(current_article.data.mood_image || "moods/defacto-pand.jpg") %>)">
+    <div class="row">
+      <div class="col">
+        <h1><%= current_article.title %></h1>
+        <h2><%= current_article.data.description %></h2>
+      </div>
+    </div>
+  </header>
+
+  <div class="row post-body">
+
+    <div class="col sidebar-content">
+      <%= yield %>
+    </div>
+
+    <div class="sidebar">
+
+      <% if current_article.data.logo %>
+        <div>
+          <%= image_tag image_path(current_article.data.logo), class: "case-logo", alt: current_page.title %>
+        </div>
+      <% end %>
+
+      <% if current_article.data.quote %>
+        <div class="case-quote">
+
+          <% if current_article.data.quote.text %>
+            <p class="case-quote-text">
+              "<%= current_article.data.quote.text %>"
+            </p>
+          <% end %>
+
+          <% if current_article.data.quote.person %>
+            <p class="case-quote-person">
+              <%= current_article.data.quote.person %>
+            </p>
+          <% end %>
+
+          <% if current_article.data.quote.position %>
+            <p class="case-quote-position">
+              <%= current_article.data.quote.position %>
+            </p>
+          <% end %>
+
+        </div>
+      <% end %>
+
+      <% if current_article.data.services %>
+        <div>
+          <h3><%= t("cases.sidebar.products") %></h3>
+          <ul class="services">
+            <% current_article.data.services.each do |service| %>
+              <li class="service">
+                <span class="icon-checkmark"></span>
+                <%= service %>
+              </li>
+            <% end %>
+          </ul>
+        </div>
+      <% end %>
+
+      <% if current_page.data.facts %>
+        <div>
+          <h3><%= t("cases.sidebar.facts.title") %></h3>
+          <dl>
+            <% if current_page.data.facts.branch %>
+              <dt><%= t("cases.sidebar.facts.branch") %></dt>
+              <dd><%= current_page.data.facts.branch %></dd>
+            <% end %>
+
+            <% if current_page.data.facts.since %>
+              <dt><%= t("cases.sidebar.facts.since") %></dt>
+              <dd><%= current_page.data.facts.since %></dd>
+            <% end %>
+
+            <% if current_page.data.facts.employees %>
+              <dt><%= t("cases.sidebar.facts.employees") %></dt>
+              <dd><%= current_page.data.facts.employees %></dd>
+            <% end %>
+
+            <% if current_page.data.facts.url %>
+              <dt><%= t("cases.sidebar.facts.website") %></dt>
+              <dd>
+                <%= link_to current_page.data.facts.url, current_page.data.facts.url, target: "_blank", rel: "noopener", title: current_page.title %>
+              </dd>
+            <% end %>
+          </dl>
+        </div>
+      <% end %>
+
+    </div>
+  </div>
+
+</article>
+
+<% end %>

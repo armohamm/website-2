@@ -1,0 +1,269 @@
+section.cases-overview {
+  h1 {
+    text-align: center;
+  }
+
+  .cases-overview-context {
+    margin: 3em auto;
+    max-width: 900px;
+    text-align: left;
+  }
+
+  .case-wrapper {
+    align-items: stretch;
+    display: flex;
+    flex-wrap: wrap;
+    margin: -5px;
+
+    .flex-item {
+      padding: 5px;
+      width: 100%;
+
+      @include media($medium-up) {
+        width: 50%;
+      }
+
+      @include media($large-up) {
+        &:nth-child(4n+1),
+        &:nth-child(4n+4) {
+          width: 60%;
+        }
+
+        &:nth-child(4n+2),
+        &:nth-child(4n+3) {
+          width: 40%;
+        }
+      }
+    }
+
+    .case {
+      align-items: center;
+      background-color: $white;
+      background-position: center;
+      background-size: cover;
+      display: flex;
+      height: 300px;
+      padding: 3em;
+      position: relative;
+      text-shadow: 0 0.25em 0.5em rgba($black, 0.25);
+
+      &::before {
+        background-color: rgba($dark-gray, 0.65);
+        content: "";
+        display: flex;
+        height: 100%;
+        left: 0;
+        position: absolute;
+        top: 0;
+        transition: background 0.15s ease-in-out;
+        width: 100%;
+        z-index: 0;
+      }
+
+      &:hover::before {
+        background-color: rgba($dark-gray, 0.4);
+      }
+    }
+
+    .case-content {
+      position: relative;
+      text-align: center;
+      width: 100%;
+      z-index: 1;
+    }
+
+    .case-logo {
+      display: block;
+      margin: 30px auto;
+      max-height: 150px;
+      max-width: 200px;
+    }
+
+    .case-description {
+      color: $white;
+      font-size: 1em;
+      margin: 1em 0;
+    }
+  }
+}
+
+.cases {
+  .case-services {
+    background: $light-gray;
+    margin: 0;
+    max-width: none;
+    padding: 0;
+    width: 100%;
+  }
+
+  .sidebar-content {
+    @include media($large-up) {
+      @include span-columns(8);
+    }
+  }
+
+  .main {
+    .row {
+      .col {
+        p {
+          @include media($medium-up) {
+            font-size: $base-font-size * 1.2;
+          }
+
+          &:first-child {
+            margin: 0 0 1.5em;
+          }
+        }
+      }
+
+      &.post-body {
+        padding: 4em 1em;
+      }
+    }
+  }
+
+  .case-header {
+    background-image: url("../images/moods/defacto.jpg");
+    background-position: center;
+    background-size: cover;
+    color: $white;
+    padding-bottom: 6em;
+    padding-top: 6em;
+    position: relative;
+    width: 100%;
+
+    &::before {
+      background-color: rgba($dark-gray, 0.65);
+      content: "";
+      display: block;
+      height: 100%;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 100%;
+      z-index: 0;
+    }
+
+    .col {
+      text-align: center;
+
+      h1 {
+        font-size: $base-font-size * 1.5;
+        font-weight: 700;
+        margin: 0;
+        text-shadow: 0 0.25em 0.5em rgba($black, 0.25);
+
+        @include media($medium-up) {
+          font-size: $base-font-size * 3;
+        }
+      }
+
+      h2 {
+        text-shadow: 0 0.25em 0.5em rgba($black, 0.25);
+      }
+    }
+  }
+
+  article {
+    margin: 0;
+    max-width: none;
+    width: 100%;
+  }
+
+  .post-body li {
+    @include media($medium-up) {
+      font-size: $base-font-size * 1.2;
+    }
+  }
+
+  .sidebar {
+    background: $white;
+    text-align: center;
+    width: 100%;
+
+    @include media($large-up) {
+      @include span-columns(4);
+      padding-top: 0;
+      text-align: left;
+    }
+
+    p {
+      font-size: $base-font-size * 1.2;
+    }
+
+    .case-logo {
+      display: block;
+      margin: 0 auto;
+      max-width: 300px;
+      width: 100%;
+    }
+
+    div {
+      margin-bottom: 2em;
+      padding: 1em 1em 3em;
+      position: relative;
+
+      &:first-child {
+        padding-top: 0;
+      }
+
+      &::after {
+        background-color: $orange;
+        bottom: 0;
+        content: "";
+        height: 3px;
+        left: 50%;
+        margin-left: -10%;
+        position: absolute;
+        width: 20%;
+      }
+
+      &:last-child::after {
+        display: none;
+      }
+    }
+
+    .case-quote {
+      p {
+        margin: 0;
+        text-align: center;
+      }
+
+      .case-quote-text {
+        font-style: italic;
+        line-height: 2em;
+        margin-bottom: 1em;
+      }
+
+      .case-quote-person {
+        font-weight: bold;
+      }
+    }
+
+    .case-person {
+      font-style: bold;
+    }
+
+    ul {
+      display: block;
+      list-style: none;
+      margin: 0 auto;
+      max-width: 400px;
+      width: 100%;
+    }
+
+    li {
+      font-size: $base-font-size;
+      list-style: none;
+      padding: 0.4em 0;
+
+      span {
+        background: $orange;
+        border-radius: 3px;
+        color: $white;
+        margin-right: 0.1em;
+        padding: 0.2em;
+      }
+    }
+  }
+}

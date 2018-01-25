@@ -38,9 +38,9 @@ ready do
   when :nl
     ignores = ["/blog/de/*", "/jobs/de/*", "/blog/en/*"]
   when :de
-    ignores = ["/blog/en/*", "/blog/nl/*", "/jobs/nl/*"]
+    ignores = ["/blog/en/*", "/blog/nl/*", "/jobs/nl/*", "/cases/*"]
   when :en
-    ignores = ["/blog/de/*", "/blog/nl/*", "/jobs/*"]
+    ignores = ["/blog/de/*", "/blog/nl/*", "/jobs/*", "/cases/*"]
   end
 
   ignores.each do |path|
@@ -147,6 +147,17 @@ activate :blog do |blog|
   blog.paginate = false
 end
 
+activate :blog do |blog|
+  blog.name = "cases"
+  blog.prefix = "cases"
+  blog.permalink = ":title"
+  case root_locale
+  when :nl
+    blog.sources = "/nl/{title}.html"
+  end
+  blog.paginate = false
+end
+
 page "blog/*", layout: :blog_post_layout
 page "blog/tags/*", layout: :blog_layout
 page "blog/index.html", layout: :blog_layout
@@ -154,6 +165,9 @@ page "blog/feed.xml", layout: false
 page "jobs/*", layout: :jobs_post_layout
 page "jobs/index.html", layout: :jobs_layout
 page "jobs/feed.xml", layout: false
+page "cases/*", layout: :cases_post_layout
+page "cases/index.html", layout: :cases_layout
+page "cases/feed.xml", layout: false
 
 activate :directory_indexes
 

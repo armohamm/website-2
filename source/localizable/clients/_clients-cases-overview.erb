@@ -1,0 +1,41 @@
+---
+blog: cases
+---
+
+<section class="cases-overview">
+  <div class="row">
+
+    <h1><%= t("cases.overview.title") %></h1>
+
+    <div class="cases-overview-context">
+      <p>
+        <%= t("cases.overview.text") %>
+      </p>
+    </div>
+
+    <div class="case-wrapper">
+
+      <% page_articles.each do |article| %>
+        <div class="flex-item">
+          <% link_to(article.url, class: "case", alt: article.title, style: "background-image: url(#{image_path(article.data.mood_image)})") do %>
+            <div class="case-content">
+              <%= image_tag image_path(article.data.logo_white), class: "case-logo", alt: article.title, title: article.title %>
+              <p class="case-description">
+                <%= article.data.description %>
+              </p>
+            </div>
+          <% end %>
+        </div>
+      <% end %>
+
+    </div>
+
+    <div class="cases-overview-context">
+      <p>
+        <%= t("cases.overview.contact_us") %>
+      </p>
+      <%= nav_link_to "Contact opnemen", "/contact.html#form", class: "button orange" %>
+    </div>
+
+  </div>
+</section>
