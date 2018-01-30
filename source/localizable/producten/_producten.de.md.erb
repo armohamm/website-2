@@ -2,20 +2,20 @@
 
   <li class="capp">
     <% link_to "/capp-lms.html", class: "col left" do %>
-      <h2><%= t("capp.name.learn") %></h2>
+      <h2><%= t("capp.name") %></h2>
     <% end %>
     <div class="col right">
-      <p><%= t("capp.desc.learn", link: link_to(t("capp.name.learn"), "/capp-lms.html")) %></p>
+      <p><%= t("capp.desc", link: link_to(t("capp.name"), "/capp-lms.html")) %></p>
       <%= link_to t("actions.more_about.more_capp-bilden"), "/capp-lms.html", class: "button blue outline" %>
     </div>
   </li>
 
   <li class="capp">
     <% link_to "/capp-entwickeln.html", class: "col left" do %>
-      <h2><%= t("capp.name.develop") %></h2>
+      <h2><%= t("capp-develop.name") %></h2>
     <% end %>
     <div class="col right">
-      <p><%= t("capp.desc.develop", link: link_to(t("capp.name.develop"), "capp-entwickeln.html")) %></p>
+      <p><%= t("capp-develop.desc", link: link_to(t("capp-develop.name"), "/capp-entwickeln.html")) %></p>
       <%= link_to t("actions.more_about.more_capp-entwickeln"), "/capp-entwickeln.html", class: "button blue outline" %>
     </div>
   </li>

@@ -113,9 +113,7 @@ de:
       formkeep_title: "CAPP: afspraak maken"
       heading_md: "Mehr Informationen über Fort- und Weiterbilden mit CAPP LMS?"
       subheading: "Produktblatt CAPP LMS herunterladen"
-    desc:
-      learn: "CAPP %{link} ist die Software für ein starkes und übersichtliches Bildungsmanagement."
-      develop: "Bieten Sie Ihren Mitarbeitern nachhaltige und innovative Talententwicklung mit CAPP %{link}."
+    desc: "%{link} ist die Software für ein starkes und übersichtliches Bildungsmanagement."
     hero:
       formkeep_title: "CAPP: download productsheet"
       text_md: "__CAPP LMS__ unterstützt Sie dabei das Können und Wissen Ihrer Mitarbeiter oder Kunden zu fördern."
@@ -123,13 +121,12 @@ de:
       subtitle_1: "Wissensintensive Organisationen brauchen gut ausgebildete Mitarbeiter."
       subtitle_2: "Befähigen und qualifizieren Sie Ihre Mitarbeiter nachweislich mit CAPP LMS."
       image: capp-lms-de.png
-      learn:
-        title: "Optimale Seminarverwaltung im Gesundheitswesen: CAPP Bilden"
-      develop:
-        title: "Ein E-Portfolio für die Personalentwicklung: CAPP Entwickeln"
-    name:
-      learn: Bilden
-      develop: Entwickeln
+    name: CAPP Bilden
+  capp-develop:
+    name: CAPP Entwickeln
+    desc: Bieten Sie Ihren Mitarbeitern nachhaltige und innovative Talententwicklung mit %{link}.
+    hero:
+      title: "Ein E-Portfolio für die Personalentwicklung: CAPP Entwickeln"
   capp-agile:
     name: CAPP Agile Learning
     desc: "Performance-Support mit CAPP Agile Learning: schnell, effektiv und genau auf Ihr Unternehmen zugeschnitten."
@@ -273,7 +270,7 @@ de:
   home:
     cta:
       button: "Termin vereinbaren"
-      email_placeholder: "E-Mail"		
+      email_placeholder: "E-Mail"
       form_submit: "vereinbaren Sie einen Termin"
       form_title: "vereinbaren Sie einen Termin"
       text_html: "Mehr Info? Rufen Sie uns an unter <a href=\"tel:+4940306988472\" class=\"phone\">040 306988472</a> oder"
