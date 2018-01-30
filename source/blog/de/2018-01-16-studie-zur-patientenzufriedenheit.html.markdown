@@ -38,7 +38,7 @@ Bei der Erstwahl von Patienten liegen erwartungsgemäß die Universitätsklinike
 
 Das der Fachkräftemangel das Gesundheitswesen vor große Herausforderungen stellt ist bereits bekannt. Jedoch sind nun auch vermehrt Patienten während ihres letzten Krankenhausaufenthalts darauf aufmerksam geworden: 25 Prozent der Befragten identifizierten die Personalverfügbarkeit als Problem. Auch die Qualität der Patientenversorgung (z.B. Essen, Zimmerausstattung, etc.) und die fehlende Empathie der behandelnden Ärzte wurden mit 18 beziehungsweise 17 Prozent bemängelt.
 
-Damit verweist die Studie direkt auf eine im Juni 2017 erschienene [Statistik der Arbeitsagentur für Arbeit](https://statistik.arbeitsagentur.de/Statischer-Content/Arbeitsmarktberichte/Fachkraeftebedarf-Stellen/Fachkraefte/BA-FK-Engpassanalyse-2017-06.pdf){:target="_blank"}{:rel="noopener"}{:title="Arbeitsagenut für Arbeit - Fachkräfteengpassanalyse"}, welche einen signifikanten Fachkräftemangel im Pflegebereich offenbarte. Demnach bedarf es inzwischen 140 Tage, um offene Stellen im Pflegebereich zu füllen.
+Damit verweist die Studie direkt auf eine im Dezember 2017 erschienene [Statistik der Arbeitsagentur für Arbeit](https://statistik.arbeitsagentur.de/Navigation/Footer/Top-Produkte/Fachkraefteengpassanalyse-Nav.html){:target="_blank"}{:rel="noopener"}{:title="Arbeitsagenut für Arbeit - Fachkräfteengpassanalyse"}, welche signifikante Engpässe der Gesundheits- und Pflegeberufe in nahezu allen Bundesländern offenlegte.
 
 ## Defacto stärkt die Qualität Ihres Hauses
 
