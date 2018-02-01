@@ -228,17 +228,18 @@ section.cases-overview {
 
       .case-quote-text {
         font-style: italic;
-        line-height: 2em;
         margin-bottom: 1em;
       }
 
       .case-quote-person {
         font-weight: bold;
       }
-    }
 
-    .case-person {
-      font-style: bold;
+      .case-quote-position {
+        color: $testimonial-gray;
+        font-size: 0.8em;
+        padding-top: 0.5em;
+      }
     }
 
     ul {
