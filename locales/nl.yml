@@ -32,7 +32,6 @@ nl:
     heading: "Wij zijn Defacto"
     heading2: "Leren en ontwikkelen sinds 1987"
     jobs: Werken bij Defacto
-    press: Media
     team:
       work_with_us: Werken bij
       you: jij?
@@ -276,8 +275,6 @@ nl:
     kwaliteitspaspoort: "Real-time inzicht in bevoegd- en bekwaamheid binnen je organisatie"
     capp-agile: "Performance support voor elke organisatie"
     threesixty: "Maak een efficiëntieslag in je HRD"
-  press:
-    heading: "Media"
   products:
     title: "Producten waar we trots op zijn"
     capp:

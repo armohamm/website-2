@@ -20,7 +20,6 @@ de:
     koppelingen: schnittstellen
     kwaliteitspaspoort: qualitatspass-qualitatsmonitor
     kwaliteitsmonitor: qualitatsmonitor
-    media: presse
     over-ons: "uber-uns"
     privacy-statement: "datenschutz"
     producten: produkte
@@ -58,7 +57,6 @@ de:
     heading: "Wir sind Defacto"
     heading2: "Bilden und Entwickeln seit 1987"
     jobs: Arbeiten bei Defacto
-    press: Presse
     team:
       work_with_us: "Arbeiten bei"
       you: "Sie?"
@@ -315,8 +313,6 @@ de:
     capp-agile: "Performance-Support für alle Unternehmen und Organisationen"
     starterkit: "Lernen Sie, eigene E-Learning Module zu erstellen"
     threesixty: "Die Sichtweisen der anderen kennen, um sich selbst weiterzuentwickeln"
-  press:
-    heading: "Presse"
   privacy-statement:
     name: "Datenschutz"
     title: "Datenschutzerklärung von Defacto Software"

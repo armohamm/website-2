@@ -36,7 +36,6 @@ en:
     heading2: "Learning and developing since 1987"
     jobs: Careers
     references: References
-    press: Media
     team:
       work_with_us: Work at
       you: you?
@@ -242,8 +241,6 @@ en:
     capp-agile: "Performance support on demand"
     starterkit: "Create your own professional e-learning content"
     threesixty: "Increase the efficiency and quality of your HRD"
-  press:
-    heading: "Media"
   products:
     title: "Products that we are proud of"
     capp:
