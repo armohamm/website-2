@@ -94,7 +94,7 @@ when :de
   redirect "hosting.html", to: "hosting-sicherheit.html"
   redirect "kundenreferenzen.html", to: "kundenstimmen.html"
   redirect "qualitatspass.html", to: "qualitatspass-qualitatsmonitor.html"
-  redirect "referenzen.whtml", to: "kunden.html"
+  redirect "referenzen.html", to: "kunden.html"
 when :en
   redirect "capp-11.html", to: "capp-lms.html"
   redirect "organisatie.html", to: "about-us.html"
