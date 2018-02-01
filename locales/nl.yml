@@ -117,6 +117,7 @@ nl:
       img_alt: "Vraag een demo aan"
     testimonials_heading: "Wat onze klanten zeggen"
   cases:
+    share: "Deel deze case:"
     sidebar:
       products: "Producten & Diensten"
       facts:

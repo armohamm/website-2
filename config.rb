@@ -561,7 +561,7 @@ helpers do
   end
 
   # Is jobs?
-  def jobs_page?(page = current_page)
+  def jobs_post?(page = current_page)
     page.url.start_with?("/jobs/")
   end
 

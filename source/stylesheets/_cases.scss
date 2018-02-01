@@ -170,12 +170,6 @@ section.cases-overview {
     width: 100%;
   }
 
-  .post-body li {
-    @include media($medium-up) {
-      font-size: $base-font-size * 1.2;
-    }
-  }
-
   .sidebar {
     background: $white;
     border-top: 1px solid $post-border;

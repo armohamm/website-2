@@ -2,7 +2,13 @@
 
 <div class="social-share">
   <div class="title">
-    <%= jobs_page? ? t("jobs.share") : t("blog.share.share_post") %>
+    <% if jobs_post? %>
+      <%= t("jobs.share") %>
+    <% elsif is_blog? %>
+      <%= t("blog.share.share_post") %>
+    <% else %>
+      <%= t("cases.share") %>
+    <% end %>
   </div>
   <ul>
     <li>

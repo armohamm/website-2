@@ -1,10 +1,11 @@
 .social-share {
-  margin: 2em 0 1em;
+  padding: 3em 0;
   text-align: center;
 
   .title {
     color: $post-meta;
-    margin-bottom: 5px;
+    font-size: $base-font-size * 1.2;
+    margin-bottom: 1em;
   }
 
   ul {
@@ -12,18 +13,17 @@
     padding: 0;
   }
 
-  li {
-    display: inline-block;
-    font-size: 24px;
-    list-style-type: none;
-    margin: 0 5px;
-  }
-
-  body.blog &,
-  body.jobs & {
+  .post-body & {
+    li {
+      display: inline-block;
+      font-size: 2em;
+      list-style-type: none;
+      margin: 0 0.2em;
+    }
 
     a {
       color: $social-share;
+      display: block;
 
       &.icon-twitter2:hover {
         color: $twitter;
