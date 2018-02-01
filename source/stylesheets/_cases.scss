@@ -178,11 +178,14 @@ section.cases-overview {
 
   .sidebar {
     background: $white;
+    border-top: 1px solid $post-border;
+    padding-top: 3em;
     text-align: center;
     width: 100%;
 
     @include media($large-up) {
       @include span-columns(4);
+      border-top: 0;
       padding-top: 0;
       text-align: left;
     }
