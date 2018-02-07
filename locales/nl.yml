@@ -177,23 +177,20 @@ nl:
     img_alt: "Pagina niet gevonden"
   footer:
     capp: "CAPP Leren & Ontwikkelen"
-    copyright_html: "Deze website is %{link}. © 1987 - %{year} Defacto"
-    open_source: "open source"
-    jobs: "Jobs"
-    country: ""
-    hiring: "Hiring!"
-    cmt: "Convenant Medische Technologie"
-    70-20-10: "70:20:10 in de praktijk"
-    search: Zoeken
-    themes: Thema's
     contact: "Contact opnemen &raquo;"
-    subscribe:
-      title: "Nieuwsbrief"
-      text: "Schrijf je nu in en blijf op de hoogte"
+    country: ""
+    copyright_html: "Deze website is %{link}. © 1987 - %{year} Defacto"
     follow:
       title: "Volg Defacto"
       text: "Volg ons via social media"
+    hiring: "Hiring!"
+    open_source: "open source"
+    search: Zoeken
     slogan: "Defacto — Developing People sinds 1987"
+    subscribe:
+      title: "Nieuwsbrief"
+      text: "Schrijf je nu in en blijf op de hoogte"
+    themes: Thema's
   form:
     email: E-mail
     message: "Wat kunnen we voor je betekenen?"

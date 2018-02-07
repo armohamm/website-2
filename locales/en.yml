@@ -171,16 +171,16 @@ en:
   footer:
     capp: "CAPP Learning & Developing"
     country: "(NL)"
-    search: "Search"
     copyright_html: "This website is %{link}. © 1987 - %{year} Defacto"
-    open_source: "open source"
-    subscribe:
-      title: "Newsletter"
-      text: "Sign up to stay up to date"
     follow:
       title: "Follow Defacto"
       text: "Follow us on social media"
+    open_source: "open source"
+    search: "Search"
     slogan: "Defacto — Developing People since 1987"
+    subscribe:
+      title: "Newsletter"
+      text: "Sign up to stay up to date"
   form:
     email: Email
     name: Name

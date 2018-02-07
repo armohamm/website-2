@@ -214,21 +214,21 @@ de:
     img_alt: "Seite nicht gefunden"
   footer:
     capp:
-      learn: "Bilden"
-      develop: "Entwickeln"
+      learn: "CAPP Bilden"
+      develop: "CAPP Entwickeln"
     copyright_html: "Diese Webseite ist %{link}. © 1987 - %{year} Defacto"
-    open_source: "Open Source"
-    hiring: "Hiring!"
-    jobs: "Jobs"
     country: "(NL)"
-    search: Suche
-    subscribe:
-      title: "Newsletter"
-      text: "Schreibe dich ein und bleibe informiert"
     follow:
       title: "Defacto folgen"
       text: "Folge uns via Social Media"
+    hiring: "Hiring!"
+    jobs: "Jobs"
+    open_source: "Open Source"
+    search: Suche
     slogan: "Defacto — Developing People seit 1987"
+    subscribe:
+      title: "Newsletter"
+      text: "Schreibe dich ein und bleibe informiert"
   form:
     email: "E-Mail"
     message: "Wie können wir Ihnen helfen?"
@@ -319,8 +319,8 @@ de:
   products:
     title: "Produkte, auf die wir stolz sind"
     capp:
-      learn: "Bilden"
-      develop: "Entwickeln"
+      learn: "CAPP Bilden"
+      develop: "CAPP Entwickeln"
   productsheet_download:
     title: "Mehr Informationen über Fort- und Weiterbilden mit CAPP LMS?"
     heading: "CAPP Produktblatt herunterladen"
