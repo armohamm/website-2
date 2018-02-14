@@ -4,7 +4,6 @@ date: 2018-01-16 8:00 CEST
 tags: Studie, Qualität, Gesundheitswesen, Fachkräftemangel
 author: David
 lang: de
-featured: true
 image: images/blog/social/patientenzufriedenheit-1200x630.jpg
 featured_image: images/blog/featured/20180116-patientenzufriedenheit.png
 ---
