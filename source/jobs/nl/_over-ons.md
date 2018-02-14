@@ -4,7 +4,7 @@
 * Een lunch die voor je geregeld wordt
 * Een competitief salaris
 * Een gunstige Bring Your Own Device-regeling
-* Ruime opleidingsmogelijkheden en -budget, waaronder trips naar conferenties (zoals ElixirConf)
+* Ruime opleidingsmogelijkheden en -budget
 * Ruimte voor eigen initiatief
 * Een omgeving die leren en kennisdeling stimuleert
 
