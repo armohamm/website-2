@@ -21,7 +21,7 @@ de:
     kwaliteitspaspoort: qualitatspass-qualitatsmonitor
     kwaliteitsmonitor: qualitatsmonitor
     over-ons: "uber-uns"
-    privacy-statement: "datenschutz"
+    privacy-policy: "datenschutz"
     producten: produkte
     productsheet-downloaden: "produktblatt-herunterladen"
     testimonials: kundenstimmen
@@ -313,9 +313,8 @@ de:
     capp-agile: "Performance-Support für alle Unternehmen und Organisationen"
     starterkit: "Lernen Sie, eigene E-Learning Module zu erstellen"
     threesixty: "Die Sichtweisen der anderen kennen, um sich selbst weiterzuentwickeln"
-  privacy-statement:
+  privacy-policy:
     name: "Datenschutz"
-    title: "Datenschutzerklärung von Defacto Software"
   products:
     title: "Produkte, auf die wir stolz sind"
     capp:

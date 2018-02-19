@@ -273,6 +273,8 @@ nl:
     kwaliteitspaspoort: "Real-time inzicht in bevoegd- en bekwaamheid binnen je organisatie"
     capp-agile: "Performance support voor elke organisatie"
     threesixty: "Maak een efficiëntieslag in je HRD"
+  privacy-policy:
+    name: "Privacy Policy"
   products:
     title: "Producten waar we trots op zijn"
     capp:
