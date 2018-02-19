@@ -31,7 +31,6 @@ Als Software Developer arbeitest du in unserem facettenreichen Team an den versc
 
 * Einen spannenden Arbeitsbereich in einem hoch motivierten Team mit flachen Hierarchien
 * Eigenverantwortliche, herausfordernde Aufgaben
-* Luft, Liebe, Leben und Arbeiten in Groningen
 
 [Unsere GitHub Profil](https://github.com/DefactoSoftware/){:target="_blank"}.
 
