@@ -1,5 +1,6 @@
-.social-share {
-  padding: 3em 0;
+section.social-share {
+  padding-bottom: 3em;
+  padding-top: 2em;
   text-align: center;
 
   .title {
@@ -13,37 +14,35 @@
     padding: 0;
   }
 
-  .post-body & {
-    li {
-      display: inline-block;
-      font-size: 2em;
-      list-style-type: none;
-      margin: 0 0.2em;
+  li {
+    display: inline-block;
+    font-size: 2em;
+    list-style-type: none;
+    margin: 0 0.2em;
+  }
+
+  a {
+    color: $social-share;
+    display: block;
+
+    &.icon-twitter2:hover {
+      color: $twitter;
     }
 
-    a {
-      color: $social-share;
-      display: block;
+    &.icon-facebook:hover {
+      color: $facebook;
+    }
 
-      &.icon-twitter2:hover {
-        color: $twitter;
-      }
+    &.icon-google-plus:hover {
+      color: $google-plus;
+    }
 
-      &.icon-facebook:hover {
-        color: $facebook;
-      }
+    &.icon-linkedin2:hover {
+      color: $linkedin;
+    }
 
-      &.icon-google-plus:hover {
-        color: $google-plus;
-      }
-
-      &.icon-linkedin2:hover {
-        color: $linkedin;
-      }
-
-      &.icon-xing:hover {
-        color: $xing;
-      }
+    &.icon-xing:hover {
+      color: $xing;
     }
   }
 
