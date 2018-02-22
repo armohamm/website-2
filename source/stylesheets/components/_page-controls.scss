@@ -1,0 +1,55 @@
+section.page-controls {
+  padding: 4em 0;
+
+  .page-control-wrapper {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .page-control {
+    display: block;
+    flex-shrink: 0;
+    padding: 0.8em 0;
+    width: 50%;
+
+    @include media($medium-up) {
+      font-size: $base-font-size * 1.2;
+      width: auto;
+    }
+
+    .control-label {
+      color: $post-meta;
+
+      i {
+        font-size: $base-font-size * 0.75;
+      }
+    }
+
+    &:hover .control-label {
+      color: darken($post-meta, 15%);
+    }
+
+    &.page-control-next {
+      border-left: 0;
+      padding-left: 2em;
+      text-align: right;
+
+      @include media($medium-up) {
+        border-left: 1px solid $light-gray;
+      }
+    }
+
+    &.page-control-prev {
+      border-right: 1px solid $light-gray;
+      padding-right: 2em;
+      text-align: left;
+    }
+
+    h4 {
+      font-size: $base-font-size * 1.2;
+      font-weight: 700;
+      margin: 0;
+    }
+  }
+}
