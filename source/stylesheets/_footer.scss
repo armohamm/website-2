@@ -21,22 +21,6 @@
     max-width: 1500px;
   }
 
-  .badge {
-    background: $orange;
-    border-radius: 10px;
-    bottom: 50%;
-    color: $white;
-    display: inline-block;
-    font-size: $base-font-size * 0.625;
-    font-weight: 600;
-    left: 100%;
-    letter-spacing: 0.5px;
-    padding: 0.2em 0.5em;
-    position: absolute;
-    text-align: center;
-    white-space: nowrap;
-  }
-
   .footer-main {
     border-bottom: 1px solid $gray-menu;
 
