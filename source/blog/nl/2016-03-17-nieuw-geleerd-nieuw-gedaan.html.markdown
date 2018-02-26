@@ -28,7 +28,7 @@ Brief werd e-mail, de encyclopedie werd vervangen door een cd-rom van Encarta en
 
 Dit wil niet zeggen dat dit geen belangrijke stappen zijn geweest om te zetten, maar dit is niet de revolutie waar ik naar op zoek ben. De echte revolutie begint pas wanneer analoge processen worden aangepast aan de mogelijkheden die een digitale wereld biedt.
 
-E-mail werd Facebook, [Yammer](https://www.yammer.com/){:target="_blank"} of [HipChat](https://www.hipchat.com/){:target="_blank"}. Encarta werd Wikipedia. Dit zijn in mijn ogen de echte revoluties. Apps als Facebook en websites als Wikipedia hebben weliswaar nog steeds voor een groot deel hetzelfde doel als hun voorgangers, maar gebruiken de mogelijkheden van de digitale wereld die in de analoge wereld niet bestonden. Zo zetten ze een volgende stap.
+E-mail werd Facebook, Yammer of HipChat. Encarta werd Wikipedia. Dit zijn in mijn ogen de echte revoluties. Apps als Facebook en websites als Wikipedia hebben weliswaar nog steeds voor een groot deel hetzelfde doel als hun voorgangers, maar gebruiken de mogelijkheden van de digitale wereld die in de analoge wereld niet bestonden. Zo zetten ze een volgende stap.
 
 Waar de encyclopedie per wijziging opnieuw uitgegeven diende te worden, gebruikt Wikipedia de mogelijkheid om iedereen toegang te geven om kennis te halen, maar ook te brengen, *up-to-date* te houden en te reviewen. In plaats van drie experts in een kamertje heb je nu dus de totale wereldpopulatie aan kennis tot je beschikking, op een plek.
 
