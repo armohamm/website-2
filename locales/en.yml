@@ -157,6 +157,7 @@ en:
     formkeep_title_popup: "E-book download popup"
     heading_html: "Get our <span class=\"pre\">E-Learning</span> Handbook for free"
     image_alt: "E-Learning Handbook Learn & Let Learn"
+    close_alt: "Close"
   elearning_starterkit:
     desc: "Create your own content with the E-Learning Starterkit. Save time and money by designing the E-Learning content that suits your individual needs and organisational requirements."
     hero:
