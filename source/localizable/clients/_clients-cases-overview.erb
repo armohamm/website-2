@@ -15,7 +15,15 @@ blog: cases
 
     <div class="case-wrapper">
 
-      <% page_articles.each do |article| %>
+      <%
+      articles = page_articles
+
+      if defined?(count) && count.is_a?(Integer)
+        articles = articles.take(count)
+      end
+      %>
+
+      <% articles.each do |article| %>
         <div class="flex-item">
           <% link_to(article.url, class: "case", alt: article.title, style: "background-image: url(#{image_path(article.data.mood_image)})") do %>
             <div class="case-content">
@@ -34,7 +42,13 @@ blog: cases
       <p>
         <%= t("cases.overview.contact_us") %>
       </p>
-      <%= nav_link_to "Contact opnemen", "/contact.html#form", class: "button orange" %>
+
+      <% unless current_page.url == "/cases/" %>
+        <%= nav_link_to t("cases.all_cases"), "/cases/", class: "button orange outline" %>
+      <% end %>
+
+      <%= nav_link_to t("cases.contact"), "/contact.html#form", class: "button orange" %>
+
     </div>
 
   </div>

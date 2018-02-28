@@ -11,7 +11,7 @@ blog: cases
 ---
 
 <% if root_locale == :nl %>
-  <%= partial "clients/clients-cases-overview" %>
+  <%= partial "clients/clients-cases-overview", locals: { count: 2 } %>
 <% end %>
 
 <%= partial "partials/featured-testimonial" %>

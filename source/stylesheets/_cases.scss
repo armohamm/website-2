@@ -7,6 +7,14 @@ section.cases-overview {
     margin: 3em auto;
     max-width: 900px;
     text-align: left;
+
+    .button {
+      margin: 0;
+
+      @include media($medium-up) {
+        margin-right: 0.4em;
+      }
+    }
   }
 
   .case-wrapper {
@@ -21,6 +29,10 @@ section.cases-overview {
 
       @include media($medium-up) {
         width: 50%;
+
+        &:nth-child(4n+3):last-child {
+          width: 100%;
+        }
       }
 
       @include media($large-up) {

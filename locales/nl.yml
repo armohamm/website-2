@@ -119,6 +119,8 @@ nl:
   cases:
     next: "Volgende case"
     previous: "Vorige case"
+    all_cases: "Alle cases"
+    contact: "Contact opnemen"
     share: "Deel deze case:"
     sidebar:
       products: "Producten & Diensten"
