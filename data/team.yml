@@ -105,6 +105,11 @@
   email: j.lulof@defacto.nl
   avatar: /images/team/jan-lulof.jpg
 
+- firstname: Jeroen
+  lastname: Dijkhuis
+  email: jeroen@defacto.nl
+  avatar: /images/team/jeroen-dijkhuis.jpg
+
 - firstname: Joep
   lastname: Lenglet
   email: j.lenglet@defacto.nl
@@ -202,6 +207,12 @@
   lastname: Bakker
   email: t.bakker@defacto.nl
   avatar: /images/team/tim-bakker.jpg
+
+- firstname: Vincent
+  prefix: van
+  lastname: Trigt
+  email: vincent@defacto.nl
+  avatar: /images/team/vincent-van-trigt.jpg
 
 - firstname: Wietske
   prefix: van
