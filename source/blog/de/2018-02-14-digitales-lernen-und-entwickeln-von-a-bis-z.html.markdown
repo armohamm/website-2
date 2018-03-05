@@ -4,7 +4,6 @@ date: 2018-02-14 8:00 CEST
 tags: Lernen, E-Learning, Lernumgebung, Talent Management
 author: David
 lang: de
-featured: true
 image: images/blog/social/digitales-lernen-und-entwickeln-a-z-1200x630.jpg
 featured_image: images/blog/featured/20180209-digitales-lernen-und-entwickeln-a-z.jpg
 ---
