@@ -71,11 +71,6 @@ $(function () {
 
       // Open download
       window.open($downloadInput.val(), '_blank');
-
-      // Hide ebook popup
-      if (downloadUrl === '<%= full_url(data.downloads.ebook[I18n.locale]) %>') {
-        Defacto.popup.hide($('#js-popup-ebook'), Defacto.popup.cookieExpiresOnSubmit);
-      }
     }
   });
 });

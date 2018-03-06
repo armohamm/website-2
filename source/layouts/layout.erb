@@ -49,7 +49,6 @@
 
     <%= partial "partials/footer" %>
     <%= partial "partials/organization_schema" if root_url? %>
-    <%= partial "partials/popup-ebook" if !is_blog? && current_page.data.popup != false && data.downloads.ebook[I18n.locale] %>
     <%= javascript_include_tag "jquery", "all" %>
     <%= javascript_include_tag "search" if current_page.locale_root_path =~ /zoeken.html/ %>
     <% if current_page.locale_root_path =~ /contact.html/ %>
