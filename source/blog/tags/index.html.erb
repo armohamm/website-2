@@ -14,7 +14,6 @@ index: false
     <h2>Tags</h2>
 
     <% blog.tags.sort{ |a,b| a.to_s.downcase <=> b.to_s.downcase }.each do |tag, articles| %>
-
       <ol>
         <h3>Tag: <%= link_to tag, tag_path(tag) %></h3>
         <% articles.each do |article| %>
