@@ -1,5 +1,10 @@
 section.page-controls {
-  padding: 4em 0;
+  padding-bottom: 2em;
+  padding-top: 0;
+
+  @include media($medium-up) {
+    padding: 4em 0;
+  }
 
   .page-control-wrapper {
     align-items: center;

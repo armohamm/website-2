@@ -1,7 +1,11 @@
 section.social-share {
-  padding-bottom: 3em;
-  padding-top: 2em;
+  padding-bottom: 2em;
+  padding-top: 0;
   text-align: center;
+
+  @include media($medium-up) {
+    padding-top: 2em;
+  }
 
   .title {
     color: $post-meta;

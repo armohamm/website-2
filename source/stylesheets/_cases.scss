@@ -222,6 +222,10 @@ section.cases-overview {
         padding-top: 0;
       }
 
+      &:last-child {
+        padding-bottom: 0;
+      }
+
       &::after {
         background-color: $orange;
         bottom: 0;
