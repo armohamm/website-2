@@ -26,10 +26,10 @@ Dan de hoofdakte: ElixirConf. Dinsdag en woensdag hebben we verschillende worksh
 
 De workshops die we hebben bijgewoond waren:
 
-- [OTP Supervision Trees](https://elixirconf.com/speakers#fish){:target="_blank"}{:rel="noopener"}{:title="OTP Supervision"}
-- [Debugging Elixir](https://elixirconf.com/speakers#gawronski){:target="_blank"}{:rel="noopener"}{:title="Debugging Elixir"}
-- [Phoenix Channels](https://elixirconf.com/speakers#mccord){:target="_blank"}{:rel="noopener"}{:title="Phoenix Channels"}
-- [Building GraphQL API's](https://elixirconf.com/speakers#williams){:target="_blank"}{:rel="noopener"}{:title="Building GraphQL API's"}
+- OTP Supervision Trees
+- Debugging Elixir
+- Phoenix Channels
+- Building GraphQL API's
 
 Na de tweedaagse training begon de daadwerkelijke conferentie. Veel interessante praatjes stonden op de planning, te veel om allemaal bij te kunnen wonen. Het kwam ons dus goed van pas dat we met z'n zessen waren, zodat we onze aanwezigheid konden verdelen. We hebben lezingen bijgewoond over de aankomende versies van Elixir en Phoenix, gehouden door hun respectievelijke bedenkers. Lezingen over Nerves ([check hier!](http://nerves-project.org){:target="_blank"}{:rel="noopener"}{:title="Nerves"}), lezingen over het toepassen van Elixir en Phoenix in de zorg, lezingen over best practices en specifiek interessant voor ons: een praatje over de ervaringen en lessen na 2 jaar ontwikkelen in Elixir en Phoenix. Een overdaad aan interessante presentaties, je kunt ze gelukkig [terugkijken](https://www.youtube.com/channel/UC0l2QTnO1P2iph-86HHilMQ/videos){:target="_blank"}{:rel="noopener"}{:title="ElixirConf YouTube kanaal"}.
 
