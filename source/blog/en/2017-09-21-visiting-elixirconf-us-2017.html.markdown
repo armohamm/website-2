@@ -22,10 +22,10 @@ While recovering from jetlag we had some spare time on our hands to explore the 
 Onto the main act: ElixirConf. Tuesday and Wednesday our group attended a variety of workshops. The workshops overall had great content, awesome exercises and good trainers. Hell, if you get trained in stuff from Phoenix by the creator of Phoenix than we would say thats pretty good!
 The workshops we attended talked about:
 
-- [OTP Supervision Trees](https://elixirconf.com/speakers#fish){:target="_blank"}{:rel="noopener"}{:title="OTP Supervision Trees"}
-- [Debugging Elixir](https://elixirconf.com/speakers#gawronski){:target="_blank"}{:rel="noopener"}{:title="Debugging Elixir"}
-- [Phoenix Channels](https://elixirconf.com/speakers#mccord){:target="_blank"}{:rel="noopener"}{:title="Phoenix Channels"}
-- [Building GraphQL API's](https://elixirconf.com/speakers#williams){:target="_blank"}{:rel="noopener"}{:title="Building GraphQL API's"}
+- OTP Supervision Trees
+- Debugging Elixir
+- Phoenix Channels
+- Building GraphQL API's
 
 After the two days of training the conference part started. There were loads of interesting talks, really too much to attend them all. Good thing there were with six of us, so we could divide our attention. We saw talks about future releases of Elixir and Phoenix by their creators, about Nerves ([look into it!](http://nerves-project.org){:target="_blank"}{:rel="noopener"}{:title="Nerves"}), applying Elixir and Phoenix in healthcare, best practices with Elixir and especially interesting to us: a talk about lessons learned after two years of development with Phoenix and Elixir. A plethora of interesting talks, all recorded and can be [found here](https://www.youtube.com/channel/UC0l2QTnO1P2iph-86HHilMQ/videos){:target="_blank"}{:rel="noopener"}{:title="ElixirConf YouTube channel"}.
 

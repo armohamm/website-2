@@ -21,10 +21,10 @@ Während wir uns nach unserer Ankunft vom Jetlag erholten, hatten wir etwas Zeit
 
 Nun zur Veranstaltung selbst, die ElixirConf. Am Dienstag und Mittwoch besuchte unsere Gruppe eine Vielzahl von Workshops. Diese boten insgesamt spannende Inhalte, tolle Übungen und motivierte Trainer. Es ist einfach was ganz anderes, wenn man in Phoenix von dem Schöpfer von Phoenix trainiert wird. Daher sagen wir: Hut ab, das war alles echt ziemlich  interessant! Hier eine Übersicht über die Workshops, an denen wir die Tage über teilnahmen:
 
-- [OTP Supervision Trees](https://elixirconf.com/speakers#fish){:target="_blank"}{:rel="noopener"}{:title="OTP Supervision Trees"}
-- [Debugging Elixir](https://elixirconf.com/speakers#gawronski){:target="_blank"}{:rel="noopener"}{:title="Debugging Elixir"}
-- [Phoenix Channels](https://elixirconf.com/speakers#mccord){:target="_blank"}{:rel="noopener"}{:title="Phoenix Channels"}
-- [Building GraphQL API's](https://elixirconf.com/speakers#williams){:target="_blank"}{:rel="noopener"}{:title="Building GraphQL API's"}
+- OTP Supervision Trees
+- Debugging Elixir
+- Phoenix Channels
+- Building GraphQL API's
 
 Nach den zwei Trainingstagen begann dann der Konferenzteil der Veranstaltung. Dabei gab es eine Umenge an interessanten Vorträgen, so viele, dass es unmöglich war, sie alle zu besuchen. Ein Glück waren wir daher eine Gruppe von sechs Leuten, sodass wir uns untereinander aufteilen und über die jeweiligen Vorträge austauschen konnten. So konnten wir spannende Einblicke über die zukünftigen Versionen von Elixir und Phoenix von den jeweiligen Schöpfern erhaschen. Zusätzlich haben wir etwas über Nerve ([hier klicken!](http://nerves-project.org){:target="_blank"}{:rel="noopener"}{:title="Nerves"}) gelernt, Anwendungsmöglichkeiten von Elixir und Phoenix im Gesundheitswesen erfahren, Best Practices mit Elixir kennengelernt und besonders interessant für uns: Ein Gespräch über Erfahrungen und Anwenderfehler nach zwei Jahren der Entwicklung mit Phoenix und Elixir. Eine Übersicht von den Präsentationen können Sie [hier finden](https://www.youtube.com/channel/UC0l2QTnO1P2iph-86HHilMQ/videos){:target="_blank"}{:rel="noopener"}{:title="ElixirConf YouTube channel"}.
 
