@@ -3,7 +3,7 @@ author = blog_author(article)
 author_name = author ? blog_author_name(author) : article.data.author
 %>
 
-<div class="post-meta">
+<div class="blog-meta">
   <span class="author-name"><%= author_name %></span>
   <time datetime="<%= article.date.strftime("%F") %>">
     <%= I18n.l(article.date, format: :blog_date) %>

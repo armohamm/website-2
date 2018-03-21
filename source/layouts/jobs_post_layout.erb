@@ -1,27 +1,29 @@
 <% wrap_layout :layout do %>
 
-<article class="job">
-  <header class="jobs-header" style="background-image: url(<%= image_path(current_article.data.header_image || "moods/defacto-pand.jpg") %>)">
+<article class="post">
+
+  <header class="post-header" style="background-image: url(<%= image_path(current_article.data.mood_image || "moods/defacto-pand.jpg") %>)">
     <div class="row">
-      <div class="col">
-        <h1><%= current_article.title %></h1>
-      </div>
+
+      <h1>
+        <%= t("jobs.title") %> <%= current_article.title %>
+      </h1>
+
     </div>
   </header>
 
   <div class="row post-body">
+
     <div class="col">
       <%= yield %>
     </div>
 
     <div class="col">
-
       <%= link_to t("jobs.apply"), "https://defacto.homerun.co/#{current_article.data.apply_link}/#{root_locale.to_s}/apply",
           class: "button apply",
           target: "_blank",
           rel: "noopener",
           "data-event" => "button_apply" %>
-
     </div>
 
     <div class="col">
@@ -31,17 +33,22 @@
     </div>
 
   </div>
+
 </article>
 
 <%= partial "partials/social-share" %>
 
-<section class="jobs-related">
+<section class="related-posts">
   <div class="row">
     <div class="col">
-      <h3><%= t("jobs.more") %></h3>
-      <ol class="jobs-list">
+      <h3>
+        <%= t("jobs.more") %>
+      </h3>
+      <ol class="post-list">
         <% (blog.articles - [current_article]).each do |article| %>
-          <%= partial "jobs/job-preview", locals: { article: article } %>
+          <li>
+            <%= partial "jobs/job-preview", locals: { article: article } %>
+          </li>
         <% end %>
       </ol>
     </div>

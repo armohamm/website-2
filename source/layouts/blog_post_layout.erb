@@ -1,12 +1,16 @@
 <% wrap_layout :layout do %>
 
 <article class="post">
-  <header class="blog-header">
+
+  <header class="post-header" style="background-image: url(<%= image_path(current_article.data.mood_image || "moods/defacto.jpg") %>)">
     <div class="row">
-      <div class="col">
-        <h1><%= current_article.title %></h1>
-        <%= partial "blog/blog-article-meta", locals: { article: current_article } %>
-      </div>
+
+      <h1>
+        <%= current_article.title %>
+      </h1>
+
+      <%= partial "blog/blog-article-meta", locals: { article: current_article } %>
+
     </div>
   </header>
 
@@ -34,22 +38,28 @@
       </div>
     </div>
   </footer>
+
 </article>
 
 <%= partial "partials/social-share" %>
 
-<section class="post-related gray">
+<section class="related-posts">
   <div class="row">
-    <h3><%= t("blog.more_articles") %></h3>
+    <div class="col">
 
-    <ol class="blog-list">
-      <% (blog.articles - [current_article])[0...5].each do |article| %>
-        <li>
-          <%= partial "blog/blog-article-preview", locals: {article: article} %>
-        </li>
-      <% end %>
-    </ol>
+      <h3>
+        <%= t("blog.more_articles") %>
+      </h3>
 
+      <ol class="post-list">
+        <% (blog.articles - [current_article])[0...5].each do |article| %>
+          <li>
+            <%= partial "blog/blog-article-preview", locals: { article: article } %>
+          </li>
+        <% end %>
+      </ol>
+
+    </div>
   </div>
 </section>
 

@@ -1,12 +1,10 @@
 <% wrap_layout :layout do %>
 
-  <section class="jobs-header">
+  <header class="post-header" style="background-image: url(<%= image_path(current_page.data.mood_image || "moods/defacto-pand.jpg") %>)">
     <div class="row">
-      <div class="col">
-        <h1><%= t("jobs.header") %></h1>
-      </div>
+      <h1><%= t("jobs.header") %></h1>
     </div>
-  </section>
+  </header>
 
   <%= yield %>
 

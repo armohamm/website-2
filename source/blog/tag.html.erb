@@ -11,7 +11,8 @@ index: false
 <% content_for :page_title, "Tag: #{tagname} - Blog - Defacto" %>
 <% content_for :meta_description, t("blog.tags.meta_description", tagname: tagname) %>
 
-<section class="row tags">
+<section class="tags">
+  <div class="row">
 
     <h2>Tag: <%= tagname %></h2>
 
@@ -25,4 +26,5 @@ index: false
 
     <%= partial "blog/pagination", locals: current_page.metadata[:locals] %>
 
+  </div>
 </section>

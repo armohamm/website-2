@@ -1,0 +1,38 @@
+<section class="page-controls">
+  <div class="row">
+
+    <div class="page-control-wrapper">
+
+      <%
+      prev_article = current_article.previous_article || blog.articles.first
+      next_article = current_article.next_article || blog.articles.last
+      %>
+
+      <% if prev_article %>
+        <a href="<%= prev_article.url %>" class="page-control page-control-prev" rel="prev" title="<%= prev_article.title %>">
+          <span class="control-label">
+            <i class="icon-chevron-left"></i>
+              <%= t("cases.previous") %>
+          </span>
+          <h4 class="control-title">
+            <%= prev_article.title %>
+          </h4>
+        </a>
+      <% end %>
+
+      <% if next_article %>
+        <a href="<%= next_article.url %>" class="page-control page-control-next" rel="next" title="<%= next_article.title %>">
+          <span class="control-label">
+            <%= t("cases.next") %>
+            <i class="icon-chevron-right"></i>
+          </span>
+          <h4 class="control-title">
+            <%= next_article.title %>
+          </h4>
+        </a>
+      <% end %>
+
+    </div>
+
+  </div>
+</section>

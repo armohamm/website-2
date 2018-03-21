@@ -1,98 +1,22 @@
-.jobs {
-  a {
-    color: $blog-link-color;
-    text-decoration: none;
-
-    &:active,
-    &:focus,
-    &:hover {
-      color: darken($blog-link-color, 15%);
-    }
-
-    &.apply {
-      color: $white;
-    }
+body.jobs {
+  .col {
+    margin: 0 auto;
+    max-width: 960px;
   }
 
-  .main {
-    .row {
-      p {
-        @include media($medium-up) {
-          font-size: $base-font-size * 1.2;
-        }
-      }
-    }
+  .jobs-text {
+    padding: 2em 0;
 
-    .col {
-      margin: 0 auto;
-      max-width: 960px;
-    }
-  }
-
-  .jobs-header {
-    background-image: url("../images/moods/defacto-pand.jpg");
-    background-position: center;
-    background-size: cover;
-    padding-bottom: 3em;
-    padding-top: 3em;
-    width: 100%;
-
-    .col {
-      color: $white;
-      max-width: 800px;
-      text-align: center;
-
-      h1 {
-        font-size: $base-font-size * 1.5;
-        font-weight: 700;
-        margin: 0;
-
-        @include media($medium-up) {
-          font-size: $base-font-size * 2.4;
-        }
-      }
-    }
-  }
-
-  article {
-    margin: 0;
-    max-width: none;
-    width: 100%;
-  }
-
-  .jobs-list {
-    padding-bottom: 2em;
-
-    li {
-      border-bottom: $post-border 1px solid;
-      padding: 2em 0 1em;
-
-      &:first-child article {
-        padding-top: 0;
-      }
-
-      &:last-child {
-        border-bottom: 0;
-      }
-
-      h2 {
-        font-size: $base-font-size * 1.2;
-        font-weight: 700;
-
-        @include media($medium-up) {
-          font-size: $base-font-size * 1.6;
-        }
-      }
-    }
-  }
-
-  .post-body .col li {
     @include media($medium-up) {
       font-size: $base-font-size * 1.2;
     }
   }
 
-  .jobs-related {
-    background-color: $lightest-gray;
+  .jobs-overview {
+    padding: 0;
+  }
+
+  h2 {
+    margin: 0;
   }
 }

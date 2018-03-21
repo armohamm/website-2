@@ -5,6 +5,23 @@
     display: flex;
   }
 
+  a {
+    color: $blog-link-color;
+    text-decoration: none;
+    transition: color 0.1s linear;
+
+    &:active,
+    &:focus,
+    &:hover {
+      color: darken($blog-link-color, 15%);
+    }
+  }
+
+  h2 {
+    font-size: $base-font-size * 1.6;
+    font-weight: 700;
+  }
+
   .col {
     &.left {
       margin-bottom: 1em;
@@ -23,30 +40,21 @@
 
     &.right {
       @include media($large-up) {
+        align-items: center;
         flex: 1;
       }
 
       article {
         max-width: none;
         width: 100%;
+      }
 
-        .post-title {
+      p {
+        font-size: $base-font-size;
+        margin: 1.25em 0;
+
+        @include media($medium-up) {
           font-size: $base-font-size * 1.2;
-          font-weight: 700;
-          text-align: left;
-
-          @include media($medium-up) {
-            font-size: $base-font-size * 1.6;
-          }
-        }
-
-        p {
-          font-size: $base-font-size;
-          margin: 1.25em 0;
-
-          @include media($medium-up) {
-            font-size: $base-font-size * 1.2;
-          }
         }
       }
     }

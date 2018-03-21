@@ -11,20 +11,28 @@ index: false
 unique_for_locale: true
 ---
 
-<section class="row">
-  <div class="col">
-    <%= partial "jobs/job-text" %>
+<section class="jobs-text">
+  <div class="row">
+    <div class="col">
+      <%= partial "jobs/jobs-text" %>
+    </div>
   </div>
 </section>
 
-<section class="row jobs-overview">
-  <div class="col">
-    <h2><%= t("jobs.vacancies") %></h2>
-    <ol class="jobs-list">
-      <% page_articles.each do |article| %>
-        <%= partial "jobs/job-preview", locals: { article: article } %>
-      <% end %>
-    </ol>
+<section class="jobs-overview">
+  <div class="row">
+    <div class="col post-body">
+      <h2>
+        <%= t("jobs.vacancies") %>
+      </h2>
+      <ol class="post-list">
+        <% page_articles.each do |article| %>
+          <li>
+            <%= partial "jobs/job-preview", locals: { article: article } %>
+          </li>
+        <% end %>
+      </ol>
+    </div>
   </div>
 </section>
 
