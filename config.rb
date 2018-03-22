@@ -36,9 +36,9 @@ set :ga_code, "UA-6700447-1"
 ready do
   case root_locale
   when :nl
-    ignores = ["/blog/de/*", "/jobs/de/*", "/blog/en/*"]
+    ignores = ["/blog/de/*", "/jobs/de/*", "/blog/en/*", "/cases/de/*"]
   when :de
-    ignores = ["/blog/en/*", "/blog/nl/*", "/jobs/nl/*", "/cases/*"]
+    ignores = ["/blog/en/*", "/blog/nl/*", "/jobs/nl/*", "/cases/nl/*"]
   when :en
     ignores = ["/blog/de/*", "/blog/nl/*", "/jobs/*", "/cases/*"]
   end
@@ -154,6 +154,8 @@ activate :blog do |blog|
   case root_locale
   when :nl
     blog.sources = "/nl/{title}.html"
+  when :de
+    blog.sources = "/de/{title}.html"
   end
   blog.paginate = false
 end
@@ -173,7 +175,7 @@ activate :directory_indexes
 
 # Search
 activate :search do |search|
-  search.resources = ["blog/", "jobs/"]
+  search.resources = ["blog/", "cases/", "jobs/"]
 
   ready do
     pages = sitemap.resources.select do |r|

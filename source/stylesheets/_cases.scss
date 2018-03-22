@@ -30,6 +30,7 @@ section.cases-overview {
       @include media($medium-up) {
         width: 50%;
 
+        &:first-child:last-child,
         &:nth-child(4n+3):last-child {
           width: 100%;
         }

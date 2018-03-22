@@ -43,12 +43,11 @@ blog: cases
         <%= t("cases.overview.contact_us") %>
       </p>
 
-      <% unless current_page.url == "/cases/" %>
+      <% unless current_page.url == "/cases/" || root_locale == :de %>
         <%= nav_link_to t("cases.all_cases"), "/cases/", class: "button orange outline" %>
       <% end %>
 
       <%= nav_link_to t("cases.contact"), "/contact.html#form", class: "button orange" %>
-
     </div>
 
   </div>

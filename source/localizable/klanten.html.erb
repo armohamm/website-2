@@ -1,7 +1,7 @@
 ---
 title:
   nl: Klanten & cases
-  de: Unsere Kunden
+  de: Unsere Kunden & Cases
   en: Our clients
 description:
   nl: Enkele van onze klanten zijn RadboudUMC, LUMC, MUMC+, MMC, Gelre, Spaarne, Kennemer, Sint Franciscus, Vlietland, Sogeti en Schiphol Group
@@ -10,7 +10,7 @@ description:
 blog: cases
 ---
 
-<% if root_locale == :nl %>
+<% unless root_locale == :en %>
   <%= partial "clients/clients-cases-overview", locals: { count: 2 } %>
 <% end %>
 

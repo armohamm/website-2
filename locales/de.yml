@@ -52,6 +52,7 @@ de:
         Geben Sie Ihre E-mail an, damit unsere Experten so schnell wie möglich Kontakt mit Ihnen aufnehmen können.
   about:
     about_defacto: "Über Defacto"
+    cases: Cases
     clients: Kunden
     contact: "Kontakt"
     heading: "Wir sind Defacto"
@@ -152,6 +153,25 @@ de:
       img: screenshots/capp-agile-demo_de.png
       img_alt: "Eine (Live-) Präsentation anfragen"
     testimonials_heading: "Kundenstimmen"
+  cases:
+    all_cases: "Alle Cases"
+    contact: "Kontakt aufnehmen"
+    share: "Teile diesen Kundencase:"
+    sidebar:
+      products: "Produkte & Dienste"
+      facts:
+        title: "Fakten & Daten"
+        branch: "Branche"
+        since: "Kunde seit"
+        employees: "Anzahl Mitarbeiter"
+        website: "Website"
+    overview:
+      button: "Kontakt aufnehmen"
+      contact_us: "Hat Sie das Lesen unserer Kundencases inspiriert? Oder haben Sie noch weitere Fragen? Nehmen Sie Kontakt mit uns auf."
+      text: "Jeder Kunde ist unterschiedlich und besitzt andere Wünsche. Darum ist jede Implementierung einzigartig. Hier ein kleiner Überblick über unsere Kunden und warum wir gemeinsam so erfolgreiche Resultate erzielt haben."
+      title: "Mit stolz präsentieren wir"
+    next: "Nächster case"
+    previous: "Vorheriger case"
   clients:
     title: "Unsere Kunden"
   cmt:

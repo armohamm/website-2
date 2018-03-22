@@ -131,9 +131,10 @@ nl:
         employees: "Aantal medewerkers"
         website: "Website"
     overview:
-      title: "Met trots gepresenteerd"
-      text: "Elke klant is anders en heeft andere wensen, daarom is elke implementatie een uitdaging. Hier een greep uit onze klanten, waarmee we samen goede resultaten hebben behaald."
+      button: "Contact opnemen"
       contact_us: "Geïnspireerd door het lezen van onze cases? Of heb je nog meer vragen? Neem dan contact met ons op."
+      text: "Elke klant is anders en heeft andere wensen, daarom is elke implementatie een uitdaging. Hier een greep uit onze klanten, waarmee we samen goede resultaten hebben behaald."
+      title: "Met trots gepresenteerd"
   clients:
     title: "Onze klanten"
   cmt:
