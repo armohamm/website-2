@@ -42,6 +42,18 @@ rake test:en
 rake test # Test all locales with HTML-proofer
 ```
 
+##### Stage (and build before)
+
+We can stage a version of the website in one locale:
+
+```bash
+rake deploy_staging:nl
+rake deploy_staging:de
+rake deploy_staging:en
+```
+
+Staging is deployed to [website-staging/tree/gh-pages](https://github.com/DefactoSoftware/website-staging/tree/gh-pages)
+
 ##### Deploy (and build before)
 
 ```bash

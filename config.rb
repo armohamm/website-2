@@ -13,6 +13,25 @@ activate :i18n, mount_at_root: root_locale, langs: %i(nl de en)
 
 set :ga_code, "UA-6700447-1"
 
+# Set a target environment
+staging = ENV["STAGING"] == "true"
+set :staging, staging
+
+# Set a CNAME per target environment
+set :cname,
+  if staging
+    "staging.defacto.nl"
+  else
+    case root_locale
+    when :nl
+      "www.defacto.nl"
+    when :de
+      "www.defactolearning.de"
+    when :en
+      "en.defacto.nl"
+    end
+  end
+
 # Change Compass configuration
 # compass_config do |config|
 #   config.output_style = :compact
@@ -235,23 +254,25 @@ activate :autoprefixer do |config|
   config.browsers = ["last 3 versions", "Explorer >= 9"]
 end
 
-activate :minify_html do |html|
-  html.remove_multi_spaces        = true
-  html.remove_comments            = true
-  html.remove_intertag_spaces     = false
-  html.remove_quotes              = true
-  html.simple_doctype             = false
-  html.remove_script_attributes   = true
-  html.remove_style_attributes    = true
-  html.remove_link_attributes     = true
-  html.remove_form_attributes     = false
-  html.remove_input_attributes    = true
-  html.remove_javascript_protocol = true
-  html.remove_http_protocol       = false
-  html.remove_https_protocol      = false
-  html.preserve_line_breaks       = false
-  html.simple_boolean_attributes  = true
-  html.preserve_patterns          = nil
+unless staging
+  activate :minify_html do |html|
+    html.remove_multi_spaces        = true
+    html.remove_comments            = true
+    html.remove_intertag_spaces     = false
+    html.remove_quotes              = true
+    html.simple_doctype             = false
+    html.remove_script_attributes   = true
+    html.remove_style_attributes    = true
+    html.remove_link_attributes     = true
+    html.remove_form_attributes     = false
+    html.remove_input_attributes    = true
+    html.remove_javascript_protocol = true
+    html.remove_http_protocol       = false
+    html.remove_https_protocol      = false
+    html.preserve_line_breaks       = false
+    html.simple_boolean_attributes  = true
+    html.preserve_patterns          = nil
+  end
 end
 
 set :relative_links, true
@@ -281,12 +302,6 @@ configure :build do
 
   # Enable cache buster
   activate :asset_hash, ignore: ["images/blog/featured", "images/logos/defacto.png"]
-
-  # Use relative URLs
-  # activate :relative_assets
-
-  # Or use a different image path
-  # set :http_prefix, "/Content/images/"
 end
 
 ###
@@ -294,22 +309,21 @@ end
 ###
 
 # Deploy for each locale
-case root_locale
-when :nl
-  activate :deploy do |deploy|
-    deploy.method = :git
-    deploy.remote = "git@github.com:DefactoSoftware/website.git"
-  end
-when :de
-  activate :deploy do |deploy|
-    deploy.method = :git
-    deploy.remote = "git@github.com:DefactoSoftware/website-de.git"
-  end
-when :en
-  activate :deploy do |deploy|
-    deploy.method = :git
-    deploy.remote = "git@github.com:DefactoSoftware/website-en.git"
-  end
+activate :deploy do |deploy|
+  deploy.method = :git
+  deploy.remote =
+    if staging
+      "git@github.com:DefactoSoftware/website-staging.git"
+    else
+      case root_locale
+      when :nl
+        "git@github.com:DefactoSoftware/website.git"
+      when :de
+        "git@github.com:DefactoSoftware/website-de.git"
+      when :en
+        "git@github.com:DefactoSoftware/website-en.git"
+      end
+    end
 end
 
 ###
@@ -383,6 +397,7 @@ helpers do
 
   # Use frontmatter for meta robots or use default
   def robots(page = current_page)
+    return "noindex,nofollow" if staging
     return page.data.robots if page.data.robots
     "noydir,noodp,index,follow"
   end
