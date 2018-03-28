@@ -4,7 +4,6 @@ date: 2018-03-05 8:00 CEST
 tags: performance support, paedagogik
 author: Joep
 lang: de
-featured: true
 image: images/blog/social/5-moments-of-need-1200x630.jpg
 featured_image: images/blog/featured/20180117-5-moments-of-need.jpg
 ---
