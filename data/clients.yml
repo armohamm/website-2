@@ -40,6 +40,9 @@
 - client: "TUI Nederland"
   logo: "references/tui.png"
 
+- client: "Dianet"
+  logo: "references/dianet.png"
+
 - client: "Leids Universitair Medisch Centrum"
   logo: "references/lumc.png"
 
@@ -55,8 +58,20 @@
 - client: "Spaarne Gasthuis"
   logo: "references/spaarne-gasthuis.png"
 
+- client: "Trajectum"
+  logo: "references/trajectum.png"
+
+- client: "De Opbouw"
+  logo: "references/de-opbouw.png"
+
+- client: "Het Raamwerk"
+  logo: "references/raamwerk.png"
+
 - client: "Sint Franciscus Gasthuis"
   logo: "references/sfg.png"
+
+- client: "Roessingh Centrum voor Revalidatie"
+  logo: "references/roessingh.png"
 
 - client: "Luchtvaart Community Schiphol"
   logo: "references/luchtvaart-community-schiphol.png"
@@ -102,6 +117,9 @@
 
 - client: "Medizinische Hochschule Hannover"
   logo: "references/mhh.png"
+
+- client: "Medius Kliniken"
+  logo: "references/medius-kliniken.png"
 
 - client: "Karakter kinder- en jeugdpsychiatrie"
   logo: "references/karakter.png"

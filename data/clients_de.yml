@@ -1,6 +1,9 @@
 - client: "Evangelisches Krankenhaus Oldenburg"
   logo: "references/eko.png"
 
+- client: "Medius Kliniken"
+  logo: "references/medius-kliniken.png"
+
 - client: "Klinikum Itzehoe"
   logo: "references/klinikum-itzehoe.png"
 
@@ -27,6 +30,9 @@
 
 - client: "'s Heeren Loo"
   logo: "references/sheerenloo.png"
+
+- client: "Roessingh Centrum voor Revalidatie"
+  logo: "references/roessingh.png"
 
 - client: "Noordwest Ziekenhuisgroep"
   logo: "references/noordwestziekenhuisgroep.png"
@@ -115,6 +121,9 @@
 - client: "Zuidzorg"
   logo: "references/zuidzorg.png"
 
+- client: "De Opbouw"
+  logo: "references/de-opbouw.png"
+
 - client: "Amarant"
   logo: "references/amarant.png"
 
@@ -141,3 +150,12 @@
 
 - client: "Phoenix Opleidingen"
   logo: "references/phoenix.jpg"
+
+- client: "Dianet"
+  logo: "references/dianet.png"
+
+- client: "Trajectum"
+  logo: "references/trajectum.png"
+
+- client: "Het Raamwerk"
+  logo: "references/raamwerk.png"
