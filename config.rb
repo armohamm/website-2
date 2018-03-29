@@ -605,6 +605,12 @@ helpers do
     tagname.gsub(/-[a-z]/, &:upcase)
   end
 
+  # Get clients
+  def clients
+    all_clients = root_locale == :de ? data["clients_de"] : data["clients"]
+    all_clients.clone
+  end
+
   # Used to validate data/downloads.yml
   def validate_downloads(hash)
     hash.each do |key, value|

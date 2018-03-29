@@ -40,6 +40,9 @@
 - client: "Rivas"
   logo: "references/rivas.png"
 
+- client: "Timing"
+  logo: "references/timing.png"
+
 - client: "UMCG"
   logo: "references/umcg.png"
 
@@ -88,6 +91,9 @@
 - client: "RIVM"
   logo: "references/rivm.png"
 
+- client: "Stichting Bedrijfs Apotheken"
+  logo: "references/sba.png"
+
 - client: "Ziekenhuis Rivierenland"
   logo: "references/rivierenland.png"
 
@@ -117,6 +123,9 @@
 
 - client: "ActiVite"
   logo: "references/activite.jpg"
+
+- client: "Viecuri"
+  logo: "references/viecuri.png"
 
 - client: "Heliomare onderwijs"
   logo: "references/heliomare.png"

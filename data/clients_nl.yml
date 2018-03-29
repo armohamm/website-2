@@ -25,8 +25,17 @@
 - client: "UMCG"
   logo: "references/umcg.png"
 
+- client: "Timing"
+  logo: "references/timing.png"
+
 - client: "Wilhemina Ziekenhuis Assen"
   logo: "references/wilhelminaziekenhuisassen.png"
+
+- client: "Viecuri"
+  logo: "references/viecuri.png"
+
+- client: "Stichting Bedrijfs Apotheken"
+  logo: "references/sba.png"
 
 - client: "TUI Nederland"
   logo: "references/tui.png"
@@ -126,7 +135,6 @@
 
 - client: "Dienst Uitvoerend Onderwijs, Ministerie van Onderwijs, Cultuur en Wetenschap"
   logo: "references/duo-ocw.png"
-
 
 - client: "Kamer van Koophandel"
   logo: "references/kvk.png"
