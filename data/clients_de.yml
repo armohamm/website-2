@@ -40,9 +40,6 @@
 - client: "Albert Schweitzer ziekenhuis"
   logo: "references/albertschweitzerziekenhuis.png"
 
-- client: "Waterschappen"
-  logo: "references/waterschappen.png"
-
 - client: "Rivas"
   logo: "references/rivas.png"
 
@@ -138,9 +135,6 @@
 
 - client: "Heliomare onderwijs"
   logo: "references/heliomare.png"
-
-- client: "Imigratie- en Naturalisatiediesnts, Ministerie van Binnenlandse Zaken en Koninkrijksreleaties"
-  logo: "references/min-bzk.gif"
 
 - client: "Dienst Uitvoerend Onderwijs, Ministerie van Onderwijs, Cultuur en Wetenschap"
   logo: "references/duo-ocw.png"
