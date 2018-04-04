@@ -28,6 +28,24 @@
 - client: "Strukton"
   logo: "references/strukton.png"
 
+- client: "Het Waterschapshuis"
+  logo: "references/het-waterschapshuis.png"
+
+- client: "Waterschap Noorderzijlvest"
+  logo: "references/waterschap-noorderzijlvest.png"
+
+- client: "Waterschap Hollandse Delta"
+  logo: "references/waterschap-hollandse-delta.png"
+
+- client: "Waterschap Brabant Aquademie"
+  logo: "references/waterschap-brabant-aquademie.png"
+
+- client: "Waterschap Rijn en IJssel"
+  logo: "references/waterschap-rijn-en-ijssel.png"
+
+- client: "Waterschap Rivierenland"
+  logo: "references/waterschap-rivierenland.png"
+
 - client: "'s Heeren Loo"
   logo: "references/sheerenloo.png"
 

@@ -55,6 +55,24 @@
 - client: "Spaarne Gasthuis"
   logo: "references/spaarne-gasthuis.png"
 
+- client: "Het Waterschapshuis"
+  logo: "references/het-waterschapshuis.png"
+
+- client: "Waterschap Noorderzijlvest"
+  logo: "references/waterschap-noorderzijlvest.png"
+
+- client: "Waterschap Hollandse Delta"
+  logo: "references/waterschap-hollandse-delta.png"
+
+- client: "Waterschap Brabant Aquademie"
+  logo: "references/waterschap-brabant-aquademie.png"
+
+- client: "Waterschap Rijn en IJssel"
+  logo: "references/waterschap-rijn-en-ijssel.png"
+
+- client: "Waterschap Rivierenland"
+  logo: "references/waterschap-rivierenland.png"
+
 - client: "Doppio Espresso"
   logo: "references/doppio-espresso.png"
 
