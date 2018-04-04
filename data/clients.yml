@@ -55,6 +55,15 @@
 - client: "Spaarne Gasthuis"
   logo: "references/spaarne-gasthuis.png"
 
+- client: "Doppio Espresso"
+  logo: "references/doppio-espresso.png"
+
+- client: "DPA Benkis"
+  logo: "references/dpa-benkis.png"
+
+- client: "Kaldi"
+  logo: "references/kaldi.png"
+
 - client: "Trajectum"
   logo: "references/trajectum.png"
 

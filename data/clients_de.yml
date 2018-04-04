@@ -43,8 +43,17 @@
 - client: "Rivas"
   logo: "references/rivas.png"
 
+- client: "Doppio Espresso"
+  logo: "references/doppio-espresso.png"
+
 - client: "Timing"
   logo: "references/timing.png"
+
+- client: "DPA Benkis"
+  logo: "references/dpa-benkis.png"
+
+- client: "Kaldi"
+  logo: "references/kaldi.png"
 
 - client: "UMCG"
   logo: "references/umcg.png"
