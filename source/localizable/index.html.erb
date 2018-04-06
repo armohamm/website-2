@@ -13,12 +13,14 @@ canonical_url:
   en: https://en.defacto.nl
 sitemap_changefreq: "weekly"
 sitemap_priority: 1
-blog: blog
 header_style: invert
 ---
 
 <%= partial "home/news" %>
 <%= partial "home/solutions" %>
+<% unless root_locale == :en %>
+  <%= partial "clients/clients-cases-overview", locals: { count: 2 } %>
+<% end %>
 <% if root_locale == :de %>
   <%= partial "home/copy" %>
 <% end %>
