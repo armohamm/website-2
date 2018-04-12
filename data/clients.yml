@@ -49,6 +49,9 @@
 - client: "Maxima Medisch Centrum"
   logo: "references/mmc.png"
 
+- client: "ZINN"
+  logo: "references/zinn.png"
+
 - client: "Gelre Ziekenhuizen"
   logo: "references/gelre-ziekenhuizen.png"
 

@@ -28,6 +28,9 @@
 - client: "Strukton"
   logo: "references/strukton.png"
 
+- client: "ZINN"
+  logo: "references/zinn.png"
+
 - client: "Het Waterschapshuis"
   logo: "references/het-waterschapshuis.png"
 
