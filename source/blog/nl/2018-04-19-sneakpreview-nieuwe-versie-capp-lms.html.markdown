@@ -5,8 +5,8 @@ tags: lancering, CAPP LMS, Next Learning 2018
 author: Susan
 lang: nl
 featured: true
-image: images/blog/social/5-moments-of-need-1200x630.jpg
-featured_image: images/blog/featured/20180117-5-moments-of-need.jpg
+image: images/blog/social/next-learning-2018-1200x630.png
+featured_image: images/blog/featured/20180419-next-learning-2018.png
 ---
 
 **​Het is bijna zo ver! Over enkele dagen gaan wij de nieuwe versie van ons CAPP LMS​ lanceren.
