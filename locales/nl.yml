@@ -117,6 +117,9 @@ nl:
       img: screenshots/capp-agile-demo_nl.png
       img_alt: "Vraag een demo aan"
     testimonials_heading: "Wat onze klanten zeggen"
+  capp_new:
+    heading_contact: "Nieuwsgierig? Laat uw gegevens achter dan nemen we contact op."
+    formkeep_title: "Afspraak maken nieuwe CAPP"
   cases:
     next: "Volgende case"
     previous: "Vorige case"
@@ -227,6 +230,10 @@ nl:
     hero:
       text: "Meer dan 200.000 professionals gebruiken onze software om te leren en hun talenten te ontwikkelen"
       title: "Developing People"
+    hero_capp:
+      announce: "Defacto presenteert nieuwe versie van"
+      text: "CAPP LMS faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant."
+      title: "Learning & Talent Management"
     solutions:
       informal:
         text_html: "Performance support door 'kennis-on-demand'. Voorzie medewerkers van _just-in-time_ kennis. Leg kennis simpel vast, deel handleidingen, werkinstructies en meer."

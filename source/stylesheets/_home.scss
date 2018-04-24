@@ -1,5 +1,4 @@
 .index {
-
   .header-image {
     $hero-image: "../images/moods/defacto.jpg";
     background-image: url($hero-image);
@@ -29,6 +28,35 @@
       .hero-inner {
         padding: 5em 1em 6em;
       }
+    }
+  }
+
+  &.nl .hero {
+    .announcing {
+      font-size: 0.9em;
+      font-weight: bold;
+      letter-spacing: 2px;
+      margin-bottom: 3.2em;
+      opacity: 0.5;
+      text-transform: uppercase;
+    }
+
+    .logo {
+      margin-bottom: 2.4em;
+      max-width: 280px;
+    }
+
+    h1 {
+      font-weight: 700;
+      margin-bottom: 0.5em;
+
+      @include media($large-up) {
+        font-size: 3em;
+      }
+    }
+
+    .button {
+      @include button(#ec677a);
     }
   }
 

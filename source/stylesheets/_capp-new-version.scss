@@ -1,0 +1,259 @@
+$capp-color: #393e46;
+$capp-pink: #ec677a;
+$capp-dark-blue: #353741;
+
+body.capp-lms-nieuw {
+  color: $capp-color;
+
+  :not(.footer) {
+    .row {
+      max-width: 1380px;
+
+      @include media($large-up) {
+        align-items: center;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+    }
+
+    .col {
+      padding: 0 1em;
+
+      @include media($xlarge-up) {
+        flex: 1;
+
+        &:first-child {
+          margin-right: 2em;
+        }
+      }
+
+      &.card {
+        flex: 0;
+        flex-basis: 480px;
+        padding: 40px 30px;
+
+        @include media($medium-up) {
+          padding: 40px 60px;
+        }
+      }
+    }
+
+    .button {
+      @include button($capp-pink);
+    }
+
+    form:not(.form-inline) .button {
+      width: 100%;
+    }
+
+    #{$all-text-inputs} {
+      &:focus {
+        border-color: $capp-pink;
+        box-shadow: 0 0 5px $capp-pink;
+      }
+    }
+  }
+
+  .card {
+    background: $white;
+    box-shadow: 0 1px 2rem rgba($black, 0.1);
+    margin: 0 auto;
+    max-width: 1160px;
+    position: relative;
+    text-align: left;
+
+    @include media($large-up) {
+      margin-right: 15px;
+    }
+
+    &::before,
+    &::after {
+      border-radius: 100px / 10px;
+      bottom: 0;
+      box-shadow: 0 0 20px rgba($black, 0.25);
+      content: "";
+      left: 25px;
+      position: absolute;
+      right: 25px;
+      top: 15px;
+      z-index: -1;
+    }
+  }
+
+  .header-image {
+    $hero-image: "../images/moods/capp-12-2.jpg";
+
+    background: url($hero-image);
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+  }
+
+  .hero {
+    color: $capp-color;
+    text-align: center;
+
+    @include media($large-up) {
+      text-align: left;
+    }
+
+    .row {
+      padding: 3em 1em;
+    }
+
+    .logo {
+      margin-bottom: 1.7em;
+      max-width: 240px;
+
+      @include media($medium-up) {
+        margin-left: -5px;
+        max-width: 260px;
+      }
+    }
+
+    .col {
+      flex: 1;
+    }
+
+    h4 {
+      font-size: 1.3em;
+      font-weight: 700;
+    }
+  }
+
+  .capp-page-nav {
+    background-color: $capp-pink;
+    padding: 1em 3em;
+    text-align: center;
+
+    @include media($medium-up) {
+      padding: 0;
+    }
+
+    ul {
+      width: 100%;
+    }
+
+    li {
+      @include media($medium-up) {
+        display: inline-block;
+      }
+
+      &:first-child a {
+        border-top: 1px solid $white;
+
+        @include media($medium-up) {
+          border-top: 0;
+        }
+      }
+    }
+
+    a {
+      border-bottom: 1px solid $white;
+      color: $white;
+      display: block;
+      font-size: $base-font-size * 1.2;
+      font-weight: 600;
+      padding: 0.4em 1em;
+
+      @include media($medium-up) {
+        border-bottom: 0;
+        padding: 1.2em 1em;
+      }
+
+      &:hover {
+        color: darken($white, 15%);
+      }
+    }
+  }
+
+  .capp-introduction {
+    $background-image: "../images/capp-12-intro-bg.svg";
+
+    background-color: $capp-dark-blue;
+    background-image: url($background-image);
+    background-position: top 0 right -150px;
+    background-repeat: no-repeat;
+    background-size: 800px auto;
+    color: $white;
+
+    h3 {
+      @include media($xlarge-up) {
+        margin-bottom: 2em;
+      }
+    }
+  }
+
+  .capp-overview {
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin-bottom: 2em;
+      max-width: 1380px;
+      text-align: left;
+
+      @include media($medium-up) {
+        align-items: center;
+      }
+    }
+
+    .col {
+      padding: 0 1em;
+
+      @include media($medium-up) {
+        flex: 1;
+
+        &:first-child {
+          margin-right: 2em;
+        }
+
+        &:last-child {
+          margin-left: 2em;
+        }
+      }
+
+      img {
+        display: block;
+        margin: 0 auto 1em;
+
+        @include media($medium-up) {
+          margin: 0;
+        }
+      }
+
+      &-img {
+        margin-bottom: 1em;
+        order: 1;
+
+        @include media($medium-up) {
+          order: initial;
+        }
+      }
+
+      &-text {
+        order: 2;
+
+        @include media($medium-up) {
+          order: initial;
+        }
+      }
+    }
+
+    h2 {
+      @include media($medium-up) {
+        font-size: $base-font-size * 3;
+      }
+    }
+
+    h3 {
+      font-weight: 500;
+    }
+
+    h4 {
+      font-size: $base-font-size * 1.5;
+      font-weight: 500;
+    }
+  }
+}
