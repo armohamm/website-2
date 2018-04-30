@@ -1,0 +1,54 @@
+section.events {
+  .row {
+    max-width: 960px;
+    text-align: center;
+  }
+
+  .events-table {
+    background: $lighter-gray;
+    color: $dark-gray;
+    overflow: hidden;
+    text-align: left;
+    width: 100%;
+
+    .date {
+      @include media($medium-up) {
+        width: 150px;
+      }
+    }
+
+    tr {
+      border-bottom: 10px solid $white;
+
+      @include media($medium-up) {
+        border-bottom: 0;
+      }
+    }
+
+    td,
+    th {
+      border: 1px solid $white;
+      margin: 0;
+    }
+
+    th {
+      background: $dark-gray;
+      color: $white;
+      display: none;
+
+      @include media($medium-up) {
+        display: table-cell;
+        padding: 1em;
+      }
+    }
+
+    td {
+      display: flex;
+      padding: 1em;
+
+      @include media($medium-up) {
+        display: table-cell;
+      }
+    }
+  }
+}
