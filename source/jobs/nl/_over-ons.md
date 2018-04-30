@@ -1,11 +1,10 @@
-## Wat bieden we:
+## Wat bieden we
 
 * Een goede werksfeer in een tof team
-* Een lunch die voor je geregeld wordt
 * Een competitief salaris
-* Een gunstige Bring Your Own Device-regeling
 * Ruime opleidingsmogelijkheden en -budget
 * Ruimte voor eigen initiatief
+* Een gunstige Bring Your Own Device- en lunch-regeling
 * Een omgeving die leren en kennisdeling stimuleert
 
 ## Defacto Software
