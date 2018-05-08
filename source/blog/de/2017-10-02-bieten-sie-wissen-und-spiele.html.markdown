@@ -50,4 +50,4 @@ Außerdem sollten Sie das Lernen spielerisch gestalten: Die Motivation Ihrer Arb
 
 Mit diesen Fakten im Hinterkopf können Sie die Kraft des modernen Lerners nutzen, Ihre Arbeitnehmer zu einem informellen Wissensaustausch motivieren und Ihr Unternehmen erfolgreicher machen. Wenn Sie Hilfe beim Aufbau Ihrer sozialen Lernplattform benötigen, können Sie uns über [CAPP Agile Learning](/capp-agile-learning/) kontaktieren.
 
-(Einige dieser Gedanken stammen ursprünglich von [www.langevin.com](http://www.langevin.com){:target="_blank"}{:rel="noopener"}{:title="Langevin"} und [www.gartner.com](http://www.gartner.com){:target="_blank"}{:rel="noopener"}{:title="Gartner"}, vielen Dank dafür!)
+(Einige dieser Gedanken stammen ursprünglich von Langevin Learning Services und Gartner, vielen Dank dafür!)
