@@ -20,9 +20,9 @@ header_style: invert
 <%= partial "home/solutions" %>
 <% unless root_locale == :en %>
   <%= partial "clients/clients-cases-overview", locals: { count: 2 } %>
-  <%= partial "home/events" %>
 <% end %>
 <% if root_locale == :de %>
+  <%= partial "home/events" %>
   <%= partial "home/copy" %>
 <% end %>
 <%= partial "partials/featured-testimonial" %>
