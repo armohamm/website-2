@@ -1,5 +1,5 @@
 ---
-title: "Neuer Kunde: Medius Kliniken"
+title: "Neuer Kunde: medius Kliniken"
 date: 2018-04-30 17:00 CEST
 tags: CAPP Bilden, Qualitätspass, Kunden
 author: Isabela
@@ -17,4 +17,4 @@ Ein wichtiger Aspekt für die medius Kliniken ist ein gutes Qualifikationsmanage
 
 Wir freuen uns die medius Kliniken als neuen Kunden begrüßen zu dürfen! Auf eine gute Zusammenarbeit.
 
-![](/images/blog/social/neuer-kunde-medius-kliniken-1200x630.jpg){:alt="Neuer Kunde: Medius Kliniken"}
+![](/images/blog/social/neuer-kunde-medius-kliniken-1200x630.jpg){:alt="Neuer Kunde: medius Kliniken"}
