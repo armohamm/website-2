@@ -45,15 +45,15 @@
       <li id="products" class="dropdown gallery">
 
         <div class="content">
-          <h2 class="dropdown-title">
+          <h5 class="dropdown-title">
             <%= nav_link_to t("header.products"), "/producten.html" %>
-          </h2>
+          </h5>
 
           <ul>
             <li>
               <% nav_link_to("/capp-lms.html", { class: "nav-capp" }) do %>
                 <div>
-                  <h3><%= t("products.capp.learn") %></h3>
+                  <h6><%= t("products.capp.learn") %></h6>
                   <%= markitdown t("nav.capp-learn") %>
                 </div>
               <% end %>
@@ -62,7 +62,7 @@
             <li>
               <% nav_link_to("/capp-entwickeln.html", { class: "nav-develop" }) do %>
                 <div>
-                  <h3><%= t("products.capp.develop") %></h3>
+                  <h6><%= t("products.capp.develop") %></h6>
                   <%= markitdown t("nav.capp-develop") %>
                 </div>
               <% end %>
@@ -71,7 +71,7 @@
             <li>
               <% nav_link_to("/kwaliteitspaspoort.html", { class: "nav-kwaliteitspaspoort" }) do %>
                 <div>
-                  <h3><%= t("kwaliteitspaspoort.name") %></h3>
+                  <h6><%= t("kwaliteitspaspoort.name") %></h6>
                   <%= markitdown t("nav.kwaliteitspaspoort") %>
                 </div>
               <% end %>
@@ -80,7 +80,7 @@
             <li>
               <% nav_link_to("/capp-agile-learning.html", { class: "nav-capp-agile" }) do %>
                 <div>
-                  <h3><%= t("capp-agile.name") %></h3>
+                  <h6><%= t("capp-agile.name") %></h6>
                   <%= markitdown t("nav.capp-agile") %>
                 </div>
               <% end %>
@@ -89,7 +89,7 @@
             <li>
               <% nav_link_to("/e-learning-starterkit.html", { class: "nav-elearning-starterkit" }) do %>
                 <div>
-                  <h3><%= t("elearning_starterkit.name") %></h3>
+                  <h6><%= t("elearning_starterkit.name") %></h6>
                   <%= markitdown t("nav.starterkit") %>
                 </div>
               <% end %>
@@ -98,7 +98,7 @@
             <li>
               <% nav_link_to("/360-feedback.html", { class: "nav-360-feedback" }) do %>
                 <div>
-                  <h3><%= t("threesixty.name") %></h3>
+                  <h6><%= t("threesixty.name") %></h6>
                   <%= markitdown t("nav.threesixty") %>
                 </div>
               <% end %>
@@ -109,9 +109,9 @@
 
       <li id="services" class="dropdown links">
         <div class="content">
-          <h2 class="dropdown-title">
+          <h5 class="dropdown-title">
             <%= nav_link_to t("header.services"), "/diensten.html" %>
-          </h2>
+          </h5>
 
           <ul class="links-list">
             <li><%= nav_link_to t("services.services.elearning.name"), "/e-learning.html" %></li>
@@ -124,9 +124,9 @@
 
       <li id="clients" class="dropdown links">
         <div class="content">
-          <h2 class="dropdown-title">
+          <h5 class="dropdown-title">
             <%= nav_link_to t("about.clients"), "/klanten.html" %>
-          </h2>
+          </h5>
 
           <ul class="links-list">
             <li><%= nav_link_to t("about.cases"), "/cases/index.html" %></li>
@@ -137,9 +137,9 @@
 
       <li id="themes" class="dropdown links">
         <div class="content">
-          <h2 class="dropdown-title">
+          <h5 class="dropdown-title">
             <%= nav_link_to t("header.themes"), "/themen.html" %>
-          </h2>
+          </h5>
 
           <ul class="links-list">
             <li><%= nav_link_to t("themes.70-20-10.name"), "/70-20-10.html" %></li>
@@ -151,9 +151,9 @@
 
       <li id="about-us" class="dropdown links">
         <div class="content">
-          <h2 class="dropdown-title">
+          <h5 class="dropdown-title">
             <%= nav_link_to t("header.about"), "/over-ons.html" %>
-          </h2>
+          </h5>
 
           <ul class="links-list">
             <li class="mobile-link"><%= nav_link_to t("header.jobs"), "/jobs/index.html" %></li>
