@@ -156,7 +156,7 @@ The [demo](http://codepen.io/snap/pen/MYwVeP?editors=110){:target="_blank"}{:rel
 
 ## Loading template in Ember.js
 
-The only thing left to do was getting our loading indicator to show up between page transitions in [Ember.js](http://emberjs.com){:target="_blank"}{:rel="noopener"}. Fortunately Ember provides [loading substates](http://emberjs.com/guides/routing/loading-and-error-substates/#toc_code-loading-code-substates){:target="_blank"}{:rel="noopener"} that allows you to do just that. Basicly the only thing we had to do is create a top-level template called `loading` and Ember takes care of the rest:
+The only thing left to do was getting our loading indicator to show up between page transitions in [Ember.js](http://emberjs.com){:target="_blank"}{:rel="noopener"}. Fortunately Ember provides [loading substates](https://guides.emberjs.com/v3.1.0/routing/loading-and-error-substates/#toc_loading-substates){:target="_blank"}{:rel="noopener"} that allows you to do just that. Basicly the only thing we had to do is create a top-level template called `loading` and Ember takes care of the rest:
 
 ~~~html
 <script type="text/x-handlebars" data-template-name="loading">
