@@ -125,6 +125,12 @@
   email: k.akkerman@defacto.nl
   avatar: /images/team/koos-akkerman.jpg
 
+- firstname: Lennart
+  prefix: de
+  lastname: Vries
+  email: lennart@defacto.nl
+  avatar: /images/team/lennart-de-vries.jpg
+
 - firstname: Lizette
   lastname: Weening
   email: l.weening@defacto.nl
