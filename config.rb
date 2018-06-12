@@ -359,7 +359,8 @@ helpers do
 
   # Get full url
   def full_url(url, locale = I18n.locale)
-    URI.join("https://#{I18n.t('CNAME', locale: locale)}", url).to_s
+    base = staging ? "https://staging.defacto.nl" : "https://#{I18n.t('CNAME', locale: locale)}"
+    URI.join(base, url).to_s
   end
 
   # Use frontmatter for I18n titles
