@@ -18,6 +18,11 @@ Im Klinikalltag leiden viele Ärzte unter hoher Arbeitsbelastung, Personalmangel
 
 Medizinische Fachangestellte (MFA) sind vor allem aus den Praxen niedergelassener Ärzte bekannt. Oftmals als „Arzthelferinnen“ bezeichnet, unterstützen sie Mediziner bei allen Aufgaben, die von nicht-ärztlichem Personal erledigt werden können und dürfen. Auch im Krankenhaus sind sie mittlerweile als wertvolle Hilfe anerkannt.
 
+<figure>
+  <img src="/images/blog/de/mfa-blog.jpg" alt="70 Prozent der Ärzte halten den Einsatz der MFA für sinnvoll">
+  <figcaption>70 Prozent der Ärzte halten den Einsatz der MFA für sinnvoll</figcaption>
+</figure>
+
 Zu den wichtigsten Aufgaben von MFA im Krankenhaus zählen:
 
 - Strukturierung des ärztlichen Arbeitstages und Filterung der Telefonate
