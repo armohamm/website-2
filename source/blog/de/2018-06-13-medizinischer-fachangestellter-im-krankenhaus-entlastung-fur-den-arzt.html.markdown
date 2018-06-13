@@ -34,3 +34,8 @@ Damit tragen sie deutlich zur Entlastung des Ärzteteams und zur besseren Koordi
 Sehen Sie in Ihrem Krankenhaus auch Optimierungspotential, was die schnelle und strukturierte Entlastung Ihrer Ärzte durch MFA betrifft? Ist das alles noch Neuland in Ihrer Klinik? Gerne unterstützen wir Sie dabei, individuelle Entwicklungspläne für ihre Mitarbeiter zu erstellen. Unsere Lösungen ermöglichen Ihnen als verantwortlichem Vorgesetzten den Überblick über die Qualifizierungsmaßnahmen Ihrer Teammitglieder sowie Einblick in die jeweiligen Lernfortschritte der Mitarbeiter.
 
 Gerne vereinbaren wir mit Ihnen einen Termin, um gemeinsam das volle Potenzial Ihres Hauses ausschöpfen zu können. Zum Wohle Ihrer Patienten und Mitarbeiter.
+
+Quellen:
+[Marburger Bund](http://www.marburger-bund.de/){:target="_blank"}{:rel="noopener"}{:title="Marburger Bundes"}
+[Institut für Qualitätsmessung und Evaluation (IQME)](https://www.iqme.de/){:rel="noopener"}{:title="Institut für Qualitätsmessung und Evaluation (IQME)"}
+[Krankenhaus Rating Report 2018 ](https://www.medhochzwei-verlag.de/shop/index.php/krankenhaus-rating-report-2018-978-3-86216-466-0.html){:target="_blank"}{:rel="noopener"}{:title="Krankenhaus Rating Report 2018"}
