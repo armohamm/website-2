@@ -4,7 +4,6 @@ date: 2018-04-30 17:00 CEST
 tags: CAPP Bilden, Qualitätspass, Kunden
 author: Isabela
 lang: de
-featured: true
 image: images/blog/social/neuer-kunde-medius-kliniken-1200x630.jpg
 featured_image: images/blog/featured/20180430-neuer-kunde-medius-kliniken.jpg
 ---
