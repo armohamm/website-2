@@ -1,6 +1,6 @@
 ---
 title: "Medizinischer Fachangestellter im Krankenhaus: Entlastung für den Arzt"
-date: 2018-06-13 08:00 CEST
+date: 2018-06-14 08:00 CEST
 tags: MFA im Krankenhaus, Fachkräftemangel, Krankenhaus Rating Report 2018
 author: Najib
 lang: de
