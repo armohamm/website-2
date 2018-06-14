@@ -1,16 +1,25 @@
-machine:
-  ruby:
-    version: 2.3.3
+version: 2
+jobs:
+  build:
+    working_directory: ~/website
+    docker:
+      - image: circleci/ruby:2.3.3
+    steps:
+      - checkout
 
-general:
-  branches:
-    ignore:
-      - gh-pages
+      # Restore Cached Dependencies
+      - type: cache-restore
+        name: Restore bundle cache
+        key: v1-website-{{ checksum "Gemfile.lock" }}
 
-compile:
-  override:
-    - echo "Skip default middleman build"
+      # Bundle install dependencies
+      - run: bundle install --path vendor/bundle
 
-test:
-  override:
-    - bundle exec rake test
+      # Cache Dependencies
+      - type: cache-save
+        name: Save bundle cache
+        key: v1-website-{{ checksum "Gemfile.lock" }}
+        paths:
+          - ./vendor/bundle
+
+      - run: bundle exec rake test
