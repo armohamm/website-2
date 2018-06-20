@@ -7,7 +7,7 @@ lang: nl
 featured: true
 image: images/blog/social/umcg-by-night-1200x630.jpg
 featured_image: images/blog/featured/20180509-umcg-by-night.jpg
-mood_image: images/moods/UMCG.jpg
+header_image: moods/UMCG.jpg
 ---
 
 __In de stad Groningen ben ik geboren en getogen. Stadjer noemen we dat hier. Zowel ik als vrijwel al mijn collega’s hebben een directe, dan wel indirecte historie met wat ooit het Academisch Ziekenhuis Groningen (AZG) heette en nu alweer sinds 2005 bekend staat als het [Universitair Medisch Centrum Groningen (UMCG)](https://www.umcg.nl/){:target="_blank"}{:rel="noopener"}{:title="UMCG"}.__
