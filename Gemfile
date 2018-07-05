@@ -17,8 +17,8 @@ gem "builder" # For feed.xml.builder
 gem "rake"
 
 # Bourbon, Neat
-gem "bourbon"
-gem "neat"
+gem "bourbon", "4.2.4"
+gem "neat", "~> 1.7.2"
 
 # Frontend
 source "https://rails-assets.org" do
