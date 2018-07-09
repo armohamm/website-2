@@ -4,7 +4,6 @@ date: 2018-06-14 08:00 CEST
 tags: MFA im Krankenhaus, Fachkräftemangel, Krankenhaus Rating Report 2018
 author: Najib
 lang: de
-featured: true
 image: images/blog/social/mfa-blog-1200x630.jpg
 featured_image: images/blog/featured/20180613-mfa-blog.jpg
 hide_subscribe: true
