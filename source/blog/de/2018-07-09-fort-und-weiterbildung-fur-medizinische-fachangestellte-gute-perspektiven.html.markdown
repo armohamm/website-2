@@ -1,12 +1,12 @@
 ---
 title: "Fort- und Weiterbildung für Medizinische Fachangestellte: gute Perspektiven!"
 date: 2018-07-09 08:00 CEST
-tags: Fort- und Weiterbildung für MFA, MFA im Krankenhaus, Fort- und Weiterbildung im Krankenhaus, E-Learning
+tags: Fort- und Weiterbildung, MFA, Krankenhaus, E-Learning
 author: Najib
 lang: de
 featured: true
-image: images/blog/social/mfa-blog-2-1200x630.png
-featured_image: images/blog/featured/20180709-mfa-blog-2.png
+image: images/blog/social/mfa-blog-2-1200x630.jpg
+featured_image: images/blog/featured/20180709-mfa-blog-2.jpg
 header_image: moods/MFA-blog.jpg
 hide_subscribe: true
 ---
@@ -22,8 +22,7 @@ Im Jahr 2016 waren laut dem Verband medizinischer Fachberufe e. V. rund 441.000 
 
 Die Entwicklungen in der Medizin sind rasant und mit ihnen verändern sich auch die Anforderungen an das medizinische Personal – an Ärzte und Pflegekräfte genauso wie an Medizinische Fachkräfte. Sie müssen sich regelmäßig weiterbilden, um ihr Wissen aktuell zu halten.
 
-
-Mit Lösungen wie [CAPP](https://www.defactolearning.de/capp-bilden/){:target="_blank"}{:rel="noopener"}{:title="CAPP Bilden"} sind Krankenhäuser in der Lage den MFA die Möglichkeit zu bieten, sich durch gezielte Fort- und Weiterbildung beruflich weiterzuentwickeln, andere Schwerpunkte zu setzen, neue Aufgabengebiete und mehr Verantwortung zu erlangen. Zusätzlich haben MFA im Krankenhaus die Möglichkeit, sich durch gezielte Fort- und Weiterbildung beruflich weiterzuentwickeln, andere Schwerpunkte zu setzen, neue Aufgabengebiete und mehr Verantwortung zu erlangen. Auf einer Lernplattform können so Spezialqualifikationen angeboten werden wie:
+Mit Lösungen wie [CAPP](/capp-bilden/){:title="CAPP Bilden"} sind Krankenhäuser in der Lage den MFA die Möglichkeit zu bieten, sich durch gezielte Fort- und Weiterbildung beruflich weiterzuentwickeln, andere Schwerpunkte zu setzen, neue Aufgabengebiete und mehr Verantwortung zu erlangen. Zusätzlich haben MFA im Krankenhaus die Möglichkeit, sich durch gezielte Fort- und Weiterbildung beruflich weiterzuentwickeln, andere Schwerpunkte zu setzen, neue Aufgabengebiete und mehr Verantwortung zu erlangen. Auf einer Lernplattform können so Spezialqualifikationen angeboten werden wie:
 
 - für die Arbeit mit Patientenkontakt, z. B. für die Patientenbegleitung und Koordination sowie für die Bereiche Ernährungsmedizin, Onkologie, Pneumologie oder Palliativversorgung,
 - für Verwaltungs- und Organisationsarbeit, z. B. für Abrechnung und Dokumentation,
@@ -34,12 +33,11 @@ Die MFA erhalten mehr Sicherheit in der Arbeit und ein breiteres Spektrum an spa
 Generell wird die Fort- und Weiterbildung für MFA durch die Ärztekammern geregelt. Entsprechende Angebote sind jedoch nicht nur bei den Ärztekammern selbst, sondern auch bei den Fachgesellschaften, beim Bildungswerk für Gesundheitsberufe e. V. und bei zahlreichen anderen Trägern zu finden.
 
 - [Verband medizinischer Fachberufe e.V.](http://www.vmf-online.de){:target="_blank"}{:rel="noopener"}{:title="Verband medizinischer Fachberufe e.V."}
-- [Seite der Bundesärztekammer über Fortbildungen für MFA](http://www.Fortbildung-mfa.de){:target="_blank"}{:rel="noopener"}{:title="Seite der Bundesärztekammer über Fortbildungen für MFA"}
+- [Seite der Bundesärztekammer über Fortbildungen für MFA](https://www.bundesaerztekammer.de/fileadmin/user_upload/downloads/pdf-Ordner/MFA/Weitere_Fortbildungsangebote_fuer_MFA_2018.pdf){:target="_blank"}{:rel="noopener"}{:title="Seite der Bundesärztekammer über Fortbildungen für MFA"}
 - [Bildungswerk für Gesundheitsberufe e. V.](http://www.bildungswerk-gesundheitsberufe.de){:target="_blank"}{:rel="noopener"}{:title="Bildungswerk für Gesundheitsberufe e. V."}
-- [Angebote der Bundesärztekammer für MFA](http://www.Fortbildung-mfa.de){:target="_blank"}{:rel="noopener"}{:title="Angebote der Bundesärztekammer für MFA"}
-
 
 ## Vorteile der Fort- und Weiterbildung mit E-Learning
+
 Nehmen Medizinische Fachangestellte im Krankenhaus an Fort- und Weiterbildungsmaßnahmen teil, profitieren alle Beteiligten.
 
 Die Fort- und Weiterbildungsmaßnahmen finden in der Regel berufsbegleitend, häufig in Form von Blended Learning oder als E-Learning-Kurs statt. Dadurch haben die Teilnehmer den Vorteil, Ort und Zeitpunkt des Lernens selbst wählen zu können.
@@ -47,7 +45,6 @@ Die Fort- und Weiterbildungsmaßnahmen finden in der Regel berufsbegleitend, hä
 Kliniken, die ihre Mitarbeiter zu digitalen Fort- und Weiterbildungen motivieren, sorgen damit nicht nur für qualifiziertes, motiviertes Personal, sondern auch für ein gutes Betriebsklima. Diese Vorgehensweise, die bereits seit langem erfolgreich in den Niederlanden praktiziert wird, setzt sich mittlerweile auch mehr und mehr in Deutschland durch.
 
 Mit unserer langjährigen Erfahrung im Gesundheitswesen sind wir ein starker Partner in der Erstellung und Implementierung von digitalen Lernwelten im Krankenhaus. Vier von acht Universitätskliniken in den Niederlanden setzen auf unser Learning & Talentmanagement System. CAPP LMS unterstützt alle Formen des Lernens und bietet ein auf den Nutzer individuell abgestimmte Lernumgebung, die die fachliche und persönliche Entwicklung fördert. Mitarbeiter werden somit optimal ausgebildet, bleiben compliant, erhalten notwendige Performance Support, können Wissen miteinander teilen und sind langfristig im Krankenhaus einsetzbar.
-
 
 ## Organisation der Fort- und Weiterbildung im Krankenhaus
 
