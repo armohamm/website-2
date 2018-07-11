@@ -31,7 +31,7 @@
     <%= feed_tag :atom, "#{blog("blog").options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
     <%= stylesheet_link_tag "main" %>
     <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <%= partial "partials/google_analytics" unless development? %>
+    <%= partial "partials/google_analytics" if production %>
   </head>
 
   <body class="<%= page_classes %>">

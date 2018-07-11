@@ -1,9 +1,9 @@
 ## Serve
 namespace :serve do
   def serve(env)
-    puts "*"*50
+    puts "*" * 50
     puts "* Serving #{env.upcase}"
-    puts "*"*50
+    puts "*" * 50
     system "LOCALE=#{env} bundle exec middleman"
   end
 
@@ -26,9 +26,9 @@ end
 ## Build
 namespace :build do
   def build(env)
-    puts "*"*50
+    puts "*" * 50
     puts "* Building #{env.upcase} ..."
-    puts "*"*50
+    puts "*" * 50
     system "LOCALE=#{env} bundle exec middleman build --clean" or exit(1)
   end
 
@@ -61,15 +61,15 @@ namespace :test do
     begin
       Rake::Task["build:#{env}"].invoke
     rescue SystemExit => e
-      puts "*"*50
+      puts "*" * 50
       puts "* Build failed, skipping test (locale #{env.upcase})"
-      puts "*"*50
+      puts "*" * 50
       exit(e.status)
     end
 
-    puts "*"*50
+    puts "*" * 50
     puts "* Build successful, Test #{env.upcase} ... "
-    puts "*"*50
+    puts "*" * 50
     system "ruby test.rb" or exit(1)
   end
 
@@ -96,17 +96,20 @@ task :test => ["test:nl", "test:de", "test:en"]
 namespace :deploy do
   def deploy(env)
     begin
-      Rake::Task["build:#{env}"].invoke
+      puts "*" * 50
+      puts "* Building #{env.upcase} ..."
+      puts "*" * 50
+      system "LOCALE=#{env} PRODUCTION=true bundle exec middleman build --clean" or exit(1)
     rescue SystemExit => e
-      puts "*"*50
+      puts "*" * 50
       puts "* Build failed, skipping deployment (locale #{env.upcase})"
-      puts "*"*50
+      puts "*" * 50
       exit(e.status)
     end
 
-    puts "*"*50
+    puts "*" * 50
     puts "* Build successful, Deploying #{env.upcase} ... "
-    puts "*"*50
+    puts "*" * 50
     system "LOCALE=#{env} bundle exec middleman deploy" or exit(1)
   end
 
@@ -133,20 +136,20 @@ task :deploy => ["deploy:nl", "deploy:de", "deploy:en"]
 namespace :deploy_staging do
   def deploy_staging(env)
     begin
-      puts "*"*50
+      puts "*" * 50
       puts "* Building #{env.upcase} ..."
-      puts "*"*50
+      puts "*" * 50
       system "LOCALE=#{env} STAGING=true bundle exec middleman build --clean" or exit(1)
     rescue SystemExit => e
-      puts "*"*50
+      puts "*" * 50
       puts "* Build failed, skipping Staging (locale #{env.upcase})"
-      puts "*"*50
+      puts "*" * 50
       exit(e.status)
     end
 
-    puts "*"*50
+    puts "*" * 50
     puts "* Build successful, Staging #{env.upcase} ... "
-    puts "*"*50
+    puts "*" * 50
     system "LOCALE=#{env} STAGING=true bundle exec middleman deploy" or exit(1)
   end
 

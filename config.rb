@@ -13,9 +13,12 @@ activate :i18n, mount_at_root: root_locale, langs: %i(nl de en)
 
 set :ga_code, "UA-6700447-1"
 
-# Set a target environment
+# Set target environments
 staging = ENV["STAGING"] == "true"
 set :staging, staging
+
+production = ENV["PRODUCTION"] == "true"
+set :production, production
 
 # Set a CNAME per target environment
 set :cname,
