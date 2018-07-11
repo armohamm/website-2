@@ -1,7 +1,7 @@
 ---
 title: Snelkookpan-implementatie bij de gemeente Den Haag - in twee weken uit en thuis!
 date: 2016-02-01 17:33 CET
-tags: CAPP, implementatie
+tags: CAPP LMS, implementatie
 author: Joost
 lang: nl
 featured_image: images/blog/featured/20160201-den-haag.png

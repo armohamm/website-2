@@ -1,7 +1,7 @@
 ---
 title: "Stadjer zoekt UMC, UMC zoekt LMS"
 date: 2018-05-09 8:00 CEST
-tags: CAPP LMS, UMC
+tags: CAPP LMS, UMCG
 author: Tim
 lang: nl
 featured: true

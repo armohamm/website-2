@@ -1,7 +1,7 @@
 ---
 title: 'Alweer een systeem?!'
 date: 2016-07-18 08:00 CEST
-tags: implementatie, CAPP, software
+tags: implementatie, CAPP LMS, software
 author: Bastiaan
 lang: nl
 image: images/blog/social/alweer-een-systeem-1200x630.png

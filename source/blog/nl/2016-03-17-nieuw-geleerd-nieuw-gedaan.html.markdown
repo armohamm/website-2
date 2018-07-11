@@ -1,7 +1,7 @@
 ---
 title: Nieuw geleerd, nieuw gedaan
 date: 2016-03-17 7:30 CET
-tags: digitalisering, CAPP, NextLearning
+tags: digitalisering, CAPP LMS, NextLearning
 author: Joep
 lang: nl
 image: images/blog/social/nieuw-geleerd-nieuw-gedaan-1200x630.jpg

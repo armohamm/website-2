@@ -1,7 +1,7 @@
 ---
 title: Help! Mijn e-learningmodule werkt niet!
 date: 2016-06-20 10:58 CEST
-tags: SCORM, e-learning, CAPP
+tags: SCORM, e-learning, CAPP LMS
 author: Joep
 lang: nl
 image: images/blog/social/scorm-sores-1200x630.png

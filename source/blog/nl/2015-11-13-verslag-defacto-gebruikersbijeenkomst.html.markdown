@@ -1,7 +1,7 @@
 ---
 title: Verslag Defacto gebruikersbijeenkomst
 date: 2015-11-13 16:05 CET
-tags: gebruikersoverleg, CAPP
+tags: gebruikersoverleg, CAPP LMS
 author: Cas Paauwe
 lang: nl
 featured_image: images/blog/featured/20151113-gebruikersbijeenkomst.jpg

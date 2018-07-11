@@ -1,7 +1,7 @@
 ---
 title: Gebruikersoverleg 22 september 2016
 date: 2016-10-05 08:00 CEST
-tags: gebruikersoverleg, CAPP Agile Learning, CAPP, video
+tags: gebruikersoverleg, CAPP Agile Learning, CAPP LMS, video
 author: Joke Coens
 lang: nl
 image: images/blog/social/gebruikersoverleg-september-2016-1200x630.png

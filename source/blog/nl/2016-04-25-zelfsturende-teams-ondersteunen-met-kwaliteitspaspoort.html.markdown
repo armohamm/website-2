@@ -1,7 +1,7 @@
 ---
 title: Zelfsturende teams ondersteunen met het CAPP Kwaliteitspaspoort
 date: 2016-04-25 7:30 CET
-tags: CAPP, Kwaliteitspaspoort
+tags: CAPP LMS, Kwaliteitspaspoort
 author: Gerwin
 lang: nl
 image: images/blog/social/zelfsturende-teams-ondersteunen-kwaliteitspaspoort.png

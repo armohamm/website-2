@@ -49,6 +49,10 @@ div.featured-blog {
 }
 
 body.blog_tags_index {
+  .post-header {
+    margin-bottom: 2em;
+  }
+
   ol {
     border-bottom: $post-border 1px solid;
     margin-bottom: 2em;

@@ -1,7 +1,7 @@
 ---
 title: "Terugblik Defacto Gebruikersoverleg najaar 2017"
 date: 2017-10-04 07:00 CEST
-tags: gebruikersoverleg, CAPP Agile Learning, CAPP
+tags: gebruikersoverleg, CAPP Agile Learning, CAPP LMS
 author: Stéphanie
 lang: nl
 image: images/blog/social/gebruikersoverleg-2-2017-1200x630.jpg

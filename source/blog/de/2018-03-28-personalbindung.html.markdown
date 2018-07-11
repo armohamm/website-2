@@ -1,7 +1,7 @@
 ---
 title: "Personalbindung und Digitalisierung. Welche Möglichkeiten bieten sich für Krankenhäuser und wie werden diese umgesetzt?"
 date: 2018-03-28 8:00 CEST
-tags: performance support, digitalisierung, CAPP, LMS  
+tags: performance support, Digitalisierung, CAPP, LMS  
 author: Najib
 lang: de
 featured: true

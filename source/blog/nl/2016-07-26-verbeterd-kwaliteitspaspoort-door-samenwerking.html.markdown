@@ -1,7 +1,7 @@
 ---
 title: Verbeterd Kwaliteitspaspoort door samenwerking
 date: 2016-07-26 08:00 CEST
-tags: Kwaliteitspaspoort, CAPP
+tags: Kwaliteitspaspoort, CAPP LMS
 author: Gerwin
 lang: nl
 image: images/blog/social/verbeterd-kpp-1200x630.png

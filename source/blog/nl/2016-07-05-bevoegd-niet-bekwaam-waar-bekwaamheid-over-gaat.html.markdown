@@ -1,7 +1,7 @@
 ---
 title: Bevoegd is niet bekwaam – Waar bekwaamheid echt over gaat
 date: 2016-07-05 08:00 CEST
-tags: accreditaties, performance support, CAPP
+tags: accreditaties, performance support, CAPP LMS
 author: Joep
 lang: nl
 image: images/blog/social/bevoegd-is-niet-bekwaam-1200x630.png

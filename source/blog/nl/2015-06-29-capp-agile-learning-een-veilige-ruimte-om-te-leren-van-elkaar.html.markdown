@@ -1,7 +1,7 @@
 ---
 title: "CAPP Agile Learning: een veilige ruimte om te leren van elkaar."
 date: 2015-06-29 12:35 CEST
-tags: CAPP Agile Learning, 70-20-10, social learning
+tags: CAPP Agile Learning, 70-20-10, sociaal leren
 author: Margreet Twijnstra
 featured: false
 lang: nl

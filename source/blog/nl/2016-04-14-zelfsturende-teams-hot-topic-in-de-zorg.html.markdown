@@ -1,7 +1,7 @@
 ---
 title: Zelfsturende teams, een hot topic in de zorg!
 date: 2016-04-14 7:30 CET
-tags: zorg, Kwaliteitspaspoort, CAPP
+tags: zorg, Kwaliteitspaspoort, CAPP LMS
 author: Marian
 lang: nl
 image: images/blog/social/zelfsturende-teams-1200x630.png

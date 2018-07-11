@@ -1,7 +1,7 @@
 ---
 title: Aantoonbaar bekwaam in het kader van het Convenant Medische Technologie
 date: 2016-01-04 15:30 CET
-tags: gebruikersoverleg, CAPP, CAPP Agile Learning
+tags: gebruikersoverleg, CAPP LMS, CAPP Agile Learning
 author: Marian
 lang: nl
 featured_image: images/blog/featured/20160104-convenant.jpg

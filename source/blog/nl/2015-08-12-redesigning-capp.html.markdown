@@ -1,7 +1,7 @@
 ---
 title: Van prototype tot product
 date: 2015-08-12 10:55 CEST
-tags: CAPP, functioneel ontwerp, development
+tags: CAPP LMS, functioneel ontwerp, development
 author: Glenn
 featured: false
 lang: nl

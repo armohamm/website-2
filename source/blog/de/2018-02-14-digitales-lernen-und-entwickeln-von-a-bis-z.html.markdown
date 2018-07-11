@@ -1,7 +1,7 @@
 ---
 title: "Digitales Lernen und Entwickeln von A bis Z"
 date: 2018-02-14 8:00 CEST
-tags: Lernen, E-Learning, Lernumgebung, Talent Management
+tags: Lernen, E-Learning, Lernumgebung, Talentmanagement
 author: David
 lang: de
 image: images/blog/social/digitales-lernen-und-entwickeln-a-z-1200x630.jpg
