@@ -13,7 +13,7 @@
         <% else %>
           <%
           page_url = "/blog/"
-          page_url << "tags/#{tagname.downcase}/" if defined?(tagname)
+          page_url << "tags/#{tagname.downcase.gsub(" ", "-")}/" if defined?(tagname)
           page_url << "#{page}/" unless page == 1
           %>
           <li><%= link_to page, page_url %></li>
