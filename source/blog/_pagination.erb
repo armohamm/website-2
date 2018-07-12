@@ -2,12 +2,14 @@
   <div class="pagination">
     <ul>
       <% if prev_page %>
-        <li><%= link_to "", prev_page, class: "page-step icon-chevron-left" %></li>
+        <li class="step">
+          <%= link_to "", prev_page, class: "page-step icon-chevron-left" %>
+        </li>
       <% end %>
 
       <% for page in 1..num_pages %>
         <% if page == page_number %>
-          <li class="current">
+          <li class="current item">
             <span><%= page %></span>
           </li>
         <% else %>
@@ -16,12 +18,16 @@
           page_url << "tags/#{tagname.downcase.gsub(" ", "-")}/" if defined?(tagname)
           page_url << "#{page}/" unless page == 1
           %>
-          <li><%= link_to page, page_url %></li>
+          <li class="item">
+            <%= link_to page, page_url %>
+          </li>
         <% end %>
       <% end %>
 
       <% if next_page %>
-        <li><%= link_to "", next_page, class: "page-step icon-chevron-right" %></li>
+        <li class="step">
+          <%= link_to "", next_page, class: "page-step icon-chevron-right" %>
+        </li>
       <% end %>
     </ul>
   </div>

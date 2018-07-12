@@ -10,20 +10,28 @@
   }
 
   li {
+    &.item {
+      display: none;
+
+      @include media($medium-up) {
+        display: inline-block;
+      }
+    }
+
     a,
     span {
       background-color: $white;
       border: 1px solid $base-border-color;
       color: $blue;
       display: block;
-      font-size: $base-font-size * 0.8;
+      font-size: $base-font-size;
       line-height: 3em;
       margin-left: -1px;
-      padding: 0 1em;
+      padding: 0.5em 1em;
       text-decoration: none;
 
       @include media($medium-up) {
-        font-size: $base-font-size;
+        padding: 0 1em;
       }
 
       &:active,
