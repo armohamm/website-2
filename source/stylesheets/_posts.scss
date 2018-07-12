@@ -9,7 +9,7 @@ article.post {
     max-width: 960px;
 
     body.blog-article & {
-      margin: 0 auto 0.5em;
+      margin: 0 auto 0.8em;
     }
   }
 
@@ -22,49 +22,6 @@ article.post {
       &:hover {
         color: $light-gray;
       }
-    }
-  }
-}
-
-.blog-meta {
-  color: $post-meta;
-  display: block;
-  font-size: $base-font-size * 0.9;
-
-  time {
-    display: block;
-    white-space: nowrap;
-
-    @include media($medium-up) {
-      display: inline-block;
-    }
-
-    &::before,
-    &::after {
-      @include media($medium-up) {
-        content: "–";
-        display: inline;
-        margin: 0 0.5em;
-      }
-    }
-  }
-
-  .post-tags {
-    display: block;
-
-    @include media($medium-up) {
-      display: inline-block;
-    }
-
-    .separator {
-      display: inline-block;
-      opacity: 0.75;
-      padding: 0 0.1em;
-    }
-
-    .tag {
-      display: inline-block;
-      white-space: nowrap;
     }
   }
 }
@@ -126,150 +83,6 @@ article.post {
   }
 }
 
-.case-sidebar {
-  background: $white;
-  border-top: 1px solid $post-border;
-  padding-top: 3em;
-  text-align: center;
-  width: 100%;
-
-  @include media($large-up) {
-    @include span-columns(4);
-    border-top: 0;
-    padding-top: 0;
-    text-align: left;
-  }
-
-  p {
-    font-size: $base-font-size * 1.2;
-  }
-
-  .case-logo {
-    display: block;
-    margin: 0 auto;
-    max-width: 300px;
-    width: 100%;
-  }
-
-  div {
-    margin-bottom: 2em;
-    padding: 1em 1em 3em;
-    position: relative;
-
-    &:first-child {
-      padding-top: 0;
-    }
-
-    &:last-child {
-      padding-bottom: 0;
-    }
-
-    &::after {
-      background-color: $orange;
-      bottom: 0;
-      content: "";
-      height: 3px;
-      left: 50%;
-      margin-left: -10%;
-      position: absolute;
-      width: 20%;
-    }
-
-    &:last-child::after {
-      display: none;
-    }
-  }
-
-  .case-quote {
-    p {
-      font-size: $base-font-size;
-      margin: 0;
-      text-align: center;
-    }
-
-    .case-quote-text {
-      font-style: italic;
-      margin-bottom: 1em;
-    }
-
-    .case-quote-person {
-      font-weight: bold;
-    }
-
-    .case-quote-position {
-      color: $testimonial-gray;
-      font-size: $base-font-size * 0.8;
-      padding-top: 0.5em;
-    }
-  }
-
-  ul {
-    display: block;
-    list-style: none;
-    margin: 0 auto;
-    max-width: 400px;
-    width: 100%;
-  }
-
-  li {
-    font-size: $base-font-size;
-    list-style: none;
-    padding: 0.4em 0;
-
-    span {
-      background: $orange;
-      border-radius: 3px;
-      color: $white;
-      margin-right: 0.1em;
-      padding: 0.2em;
-    }
-  }
-}
-
-
-.post-subscribe {
-  background: $lightest-gray;
-  margin-bottom: 3em;
-  margin-top: 3em;
-  padding: 2em;
-
-  h2 {
-    font-size: $base-font-size * 1.6;
-    text-align: center;
-  }
-}
-
-.post-footer {
-  margin: 0 auto;
-  max-width: 960px;
-  padding: 0;
-
-  .author {
-    border-top: $post-border 1px solid;
-    padding: 3em 0 0;
-    position: relative;
-    text-align: center;
-  }
-
-  .author-name {
-    font-weight: 700;
-  }
-
-  .avatar {
-    @include avatar-size($avatar-size-big);
-    background-color: $white;
-    box-shadow: $post-shadow 0 0 0 1px;
-    box-sizing: border-box;
-    display: block;
-    left: 50%;
-    margin-left: -$avatar-size-big / 2;
-    padding: 6px;
-    position: absolute;
-    top: -$avatar-size-big / 2;
-    z-index: 2;
-  }
-}
-
 .post-list {
   h2 {
     font-size: $base-font-size * 1.2;
@@ -297,21 +110,5 @@ article.post {
   article {
     max-width: none;
     width: 100%;
-  }
-}
-
-.related-posts {
-  background: $lightest-gray;
-
-  a {
-    color: $blog-link-color;
-    text-decoration: none;
-    transition: color 0.1s linear;
-
-    &:active,
-    &:focus,
-    &:hover {
-      color: darken($blog-link-color, 15%);
-    }
   }
 }

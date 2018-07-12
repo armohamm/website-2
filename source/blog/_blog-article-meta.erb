@@ -4,16 +4,31 @@ author_name = author ? blog_author_name(author) : article.data.author
 %>
 
 <div class="blog-meta">
-  <span class="author-name"><%= author_name %></span>
+
+  <% if author_name %>
+    <span class="author">
+      <% if author && src = team_avatar_url(author) %>
+        <span class="author-image">
+          <%= image_tag src, alt: author_name, class: "avatar" %>
+        </span>
+      <% end %>
+      <span class="author-name">
+        <%= author_name %>
+      </span>
+    </span>
+    <span class="separator">|</span>
+  <% end %>
+
   <time datetime="<%= article.date.strftime("%F") %>">
     <%= I18n.l(article.date, format: :blog_date) %>
   </time>
-  <span class="post-tags">
-    <% article.tags.each_with_index do |tag, index| %>
-      <%= link_to capitalize(tag), tag_path(tag, "blog"), class: "tag" %>
-      <% unless index == article.tags.size - 1 %>
-        <span class="separator">&bull;</span>
-      <% end %>
-    <% end %>
+
+  <span class="separator">|</span>
+
+  <span class="reading-time">
+    <%= t("blog.reading_time.title") %>:
+    <%= reading_time article.body %>
+    <%= t("blog.reading_time.min") %>
   </span>
+  
 </div>

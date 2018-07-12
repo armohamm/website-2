@@ -63,6 +63,9 @@ en:
     more_on_our_blog: "More blogs"
     more_articles: "More articles"
     read_more: "Read more"
+    reading_time:
+      title: "Reading time"
+      min: "min."
     title: "Blog – Learning & Developing"
     share:
       share_post: "Share this article:"

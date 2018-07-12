@@ -603,6 +603,14 @@ helpers do
     "#{author.firstname} #{author.prefix} #{author.lastname}"
   end
 
+  # Reading time for blog posts
+  def reading_time(input)
+    words_per_minute = 200
+    words = input.split.size
+    minutes = (words / words_per_minute).floor
+    minutes <= 1 ? "1" : minutes.to_s
+  end
+
   # Capitalize tagnames
   def capitalize(tagname)
     tagname = tagname.slice(0, 1).capitalize + tagname.slice(1..-1)

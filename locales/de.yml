@@ -96,6 +96,9 @@ de:
     more_on_our_blog: "Mehr Blogs"
     more_articles: "Mehr Artikel"
     read_more: "Weiter lesen"
+    reading_time:
+      title: "Lesezeit"
+      min: "Min."
     title: "Blog - Bilden und Entwickeln"
     share:
       share_post: "Teile diesen Artikel:"

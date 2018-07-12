@@ -1,0 +1,9 @@
+<div class="blog-tags">
+  <%= link_to "", "/blog/tags/", class: "icon-tags" %>
+  <% article.tags.each_with_index do |tag, index| %>
+    <%= link_to capitalize(tag), tag_path(tag, "blog"), class: "tag" %>
+    <% if index < article.tags.size - 1 %>
+      <span class="separator">,</span>
+    <% end %>
+  <% end %>
+</div>

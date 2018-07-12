@@ -7,6 +7,10 @@
     @include span-columns(4);
   }
 
+  &.case-sidebar {
+    background: $white;
+  }
+
   nav {
     li {
       border-bottom: 2px solid $gray;

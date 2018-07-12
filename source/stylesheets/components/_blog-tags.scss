@@ -1,0 +1,37 @@
+.blog-tags {
+  display: block;
+  line-height: 24px;
+  text-align: center;
+
+  @include media($medium-up) {
+    display: flex;
+    justify-content: center;
+  }
+
+  .icon-tags {
+    line-height: 1.5em;
+    margin-right: 0.4em;
+  }
+
+  a {
+    color: $white;
+    white-space: nowrap;
+
+    &:active,
+    &:focus,
+    &:hover {
+      color: darken($white, 15%);
+    }
+  }
+
+  .separator {
+    display: inline-block;
+    margin-left: -4px;
+    margin-right: 0.2em;
+    padding: 0;
+
+    @include media($medium-up) {
+      margin-left: 0;
+    }
+  }
+}

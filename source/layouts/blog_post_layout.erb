@@ -11,6 +11,7 @@
 
       <%= partial "blog/blog-article-meta", locals: { article: current_article } %>
 
+      <%= partial "blog/blog-article-tags", locals: { article: current_article } %>
     </div>
   </header>
 
@@ -23,21 +24,6 @@
     <%= partial "blog/blog-subscribe" unless current_article.data.hide_subscribe %>
 
   </div>
-
-  <footer class="row post-footer">
-    <div class="col">
-      <div class="author">
-        <%
-        author = blog_author(current_article)
-        author_name = author ? blog_author_name(author) : current_article.data.author
-
-        if author && src = team_avatar_url(author) %>
-          <%= image_tag src, alt: author_name, class: "avatar" %>
-          <h4 class="author-name"><%= author_name %></h4>
-        <% end %>
-      </div>
-    </div>
-  </footer>
 
 </article>
 

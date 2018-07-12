@@ -1,13 +1,13 @@
 <div class="sidebar case-sidebar">
 
   <% if current_article.data.logo %>
-    <div>
+    <div class="sidebar-section">
       <%= image_tag image_path(current_article.data.logo), class: "case-logo", alt: current_page.title %>
     </div>
   <% end %>
 
   <% if current_article.data.quote %>
-    <div class="case-quote">
+    <div class="sidebar-section case-quote">
 
       <% if current_article.data.quote.text %>
         <p class="case-quote-text">
@@ -31,7 +31,7 @@
   <% end %>
 
   <% if current_article.data.services %>
-    <div>
+    <div class="sidebar-section">
       <h3><%= t("cases.sidebar.products") %></h3>
       <ul class="services">
         <% current_article.data.services.each do |service| %>
@@ -45,7 +45,7 @@
   <% end %>
 
   <% if current_page.data.facts %>
-    <div>
+    <div class="sidebar-section">
       <h3><%= t("cases.sidebar.facts.title") %></h3>
       <dl>
         <% if current_page.data.facts.branch %>

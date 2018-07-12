@@ -1,0 +1,15 @@
+.related-posts {
+  background: $lightest-gray;
+
+  a {
+    color: $blog-link-color;
+    text-decoration: none;
+    transition: color 0.1s linear;
+
+    &:active,
+    &:focus,
+    &:hover {
+      color: darken($blog-link-color, 15%);
+    }
+  }
+}

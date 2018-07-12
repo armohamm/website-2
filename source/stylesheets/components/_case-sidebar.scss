@@ -1,0 +1,98 @@
+.case-sidebar {
+  border-top: 1px solid $post-border;
+  padding-top: 3em;
+  text-align: center;
+  width: 100%;
+
+  @include media($large-up) {
+    @include span-columns(4);
+    border-top: 0;
+    padding-top: 0;
+    text-align: left;
+  }
+
+  p {
+    font-size: $base-font-size * 1.2;
+  }
+
+  .case-logo {
+    display: block;
+    margin: 0 auto;
+    max-width: 300px;
+    width: 100%;
+  }
+
+  .sidebar-section {
+    margin-bottom: 2em;
+    padding: 1em 1em 3em;
+    position: relative;
+
+    &:first-child {
+      padding-top: 0;
+    }
+
+    &:last-child {
+      padding-bottom: 0;
+    }
+
+    &::after {
+      background-color: $orange;
+      bottom: 0;
+      content: "";
+      height: 3px;
+      left: 50%;
+      margin-left: -10%;
+      position: absolute;
+      width: 20%;
+    }
+
+    &:last-child::after {
+      display: none;
+    }
+  }
+
+  .case-quote {
+    p {
+      font-size: $base-font-size;
+      margin: 0;
+      text-align: center;
+    }
+
+    .case-quote-text {
+      font-style: italic;
+      margin-bottom: 1em;
+    }
+
+    .case-quote-person {
+      font-weight: bold;
+    }
+
+    .case-quote-position {
+      color: $testimonial-gray;
+      font-size: $base-font-size * 0.8;
+      padding-top: 0.5em;
+    }
+  }
+
+  .services {
+    display: block;
+    list-style: none;
+    margin: 0 auto;
+    max-width: 400px;
+    width: 100%;
+
+    li {
+      font-size: $base-font-size;
+      list-style: none;
+      padding: 0.4em 0;
+
+      span {
+        background: $orange;
+        border-radius: 3px;
+        color: $white;
+        margin-right: 0.1em;
+        padding: 0.2em;
+      }
+    }
+  }
+}

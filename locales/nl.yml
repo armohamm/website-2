@@ -65,6 +65,9 @@ nl:
     more_on_our_blog: "Meer blogs"
     more_articles: "Meer artikelen"
     read_more: "Lees verder"
+    reading_time:
+      title: "Leestijd"
+      min: "min."
     title: "Blog – leren en ontwikkelen"
     share:
       share_post: "Deel dit artikel:"
