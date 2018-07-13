@@ -3,58 +3,85 @@
   text-align: center;
 
   ul {
-    border-radius: 4px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-  }
 
-  li {
-    &.item {
-      display: none;
+    width: 100%;
 
-      @include media($medium-up) {
-        display: inline-block;
-      }
-    }
-
-    a,
-    span {
-      background-color: $white;
-      border: 1px solid $base-border-color;
-      color: $blue;
-      display: block;
-      font-size: $base-font-size;
-      line-height: 3em;
-      margin-left: -1px;
-      padding: 0.5em 1em;
-      text-decoration: none;
+    li {
+      flex: 3;
 
       @include media($medium-up) {
-        padding: 0 1em;
+        flex: 0;
       }
 
-      &:active,
-      &:focus,
-      &:hover {
-        background: $lighter-gray;
+      &.item {
+        display: none;
+
+        @include media($medium-up) {
+          display: inline-block;
+        }
       }
-    }
 
-    &:first-child a {
-      border-bottom-left-radius: $base-border-radius;
-      border-top-left-radius: $base-border-radius;
-    }
+      &.pages {
+        flex: 6;
 
-    &:last-child a {
-      border-bottom-right-radius: $base-border-radius;
-      border-top-right-radius: $base-border-radius;
-    }
+        @include media($medium-up) {
+          display: none;
+        }
 
-    &.current span {
-      background-color: $blue;
-      border-color: $blue;
-      color: $white;
+        span {
+          color: $medium-gray;
+        }
+      }
+
+      &.current span {
+        background-color: $blue;
+        border-color: $blue;
+        color: $white;
+      }
+
+      &.disabled span {
+        color: $base-border-color;
+      }
+
+      a,
+      span {
+        background-color: $white;
+        border: 1px solid $base-border-color;
+        display: block;
+        font-size: $base-font-size;
+        line-height: 3em;
+        margin-left: -1px;
+        padding: 0.5em 1em;
+
+        @include media($medium-up) {
+          padding: 0 1em;
+        }
+      }
+
+      a {
+        color: $blue;
+
+        &:active,
+        &:focus,
+        &:hover {
+          background: $lighter-gray;
+        }
+      }
+
+      &:first-child a,
+      &:first-child span {
+        border-bottom-left-radius: $base-border-radius;
+        border-top-left-radius: $base-border-radius;
+      }
+
+      &:last-child a,
+      &:last-child span {
+        border-bottom-right-radius: $base-border-radius;
+        border-top-right-radius: $base-border-radius;
+      }
     }
   }
 }

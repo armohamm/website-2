@@ -1,11 +1,22 @@
 <% if paginate && num_pages > 1 %>
   <div class="pagination">
     <ul>
+
       <% if prev_page %>
-        <li class="step">
-          <%= link_to "", prev_page, class: "page-step icon-chevron-left" %>
+        <li>
+          <%= link_to "", prev_page, class: "icon-chevron-left" %>
+        </li>
+      <% else %>
+        <li class="disabled">
+          <span class="icon-chevron-left"></span>
         </li>
       <% end %>
+
+      <li class="pages">
+        <span>
+          <%= page_number %> / <%= num_pages %>
+        </span>
+      </li>
 
       <% for page in 1..num_pages %>
         <% if page == page_number %>
@@ -25,10 +36,15 @@
       <% end %>
 
       <% if next_page %>
-        <li class="step">
-          <%= link_to "", next_page, class: "page-step icon-chevron-right" %>
+        <li>
+          <%= link_to "", next_page, class: "icon-chevron-right" %>
+        </li>
+      <% else %>
+        <li class="disabled">
+          <span class="icon-chevron-right"></span>
         </li>
       <% end %>
+
     </ul>
   </div>
 <% end %>
