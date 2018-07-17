@@ -6,7 +6,6 @@ author: Najib
 lang: de
 image: images/blog/social/mfa-blog-1200x630.jpg
 featured_image: images/blog/featured/20180613-mfa-blog.jpg
-hide_subscribe: true
 ---
 __Im [Krankenhaus Rating Report 2018 ](https://www.medhochzwei-verlag.de/shop/index.php/krankenhaus-rating-report-2018-978-3-86216-466-0.html){:target="_blank"}{:rel="noopener"}{:title="Krankenhaus Rating Report 2018"} wird festgestellt, dass der Personalmangel im Gesundheitswesen mittlerweile so bedrohlich ist, dass er zu einer Rationierung von Leistungen in Kliniken führen könnte. Gleichzeitig wünschen sich Ärzte nach einer Studie des Marburger Bundes weniger Bürokratie im Klinikalltag und mehr Zeit für die Patienten. Aber wie lässt sich das realisieren? Dafür kommen immer häufiger Medizinische Fachangestellte (MFA) im Krankenhaus zum Einsatz – zur Unterstützung der Ärzte sowie zur Verbesserung der Abläufe und der Kommunikation.__
 

@@ -8,7 +8,6 @@ featured: true
 image: images/blog/social/mfa-blog-2-1200x630.jpg
 featured_image: images/blog/featured/20180709-mfa-blog-2.jpg
 header_image: moods/MFA-blog.jpg
-hide_subscribe: true
 ---
 __Zahlreiche Angebote der Fort- und Weiterbildung für Medizinische Fachangestellte (MFA) im Krankenhaus eröffnen diesen ein breites Spektrum an Zusatzqualifikationen und neuen Tätigkeitsfeldern. Immer mehr Kliniken beschäftigen Medizinische Fachangestellte und fördern deren weitere Qualifikation, um in Zeiten des Fachkräftemangels Mediziner und Pflegekräfte gezielt zu entlasten.__
 
