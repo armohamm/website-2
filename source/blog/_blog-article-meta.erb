@@ -27,8 +27,8 @@ author_name = author ? blog_author_name(author) : article.data.author
 
   <span class="reading-time">
     <%= t("blog.reading_time.title") %>:
-    <%= reading_time article.body %>
+    ± <%= reading_time article.body %>
     <%= t("blog.reading_time.min") %>
   </span>
-  
+
 </div>
