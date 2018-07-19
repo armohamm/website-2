@@ -112,6 +112,7 @@ when :nl
   redirect "blog/learningspaces-een-veilige-ruimte-om-te-leren-van-elkaar.html", to: "/blog/capp-agile-learning-een-veilige-ruimte-om-te-leren-van-elkaar/"
   redirect "referenties.html", to: "klanten.html"
 when :de
+  redirect "jobs/consultant.html", to: "/jobs/projektleiter-consultant-softwareimplementierung/"
   redirect "elearning-starterkit.html", to: "e-learning-starterkit.html"
   redirect "hosting.html", to: "hosting-sicherheit.html"
   redirect "kundenreferenzen.html", to: "kundenstimmen.html"
