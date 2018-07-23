@@ -22,8 +22,12 @@
   }
 
   h2 {
-    font-size: $base-font-size * 1.6;
+    font-size: $base-font-size * 1.2;
     font-weight: 700;
+
+    @include media($medium-up) {
+      font-size: $base-font-size * 1.6;
+    }
 
     a {
       color: $dark-gray;
