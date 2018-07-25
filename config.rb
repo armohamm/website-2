@@ -113,6 +113,7 @@ when :nl
   redirect "referenties.html", to: "klanten.html"
 when :de
   redirect "jobs/consultant.html", to: "/jobs/projektleiter-consultant-softwareimplementierung/"
+  redirect "datenschutz.html", to: "datenschutzerklarung.html"
   redirect "elearning-starterkit.html", to: "e-learning-starterkit.html"
   redirect "hosting.html", to: "hosting-sicherheit.html"
   redirect "kundenreferenzen.html", to: "kundenstimmen.html"

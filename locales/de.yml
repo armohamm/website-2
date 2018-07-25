@@ -21,7 +21,7 @@ de:
     kwaliteitspaspoort: qualitatspass-qualitatsmonitor
     kwaliteitsmonitor: qualitatsmonitor
     over-ons: "uber-uns"
-    privacy-policy: "datenschutz"
+    privacy-policy: "datenschutzerklarung"
     producten: produkte
     productsheet-downloaden: "produktblatt-herunterladen"
     testimonials: kundenstimmen
@@ -315,6 +315,8 @@ de:
     heading: "Hosting und Sicherheit"
   implementaties:
     heading: "Bildungsmanagement-Software mit Defacto implementieren"
+  impressum:
+    title: "Impressum"
   koppelingen:
     heading: "Zertifizierte Schnittstellen"
   kwaliteitspaspoort:
@@ -338,7 +340,7 @@ de:
     starterkit: "Lernen Sie, eigene E-Learning Module zu erstellen"
     threesixty: "Die Sichtweisen der anderen kennen, um sich selbst weiterzuentwickeln"
   privacy-policy:
-    name: "Datenschutz"
+    name: "Datenschutzerklärung"
   products:
     title: "Produkte, auf die wir stolz sind"
     capp:
