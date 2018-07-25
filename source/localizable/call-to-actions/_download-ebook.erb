@@ -1,0 +1,20 @@
+<section class="cta-bottom gray" id="ebook-download">
+  <div class="row">
+
+    <label for="ebook-email">
+      <h3><%= t("elearning_ebook.heading_html") %></h3>
+      <%= image_tag "book-#{I18n.locale.to_s}.png", alt: t("elearning_ebook.image_alt") %>
+    </label>
+
+    <form class="form-inline" accept-charset="UTF-8" action="<%= t("urls.ebook") %>" method="POST">
+      <input type="hidden" name="utf8" value="✓">
+      <input type="hidden" name="form" value="<%= t("elearning_ebook.formkeep_title") %>">
+      <input type="text" name="name" placeholder="<%= t("form.name") %>">
+      <input type="text" name="organisation" placeholder="<%= t("form.organisation") %>" required>
+      <input type="email" name="email" id="ebook-email" placeholder="<%= t("form.email") %>" required>
+      <input type="hidden" name="download" value="<%= full_url(data.downloads.ebook[I18n.locale]) %>">
+      <button type="submit"><%= t("actions.download") %></button>
+    </form>
+
+  </div>
+</section>

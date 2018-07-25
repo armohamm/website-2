@@ -319,10 +319,11 @@ de:
     title: "Impressum"
   koppelingen:
     heading: "Zertifizierte Schnittstellen"
-  kwaliteitspaspoort:
+  kwaliteitsmonitor:
     cta_bottom:
-      formkeep_title: "Kwaliteitspaspoort: afspraak maken"
+      formkeep_title: "Kwaliteitsmonitor: afspraak maken"
       heading_md: "Endlich eine Übersicht aller Qualifikationen in Ihrer Organisation?"
+  kwaliteitspaspoort:
     desc: "Bündeln Sie die Qualifikation, Entwicklungsstände und andere Kompetenzen Ihrer Mitarbeiter im %{link} und behalten Sie den Überblick."
     hero:
       formkeep_title: "Kwaliteitspaspoort: meer informatie"

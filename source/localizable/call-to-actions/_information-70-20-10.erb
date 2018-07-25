@@ -1,0 +1,17 @@
+<section class="cta-bottom gray" id="contact-request">
+  <div class="row">
+
+    <h2><%= t("70-20-10.form.header") %></h2>
+    <%= simple_format t("70-20-10.form.text") %>
+
+    <form class="form-inline" accept-charset="UTF-8" action="<%= t("urls.contact") %>" method="POST">
+      <input type="hidden" name="utf8" value="✓">
+      <input type="hidden" name="form" value="Contact - 70-20-10">
+      <input type="text" name="name" placeholder="<%= t("form.name") %>">
+      <input type="text" name="organisation" placeholder="<%= t("form.organisation") %>" required>
+      <input class="required" type="email" name="email" placeholder="<%= t("form.email") %>" required>
+      <button type="submit"><%= t("form.submit") %></button>
+    </form>
+
+  </div>
+</section>

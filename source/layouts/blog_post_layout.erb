@@ -21,13 +21,17 @@
       <%= yield %>
     </div>
 
-    <%= partial "blog/blog-subscribe" unless current_article.data.hide_subscribe %>
-
   </div>
 
 </article>
 
 <%= partial "partials/social-share" %>
+
+<% if current_article.data.call_to_action.nil? %>
+  <%= partial "call-to-actions/subscribe-newsletter" %>
+<% elsif current_article.data.call_to_action %>
+  <%= partial "call-to-actions/#{current_article.data.call_to_action.to_s}" %>
+<% end %>
 
 <section class="related-posts">
   <div class="row">

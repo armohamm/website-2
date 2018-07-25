@@ -22,7 +22,7 @@ nl:
     subheading: "Leren is veel meer dan het zenden van informatie"
     action: "Neem contact op"
     form:
-      header: "Meer informatie?"
+      header: "Meer informatie over 70:20:10 in de praktijk?"
       text: |
         Wil je meer weten over de implementatie van 70:20:10 en Performance Support?
         Laat je e-mailadres achter, dan nemen onze specialisten zo snel mogelijk contact met je op.
@@ -121,7 +121,7 @@ nl:
       img_alt: "Vraag een demo aan"
     testimonials_heading: "Wat onze klanten zeggen"
   capp_new:
-    heading_contact: "Nieuwsgierig? Laat uw gegevens achter dan nemen we contact op."
+    heading_contact: "Nieuwsgierig naar de nieuwste versie van CAPP LMS? Laat uw gegevens achter dan nemen we contact op."
     formkeep_title: "Afspraak maken nieuwe CAPP"
   cases:
     next: "Volgende case"

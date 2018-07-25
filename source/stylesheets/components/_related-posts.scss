@@ -1,5 +1,6 @@
-.related-posts {
-  background: $lightest-gray;
+section.related-posts {
+  background-color: $lightest-gray;
+  background-image: linear-gradient(darken($lightest-gray, 2), $lightest-gray 120px);
 
   a {
     color: $blog-link-color;
