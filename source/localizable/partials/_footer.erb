@@ -83,6 +83,9 @@
       <% unless root_locale == :en %>
         <%= link_to t("privacy-policy.name"), "/privacy-policy.html" %> |
       <% end %>
+      <% if root_locale == :de %>
+        <%= link_to t("impressum.title"), "/impressum.html" %> |
+      <% end %>
       <%= t("footer.copyright_html", { link: link_to(t("footer.open_source"), "https://github.com/DefactoSoftware/website/", target: "_blank"), year: Time.now.year }) %>
 
     </div>
