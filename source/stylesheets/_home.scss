@@ -1,8 +1,5 @@
 .index {
   .header-image {
-    $hero-image: "../images/moods/defacto.jpg";
-    background-image: url($hero-image);
-
     .hero {
       h1 {
         font-size: 1.6em;
@@ -31,32 +28,35 @@
     }
   }
 
-  &.nl .hero {
-    .announcing {
-      font-size: 0.9em;
-      font-weight: bold;
-      letter-spacing: 2px;
-      margin-bottom: 3.2em;
-      opacity: 0.5;
-      text-transform: uppercase;
+  &.nl {
+    .header-image {
+      $background-image: "../images/capp-12-intro-bg.svg";
+
+      background-color: $capp-dark-blue;
+      background-image: url($background-image);
+      background-position: top 0 right -150px;
+      background-repeat: no-repeat;
+      background-size: 800px auto;
     }
 
-    .logo {
-      margin-bottom: 2.4em;
-      max-width: 280px;
-    }
-
-    h1 {
-      font-weight: 700;
-      margin-bottom: 0.5em;
-
-      @include media($large-up) {
-        font-size: 3em;
+    .hero {
+      .logo {
+        margin-bottom: 2.4em;
+        max-width: 280px;
       }
-    }
 
-    .button {
-      @include button(#ec677a);
+      h1 {
+        font-weight: 700;
+        margin-bottom: 0.5em;
+
+        @include media($large-up) {
+          font-size: 3em;
+        }
+      }
+
+      .button {
+        @include button($pink);
+      }
     }
   }
 
