@@ -55,7 +55,7 @@
       h2 {
         display: table-cell;
         font-family: 'Montserrat', $base-font-family;
-        font-size: 2em;
+        font-size: $base-font-size * 2.4;
         font-weight: 700;
         line-height: 1.5;
         margin: 0;
@@ -95,6 +95,12 @@
     h2 {
       font-size: 3em;
     }
+  }
+}
+
+.capp-lms {
+  .left {
+    background: $pink;
   }
 }
 

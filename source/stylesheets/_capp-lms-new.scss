@@ -1,15 +1,21 @@
-body.capp-lms-nieuw {
+body.nl.capp-lms {
   color: $capp-color;
 
   :not(.footer) {
     .row {
-      max-width: 1380px;
+      max-width: 1260px;
 
       @include media($large-up) {
         align-items: center;
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
+      }
+
+      .col {
+        @include media($medium-up) {
+          padding: 0;
+        }
       }
     }
 
@@ -33,10 +39,6 @@ body.capp-lms-nieuw {
           padding: 40px 60px;
         }
       }
-    }
-
-    .button {
-      @include button($pink);
     }
 
     form:not(.form-inline) .button {

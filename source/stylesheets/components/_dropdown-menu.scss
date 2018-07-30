@@ -543,6 +543,27 @@
       }
     }
 
+    a.nav-capp-lms {
+      h6 {
+        color: $pink;
+      }
+
+      &::before {
+        background-position: -490px 0;
+      }
+
+      &:hover {
+        h6 {
+          color: darken($pink, 15%);
+        }
+
+        &::before {
+          background-position: -490px -70px;
+        }
+      }
+    }
+
+
     a.nav-develop {
       h6 {
         color: $blue;

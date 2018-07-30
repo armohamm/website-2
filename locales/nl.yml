@@ -46,7 +46,7 @@ nl:
     read_more_2: "Lees meer"
     more_about:
       70-20-10: "Meer 70:20:10"
-      capp: "Meer CAPP"
+      capp: "Meer CAPP LMS"
       cmt: "Meer CMT"
       quality: "Meer Kwaliteitspaspoort"
       kwaliteitsmonitor: "Meer Kwaliteitsmonitor"
@@ -85,15 +85,14 @@ nl:
       formkeep_title: "CAPP: afspraak maken"
       heading_md: "Meer informatie over opleiden & leren met CAPP LMS?"
       subheading: "Download de CAPP LMS Productsheet"
-    desc: "%{link} zorgt er voor dat uw medewerkers op eenvoudige en doeltreffende wijze leren en hun talenten ontwikkelen."
+    desc: "%{link} faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant."
     hero:
       formkeep_title: "CAPP: download productsheet"
       text_md: "__CAPP LMS Software__ helpt uw medewerkers of klanten op optimale wijze op te leiden en hun vakmanschap te bevorderen."
       title: "Opleiden & Leren met CAPP LMS"
       subtitle_1: "Kennisintensieve organisaties kunnen niet zonder goed opgeleide medewerkers."
       subtitle_2: "Maak medewerkers aantoonbaar vakbevoegd en vakbekwaam met CAPP LMS."
-      image: screenshots/capp-lms-nl.png
-    name: CAPP
+    name: CAPP LMS
   capp-agile:
     name: CAPP Agile Learning
     desc: "Performance support door 'kennis-on-demand'. Verbeter prestaties door medewerkers te voorzien van just-in-time kennis. Leg kennis simpel vast en deel handleidingen, protocollen, werkinstructies, QR-codes e.d."
@@ -189,7 +188,7 @@ nl:
     text_md: "Dit betekent niet dat je iets verkeerd hebt gedaan, het kan zijn dat we de pagina hernoemd of verplaatst hebben."
     img_alt: "Pagina niet gevonden"
   footer:
-    capp: "CAPP Leren & Ontwikkelen"
+    capp: "CAPP Learning & Talent Management"
     contact: "Contact opnemen &raquo;"
     country: ""
     copyright_html: "Deze website is %{link}. © 1987 - %{year} Defacto"
@@ -242,8 +241,8 @@ nl:
         text_html: "Performance support door 'kennis-on-demand'. Voorzie medewerkers van _just-in-time_ kennis. Leg kennis simpel vast, deel handleidingen, werkinstructies en meer."
         title: "CAPP Agile Learning"
       learn:
-        text_html: "Geef medewerkers efficiënte tools voor hun ontwikkelprocessen en een overzichtelijk persoonlijk portfolio. Creëer inzicht met %{link} Leren & Ontwikkelen."
-        title: CAPP Leren & Ontwikkelen
+        text_html: "%{link} faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant."
+        title: CAPP LMS
       quality:
         text_html: "Real-time inzicht in de vakbevoegdheid van jezelf, het team en de gehele organisatie. Voldoe zichtbaar aan de gestelde kwaliteitseisen."
         title: CAPP Kwaliteitspaspoort
@@ -285,7 +284,7 @@ nl:
     logo: logos/kwaliteitspaspoort-white.png
     name: Kwaliteitspaspoort
   nav:
-    capp-lms: "LMS en efficiënte tools voor de ontwikkelprocessen van je medewerkers"
+    capp-lms: "CAPP faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant."
     kwaliteitsmonitor: "Altĳd en overal inzicht in de kwaliteit en bevoegdheid van je organisatie"
     kwaliteitspaspoort: "Real-time inzicht in bevoegd- en bekwaamheid binnen je organisatie"
     capp-agile: "Performance support voor elke organisatie"
@@ -295,7 +294,7 @@ nl:
   products:
     title: "Producten waar we trots op zijn"
     capp:
-      capp-lms: "CAPP Leren & Ontwikkelen"
+      capp-lms: "CAPP LMS"
   productsheet_download:
     title: "CAPP Productsheet downloaden"
     heading: "Meer informatie over opleiden & leren met CAPP LMS?"

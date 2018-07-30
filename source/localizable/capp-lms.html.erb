@@ -1,15 +1,22 @@
 ---
 title:
-  nl: "Opleiden, Leren en Ontwikkelen met CAPP LMS"
+  nl: "CAPP LMS: Learning & Talent Management"
   de: "Seminarverwaltung optimiert: CAPP Bilden"
   en: "Training, learning and developing with CAPP LMS"
 description:
-  nl: "Maak medewerkers aantoonbaar vakbevoegd en vakbekwaam met CAPP LMS."
+  nl: "Faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant."
   de: "Die Kursverwaltung für die Mitarbeiter-Fortbildung im Krankenhaus ist mit CAPP-Bilden ein Leichtes – und zwar für Online- wie auch für Präsenzseminare."
   en: "Ensure that your employees’ qualifications and certifications are demonstrable with the help of CAPP LMS."
 ---
 
-<%= partial "capp/capp-hero" %>
-<%= partial "capp/capp-lms" %>
-<%= partial "call-to-actions/download-capp11-productsheet" %>
-<%= partial "clients/clients-section" %>
+<% if root_locale == :nl %>
+  <%= partial "capp-lms-new/page-nav" %>
+  <%= partial "capp-lms-new/introduction" %>
+  <%= partial "capp-lms-new/overview" %>
+  <%= partial "call-to-actions/information-capp12" %>
+<% else %>
+  <%= partial "capp-lms-old/capp-hero" %>
+  <%= partial "capp-lms-old/capp-lms" %>
+  <%= partial "call-to-actions/download-capp11-productsheet" %>
+  <%= partial "clients/clients-section" %>
+<% end %>

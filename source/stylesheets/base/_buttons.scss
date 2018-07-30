@@ -78,6 +78,11 @@
     @include button($red);
   }
 
+  &.pink {
+    @include button($pink);
+  }
+
+
   &.turquoise {
     @include button($turquoise);
   }
