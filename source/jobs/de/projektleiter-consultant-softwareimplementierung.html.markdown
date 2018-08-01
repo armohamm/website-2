@@ -4,7 +4,6 @@ date: 2018-01-10 08:01 CEST
 tags:
 lang: de
 featured: false
-popup: false
 apply_link: vacature-de
 ---
 Mit unserer langjährigen Erfahrung im Gesundheitswesen sind wir ein starker Partner in der Erstellung und Implementierung von digitalen Lernwelten. 220.000 Professionals aus Deutschland und den Niederlanden nutzen unsere Software. CAPP LMS unterstützt alle Formen des Lernens und bietet ein auf den Nutzer individuell abgestimmte Lernumgebung, die die fachliche und persönliche Entwicklung fördert. Mitarbeiter können sich online bilden, bleiben compliant, erhalten Performance Support, können Wissen miteinander teilen und sind langfristig einsetzbar.

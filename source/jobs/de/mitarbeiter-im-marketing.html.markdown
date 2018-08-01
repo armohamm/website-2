@@ -4,7 +4,6 @@ date: 2017-12-19 08:01 CEST
 tags:
 lang: de
 featured: false
-popup: false
 apply_link: vacature-de
 ---
 Lust dich kreativ auszutoben und in einem internationalen Umfeld zu arbeiten?
