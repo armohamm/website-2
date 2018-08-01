@@ -1,5 +1,5 @@
 ---
-title: "ZINN"
+title: "ZINN case"
 date: 2017-09-10 8:00 CEST
 services:
  - CAPP LMS
