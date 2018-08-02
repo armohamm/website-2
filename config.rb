@@ -188,6 +188,7 @@ end
 page "blog/*", layout: :blog_post_layout
 page "blog/tags/*", layout: :blog_layout
 page "blog/index.html", layout: :blog_layout
+page "blog/tags.html", layout: :blog_layout
 page "blog/feed.xml", layout: false
 page "jobs/*", layout: :jobs_post_layout
 page "jobs/index.html", layout: :jobs_layout
