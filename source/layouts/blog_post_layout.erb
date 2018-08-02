@@ -27,11 +27,10 @@
 
 <%= partial "partials/social-share" %>
 
-<% if current_article.data.call_to_action.nil? %>
-  <%= partial "call-to-actions/subscribe-newsletter" %>
-<% elsif current_article.data.call_to_action %>
-  <%= partial "call-to-actions/#{current_article.data.call_to_action.to_s}" %>
-<% end %>
+<%= partial "partials/call-to-action", locals: {
+  article: current_article,
+  blog: "blog"
+} %>
 
 <section class="related-posts">
   <div class="row">

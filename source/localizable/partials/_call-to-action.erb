@@ -1,0 +1,9 @@
+<% if current_article.data.call_to_action.nil? %>
+  <% if blog == "cases" %>
+    <%= partial "call-to-actions/appointment-case" %>
+  <% elsif blog == "blog" %>
+    <%= partial "call-to-actions/subscribe-newsletter" %>
+  <% end %>
+<% else %>
+  <%= partial "call-to-actions/#{current_article.data.call_to_action.to_s}" %>
+<% end %>

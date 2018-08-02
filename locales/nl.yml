@@ -129,6 +129,8 @@ nl:
     all_cases: "Alle cases"
     contact: "Contact opnemen"
     share: "Deel deze case:"
+    cta:
+      title: "Weten wat we voor úw business case kunnen betekenen? Maak nu een afspraak!"
     sidebar:
       products: "Producten & Diensten"
       facts:

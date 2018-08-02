@@ -160,6 +160,8 @@ de:
     all_cases: "Alle Cases"
     contact: "Kontakt aufnehmen"
     share: "Teile diesen Kundencase:"
+    cta:
+      title: "Haben Sie Interesse wie dies Ihrem Business Case helfen kann? Vereinbaren Sie nun einen Termin!"
     sidebar:
       products: "Produkte & Dienste"
       facts:

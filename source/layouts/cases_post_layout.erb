@@ -29,7 +29,10 @@
 </article>
 
 <%= partial "partials/social-share" %>
-
 <%= partial "cases/page-controls" unless root_locale == :de %>
+<%= partial "partials/call-to-action", locals: {
+  article: current_article,
+  blog: "cases"
+} %>
 
 <% end %>
