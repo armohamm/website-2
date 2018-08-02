@@ -39,7 +39,7 @@
         <%= t("cases.overview.contact_us") %>
       </p>
 
-      <% unless current_page.url == "/cases/" || root_locale == :de %>
+      <% unless current_page.url == "/cases/" %>
         <%= nav_link_to t("cases.all_cases"), "/cases/", class: "button orange outline" %>
       <% end %>
 
