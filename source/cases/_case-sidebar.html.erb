@@ -36,8 +36,15 @@
       <ul class="services">
         <% current_article.data.services.each do |service| %>
           <li class="service">
-            <span class="icon-checkmark"></span>
-            <%= service %>
+            <% if service.link %>
+              <% nav_link_to("#{service.link}.html") do %>
+                <span class="icon-checkmark"></span>
+                <%= service.title %>
+              <% end %>
+            <% else %>
+              <span class="icon-checkmark"></span>
+              <%= service.title %>
+            <% end %>
           </li>
         <% end %>
       </ul>

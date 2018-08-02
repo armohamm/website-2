@@ -2,11 +2,15 @@
 title: "ZINN case"
 date: 2017-09-10 8:00 CEST
 services:
- - CAPP LMS
- - Kwaliteitspaspoort
- - Kwaliteitsmonitor
- - CAPP Agile Learning
- - Consultancy
+  - title: CAPP LMS
+    link: /capp-lms
+  - title: Kwaliteitspaspoort
+    link: /kwaliteitspaspoort
+  - title: Kwaliteitsmonitor
+    link: /kwaliteitsmonitor
+  - title: CAPP Agile learning
+    link: /capp-agile-learning
+  - title: Consultancy
 lang: nl
 logo: cases/zinn/logo.png
 logo_white: cases/zinn/logo-white.png
