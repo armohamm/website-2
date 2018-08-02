@@ -12,7 +12,6 @@ services:
     link: /capp-agile-learning
   - title: Consultancy
 lang: nl
-logo: cases/zinn/logo.png
 logo_white: cases/zinn/logo-white.png
 description: "De zorg verbeteren met software op maat"
 mood_image: cases/zinn/mood.jpg

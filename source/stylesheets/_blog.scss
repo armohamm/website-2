@@ -14,15 +14,7 @@
   }
 
   &::before {
-    background-color: rgba($dark-gray, 0.45);
-    content: "";
-    display: block;
-    height: 100%;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 100%;
-    z-index: 0;
+    @include post-header-overlay;
   }
 }
 

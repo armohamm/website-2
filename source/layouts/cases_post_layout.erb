@@ -6,7 +6,7 @@
     <div class="row">
 
       <h1>
-        <%= current_article.title %>
+        <%= image_tag image_path(current_article.data.logo_white), class: "case-logo", alt: current_article.title, title: current_article.title %>
       </h1>
 
       <h2>

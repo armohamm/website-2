@@ -1,11 +1,5 @@
 <div class="sidebar case-sidebar">
 
-  <% if current_article.data.logo %>
-    <div class="sidebar-section">
-      <%= image_tag image_path(current_article.data.logo), class: "case-logo", alt: current_page.title %>
-    </div>
-  <% end %>
-
   <% if current_article.data.quote %>
     <div class="sidebar-section case-quote">
 
