@@ -11,6 +11,7 @@ services:
 lang: de
 logo_white: cases/evk/logo-white.png
 description: "Evangelisches Krankenhaus Oldenburg schafft Fakten und Raum für Talent"
+image: images/cases/evk/social.jpg
 mood_image: cases/evk/mood.jpg
 quote:
   text: "Die Einführung eines E-Learning Systems bedeutet für uns im EV einen regelrechten Kulturwandel."

@@ -13,6 +13,7 @@ services:
 lang: de
 logo_white: cases/zinn/logo-white.png
 description: "Mit maßgeschneiderter Software die Pflege optimieren"
+image: images/cases/zinn/social-de.jpg
 mood_image: cases/zinn/mood.jpg
 quote:
   text: "Qualität, Aufmerksamkeit und Effizienz sind für uns Schlüsselwörter. Bei allem, was wir tun, streben wir nach der praktischen Umsetzung dieser Begriffe. Defacto unterstützt uns hierbei sehr."

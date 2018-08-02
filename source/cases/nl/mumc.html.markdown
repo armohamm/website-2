@@ -14,6 +14,7 @@ services:
 lang: nl
 logo_white: cases/mumc/logo-white.png
 description: "'Klinisch redeneren' ondersteund door CAPP LMS"
+image: images/cases/mumc/social.jpg
 mood_image: cases/mumc/mood.jpg
 quote:
   text: "Door middel van performance support en CAPP LMS kunnen we onze medewerkers de <strong>steun en support</strong> geven die ze nodig hebben om zichzelf bekwaam in hun werk te voelen."

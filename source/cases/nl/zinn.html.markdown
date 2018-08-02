@@ -14,6 +14,7 @@ services:
 lang: nl
 logo_white: cases/zinn/logo-white.png
 description: "De zorg verbeteren met software op maat"
+image: images/cases/zinn/social-nl.jpg
 mood_image: cases/zinn/mood.jpg
 quote:
   text: "Voor ons zijn kwaliteit, aandacht en efficiëntie de sleutelwoorden. In alles wat we doen proberen we dit door te voeren. Defacto ondersteunt ons daar heel goed in."

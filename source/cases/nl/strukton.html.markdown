@@ -9,6 +9,7 @@ services:
 lang: nl
 logo_white: cases/strukton/logo-white.png
 description: "De route naar geborgde compliance"
+image: images/cases/strukton/social.jpg
 mood_image: cases/strukton/mood.jpg
 quote:
   text: "Defacto heeft <strong>echt</strong> met ons <strong>meegedacht</strong> en geholpen met het borgen van de compliance binnen onze organisatie."
