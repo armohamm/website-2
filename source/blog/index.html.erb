@@ -11,14 +11,14 @@ index: false
 
 <section class="row">
 
-    <ol class="blog-list">
-      <% page_articles.each do |article| %>
-        <li>
-          <%= partial "blog/blog-article-preview", locals: { article: article } %>
-        </li>
-      <% end %>
-    </ol>
+  <ol class="blog-list">
+    <% page_articles.each do |article| %>
+      <li>
+        <%= partial "blog/blog-article-preview", locals: { article: article } %>
+      </li>
+    <% end %>
+  </ol>
 
-    <%= partial "blog/pagination", locals: current_page.metadata[:locals] %>
+  <%= partial "blog/pagination", locals: current_page.metadata[:locals] %>
 
 </section>
