@@ -6,7 +6,7 @@ index: false
 
 <% tagname = capitalize(tagname) %>
 <% content_for :page_title, t("blog.tags.page_title", tagname: tagname, page_number: page_number, num_pages: num_pages) %>
-<% content_for :meta_description, t("blog.tags.meta_description", tagname: tagname) %>
+<% content_for :meta_description, t("blog.tags.meta_description", tagname: tagname, page_number: page_number, num_pages: num_pages) %>
 
 <section class="tags">
   <div class="row">

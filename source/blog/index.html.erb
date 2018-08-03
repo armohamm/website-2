@@ -1,14 +1,12 @@
 ---
 blog: blog
-description:
-  nl: Blogs over leren en ontwikkelen
-  de: Blogs über Bilden und Entwickeln
-  en: Blogs about learning and developing
 pageable: true
 index: false
 ---
 
 <% content_for :page_title, t("blog.page_title", page_number: page_number, num_pages: num_pages) %>
+<% content_for :meta_description, t("blog.meta_description", page_number: page_number, num_pages: num_pages) %>
+
 
 <section class="row">
 

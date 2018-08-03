@@ -94,6 +94,7 @@ de:
       productsheet: "Produktblatt herunterladen"
   blog:
     page_title: "Blog | Pagina %{page_number} von %{num_pages} | Defacto"
+    meta_description: "Neuigkeiten über Trends rundum Bildungsmanagement und Online Learning, Aktuelles zu Software, unseren Kunden, Produkten und Diensten. | Pagina %{page_number}/%{num_pages}."
     more_on_our_blog: "Mehr Blogs"
     more_articles: "Mehr Artikel"
     read_more: "Weiter lesen"
@@ -111,7 +112,7 @@ de:
     subscribe: "Abonnieren Sie unseren Newsletter und bleiben Sie informiert."
     tags:
       page_title: "Blog | Tag: %{tagname} | Pagina %{page_number} von %{num_pages} | Defacto"
-      meta_description: "Blogs von Defacto im Zusammenhang mit %{tagname}"
+      meta_description: "Neuigkeiten über Trends rundum Bildungsmanagement und Online Learning, Aktuelles zu Software, unseren Kunden, Produkten und Diensten. | Tag: %{tagname} | Pagina %{page_number}/%{num_pages}."
   capp:
     cta_bottom:
       formkeep_title: "CAPP: afspraak maken"

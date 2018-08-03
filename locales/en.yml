@@ -60,7 +60,8 @@ en:
     tell_me_more: "Tell me more"
     try_for_free: "Free Trial"
   blog:
-    page_title: "Blog | Pagina %{page_number} von %{num_pages} | Defacto"
+    page_title: "Blog | Page %{page_number} of %{num_pages} | Defacto"
+    meta_description: "Blogs about trends in online learning and development. News about our software, our customers, products and services. | Page %{page_number}/%{num_pages}."
     more_on_our_blog: "More blogs"
     more_articles: "More articles"
     read_more: "Read more"
@@ -78,7 +79,7 @@ en:
     subscribe: "Subscribe to our newsletter and stay up to date."
     tags:
       page_title: "Blog | Tag: %{tagname} | Page %{page_number} of %{num_pages} | Defacto"
-      meta_description: "Blogs from Defacto related to %{tagname}"
+      meta_description: "Blogs about trends in online learning and development. News about our software, our customers, products and services. | Tag: %{tagname} | Page %{page_number}/%{num_pages}."
   capp:
     name: "CAPP Learning & Developing"
     desc: "CAPP ensures that your employees can learn and develop their talents in a straightforward and effective manner."

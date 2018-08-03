@@ -64,6 +64,7 @@ nl:
       productsheet: "Productsheet downloaden"
   blog:
     page_title: "Blog | Pagina %{page_number} van %{num_pages} | Defacto"
+    meta_description: "Nieuws over trends op het gebied van online leren en ontwikkelen. Actualiteiten op het gebied van software, onze klanten, producten en diensten. | Pagina %{page_number}/%{num_pages}."
     more_on_our_blog: "Meer blogs"
     more_articles: "Meer artikelen"
     read_more: "Lees verder"
@@ -81,7 +82,7 @@ nl:
     subscribe: "Schrijf je in voor onze nieuwsbrief en blijf op de hoogte."
     tags:
       page_title: "Blog | Tag: %{tagname} | Pagina %{page_number} van %{num_pages} | Defacto"
-      meta_description: "Blogs van Defacto gerelateerd aan %{tagname}"
+      meta_description: "Nieuws over trends op het gebied van online leren en ontwikkelen. Actualiteiten op het gebied van software, onze klanten, producten en diensten. | Tag: %{tagname} | Pagina %{page_number}/%{num_pages}."
   capp:
     cta_bottom:
       formkeep_title: "CAPP: afspraak maken"
