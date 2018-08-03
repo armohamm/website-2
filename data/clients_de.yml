@@ -22,6 +22,15 @@
 - client: "Radboud Universitair Medisch Centrum"
   logo: "references/radboudumc.png"
 
+- client: "UMCG"
+  logo: "references/umcg.png"
+
+- client: "Leids Universitair Medisch Centrum"
+  logo: "references/lumc.png"
+
+- client: "Maastricht Universitair Medisch Centrum"
+  logo: "references/mumc.png"
+
 - client: "Antoni van Leeuwenhoek"
   logo: "references/antoni-van-leeuwenhoek.png"
 
@@ -76,20 +85,11 @@
 - client: "Kaldi"
   logo: "references/kaldi.png"
 
-- client: "UMCG"
-  logo: "references/umcg.png"
-
 - client: "Wilhemina Ziekenhuis Assen"
   logo: "references/wilhelminaziekenhuisassen.png"
 
 - client: "TUI Nederland"
   logo: "references/tui.png"
-
-- client: "Leids Universitair Medisch Centrum"
-  logo: "references/lumc.png"
-
-- client: "Maastricht Universitair Medisch Centrum"
-  logo: "references/mumc.png"
 
 - client: "Maxima Medisch Centrum"
   logo: "references/mmc.png"

@@ -1,6 +1,15 @@
 - client: "Radboud Universitair Medisch Centrum"
   logo: "references/radboudumc.png"
 
+- client: "UMCG"
+  logo: "references/umcg.png"
+
+- client: "Leids Universitair Medisch Centrum"
+  logo: "references/lumc.png"
+
+- client: "Maastricht Universitair Medisch Centrum"
+  logo: "references/mumc.png"
+
 - client: "Antoni van Leeuwenhoek"
   logo: "references/antoni-van-leeuwenhoek.png"
 
@@ -19,9 +28,6 @@
 - client: "Rivas"
   logo: "references/rivas.png"
 
-- client: "UMCG"
-  logo: "references/umcg.png"
-
 - client: "Timing"
   logo: "references/timing.png"
 
@@ -39,12 +45,6 @@
 
 - client: "Dianet"
   logo: "references/dianet.png"
-
-- client: "Leids Universitair Medisch Centrum"
-  logo: "references/lumc.png"
-
-- client: "Maastricht Universitair Medisch Centrum"
-  logo: "references/mumc.png"
 
 - client: "Maxima Medisch Centrum"
   logo: "references/mmc.png"
