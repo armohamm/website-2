@@ -60,6 +60,7 @@ en:
     tell_me_more: "Tell me more"
     try_for_free: "Free Trial"
   blog:
+    page_title: "Blog | Pagina %{page_number} von %{num_pages} | Defacto"
     more_on_our_blog: "More blogs"
     more_articles: "More articles"
     read_more: "Read more"
@@ -76,6 +77,7 @@ en:
       xing: Share on Xing
     subscribe: "Subscribe to our newsletter and stay up to date."
     tags:
+      page_title: "Blog | Tag: %{tagname} | Page %{page_number} of %{num_pages} | Defacto"
       meta_description: "Blogs from Defacto related to %{tagname}"
   capp:
     name: "CAPP Learning & Developing"

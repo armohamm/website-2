@@ -1,5 +1,4 @@
 ---
-title: Blog
 blog: blog
 description:
   nl: Blogs over leren en ontwikkelen
@@ -8,6 +7,8 @@ description:
 pageable: true
 index: false
 ---
+
+<% content_for :page_title, t("blog.page_title", page_number: page_number, num_pages: num_pages) %>
 
 <section class="row">
 

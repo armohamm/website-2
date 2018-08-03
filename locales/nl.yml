@@ -63,6 +63,7 @@ nl:
       demo: "Demo aanvragen"
       productsheet: "Productsheet downloaden"
   blog:
+    page_title: "Blog | Pagina %{page_number} van %{num_pages} | Defacto"
     more_on_our_blog: "Meer blogs"
     more_articles: "Meer artikelen"
     read_more: "Lees verder"
@@ -79,6 +80,7 @@ nl:
       xing: Deel op Xing
     subscribe: "Schrijf je in voor onze nieuwsbrief en blijf op de hoogte."
     tags:
+      page_title: "Blog | Tag: %{tagname} | Pagina %{page_number} van %{num_pages} | Defacto"
       meta_description: "Blogs van Defacto gerelateerd aan %{tagname}"
   capp:
     cta_bottom:
