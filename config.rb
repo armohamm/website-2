@@ -627,6 +627,18 @@ helpers do
     all_clients.clone
   end
 
+  def google_maps_url_key
+    "&key=#{google_maps_key}"
+  end
+
+  def google_maps_key
+    if production
+      "AIzaSyBTCpUAFcxCJdSF-8gMDYmqPrtxhSuRhHc"
+    else
+      "AIzaSyAhG6jKzmHY_pqz0a2G71KEu1fAPQVoJQQ"
+    end
+  end
+
   # Used to validate data/downloads.yml
   def validate_downloads(hash)
     hash.each do |key, value|
