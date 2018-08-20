@@ -4,8 +4,6 @@ date: 2018-08-19 11:00 CEST
 services:
 - title: CAPP Bilden
   link: /capp-lms
-- title: CAPP Entwickeln
-  link: /capp-entwickeln
 - title: Qualitätspass & Monitor
   link: /kwaliteitspaspoort
 - title: Consultancy
