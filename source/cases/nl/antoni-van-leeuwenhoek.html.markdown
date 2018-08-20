@@ -14,7 +14,7 @@ services:
 lang: nl
 logo_white: cases/avl/logo-white.png
 description: "Samen werken aan een scherpere visie op leren en ontwikkelen"
-images: images/cases/avl/social.jpg
+image: images/cases/avl/social.jpg
 mood_image: cases/avl/mood.jpg
 quote:
   text: "De samenwerking met Defacto is fantastisch verlopen. Er is door Defacto ervoor gezorgd dat de visie op leren nog scherper is geworden. Tijdens de implementatie kwam er heel veel positieve energie vrij en is er keihard gewerkt."
