@@ -67,6 +67,13 @@
     }
   }
 
+  &.en {
+    .header-image {
+      $hero-image: "../images/moods/defacto.jpg";
+      background-image: url($hero-image);
+    }
+  }
+
   .home-copy {
     .col {
       @include media($large-up) {
