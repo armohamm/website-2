@@ -73,7 +73,7 @@ Now we add the styling. Give the faces a background color and make sure they are
 }
 ~~~
 
-__Note:__ Don't forget to add vendor prefixes for the `transform*` properties if you want cross-browser [support](http://caniuse.com/#feat=transforms2d){:target="_blank"}{:rel="noopener"}. In the demos I use [SCSS](http://sass-lang.com) and the [bourbon](http://bourbon.io){:target="_blank"}{:rel="noopener"} mixin library so I don't have to worry about these prefixes.
+__Note:__ Don't forget to add vendor prefixes for the `transform*` properties if you want cross-browser [support](http://caniuse.com/#feat=transforms2d){:target="_blank"}{:rel="noopener"}. In the demos I use [SCSS](http://sass-lang.com) and the [Bourbon](https://www.bourbon.io/){:target="_blank"}{:rel="noopener"} mixin library so I don't have to worry about these prefixes.
 
 Check out the __[demo](http://codepen.io/snap/pen/NPqjMp?editors=110){:target="_blank"}{:rel="noopener"}__. I also created a demo of an __[alternative technique](http://codepen.io/snap/pen/GgJWmY?editors=110){:target="_blank"}{:rel="noopener"}__.
 Both techniques are shown in the [demo](http://codepen.io/snap/pen/ogXwdz?editors=110){:target="_blank"}{:rel="noopener"} below.
