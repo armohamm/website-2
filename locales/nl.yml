@@ -296,6 +296,8 @@ nl:
     threesixty: "Maak een efficiëntieslag in je HRD"
   privacy-policy:
     name: "Privacy Policy"
+    text: "Door deze website te gebruiken stemt u in met onze %{link}"
+    link: "privacy policy"
   products:
     title: "Producten waar we trots op zijn"
     capp:

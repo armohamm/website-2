@@ -47,6 +47,7 @@
     </div>
 
     <%= partial "partials/footer" %>
+    <%= partial "partials/privacy-notification" unless root_locale == :en -%>
     <%= partial "partials/organization_schema" if root_url? %>
     <%= javascript_include_tag "jquery", "all" %>
     <%= javascript_include_tag "search" if current_page.locale_root_path =~ /zoeken.html/ %>

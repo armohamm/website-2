@@ -347,6 +347,8 @@ de:
     threesixty: "Die Sichtweisen der anderen kennen, um sich selbst weiterzuentwickeln"
   privacy-policy:
     name: "Datenschutzerklärung"
+    text: "Mit Nutzung dieser Website, geben Sie ihr Einverständnis mit unserer %{link} ab"
+    link: "Datenschutzerklärung"
   products:
     title: "Produkte, auf die wir stolz sind"
     capp:

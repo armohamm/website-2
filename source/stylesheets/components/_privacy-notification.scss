@@ -1,0 +1,81 @@
+.privacy-notification-container {
+  bottom: 0;
+  display: none;
+  left: 0;
+  position: fixed;
+  right: 0;
+  text-align: center;
+  z-index: 1;
+
+  @include media($medium-up) {
+    bottom: 1em;
+  }
+
+  a {
+    color: darken($blue, 15%);
+
+    &:active,
+    &:focus,
+    &:hover {
+      color: darken($blue, 30%);
+    }
+  }
+
+  &.show {
+    display: block;
+  }
+}
+
+.privacy-notification {
+  align-items: center;
+  background: rgba($white, 0.9);
+  box-shadow: 0 4px 6px rgba($black, 0.11), 0 1px 3px rgba($black, 0.08);
+  color: $dark-gray;
+  display: inline-flex;
+  font-size: 15px;
+  margin: 0 auto;
+
+  @include media($medium-up) {
+    border-radius: $base-border-radius;
+  }
+
+  .privacy-notification-copy {
+    padding: 0.5em 0.3em 0.5em 1em;
+  }
+
+  .dismiss-button {
+    background: transparent;
+    border: 0;
+    color: $dark-gray;
+    cursor: pointer;
+    height: 40px;
+    outline: none;
+    overflow: hidden;
+    position: relative;
+    text-indent: -9999px;
+    transition: color 0.15s;
+    user-select: none;
+    width: 40px;
+
+    &:hover {
+      color: $black;
+    }
+
+    &::after,
+    &::before {
+      background: currentColor;
+      border-radius: 2px;
+      content: "";
+      height: 2px;
+      left: 50%;
+      position: absolute;
+      top: 50%;
+      transform: translate(-50%, -50%) rotate(45deg);
+      width: 40%;
+    }
+
+    &::after {
+      transform: translate(-50%, -50%) rotate(-45deg);
+    }
+  }
+}
