@@ -118,6 +118,18 @@
     }
   }
 
+  &.white-pink {
+    @include button($white);
+    color: $pink;
+
+    &:hover,
+    &:focus {
+      background-color: $lighter-gray;
+      border-color: $lighter-gray;
+      color: darken($pink, 0.3);
+    }
+  }
+
   &.rounded {
     border-radius: 5px;
     vertical-align: top;

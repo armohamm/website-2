@@ -1,49 +1,28 @@
 ---
 title:
-  nl: Demo aanvragen
-  de: Demo-Anfrage
-  en: Demo request
+  nl: Defacto demo aanvragen
+  de: Defacto Demo-Anfrage
+  en: Defacto demo request
 description:
-  nl: Vraag een Demo aan
-  de: Fragen Sie eine Software-Demo an
-  en: Request a demo
+  nl: Maak leren eenvoudig! Wilt u weten hoe? Vraag nu een demo aan.
+  de: Machen Sie das Lernen einfach! Wie? Fragen Sie jetzt eine Software-Demo an.
+  en: Make learning easy! How? Request a demo now.
+image: images/social/demo-1200x630.png
 ---
 
-<div class="hero">
-  <div class="hero-inner">
-    <div class="hero-copy">
-      <h1><%= t("demo_request.title") %></h1>
-    </div>
-  </div>
-</div>
+<%= partial "demo-aanvragen/hero" %>
 
-<section>
-  <div class="row">
-    <article>
-      <h2><%= t("demo_request.heading") %></h2>
-      <form class="form-conversion" accept-charset="UTF-8" action="<%= t("urls.contact") %>" method="POST">
-        <input type="hidden" name="utf8" value="✓">
-        <input type="hidden" name="form" value="<%= t("demo_request.formkeep_title") %>">
-        <input type="text" name="name" placeholder="<%= t("form.name") %>">
-        <input type="text" name="organisation" placeholder="<%= t("form.organisation") %>" required>
-        <input class="required" type="email" name="email" placeholder="<%= t("form.email") %>" required>
-        <% if root_locale == :de %>
-          <input type="tel" name="phone" placeholder="Telefon">
-        <% end %>
-        <select name="product" id="demo-select">
-          <option selected><%= t("form.product") %></option>
-          <% if root_locale == :de %>
-            <option class="selected" value="CAPP Bilden">CAPP Bilden</option>
-            <option class="selected" value="CAPP Entwickeln">CAPP Entwickeln</option>
-          <% else %>
-            <option class="selected" value="CAPP LMS">CAPP LMS</option>
-          <% end %>
-          <option class="selected" value="<%= t("form.quality") %>"><%= t("form.quality") %></option>
-          <option class="selected" value="<%= t("form.informal") %>"><%= t("form.informal") %></option>
-          <option class="selected" value="360 Feedback">360° Feedback</option>
-        </select>
-        <button type="submit"><%= t("form.submit") %></button>
-      </form>
-    </article>
-  </div>
-</section>
+<% if root_locale == :nl %>
+  <section class="content">
+    <div class="row">
+      <div class="col text">
+        <%= partial "demo-aanvragen/content" %>
+      </div>
+      <div class="col img">
+        <%= image_tag "screenshots/capp-lms/dashboard-browser-notifications-big_nl.png", title: "Dashboard", alt: "Dashboard" %>
+      </div>
+    </div>
+  </section>
+<% end %>
+
+<%= partial "clients/clients-section" %>

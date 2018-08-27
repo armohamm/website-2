@@ -4,7 +4,7 @@
   line-height: $size;
 }
 
-@mixin post-header-overlay() {
+@mixin hero-header-overlay() {
   background-color: rgba($dark-gray, 0.65);
   content: "";
   display: block;
@@ -14,4 +14,16 @@
   top: 0;
   width: 100%;
   z-index: 0;
+}
+
+@mixin card-shadow() {
+  border-radius: 100px / 10px;
+  bottom: 0;
+  box-shadow: 0 0 20px rgba($black, 0.25);
+  content: "";
+  left: 25px;
+  position: absolute;
+  right: 25px;
+  top: 15px;
+  z-index: -1;
 }

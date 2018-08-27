@@ -60,8 +60,7 @@ nl:
     try_for_free: "Probeer gratis"
     visit_website: "Bezoek de website"
     home:
-      demo: "Demo aanvragen"
-      productsheet: "Productsheet downloaden"
+      demo: "Vraag een demo aan"
   blog:
     page_title: "Blog | Pagina %{page_number} van %{num_pages} | Defacto"
     meta_description: "Nieuws over trends op het gebied van online leren en ontwikkelen. Actualiteiten op het gebied van software, onze klanten, producten en diensten. | Pagina %{page_number}/%{num_pages}."
@@ -177,8 +176,9 @@ nl:
     phone: "050 3144832"
     phone_link: "+31503144832"
   demo_request:
-    title: "Demo aanvragen"
-    heading: "Vraag een demo aan"
+    title: "Transformeer uw organisatie op het gebied van leren en ontwikkelen met onze learning & talent management software. Wilt u meer weten? Maak kennis met onze producten en aanpak tijdens een demo door een van onze experts."
+    form_title: "Vraag uw demo aan"
+    form_text: "Laat uw gegevens achter, dan nemen we zo spoedig mogelijk contact met u op."
     formkeep_title: "Demo request"
   elearning:
     heading: "E-Learning ontwikkelen met Defacto"
@@ -211,16 +211,12 @@ nl:
   form:
     email: E-mail
     message: "Wat kunnen we voor je betekenen?"
-    job_message: "Aanvullende informatie die je met ons zou willen delen, zoals je LinkedIn of GitHub-profiel, portfolio, enzovoorts."
     name: Naam
     first_name: Voornaam
     sur_name: Achternaam
     organisation: "Bedrijf of organisatie"
     phone: Telefoon
     submit: Verstuur
-    quality: "CAPP Kwaliteitspaspoort"
-    informal: "CAPP Agile Learning"
-    product: "Kies een product"
   head:
     default_description: "Defacto helpt organisaties bij het ontwikkelen en certificeren van hun medewerkers"
     default_title: Defacto

@@ -7,6 +7,7 @@ lang: nl
 featured: true
 image: images/blog/social/next-learning-2018-1200x630.png
 featured_image: images/blog/featured/20180419-next-learning-2018.png
+call_to_action: demo-request
 ---
 
 **​Het is bijna zo ver! Over enkele dagen gaan wij de nieuwe versie van ons CAPP LMS​ lanceren.

@@ -1,0 +1,14 @@
+.cta-bottom {
+  text-align: center;
+
+  h3 {
+    margin-bottom: 2em;
+  }
+
+  &.capp-pink {
+    background: $pink;
+    color: $white;
+    padding-bottom: 6em;
+    padding-top: 6em;
+  }
+}

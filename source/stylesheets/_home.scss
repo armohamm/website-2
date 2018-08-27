@@ -53,10 +53,6 @@
           font-size: 3em;
         }
       }
-
-      .button {
-        @include button($pink);
-      }
     }
   }
 

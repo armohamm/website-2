@@ -107,29 +107,6 @@ input.invalid {
   }
 }
 
-select {
-  $arrow-image: "../images/arrow.png";
-  @include appearance(none);
-  background: $white url($arrow-image) no-repeat;
-  background-position: right 20px center;
-  background-size: 16px;
-  border-radius: 0;
-  color: $placeholder;
-  margin-bottom: $base-spacing;
-  max-width: 100%;
-  padding-right: 40px;
-  width: 100%;
-}
-
-.selected {
-  color: $dark-gray;
-}
-
-// IE9+ fix for the arrow image position
-select::-ms-expand {
-  display: none;
-}
-
 .placeholder {
   color: $placeholder;
 }

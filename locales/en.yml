@@ -153,8 +153,7 @@ en:
     phone: "+31 (0)50 3144832"
     phone_link: "+31503144832"
   demo_request:
-    title: "Demo request"
-    heading: "Request a demo"
+    title: "Request your demo"
     formkeep_title: "Demo request"
   elearning:
     heading: Advance your employees by applying E-learning to your organisation
@@ -193,9 +192,6 @@ en:
     name: Name
     organisation: Company or organisation
     submit: Send
-    quality: "CAPP Quality Portfolio"
-    informal: "CAPP Agile Learning"
-    product: "Choose a product"
     phone: "Phone Number"
     message: "How can we help?"
   head:

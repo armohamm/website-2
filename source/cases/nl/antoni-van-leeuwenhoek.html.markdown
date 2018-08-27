@@ -25,6 +25,7 @@ facts:
   url: https://www.avl.nl
   since: 2018
   employees: 3885
+call_to_action: demo-request
 ---
 
 **Het Antoni van Leeuwenhoek (AVL) geldt als het Nederlandse expertisecentrum op het gebied van kanker en heeft een duidelijke visie op leren en ontwikkelen. “Iedere dag willen wij het nog beter doen voor onze patiënten. Blijven leren en jezelf blijven ontwikkelen als zorgprofessional is hierbij cruciaal. Mogelijkheden om te leren moeten binnen handbereik zijn,” stelt AVL Academie Manager Miriam Boer. Het is van belang om een digitale leeromgeving te hebben die inspireert en het eenvoudig maakt om te blijven ontwikkelen.**

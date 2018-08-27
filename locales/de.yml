@@ -212,8 +212,7 @@ de:
     phone: "040 306988472"
     phone_link: "+4940306988472"
   demo_request:
-    title: "Demo anfragen"
-    heading: "Senden Sie uns Ihre Details und fragen Sie eine Demo an! Wir freuen uns!"
+    title: "Fordern Sie Ihre Demo an"
     formkeep_title: "Demo request"
   digital-hospital:
     header: "Digitalisierung im Krankenhaus"
@@ -260,19 +259,12 @@ de:
   form:
     email: "E-Mail"
     message: "Wie können wir Ihnen helfen?"
-    job_message: "Fügen Sie gern zusätzliche Informationen, die Sie mit uns teilen möchten, hier ein ( zum Beispiel Ihr LinkedIn oder GitHub Profil, ein Portfolio oder ähnliches)."
     name: "Name"
     first_name: Vorname
     sur_name: Nachname
     organisation: "Betrieb oder Organisation"
     phone: "Telefon"
     submit: "Versenden"
-    capp: "CAPP"
-    learn: "CAPP Bilden"
-    develop: "CAPP Entwickeln"
-    quality: "CAPP Qualitätspass"
-    informal: "CAPP Agile Learning"
-    product: "Ein Produkt wählen"
   jobs:
     acquisition: "Achtung: Keine Werbung auf diese Stellenanzeige verschicken."
     apply: "Bewerben &raquo;"
