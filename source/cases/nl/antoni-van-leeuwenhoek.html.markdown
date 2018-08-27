@@ -1,5 +1,6 @@
 ---
 title: "Antoni van Leeuwenhoek case"
+sub_title: "Samen werken aan een scherpere visie op leren en ontwikkelen"
 date: 2018-08-14 8:00 CEST
 services:
   - title: CAPP LMS
@@ -13,7 +14,7 @@ services:
   - title: Consultancy
 lang: nl
 logo_white: cases/avl/logo-white.png
-description: "Samen werken aan een scherpere visie op leren en ontwikkelen"
+description: "Bij Antoni van Leeuwenhoek is door Defacto ervoor gezorgd dat de visie op leren nog scherper is geworden. Lees hoe we dat samen hebben gedaan in deze casus. "
 image: images/cases/avl/social.jpg
 mood_image: cases/avl/mood.jpg
 quote:

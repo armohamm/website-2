@@ -1,5 +1,6 @@
 ---
 title: "Doppio Espresso case"
+sub_title: "De beste koffie wordt ondersteund door de beste software"
 date: 2017-09-10 09:00 CEST
 services:
   - title: CAPP Agile learning
@@ -7,7 +8,7 @@ services:
   - title: Consultancy
 lang: nl
 logo_white: cases/doppio-espresso/logo-white.png
-description: "De beste koffie wordt ondersteund door de beste software"
+description: "Doppio Espresso maakt gebruik van CAPP Agile Learning voor het delen van kennis en performance support. Lees wat ze dat heeft opgeleverd in deze casus."
 image: images/cases/doppio-espresso/social.jpg
 mood_image: cases/doppio-espresso/mood.jpg
 quote:

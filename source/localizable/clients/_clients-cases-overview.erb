@@ -24,9 +24,11 @@
           <% link_to(article.url, class: "case", alt: article.title, style: "background-image: url(#{image_path(article.data.mood_image)})") do %>
             <div class="case-content">
               <%= image_tag image_path(article.data.logo_white), class: "case-logo", alt: article.title, title: article.title %>
-              <p class="case-description">
-                <%= article.data.description %>
-              </p>
+              <% if article.data.sub_title %>
+                <p class="case-description">
+                  <%= article.data.sub_title %>
+                </p>
+              <% end %>
             </div>
           <% end %>
         </div>

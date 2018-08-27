@@ -1,5 +1,6 @@
 ---
 title: "Evangelisches Krankenhaus Oldenburg case"
+sub_title: "Evangelisches Krankenhaus Oldenburg schafft Fakten und Raum für Talent"
 date: 2017-09-10 10:00 CEST
 services:
  - title: CAPP Bilden

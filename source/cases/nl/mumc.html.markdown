@@ -1,5 +1,6 @@
 ---
 title: "Maastricht UMC+ Academie case"
+sub_title: "'Klinisch redeneren' ondersteund door CAPP LMS"
 date: 2017-10-10 8:00 CEST
 services:
   - title: CAPP LMS
@@ -13,7 +14,7 @@ services:
   - title: Consultancy
 lang: nl
 logo_white: cases/mumc/logo-white.png
-description: "'Klinisch redeneren' ondersteund door CAPP LMS"
+description: "Door middel van performance support en CAPP LMS kan MUMC steun en support geven aan medewerkers. Lees in deze casus hoe we dat samen hebben gedaan."
 image: images/cases/mumc/social.jpg
 mood_image: cases/mumc/mood.jpg
 quote:

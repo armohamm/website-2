@@ -1,5 +1,6 @@
 ---
 title: "Friedrich Ebert Krankenhaus Neumünster case"
+sub_title: "Digitale Lernumgebung im FEK Neumünster etabliert"
 date: 2018-08-19 11:00 CEST
 services:
 - title: CAPP Bilden

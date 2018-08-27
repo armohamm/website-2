@@ -1,5 +1,6 @@
 ---
 title: "Maastricht UMC+ Academie case"
+sub_title: "CAPP LMS unterstützt die Methode ‘ProActive Nursing - Klinisch fundiertes Vorgehen’ an der Akademie des Universitätsklinikums in Maastricht"
 date: 2017-10-10 8:00 CEST
 services:
   - title: CAPP Bilden

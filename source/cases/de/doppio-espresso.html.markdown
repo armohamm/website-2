@@ -1,5 +1,6 @@
 ---
 title: "Doppio Espresso case"
+sub_title: "Gute Software sorgt für guten Kaffee"
 date: 2017-09-11 11:00 CEST
 services:
   - title: CAPP Agile learning

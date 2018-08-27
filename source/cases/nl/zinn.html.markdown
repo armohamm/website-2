@@ -1,5 +1,6 @@
 ---
 title: "ZINN case"
+sub_title: "De zorg verbeteren met software op maat"
 date: 2017-09-10 8:00 CEST
 services:
   - title: CAPP LMS
@@ -13,7 +14,7 @@ services:
   - title: Consultancy
 lang: nl
 logo_white: cases/zinn/logo-white.png
-description: "De zorg verbeteren met software op maat"
+description: "Sinds het implementeren van CAPP ziet ZINN een stijging in de deelname aan cursussen en scholingen. Lees hoe we dat samen hebben gedaan in deze casus."
 image: images/cases/zinn/social-nl.jpg
 mood_image: cases/zinn/mood.jpg
 quote:

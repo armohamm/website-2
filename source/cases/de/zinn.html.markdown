@@ -1,5 +1,6 @@
 ---
 title: "ZINN case"
+sub_title: "Mit maßgeschneiderter Software die Pflege optimieren."
 date: 2017-09-11 10:00 CEST
 services:
   - title: CAPP Bilden
