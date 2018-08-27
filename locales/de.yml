@@ -212,8 +212,9 @@ de:
     phone: "040 306988472"
     phone_link: "+4940306988472"
   demo_request:
-    title: "Fordern Sie Ihre Demo an"
-    formkeep_title: "Demo request"
+    title: "Verwandeln Sie das Lernen und Entwickeln in ihrer Organisation mit unserer Learning & Talent Management Software. Möchten Sie mehr wissen? Fragen Sie eine Demo an und lernen Sie unsere Produkte kennen."
+    form_title: "Demo anfragen"
+    form_text: "Füllen Sie das Formulier aus und wir nehmen so schnell möglich Kontakt auf."
   digital-hospital:
     header: "Digitalisierung im Krankenhaus"
     form:
