@@ -4,7 +4,10 @@ $(document).ready(function() {
   var cookieName = "privacy_notification_dismissed";
   var cookieValue = Cookies.get(cookieName);
 
-  console.log(typeof cookieValue);
+  if (!notification) {
+    return false;
+  }
+
   if (cookieValue !== "true") {
     notification.classList.add("show");
   }
