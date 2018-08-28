@@ -16,7 +16,9 @@ sitemap_priority: 1
 header_style: invert
 ---
 
-<%= partial "home/news" %>
+<% unless root_locale == :en %>
+  <%= partial "home/news" %>
+<% end %>
 <%= partial "home/solutions" %>
 <% unless root_locale == :en %>
   <%= partial "clients/clients-cases-overview", locals: { count: 2 } %>

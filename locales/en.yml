@@ -210,6 +210,9 @@ en:
     hero:
       text: "More than 200.000 professionals use our software to learn and develop their talents. "
       title: "Developing People"
+    home:
+      news:
+        title: "What's hot"
     solutions:
       informal:
         text_html: "Real-time performance support. Improve employee performance by providing _on-demand_ knowledge. Keep track of the knowledge within your organisation, share protocols, manuals, instructions and more."

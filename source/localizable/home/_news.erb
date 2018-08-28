@@ -5,6 +5,11 @@ news_items = all_news_items.clone
 
 <section class="news">
   <div class="row">
+    <h2>
+      <%= t("home.news.title") %>
+    </h2>
+  </div>
+  <div class="row news-wrapper">
     <% news_items.each do |news_item|
 
       news_index = all_news_items.index(news_item) + 1
@@ -16,8 +21,12 @@ news_items = all_news_items.clone
           <%= image_tag news_item.image, alt: news_item.alt, title: news_item.alt %>
         </div>
         <div class="text">
-          <p><%= news_item.meta %></p>
-          <h3><%= news_item.title %></h3>
+          <h3>
+            <%= news_item.title %>
+          </h3>
+          <p>
+            <%= news_item.text %>
+          </p>
         </div>
       <% end %>
 

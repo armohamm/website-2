@@ -288,6 +288,8 @@ de:
     jobs: "Jobs"
     themes: "Themen"
   home:
+    news:
+      title: "Aktuelles"
     hero:
       title: "E-Learning und Personalentwicklung im Krankenhaus: mit Software von Defacto Qualität sichern"
     solutions:

@@ -1,11 +1,5 @@
-- title: "Ethical hacking and security through hackers"
-  meta: "Security"
-  image: "news/zerocopter.png"
-  link: "/blog/zerocopter-ethical-hacking-and-security-through-hackers/"
-  alt: "Ethical hacking and security through hackers"
-
 - title: "Learning & Developing since 1987"
-  meta: "We are Defacto"
-  image: "news/defacto.jpg"
+  text: "We are Defacto"
+  image: "news/werken-bij-defacto.jpg"
   link: "/about-us/"
   alt: "Learning & Developing since 1987"

@@ -237,6 +237,8 @@ nl:
     hero_capp:
       text: "CAPP LMS faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant."
       title: "Learning & Talent Management"
+    news:
+      title: "Actueel"
     solutions:
       informal:
         text_html: "Performance support door 'kennis-on-demand'. Voorzie medewerkers van _just-in-time_ kennis. Leg kennis simpel vast, deel handleidingen, werkinstructies en meer."
