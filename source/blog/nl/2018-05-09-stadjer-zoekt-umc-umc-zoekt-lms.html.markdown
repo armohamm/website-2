@@ -23,7 +23,7 @@ Het al dan niet meedoen aan een Europese aanbesteding is voor Defacto altijd een
 
 Voor Defacto was dus de beslissing om mee te doen met deze aanbesteding snel gemaakt. Naast de persoonlijke verbondenheid, hebben we al 4 UMC’s als klant: Leiden, Maastricht, Nijmegen en Hannover. We kennen de complexiteit en de specifieke centrale en decentrale processen binnen een UMC. Het UMCG werkte al met [CAPP Agile Learning](/capp-agile-learning/){:title="CAPP Agile Learning"} op de afdeling nucleaire geneeskunde en was daar tevreden over. Defacto’s [Kwaliteitspaspoort™](/kwaliteitspaspoort/){:title="Kwaliteitspaspoort™"}, waar we de eerste mee waren in Nederland in 2012, is na 6 jaar doorontwikkeling als geen ander geschikt voor grote, complexe organisaties als UMC’s. Daarnaast, het was niet de belangrijkste reden, leek het ons ook wel eens leuk om amper reistijd te hebben en op de fiets naar een klant te gaan.
 
-Het UMCG heeft onze beantwoording zeer hoog beoordeeld en gaven aan dat onze expertise erboven uit stak. Iets om trots te zijn. We zien uit naar de samenwerking en het partnership met het UMCG, dat zal als stadjers en nuchtere Noordelingen onder elkaar vast helemaal goed komen.
+Het UMCG heeft onze beantwoording zeer hoog beoordeeld en gaven aan dat onze expertise erboven uit stak. Iets om trots op te zijn. We zien uit naar de samenwerking en het partnership met het UMCG, dat zal als Stadjers en nuchtere Noorderlingen onder elkaar vast helemaal goed komen.
 
 ![](/images/blog/UMCG-tekent-contract.jpg){:alt="UMCG tekent contract"}
 
