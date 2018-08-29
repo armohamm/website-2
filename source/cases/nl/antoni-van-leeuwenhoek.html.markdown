@@ -33,7 +33,9 @@ call_to_action: demo-request
 
 ## Van A naar B naar CAPP LMS
 
-“Voor het AVL is een Learning Management System (LMS) een belangrijk instrument om een inspirerende leeromgeving te creëren. In [CAPP LMS](/capp-lms/) kan niet alleen het formele leren goed worden vormgegeven, maar ook het informele en multidisciplinaire leren worden hierin gefaciliteerd. Dit sluit helemaal aan bij onze cultuur waarin leren op de werkplek, van en met elkaar, centraal staat en het fundament is van hoe we werken.” Dit zagen wij ook in de werkwijze van Defacto terug en was een van de reden om voor deze partij te kiezen. Een andere reden was het [Kwaliteitspaspoort](/kwaliteitspaspoort)​. Defacto heeft hiermee een prachtig instrument om bevoegd- en bekwaamheden overzichtelijk in kaart te brengen waardoor AVL inzichtelijk kan maken of ze voldoen aan alle wettelijke vereisten. Met behulp van de implementatie consultants van Defacto en het ziekenhuis zelf is de digitale leeromgeving vervolgens volledig ingericht en gereedgemaakt voor gebruik.
+“Voor het AVL is een Learning Management System (LMS) een belangrijk instrument om een inspirerende leeromgeving te creëren. In [CAPP LMS](/capp-lms/) kan niet alleen het formele leren goed worden vormgegeven, maar ook het informele en multidisciplinaire leren worden hierin gefaciliteerd. Dit sluit helemaal aan bij onze cultuur waarin leren op de werkplek, van en met elkaar, centraal staat en het fundament is van hoe we werken.”
+
+“Dit zagen wij ook in de werkwijze van Defacto terug en was een van de reden om voor deze partij te kiezen. Een andere reden was het [Kwaliteitspaspoort](/kwaliteitspaspoort)​. Defacto heeft hiermee een prachtig instrument om bevoegd- en bekwaamheden overzichtelijk in kaart te brengen waardoor AVL inzichtelijk kan maken of ze voldoen aan alle wettelijke vereisten. Met behulp van de implementatie consultants van Defacto en het ziekenhuis zelf is de digitale leeromgeving vervolgens volledig ingericht en gereedgemaakt voor gebruik.”
 
 ## Gebruiksvriendelijk
 
@@ -43,5 +45,6 @@ Naast de keuze voor CAPP LMS zelf is het ziekenhuis heel trots op hoe ze met [CA
 
 ## Samenwerking is essentieel
 
-Het Antoni van Leeuwenhoek is de eerste klant die live gaat met de laatste versie van CAPP LMS. Voor Defacto was dit dan ook een erg belangrijk en leerzaam traject. Consultant Celine Kemp stelt: "We zijn dankzij dit implementatietraject nog beter uitgerust om klanten, zoals het Antoni van Leeuwenhoek, te faciliteren op het gebied van leren en ontwikkelen."
+Het Antoni van Leeuwenhoek is de eerste klant die live gaat met de laatste versie van CAPP LMS. Voor Defacto was dit dan ook een erg belangrijk en leerzaam traject. Consultant Celine Kemp stelt: “We zijn dankzij dit implementatietraject nog beter uitgerust om klanten, zoals het Antoni van Leeuwenhoek, te faciliteren op het gebied van leren en ontwikkelen.“
+
 Miriam Boer concludeert: “De samenwerking met Defacto is fantastisch verlopen. Door Defacto is ervoor gezorgd dat de visie op leren en ontwikkelen nog scherper is geworden. Tijdens de implementatie kwam er heel veel positieve energie vrij en is er keihard gewerkt. De inzet en expertise van de consultants hebben het verschil voor ons gemaakt.”
