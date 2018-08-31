@@ -240,6 +240,9 @@ de:
     heading: "Sorry, diese Seite existiert nicht."
     text_md: "Dies bedeutet nicht, dass Sie einen Fehler gemacht haben. Es kann sein, dass wir die Seite umbenannt oder bewegt haben."
     img_alt: "Seite nicht gefunden"
+  events:
+    title: "Events"
+    cta_title: "Melden Sie sich an"
   footer:
     capp:
       learn: "CAPP Bilden"
@@ -266,6 +269,7 @@ de:
     organisation: "Betrieb oder Organisation"
     phone: "Telefon"
     submit: "Versenden"
+    register: "Melden Sie sich an"
   jobs:
     acquisition: "Achtung: Keine Werbung auf diese Stellenanzeige verschicken."
     apply: "Bewerben &raquo;"
@@ -287,6 +291,7 @@ de:
     services: "Service"
     jobs: "Jobs"
     themes: "Themen"
+    events: "Events"
   home:
     news:
       title: "Aktuelles"

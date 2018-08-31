@@ -1,0 +1,158 @@
+body.events {
+  .hero {
+    background-color: $pink;
+
+    &.events {
+      h1 {
+        font-size: $base-font-size * 1.6;
+
+        @include media($medium-up) {
+          font-size: $base-font-size * 3;
+        }
+      }
+    }
+
+    &.event {
+      h1 {
+        font-size: $base-font-size * 1.6;
+
+        @include media($medium-up) {
+          font-size: $base-font-size * 2.4;
+        }
+      }
+
+      h2 {
+        font-size: $base-font-size * 1.4;
+
+        @include media($medium-up) {
+          font-size: $base-font-size * 2;
+        }
+      }
+    }
+
+    .hero-inner {
+      padding: 4em 1em;
+
+      @include media($medium-up) {
+        padding: 7em 1em;
+      }
+    }
+  }
+}
+
+.events-list {
+  > li {
+    background-color: $white;
+    margin-bottom: 2em;
+
+    @include media($medium-up) {
+      @include fill-parent();
+      @include row(table);
+      min-height: 300px;
+    }
+  }
+
+  .col {
+    @include pad();
+    vertical-align: middle;
+
+    p {
+      font-size: $base-font-size;
+
+      &:last-child {
+        margin: 0;
+      }
+
+      a {
+        color: inherit;
+        font-weight: 700;
+      }
+    }
+
+    .meta {
+      color: $post-meta;
+
+      span {
+        display: block;
+
+        @include media($medium-up) {
+          display: inline-block;
+        }
+
+        &.divider {
+          display: none;
+
+          @include media($medium-up) {
+            display: inline-block;
+            margin-left: 0.5em;
+            margin-right: 0.5em;
+          }
+        }
+      }
+    }
+
+    &.left {
+      background: $capp-dark-blue;
+      color: $white;
+      display: table;
+      height: 200px;
+      text-align: center;
+      width: 100%;
+
+      @include media($medium-up) {
+        @include span-columns(5);
+        height: auto;
+      }
+
+      h2 {
+        display: table-cell;
+        font-family: $base-font-family;
+        font-size: $base-font-size * 1.4;
+        font-weight: 700;
+        line-height: 1.5;
+        margin: 0;
+        vertical-align: middle;
+
+        @include media($medium-up) {
+          display: inline-block;
+          font-size: $base-font-size * 2;
+        }
+      }
+
+      img {
+        max-width: 100%;
+        vertical-align: text-top;
+      }
+    }
+
+    &.right {
+      text-align: left;
+
+      @include media($medium-up) {
+        @include span-columns(7);
+        @include reset-display;
+      }
+    }
+  }
+}
+
+.logos {
+  text-align: center;
+
+  img {
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 2em;
+  }
+}
+
+.cta-bottom {
+  .row {
+    max-width: 800px;
+  }
+
+  button {
+    width: 100%;
+  }
+}

@@ -20,10 +20,6 @@ section.news {
     transition: transform 0.2s ease;
     width: 100%;
 
-    @include media($medium-up) {
-      width: 26%;
-    }
-
     @include media($large-up) {
       margin-left: 1em;
       margin-right: 1em;
@@ -50,7 +46,6 @@ section.news {
     }
 
     img {
-      max-height: 240px;
       width: 100%;
     }
 

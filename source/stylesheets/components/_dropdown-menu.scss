@@ -242,6 +242,10 @@
     text-transform: none;
     width: 100%;
 
+    @include media($menu-desktop) {
+      display: none;
+    }
+
     a {
       color: $gray-menu;
 
@@ -436,12 +440,6 @@
     .content {
       @include media($menu-desktop) {
         width: 740px;
-      }
-    }
-
-    .dropdown-title {
-      @include media($menu-desktop) {
-        display: none;
       }
     }
 

@@ -217,6 +217,7 @@ nl:
     organisation: "Bedrijf of organisatie"
     phone: Telefoon
     submit: Verstuur
+    register: Aanmelden
   head:
     default_description: "Defacto helpt organisaties bij het ontwikkelen en certificeren van hun medewerkers"
     default_title: Defacto
@@ -230,6 +231,7 @@ nl:
     services: Diensten
     jobs: Jobs
     themes: Thema's
+    events: Events
   home:
     hero:
       text: "Meer dan 200.000 professionals gebruiken onze software om te leren en hun talenten te ontwikkelen"
