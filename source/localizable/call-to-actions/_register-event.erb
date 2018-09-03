@@ -5,9 +5,9 @@
       <%= t("events.cta_title") %>
     </h2>
 
-    <form class="form" accept-charset="UTF-8" action="<%= t("urls.contact") %>" method="POST">
+    <form class="form" accept-charset="UTF-8" action="<%= t("urls.register_event") %>" method="POST">
       <input type="hidden" name="utf8" value="✓">
-      <input type="hidden" name="form" value="Register for <%= page_title current_page %>">
+      <input type="hidden" name="form" value="<%= page_title current_page %>">
       <input type="text" name="name" placeholder="<%= t("form.name") %>">
       <input type="text" name="organisation" placeholder="<%= t("form.organisation") %>" required>
       <input class="required" type="email" name="email" placeholder="<%= t("form.email") %>" required>
