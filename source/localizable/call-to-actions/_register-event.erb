@@ -5,7 +5,7 @@
       <%= t("events.cta_title") %>
     </h2>
 
-    <form class="form" accept-charset="UTF-8" action="<%= t("urls.register_event") %>" method="POST">
+    <form class="form-inline" accept-charset="UTF-8" action="<%= t("urls.register_event") %>" method="POST">
       <input type="hidden" name="utf8" value="✓">
       <input type="hidden" name="form" value="<%= page_title current_page %>">
       <input type="text" name="name" placeholder="<%= t("form.name") %>">
