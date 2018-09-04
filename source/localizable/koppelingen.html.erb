@@ -11,19 +11,22 @@ description:
 
 <section class="gray">
   <div class="row">
-    <h1><%= t("koppelingen.heading") %></h1>
+    <h1>
+      <%= t("koppelingen.heading") %>
+    </h1>
     <% if root_locale == :en %>
-      <h3><%= t("koppelingen.subheading") %></h3>
+      <h3>
+        <%= t("koppelingen.subheading") %>
+      </h3>
     <% end %>
   </div>
 </section>
 
 <section>
   <div class="row">
-    <article class="sidebar-content">
+    <article>
       <%= partial "koppelingen/koppelingen" %>
     </article>
-    <%= partial "diensten/sidebar" %>
   </div>
 </section>
 
