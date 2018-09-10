@@ -13,6 +13,7 @@ nl:
     ebook: https://formkeep.com/f/15eb7434fd49
     job_apply: https://formkeep.com/f/da32eaeda39e
     capp_agile: https://formkeep.com/f/0f2125be5045
+    register_event: https://formkeep.com/f/09b41882aeda
     url: https://www.defacto.nl
     jobs: https://www.defacto.nl/jobs
     twitter: https://twitter.com/DefactoSoftware
@@ -192,6 +193,9 @@ nl:
     heading: "Sorry, deze pagina bestaat niet."
     text_md: "Dit betekent niet dat je iets verkeerd hebt gedaan, het kan zijn dat we de pagina hernoemd of verplaatst hebben."
     img_alt: "Pagina niet gevonden"
+  events:
+    cta_title: "Nu aanmelden"
+    title: "Events"
   footer:
     capp: "CAPP Learning & Talent Management"
     contact: "Contact opnemen &raquo;"
@@ -218,6 +222,7 @@ nl:
     phone: Telefoon
     submit: Verstuur
     register: Aanmelden
+    persons: "Aantal personen"
   head:
     default_description: "Defacto helpt organisaties bij het ontwikkelen en certificeren van hun medewerkers"
     default_title: Defacto
@@ -225,6 +230,7 @@ nl:
     about: "Over ons"
     blog: Blog
     contact: Contact
+    events: Events
     home: Home
     menu: Menu
     products: Producten
