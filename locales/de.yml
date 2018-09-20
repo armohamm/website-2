@@ -27,6 +27,7 @@ de:
     testimonials: kundenstimmen
     themas: themen
     zoeken: suche
+    evenementenagenda: veranstaltungskalender
   urls:
     appointment: https://formkeep.com/f/823938297f51
     contact: https://formkeep.com/f/bfad79e126e9
@@ -242,7 +243,7 @@ de:
     text_md: "Dies bedeutet nicht, dass Sie einen Fehler gemacht haben. Es kann sein, dass wir die Seite umbenannt oder bewegt haben."
     img_alt: "Seite nicht gefunden"
   events:
-    title: "Events"
+    title: "Veranstaltungskalender"
     cta_title: "Melden Sie sich an"
   footer:
     capp:
@@ -292,7 +293,7 @@ de:
     services: "Service"
     jobs: "Jobs"
     themes: "Themen"
-    events: "Events"
+    events: "Veranstaltungskalender"
   home:
     news:
       title: "Aktuelles"

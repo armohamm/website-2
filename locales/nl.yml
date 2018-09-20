@@ -195,7 +195,7 @@ nl:
     img_alt: "Pagina niet gevonden"
   events:
     cta_title: "Nu aanmelden"
-    title: "Events"
+    title: "Evenementenagenda"
   footer:
     capp: "CAPP Learning & Talent Management"
     contact: "Contact opnemen &raquo;"
@@ -230,14 +230,13 @@ nl:
     about: "Over ons"
     blog: Blog
     contact: Contact
-    events: Events
+    events: Evenementenagenda
     home: Home
     menu: Menu
     products: Producten
     services: Diensten
     jobs: Jobs
     themes: Thema's
-    events: Events
   home:
     hero:
       text: "Meer dan 200.000 professionals gebruiken onze software om te leren en hun talenten te ontwikkelen"

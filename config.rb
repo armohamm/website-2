@@ -107,12 +107,16 @@ end
 # Redirects locale specific
 case root_locale
 when :nl
+  redirect "events.html", to: "evenementenagenda.html"
+  redirect "events/gebruikersbijeenkomst-november-2018.html", to: "/evenementenagenda/gebruikersbijeenkomst-november-2018/"
   redirect "workshop-convenant-mt.html", to: "convenant-medische-technologie.html"
   redirect "capp-lms-nieuw.html", to: "capp-lms.html"
   redirect "blog/learningspaces-op-websummit.html", to: "/blog/capp-agile-learning-op-websummit/"
   redirect "blog/learningspaces-een-veilige-ruimte-om-te-leren-van-elkaar.html", to: "/blog/capp-agile-learning-een-veilige-ruimte-om-te-leren-van-elkaar/"
   redirect "referenties.html", to: "klanten.html"
 when :de
+  redirect "events.html", to: "veranstaltungskalender.html"
+  redirect "events/workshop-innovative-lernumgebung.html", to: "/veranstaltungskalender/workshop-innovative-lernumgebung/"
   redirect "jobs/consultant.html", to: "/jobs/projektleiter-consultant-softwareimplementierung/"
   redirect "datenschutz.html", to: "datenschutzerklarung.html"
   redirect "elearning-starterkit.html", to: "e-learning-starterkit.html"
@@ -429,9 +433,12 @@ helpers do
       classes.sub!(/blog_\d+_index/, "blog_index")
     elsif is_blog_article?
       classes += " blog-article"
-    elsif current_page.url == "/capp-entwickeln/"
+    elsif classes.include? "capp-entwickeln"
       # Replace `capp-entwickeln` with `capp-lms`
-      classes.sub!("capp-entwickeln capp-entwickeln_index", "capp-lms")
+      classes.gsub!("capp-entwickeln", "capp-lms")
+    elsif classes.include? "veranstaltungskalender"
+      # Replace `veranstaltungskalender` with `evenementenagenda`
+      classes.gsub!("veranstaltungskalender", "evenementenagenda")
     end
 
     # Prepend language class
