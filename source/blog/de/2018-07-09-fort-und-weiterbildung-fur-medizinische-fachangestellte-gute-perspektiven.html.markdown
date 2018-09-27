@@ -4,7 +4,6 @@ date: 2018-07-09 08:00 CEST
 tags: Fort- und Weiterbildung, MFA, Krankenhaus, E-Learning
 author: Najib
 lang: de
-featured: true
 image: images/blog/social/mfa-blog-2-1200x630.jpg
 featured_image: images/blog/featured/20180709-mfa-blog-2.jpg
 header_image: moods/MFA-blog.jpg
