@@ -1,7 +1,7 @@
 ---
 title: "Fördermittel für Digitale Medien in der beruflichen Bildung im Gesundheitswesen"
 date: 2018-09-27 08:00 CEST
-tags: Ausbildung, Fortbildung, Weiterbildung, Gesundheitswesen, Digitalisierung Krankenhaus, DigiMed
+tags: Fort- und Weiterbildung, Gesundheitswesen, Krankenhaus
 author: Susan
 lang: de
 featured: true
@@ -20,4 +20,4 @@ Alle Institutionen aus den Bereichen Forschung und Entwicklung im Gesundheitsber
 
 Möchten Sie einen Antrag für Fördermittel stellen? Vordrucke für Förderanträge, Richtlinien, Merkblätter, Hinweise und Nebenbestimmungen können auf folgender [Webseite abgerufen werden.](https://foerderportal.bund.de/easy/easy_index.php?auswahl=easy_formulare&formularschrank=bmbf){:target="_blank"}{:rel="noopener"}{:title="Förder Portal."}
 
-Haben Sie weitere Fragen zu dieser Ausschreibung? Nehmen Sie Kontakt mit unserem Customer Relationshop Manager <strong><a href="a.dijkslag@defacto.nl">Albert Dijkslag</a></strong> auf.
+Haben Sie weitere Fragen zu dieser Ausschreibung? Nehmen Sie Kontakt mit unserem Customer Relationshop Manager <strong><a href="mailto:a.dijkslag@defacto.nl">Albert Dijkslag</a></strong> auf.
