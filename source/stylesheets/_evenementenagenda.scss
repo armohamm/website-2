@@ -14,10 +14,10 @@ body.evenementenagenda {
 
     &.event {
       h1 {
-        font-size: $base-font-size * 1.6;
+        font-size: $base-font-size * 1.4;
 
         @include media($medium-up) {
-          font-size: $base-font-size * 2.4;
+          font-size: $base-font-size * 2;
         }
       }
 
@@ -28,14 +28,37 @@ body.evenementenagenda {
           font-size: $base-font-size * 2;
         }
       }
-    }
 
-    .hero-inner {
-      padding: 4em 1em;
+      p {
+        font-size: $base-font-size * 1.2;
+        margin-bottom: 1em;
 
-      @include media($medium-up) {
-        padding: 7em 1em;
+        @include media($medium-up) {
+          font-size: $base-font-size * 1.6;
+        }
       }
+
+      .button {
+        margin-bottom: 0;
+      }
+
+      .hero-inner {
+        padding: 2em 1em;
+
+        @include media($medium-up) {
+          padding: 3em 1em;
+        }
+      }
+    }
+  }
+
+  article {
+    img {
+      display: block;
+      left: 50%;
+      padding: 0.2em 0;
+      position: relative;
+      transform: translateX(-50%);
     }
   }
 }
