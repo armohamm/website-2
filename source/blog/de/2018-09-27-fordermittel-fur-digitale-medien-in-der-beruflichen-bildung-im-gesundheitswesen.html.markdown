@@ -1,13 +1,13 @@
 ---
 title: "Fördermittel für Digitale Medien in der beruflichen Bildung im Gesundheitswesen"
-date: 2018-09-26 08:00 CEST
+date: 2018-09-27 08:00 CEST
 tags: Ausbildung, Fortbildung, Weiterbildung, Gesundheitswesen, Digitalisierung Krankenhaus, DigiMed
 author: Susan
 lang: de
 featured: true
-image: images/blog/social/mfa-blog-2-1200x630.jpg
-featured_image: images/blog/featured/20180709-mfa-blog-2.jpg
-header_image: moods/MFA-blog.jpg
+image: images/blog/social/bmbf-blog-1200x630.jpg
+featured_image: images/blog/featured/20180927-BMBF-blog.jpg
+header_image: moods/BMBF-blog.jpg
 ---
 
 __Das Bundesministerium für 'Bildung und Forschung' bietet derzeit die Möglichkeit an Fördermittel zu beantragen zur zeitgemäßen Einrichtung der Aus-, Fort- und Weiterbildungen in Gesundheitsberufen durch den Einsatz digitaler Medien.__
