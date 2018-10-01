@@ -116,7 +116,6 @@ when :nl
   redirect "referenties.html", to: "klanten.html"
 when :de
   redirect "events.html", to: "veranstaltungskalender.html"
-  redirect "events/workshop-innovative-lernumgebung.html", to: "/veranstaltungskalender/workshop-innovative-lernumgebung/"
   redirect "jobs/consultant.html", to: "/jobs/projektleiter-consultant-softwareimplementierung/"
   redirect "datenschutz.html", to: "datenschutzerklarung.html"
   redirect "elearning-starterkit.html", to: "e-learning-starterkit.html"

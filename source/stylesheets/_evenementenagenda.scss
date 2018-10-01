@@ -60,6 +60,11 @@ body.evenementenagenda {
   margin: 0 auto;
   max-width: 800px;
 
+  .no-event {
+    text-align: center;
+    width: 100%;
+  }
+
   > li {
     margin-bottom: 2em;
 
