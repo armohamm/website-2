@@ -1,33 +1,34 @@
 body.evenementenagenda {
   .hero {
-    background-color: $pink;
+    background-image: url("../images/moods/defacto.jpg");
+    background-position: center;
+    background-size: cover;
 
-    &.events {
-      h1 {
-        font-size: $base-font-size * 1.6;
+    h1 {
+      font-size: $base-font-size * 1.4;
 
-        @include media($medium-up) {
-          font-size: $base-font-size * 3;
-        }
+      @include media($medium-up) {
+        font-size: $base-font-size * 2.4;
+      }
+    }
+
+    h2 {
+      font-size: $base-font-size * 1.4;
+
+      @include media($medium-up) {
+        font-size: $base-font-size * 2;
+      }
+    }
+
+    .hero-inner {
+      padding: 3em 1em;
+
+      @include media($medium-up) {
+        padding: 4em 1em;
       }
     }
 
     &.event {
-      h1 {
-        font-size: $base-font-size * 1.4;
-
-        @include media($medium-up) {
-          font-size: $base-font-size * 2;
-        }
-      }
-
-      h2 {
-        font-size: $base-font-size * 1.4;
-
-        @include media($medium-up) {
-          font-size: $base-font-size * 2;
-        }
-      }
 
       p {
         font-size: $base-font-size * 1.2;
@@ -40,14 +41,6 @@ body.evenementenagenda {
 
       .button {
         margin-bottom: 0;
-      }
-
-      .hero-inner {
-        padding: 2em 1em;
-
-        @include media($medium-up) {
-          padding: 3em 1em;
-        }
       }
     }
   }
@@ -64,31 +57,75 @@ body.evenementenagenda {
 }
 
 .events-list {
+  margin: 0 auto;
+  max-width: 800px;
+
   > li {
-    background-color: $white;
     margin-bottom: 2em;
 
     @include media($medium-up) {
-      @include fill-parent();
-      @include row(table);
-      min-height: 300px;
+      display: flex;
     }
   }
 
   .col {
-    @include pad();
-    vertical-align: middle;
+    display: block;
+    width: 100%;
+  }
 
-    p {
-      font-size: $base-font-size;
+  .left {
+    display: none;
 
-      &:last-child {
-        margin: 0;
-      }
+    @include media($medium-up) {
+      background-image: url("../images/calendar-background.svg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      display: block;
+      height: 160px;
+      text-align: center;
+      width: 160px;
+    }
+
+    h2 {
+      color: $dark-gray;
+      font-size: $base-font-size * 4;
+      font-weight: 700;
+    }
+
+    h3 {
+      color: $white;
+      font-size: $base-font-size * 1;
+      font-weight: 700;
+      margin-bottom: 3px;
+      margin-top: 14px;
+    }
+  }
+
+  .right {
+    @include media($medium-up) {
+      flex: 1;
+    }
+
+    h2 {
+      margin-bottom: 0;
 
       a {
-        color: inherit;
+        color: $base-font-color;
+        font-size: $base-font-size * 0.8;
         font-weight: 700;
+      }
+    }
+
+    p {
+      margin: 0.75em 0;
+    }
+
+    a {
+      color: $pink;
+      font-weight: 700;
+
+      &:hover {
+        color: darken($pink, 20%);
       }
     }
 
@@ -113,59 +150,5 @@ body.evenementenagenda {
         }
       }
     }
-
-    &.left {
-      background: $capp-dark-blue;
-      color: $white;
-      display: table;
-      height: 200px;
-      text-align: center;
-      width: 100%;
-
-      @include media($medium-up) {
-        @include span-columns(5);
-        height: auto;
-      }
-
-      h2 {
-        display: table-cell;
-        font-family: $base-font-family;
-        font-size: $base-font-size * 1.4;
-        font-weight: 700;
-        line-height: 1.5;
-        margin: 0;
-        vertical-align: middle;
-
-        @include media($medium-up) {
-          display: inline-block;
-          font-size: $base-font-size * 2;
-        }
-      }
-
-      img {
-        max-width: 100%;
-        vertical-align: text-top;
-      }
-    }
-
-    &.right {
-      text-align: left;
-
-      @include media($medium-up) {
-        @include span-columns(7);
-        @include reset-display;
-      }
-    }
-  }
-}
-
-.logos {
-  text-align: center;
-
-  img {
-    margin-bottom: 1em;
-    margin-left: 1em;
-    margin-right: 1em;
-    margin-top: 2em;
   }
 }

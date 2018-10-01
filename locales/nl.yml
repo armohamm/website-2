@@ -196,6 +196,7 @@ nl:
   events:
     cta_title: "Nu aanmelden"
     title: "Evenementenagenda"
+    sub_title: "Bekijk hier de evenementen die wij organiseren of waar we aan deelnemen."
   footer:
     capp: "CAPP Learning & Talent Management"
     contact: "Contact opnemen &raquo;"

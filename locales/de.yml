@@ -247,6 +247,7 @@ de:
   events:
     title: "Veranstaltungskalender"
     cta_title: "Melden Sie sich an"
+    sub_title: "Sehen Sie hier die Veranstaltungen, die wir organisieren oder an denen wir teilnehmen."
   footer:
     capp:
       learn: "CAPP Bilden"

@@ -4,19 +4,27 @@ title:
   de: Veranstaltungskalender
 description:
   nl: Bekijk hier en meld je aan voor de events die wij organiseren of waar we aan deelnemen.
-  de: Sehen Sie hier, welche Veranstaltungen Defacto organisiert und besucht
+  de: Sehen Sie hier die Veranstaltungen, die wir organisieren oder an denen wir teilnehmen.
 lang_ignore: en
 ---
 
 <div class="hero events">
   <div class="hero-inner">
     <div class="hero-copy">
-      <h1><%= t("events.title") %></h1>
+
+      <h1>
+        <%= t("events.title") %>
+      </h1>
+
+      <h2>
+        <%= t("events.sub_title") %>
+      </h2>
+
     </div>
   </div>
 </div>
 
-<section class="gray">
+<section>
   <div class="row">
     <%= partial "evenementenagenda/events" %>
   </div>
