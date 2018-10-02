@@ -6,6 +6,8 @@ else
 end
 %>
 
+<% register_url = current_page.data.formkeep_id ? "https://formkeep.com/f/#{current_page.data.formkeep_id}" : t("urls.contact") %>
+
 <section class="cta-bottom gray" id="contact-request">
   <div class="row">
 
@@ -13,7 +15,7 @@ end
       <%= t("events.cta_title") %>
     </h2>
 
-    <form class="<%= form_class %>" accept-charset="UTF-8" action="<%= t("urls.register_event") %>" method="POST">
+    <form class="<%= form_class %>" accept-charset="UTF-8" action="<%= register_url %>" method="POST">
       <input type="hidden" name="utf8" value="✓">
       <input type="hidden" name="form" value="<%= page_title current_page %>">
       <div class="form-name">
