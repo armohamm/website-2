@@ -133,6 +133,7 @@
         font-weight: bold;
         padding: 0 14px;
         transition: opacity 0.2s ease;
+        user-select: none;
 
         &:hover,
         &:focus,
