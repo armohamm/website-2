@@ -42,6 +42,7 @@ en:
     testimonials: Testimonials
   actions:
     download: Download
+    download_productsheet: "Download productsheet"
     home:
       demo: "Request a demo"
       productsheet: "Download a productsheet"
@@ -86,6 +87,7 @@ en:
     cta_bottom:
       formkeep_title: "CAPP: make appointment"
       heading_md: "More information on learning & development with CAPP LMS?"
+      subheading: "Download the CAPP LMS Productsheet"
     hero:
       formkeep_title: "CAPP: download productsheet"
       title: "Learning & Development with CAPP LMS"
