@@ -374,11 +374,11 @@ helpers do
   end
 
   # Use frontmatter for I18n titles
-  def page_title(page, appendCompanyName=true)
-    appendTitle = appendCompanyName ? " - Defacto" : ""
-    return page.data.title.send(I18n.locale) + appendTitle if
+  def page_title(page, append_company_name = true)
+    append_title = append_company_name ? " - Defacto Software" : ""
+    return page.data.title.send(I18n.locale) + append_title if
       page.data.title.is_a?(Hash) && page.data.title[I18n.locale]
-    return page.data.title + appendTitle if page.data.title
+    return page.data.title + append_title if page.data.title
     "Defacto - Developing People"
   end
 
