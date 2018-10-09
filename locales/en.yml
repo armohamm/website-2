@@ -157,6 +157,9 @@ en:
   demo_request:
     title: "Request your demo"
     formkeep_title: "Demo request"
+    form_title: "Request your Demo"
+    form_text: "Leave your details and we will contact you as soon as possible."
+    formkeep_title: "Demo request"
   elearning:
     heading: Advance your employees by applying E-learning to your organisation
   elearning_ebook:
@@ -272,12 +275,15 @@ en:
       hosting:
         desc: "Having 30 years of experience with IT implementations we know that high quality hosting and high level information security are extremely important."
         name: "Hosting & Security"
+        link: "hosting and security"
       implementaties:
-        desc: "Defacto has developed its own methods through which we ensure a successful strategy and implementation while working closely with our clients."
+        desc: "Defacto has developed its %{link} through which we ensure a successful strategy and implementation while working closely with our clients."
         name: Implementations
+        link: "own methods"
       koppelingen:
-        desc: "CAPP LMS can be integrated with other systems. For example; information systems that include HR-related data, assessment databases, e-learning suppliers and many more."
+        desc: "CAPP LMS can be %{link} with other systems. For example; information systems that include HR-related data, assessment databases, e-learning suppliers and many more."
         name: Integrations
+        link: "integrated"
     title: "We ensure a successful implementation of CAPP LMS with the following services"
   testimonials:
     title:  What others say about us
