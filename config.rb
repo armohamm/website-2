@@ -299,6 +299,14 @@ set :markdown, input: "GFM", auto_ids: false
 #set :markdown_engine, :redcarpet
 #set :markdown, fenced_code_blocks: true, smartypants: true
 
+# Raise exception when there is a wrong/no i18n key
+class TestExceptionLocalizationHandler
+  def call(exception, locale, key, options)
+    raise exception.to_exception if exception.is_a?(MissingTranslation)
+    super
+  end
+end
+
 ###
 # Build
 ###
@@ -312,6 +320,8 @@ configure :build do
 
   # Enable cache buster
   activate :asset_hash, ignore: ["images/blog/featured", "images/logos/defacto.png"]
+
+  I18n.exception_handler = TestExceptionLocalizationHandler.new
 end
 
 ###
