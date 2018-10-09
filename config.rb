@@ -596,6 +596,11 @@ helpers do
     page.url.start_with?("/blog/")
   end
 
+  # Is case?
+  def case?(page = current_page)
+    page.url.start_with?("/cases/")
+  end
+
   # Is blog index?
   def is_blog_index?(page = current_page)
     (page.url =~ %r{^\/blog\/(\d+\/)?$}).present?

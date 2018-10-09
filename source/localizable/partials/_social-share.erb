@@ -4,70 +4,78 @@
 
   <div class="title">
     <% if jobs_post? %>
-      <%= t("jobs.share") %>
+      <%= t("sharing.share_job") %>
     <% elsif is_blog? %>
-      <%= t("blog.share.share_post") %>
+      <%= t("sharing.share_post") %>
+    <% elsif case? %>
+      <%= t("sharing.share_case") %>
     <% else %>
-      <%= t("cases.share") %>
+      <%= t("sharing.share_event") %>
     <% end %>
   </div>
 
   <ul>
+
     <li>
-      <a href="https://twitter.com/intent/tweet?text=<%= URI.encode(current_page.title) %>&amp;url=<%= permalink_url %>&amp;via=DefactoSoftware"
+      <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=<%= permalink_url %>&amp;title=<%= URI.encode(page_title(current_page)) %>"
          target="_blank"
-         rel="nofollow"
-         title="<%= t("blog.share.twitter") %>"
-         class="icon-twitter2"
-         data-popup='{"width":550,"height":235}'
-         data-event="share-twitter">
-        <span><%= t("blog.share.twitter") %></span>
-      </a>
-    </li>
-    <li>
-      <a href="http://www.facebook.com/sharer.php?u=<%= permalink_url %>"
-         target="_blank"
-         rel="nofollow"
-         title="<%= t("blog.share.facebook") %>"
-         class="icon-facebook"
-         data-popup='{"width":580,"height":296}'
-         data-event="share-facebook">
-        <span><%= t("blog.share.facebook") %></span>
-      </a>
-    </li>
-    <li>
-      <a href="https://plus.google.com/share?url=<%= permalink_url %>"
-         target="_blank"
-         rel="nofollow"
-         title="<%= t("blog.share.google_plus") %>"
-         class="icon-google-plus"
-         data-popup='{"width":490,"height":530}'
-         data-event="share-google">
-        <span><%= t("blog.share.google_plus") %></span>
-      </a>
-    </li>
-    <li>
-      <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=<%= permalink_url %>&amp;title=<%= URI.encode(current_page.title) %>"
-         target="_blank"
-         rel="nofollow"
-         title="<%= t("blog.share.linkedin") %>"
+         rel="nofollow noopener"
+         title="<%= t("sharing.linkedin") %>"
          class="icon-linkedin2"
          data-popup='{"width":550,"height":500}'
          data-event="share-linkedin">
-        <span><%= t("blog.share.linkedin") %></span>
+        <span><%= t("sharing.linkedin") %></span>
       </a>
     </li>
+
+    <li>
+      <a href="https://twitter.com/intent/tweet?text=<%= URI.encode(page_title(current_page)) %>&amp;url=<%= permalink_url %>&amp;via=DefactoSoftware"
+         target="_blank"
+         rel="nofollow noopener"
+         title="<%= t("sharing.twitter") %>"
+         class="icon-twitter2"
+         data-popup='{"width":550,"height":235}'
+         data-event="share-twitter">
+        <span><%= t("sharing.twitter") %></span>
+      </a>
+    </li>
+
+    <li>
+      <a href="http://www.facebook.com/sharer.php?u=<%= permalink_url %>"
+         target="_blank"
+         rel="nofollow noopener"
+         title="<%= t("sharing.facebook") %>"
+         class="icon-facebook"
+         data-popup='{"width":580,"height":296}'
+         data-event="share-facebook">
+        <span><%= t("sharing.facebook") %></span>
+      </a>
+    </li>
+
+    <li>
+      <a href="https://plus.google.com/share?url=<%= permalink_url %>"
+         target="_blank"
+         rel="nofollow noopener"
+         title="<%= t("sharing.google_plus") %>"
+         class="icon-google-plus"
+         data-popup='{"width":490,"height":530}'
+         data-event="share-google">
+        <span><%= t("sharing.google_plus") %></span>
+      </a>
+    </li>
+
     <li>
       <a href="https://www.xing.com/spi/shares/new?url=<%= permalink_url %>"
          target="_blank"
-         rel="nofollow"
-         title="<%= t("blog.share.xing") %>"
+         rel="nofollow noopener"
+         title="<%= t("sharing.xing") %>"
          class="icon-xing"
          data-popup='{"width":550,"height":500}'
          data-event="share-xing">
-        <span><%= t("blog.share.xing") %></span>
+        <span><%= t("sharing.xing") %></span>
       </a>
     </li>
+
   </ul>
 
 </section>

@@ -71,13 +71,6 @@ nl:
       title: "Leestijd"
       min: "min."
     title: "Blog – leren en ontwikkelen"
-    share:
-      share_post: "Deel dit artikel:"
-      twitter: Deel op Twitter
-      facebook: Deel op Facebook
-      google_plus: Deel op Google+
-      linkedin: Deel op LinkedIn
-      xing: Deel op Xing
     subscribe: "Schrijf je in voor onze nieuwsbrief en blijf op de hoogte."
     tags:
       page_title: "Blog | Tag: %{tagname} | Pagina %{page_number} van %{num_pages} | Defacto"
@@ -130,7 +123,6 @@ nl:
     previous: "Vorige case"
     all_cases: "Alle cases"
     contact: "Contact opnemen"
-    share: "Deel deze case:"
     cta:
       title: "Weten wat we voor úw business case kunnen betekenen? Maak nu een afspraak!"
     sidebar:
@@ -266,7 +258,6 @@ nl:
     apply: "Solliciteer nu &raquo;"
     header: "Defacto als jouw werkgever"
     more: "Meer vacatures:"
-    share: "Deel deze vacature:"
     title: "Vacature:"
     vacancies: "Vacatures:"
   koppelingen:
@@ -340,6 +331,16 @@ nl:
       cmt:
         name: "Convenant Medische Technologie"
     title: "Met de onderstaande dienstverlening zorgen we voor een succesvolle implementatie van CAPP LMS"
+  sharing:
+    share_post: "Deel dit artikel:"
+    share_job: "Deel deze vacature:"
+    share_case: "Deel deze case:"
+    share_event: "Deel dit evenement:"
+    twitter: Deel op Twitter
+    facebook: Deel op Facebook
+    google_plus: Deel op Google+
+    linkedin: Deel op LinkedIn
+    xing: Deel op Xing
   testimonials:
     title: "Wat anderen over ons zeggen"
     more_testimonials: "Meer testimonials"

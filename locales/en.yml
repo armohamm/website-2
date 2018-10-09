@@ -70,13 +70,6 @@ en:
       title: "Reading time"
       min: "min."
     title: "Blog – Learning & Developing"
-    share:
-      share_post: "Share this article:"
-      twitter: Share on Twitter
-      facebook: Share on Facebook
-      google_plus: Share on Google+
-      linkedin: Share on LinkedIn
-      xing: Share on Xing
     subscribe: "Subscribe to our newsletter and stay up to date."
     tags:
       page_title: "Blog | Tag: %{tagname} | Page %{page_number} of %{num_pages} | Defacto"
@@ -285,6 +278,13 @@ en:
         name: Integrations
         link: "integrated"
     title: "We ensure a successful implementation of CAPP LMS with the following services"
+  sharing:
+    share_post: "Share this article:"
+    twitter: Share on Twitter
+    facebook: Share on Facebook
+    google_plus: Share on Google+
+    linkedin: Share on LinkedIn
+    xing: Share on Xing
   testimonials:
     title:  What others say about us
     more_testimonials: More testimonials

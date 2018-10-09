@@ -106,13 +106,6 @@ de:
       title: "Lesezeit"
       min: "Min."
     title: "Blog - Bilden und Entwickeln"
-    share:
-      share_post: "Teile diesen Artikel:"
-      twitter: Teile auf Twitter
-      facebook: Teile auf Facebook
-      google_plus: Teile auf Google+
-      linkedin: Teile auf LinkedIn
-      xing: Teile auf Xing
     subscribe: "Abonnieren Sie unseren Newsletter und bleiben Sie informiert."
     tags:
       page_title: "Blog | Tag: %{tagname} | Pagina %{page_number} von %{num_pages} | Defacto"
@@ -166,7 +159,6 @@ de:
   cases:
     all_cases: "Alle Cases"
     contact: "Kontakt aufnehmen"
-    share: "Teile diesen Kundencase:"
     cta:
       title: "Haben Sie Interesse wie dies Ihrem Business Case helfen kann? Vereinbaren Sie nun einen Termin!"
     sidebar:
@@ -281,7 +273,6 @@ de:
     apply: "Bewerben &raquo;"
     header: "Defacto als Dein Arbeitgeber​"
     more: "Weitere Jobs:"
-    share: "Teile dieses Stellenagebot:"
     title: "Offene Stelle:"
     vacancies: "Stellenmarkt:"
   head:
@@ -384,6 +375,16 @@ de:
         link: gekoppelt
         name: Schnittstellen
     title: "Dienstleistungen auf die wir stolz sind."
+  sharing:
+    share_post: "Teil diesen Artikel:"
+    share_job: "Teil dieses Stellenangebot:"
+    share_case: "Teil diese Kundenreferenz:"
+    share_event: "Teil diese Veranstaltung:"
+    twitter: Teile auf Twitter
+    facebook: Teile auf Facebook
+    google_plus: Teile auf Google+
+    linkedin: Teile auf LinkedIn
+    xing: Teile auf Xing
   testimonials:
     title: "Was unsere Kunden sagen"
     more_testimonials: "Mehr Kundenstimmen"
