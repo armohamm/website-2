@@ -19,6 +19,6 @@ Der Aufbau, die Vertiefung oder die Erweiterung von Wissen und Kompetenzen der F
 
 Alle Institutionen aus den Bereichen Forschung und Entwicklung im Gesundheitsbereich sowie Berufliche Aus-, Fort- und Weiterbildung in Gesundheitsberufen sind antragsberechtigt. Das Antragsverfahren ist zweistufig angelegt. Die erste Stufe des Verfahrens hat als Einsendeschluss den 19. Oktober 2018.
 
-Möchten Sie einen Antrag für Fördermittel stellen? Vordrucke für Förderanträge, Richtlinien, Merkblätter, Hinweise und Nebenbestimmungen können auf folgender [Webseite abgerufen werden.](https://foerderportal.bund.de/easy/easy_index.php?auswahl=easy_formulare&formularschrank=bmbf){:target="_blank"}{:rel="noopener"}{:title="Förder Portal."}
+Möchten Sie einen Antrag für Fördermittel stellen? Vordrucke für Förderanträge, Richtlinien, Merkblätter, Hinweise und Nebenbestimmungen können auf folgender [Webseite abgerufen werden](https://www.bmbf.de/foerderungen/bekanntmachung-1869.html){:target="_blank"}{:rel="noopener"}{:title="Richtlinie zur Förderung von Zuwendungen"}.
 
 Haben Sie weitere Fragen zu dieser Ausschreibung? Nehmen Sie Kontakt mit unserem Customer Relationshop Manager <strong><a href="mailto:a.dijkslag@defacto.nl">Albert Dijkslag</a></strong> auf.
