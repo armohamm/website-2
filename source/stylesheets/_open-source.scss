@@ -1,0 +1,118 @@
+body.open-source {
+  .hero {
+    background-color: $dark-gray;
+    background-image: url("../images/moods/code.jpg");
+    background-position: center;
+
+    .hero-inner {
+      padding: 4em 1em;
+
+      h1 {
+        font-size: 3em;
+      }
+
+      p {
+        font-size: 1.4em;
+      }
+
+      p:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  .work h2 {
+    text-align: center;
+  }
+
+  .work-items {
+    align-items: stretch;
+    display: flex;
+    flex-wrap: wrap;
+
+    .work-item {
+      margin-bottom: 3em;
+      width: 100%;
+
+      @include media($medium-up) {
+        padding: 0 1em;
+        width: 50%;
+      }
+
+      @include media($large-up) {
+        width: 33.333%;
+      }
+
+      > a {
+        display: inline-block;
+        padding: 0 1em;
+      }
+
+      img {
+        border: 1px solid $base-border-color;
+        display: block;
+        width: 100%;
+      }
+
+      .work-header {
+        font-weight: 500;
+
+        a {
+          color: $base-font-color;
+
+          &:hover {
+            color: $orange;
+          }
+        }
+      }
+
+      .work-meta {
+        color: $post-meta;
+      }
+
+      .work-language {
+        display: inline-block;
+        margin-right: 0.5em;
+      }
+
+      .work-language-color {
+        border-radius: 50%;
+        display: inline-block;
+        height: 12px;
+        position: relative;
+        top: 1px;
+        width: 12px;
+
+        &.elixir {
+          background-color: $tag-elixir;
+        }
+
+        &.html {
+          background-color: $tag-html;
+        }
+
+        &.ruby {
+          background-color: $tag-ruby;
+        }
+
+        &.javascript {
+          background-color: $tag-javascript;
+        }
+
+        &.phoenix {
+          background-color: $tag-phoenix;
+        }
+      }
+    }
+
+    .work-desc {
+      padding: 1em 1.5em 2em;
+    }
+  }
+
+  .visit-us {
+    p {
+      font-size: $base-font-size * 1.6;
+    }
+  }
+}

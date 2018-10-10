@@ -229,6 +229,7 @@ nl:
     services: Diensten
     jobs: Jobs
     themes: Thema's
+    open-source: "Open Source"
   home:
     hero:
       text: "Meer dan 200.000 professionals gebruiken onze software om te leren en hun talenten te ontwikkelen"

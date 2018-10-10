@@ -106,6 +106,18 @@
     }
   }
 
+  &.dark {
+    @include button($medium-gray);
+    color: $white;
+
+    &:hover,
+    &:focus {
+      background-color: $black;
+      border-color: $black;
+      color: $white;
+    }
+  }
+
   &.white-green {
     @include button($white);
     color: $green;

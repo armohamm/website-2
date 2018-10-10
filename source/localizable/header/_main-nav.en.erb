@@ -12,10 +12,7 @@
     <li class="has-dropdown" data-content="clients">
       <%= nav_link_to t("about.clients"), "/klanten.html" %>
     </li>
-    <li>
-      <%= nav_link_to t("header.blog"), "/blog/index.html" %>
-    </li>
-    <li>
+    <li class="has-dropdown" data-content="about-us">
       <%= nav_link_to t("header.about"), "/over-ons.html" %>
     </li>
     <li>
@@ -126,6 +123,7 @@
           </h5>
 
           <ul class="links-list">
+            <li><%= nav_link_to t("header.open-source"), "/open-source.html" %></li>
             <li><%= nav_link_to t("header.blog"), "/blog/index.html" %></li>
           </ul>
         </div>
