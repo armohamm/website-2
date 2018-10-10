@@ -25,6 +25,6 @@ Team CAPP Agile Learning werkt momenteel hard aan de nieuwe functionaliteit Grou
 
 ### We hebben een video gemaakt waar je  de sfeer van de dag kunt proeven:
 
-<iframe src="https://www.youtube.com/embed/DLQDleSzE2M?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/DLQDleSzE2M?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Alles wat wij doen, staat in het teken van ontwikkeling. Defacto staat daarom nooit stil en blijft ontwikkelen aan bestaande en nieuwe producten, dit het liefste in samenwerking met onze klanten.

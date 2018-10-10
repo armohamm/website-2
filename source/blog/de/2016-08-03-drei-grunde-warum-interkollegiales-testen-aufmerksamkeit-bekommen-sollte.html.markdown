@@ -27,7 +27,7 @@ Im Gesundheitswesen bedeutet das, die Behandlung an einem echten Patienten. Wede
 
 In vielen Gesprächen, die ich mit Pflegepersonal geführt habe, ist immer wieder rausgekommen, dass jeder von ihnen in jeden Fall Risiken für die Patienten vermeiden will. Das folgende Video zeigt, welche Konsequenzen ein solcher Fehler haben kann:
 
-<iframe src="https://www.youtube.com/embed/4meKUgypYmc?rel=0&amp;showinfo=0&amp;cc_lang_pref=de&amp;cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/4meKUgypYmc?rel=0&amp;showinfo=0&amp;cc_lang_pref=de&amp;cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
 
 Jeder Pfleger hat das im Hinterkopf und natürlich möchte niemand für eine solche Situation mitverantwortlich sein. Indem man Pfleger darauf anspricht und sie verantwortlich macht, wird ein solcher Test umso ernster genommen.
 

@@ -23,4 +23,4 @@ We started building CAPP Agile Learning when we've noticed that 'oldschool' lear
 
 ## Have you seen our video yet?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wk2eMm22cz0?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wk2eMm22cz0?rel=0" frameborder="0" allowfullscreen></iframe>

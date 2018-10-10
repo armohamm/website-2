@@ -12,7 +12,7 @@ _Dit jaar bestaat [Defacto](/over-ons/) dertig jaar. Daarom maakte [Beno Hofman]
 
 Over de jaren was het pand eigendom van verschillende mensen en het heeft een rijke geschiedenis. Niemand vertelt dat natuurlijk beter dan Beno zelf:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dYqYSJCC1_A?rel=0" frameborder="0" allowfullscreen></iframe>​​
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dYqYSJCC1_A?rel=0" frameborder="0" allowfullscreen></iframe>​​
 
 Tijdens het jubileumfeest overhandigde Beno een boekwerk met de complete geschiedenis aan Hans Veeger om het "thuis allemaal rustig na te lezen."
 

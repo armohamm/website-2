@@ -18,7 +18,7 @@ Ein weiteres wichtiges Thema war die **Digitalisierung** und wie das **Krankenha
 
 Unsere Kollegin Martina de Vos hat des Weiteren einen Vortrag zum Thema **Wissensmanagement – Der holländische Weg zum Top-Krankenhaus** vorgetragen. Hierin hat sie die Unterschiede in den zwei Ländern aufgezeigt und vor allem die letzten 10 Jahre in den Niederlanden beleuchtet, in denen sich in der Digitalisierung einiges geändert hat. Vor allem das von ihr gezeigte Video hat für großes Interesse gesorgt:
 
-<iframe src="https://www.youtube.com/embed/4meKUgypYmc?rel=0&amp;showinfo=0&amp;cc_lang_pref=de&amp;cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/4meKUgypYmc?rel=0&amp;showinfo=0&amp;cc_lang_pref=de&amp;cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
 
 ---
 

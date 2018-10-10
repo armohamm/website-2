@@ -12,7 +12,7 @@ featured_image: images/blog/featured/20171026-bastiaan-barelds.jpg
 
 ## Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2VQxfne3No?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B2VQxfne3No?rel=0" frameborder="0" allowfullscreen></iframe>
 
 In ieder bedrijf spelen veel verschillende processen, op verschillende niveaus. "Daarom kijken we altijd welke consultant het beste bij een proces past", aldus Barelds. "Ik heb een psychologische achtergrond en een andere consultant heeft bijvoorbeeld een onderwijskundige achtergrond." Om dit zo goed mogelijk te plannen zijn de consultants al tijdens de acquisitie betrokken bij de klanten, zodat ze goed op de hoogte zijn van de behoeften van de nieuwe klant. Omdat Defacto door de jaren heen bij veel verschillende klanten in de keuken heeft meegekeken, bezitten we veel kennis. "En die kennis delen we graag met al onze klanten. We merken dat er behoefte is om te zien hoe bijvoorbeeld andere ziekenhuizen en bedrijven hun LMS inrichten."
 
