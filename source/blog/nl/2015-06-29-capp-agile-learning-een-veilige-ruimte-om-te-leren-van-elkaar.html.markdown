@@ -8,9 +8,9 @@ lang: nl
 featured_image: images/blog/featured/20150629-cappagilelearning.jpg
 ---
 
-Deze blog werd eerder gepubliceerd op de website van Margreet Twijnstra.
+__Op uitnodiging van Defacto vond op 11 juni in dierenpark Amersfoort een informele kennismaking plaats met Learning Spaces: over _Informeel leren en kennis delen in ziekenhuizen_. Een bont gezelschap van zo’n 80 mensen greep de gelegenheid aan, om ervaringen uit te wisselen met leren in de context van de ziekenhuisorganisatie: zowel formeel als informeel en vooral: door welke voorwaarden gefaciliteerd.__
 
-Op uitnodiging van __Defacto__ vond op 11 juni in dierenpark Amersfoort een informele kennismaking plaats met Learning Spaces: over _Informeel leren en kennis delen in ziekenhuizen_. Een bont gezelschap van zo’n 80 mensen greep de gelegenheid aan, om ervaringen uit te wisselen met leren in de context van de ziekenhuisorganisatie: zowel formeel als informeel en vooral: door welke voorwaarden gefaciliteerd.
+*Deze blog werd eerder gepubliceerd op de website van Margreet Twijnstra.*
 
 Het concept Learning Spaces is een software oplossing waarmee een laagdrempelig sociaal platform wordt geboden om dit informele leren (leren van elkaar) te faciliteren, en de verborgen kennis in de organisatie op te sporen en bruikbaar te maken. Het is bedoeld als aanvulling op het formele leren, dat nodig blijft om de kwaliteit te borgen. De aanvullende waarde van dit concept is de vrije ruimte om bepaalde ervaringen en kennis te delen met betrokkenen binnen de organisatie. Het prikkelt het eigen initiatief, een soort ‘coming out’ voor de ondernemende professionals in de zorg en het bevordert de gezamenlijke ontwikkeling in teams.
 
