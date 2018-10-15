@@ -4,7 +4,6 @@ date: 2018-09-27 08:00 CEST
 tags: Fort- und Weiterbildung, Gesundheitswesen, Krankenhaus
 author: Susan
 lang: de
-featured: true
 image: images/blog/social/bmbf-blog-1200x630.jpg
 featured_image: images/blog/featured/20180927-BMBF-blog.jpg
 header_image: moods/BMBF-blog.jpg
