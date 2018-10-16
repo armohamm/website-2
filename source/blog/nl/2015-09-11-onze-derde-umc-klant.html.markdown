@@ -7,7 +7,7 @@ lang: nl
 featured_image: images/blog/featured/20150911-mumc.png
 ---
 
-Wat zijn we trots! Het voormalige Academische Ziekenhuis Maastricht (AZM), wellicht al bekend onder de nieuwe naam MUMC, koos eerder dit jaar voor ons LMS genaamd CAPP en een langdurig partnership met Defacto.
+__Wat zijn we trots! Het voormalige Academische Ziekenhuis Maastricht (AZM), wellicht al bekend onder de nieuwe naam MUMC, koos eerder dit jaar voor ons LMS genaamd CAPP en een langdurig partnership met Defacto.__
 
 Dat betekent dat inmiddels 3 van de 8 universitaire ziekenhuizen in Nederland met onze software voor Leren & Ontwikkelen werken. Het Leids Universitair Ziekenhuis (LUMC) mogen we al sinds de jaren negentig van de vorige eeuw tot gewaardeerd klant en partner rekenen. Het Universitair Medisch Centrum Groningen (UMCG), in onze hometown Grunn, werkt sinds de introductie in december 2014 al met het revolutionaire informeel leren platform [CAPP Agile Learning](/capp-agile-learning/).
 
