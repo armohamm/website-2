@@ -7,9 +7,11 @@ lang: nl
 featured_image: images/blog/featured/20150703-relatie.png
 ---
 
-### Het verschil tussen contact en contract is de R van relatie
+__Een gevleugelde uitspraak die ik op één van mijn eerste dagen bij Defacto al hoorde van Tim, onze senior sales:__
 
-Een gevleugelde uitspraak die ik op één van mijn eerste dagen bij Defacto al hoorde van Tim, onze senior sales. Hij heeft helemaal gelijk. Wij begeven ons in een markt waar alleen het leveren van software niet voldoende is. Het installeren van een LMS en het zorgen dat een LMS ook effectief gebruikt wordt in een organisatie zijn twee heel verschillende dingen. Een goede relatie met je klanten om continu gezamenlijk het proces van acceptatie en implementatie te blijven monitoren is daarom essentieel.
+> Het verschil tussen contact en contract is de R van Relatie.
+
+__Hij heeft helemaal gelijk. Wij begeven ons in een markt waar alleen het leveren van software niet voldoende is. Het installeren van een LMS en het zorgen dat een LMS ook effectief gebruikt wordt in een organisatie zijn twee heel verschillende dingen. Een goede relatie met je klanten om continu gezamenlijk het proces van acceptatie en implementatie te blijven monitoren is daarom essentieel.__
 
 Case in point. Begin dit jaar stonden wij aan de start van een groot implementatietraject van [ons LMS](/capp-lms/) bij de Sint Fransiscus Vlietland Groep (SFVG) in Rotterdam. We hebben tijdens dit project niet alleen ons eigen LMS geïmplementeerd, maar tevens alle opgebouwde opleidingshistorie uit het vorige LMS van SFVG succesvol kunnen overzetten. Uiteindelijk heeft dit geresulteerd in een naadloze overgang, waarin alle medewerkers van het SFVG verder kunnen bouwen op hun eerder behaalde resultaten.
 
@@ -19,10 +21,10 @@ Wanneer je een klant echt leert kennen en een persoonlijke band creeërt zorgt d
 
 Relatie verhoogt tevens commitment. Wanneer één van mijn klanten een probleem ervaart is dat ook meteen mijn probleem. Ik merk bij mezelf dat ik in deze aanpak ook sneller en harder loop voor mijn klanten. In discussies bij Defacto sta ik aan de kant van mijn klant, en dat mag ook gewoon.
 
-Links en rechts zie je grote software projecten falen, veel geld gaat verloren en het enige wat je er aan over houdt is vijf minuten screentime bij het NOS journaal. Ik kan me niet voorstellen dat ons zoiets zou overkomen zolang we vanuit de relatie blijven werken…
+Links en rechts zie je grote software projecten falen, veel geld gaat verloren en het enige wat je er aan over houdt is vijf minuten screentime bij het NOS journaal. Ik kan me niet voorstellen dat ons zoiets zou overkomen zolang we vanuit de relatie blijven werken...
 
 Voor ons is deze aanpak in ieder geval heel succesvol en zorgt toch voor de kers op de taart. Afgelopen week kregen wij een borrel met catering aangeboden van het SFVG omdat ook zij de implementatie van het LMS als zo prettig hadden ervaren.
 
-Het zijn de kleine dingen in het leven…
+Het zijn de kleine dingen in het leven...
 
 ![Borrel met catering](/images/blog/borrel-met-catering.jpg)
