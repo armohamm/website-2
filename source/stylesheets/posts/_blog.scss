@@ -1,23 +1,3 @@
-.post-header {
-  background-image: url("../images/moods/defacto.jpg");
-  background-position: center;
-  background-size: cover;
-  color: $white;
-  padding-bottom: 6em;
-  padding-top: 6em;
-  position: relative;
-  text-align: center;
-  width: 100%;
-
-  h1 {
-    font-weight: 700;
-  }
-
-  &::before {
-    @include hero-header-overlay;
-  }
-}
-
 .author-name {
   font-weight: 700;
 }

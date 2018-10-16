@@ -1,0 +1,18 @@
+.post-header {
+  background: $orange-alt url("../images/moods/defacto.jpg") no-repeat center fixed;
+  background-size: cover;
+  color: $white;
+  padding-bottom: 6em;
+  padding-top: 6em;
+  position: relative;
+  text-align: center;
+  width: 100%;
+
+  h1 {
+    font-weight: 700;
+  }
+
+  &::before {
+    @include hero-header-overlay;
+  }
+}
