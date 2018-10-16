@@ -10,7 +10,7 @@ lang: de
 logo_white: cases/doppio-espresso/logo-white.png
 description: "Gute Software sorgt für guten Kaffee"
 image: images/cases/doppio-espresso/social.jpg
-mood_image: cases/doppio-espresso/mood.jpg
+header_image: cases/doppio-espresso/mood.jpg
 quote:
   text: "Wenn wir ein neues Sandwich haben, ist es sehr einfach, dazu einen kurzen Film zu drehen. Diesen können wir anschließend schnell und einfach mit einer zusätzlichen Erklärung in einem Space mit unseren Mitarbeitern teilen."
   person: "Peter van Eijl"

@@ -12,7 +12,7 @@ lang: de
 logo_white: cases/fek/logo-white.png
 description: "Digitale Lernumgebung im FEK Neumünster etabliert"
 image: images/cases/fek/social.jpg
-mood_image: cases/fek/mood.jpg
+header_image: cases/fek/mood.jpg
 quote:
   text: “Mit CAPP Bilden und dem Qualitätspass erfüllen wir nicht nur das Mindestmaß an Qualitätsanforderungen - wir sind Vorreiter auf diesem Gebiet im Gesundheitswesen.”
   person: "Christof Thielecke"

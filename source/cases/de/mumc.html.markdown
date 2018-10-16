@@ -14,7 +14,7 @@ lang: de
 logo_white: cases/mumc/logo-white.png
 description: "CAPP LMS unterstützt die Methode ‘ProActive Nursing - Klinisch fundiertes Vorgehen’ an der Akademie des Universitätsklinikums in Maastricht"
 image: images/cases/mumc/social-de.jpg
-mood_image: cases/mumc/mood.jpg
+header_image: cases/mumc/mood.jpg
 quote:
   text: "Mit Performance Support und CAPP LMS können wir unseren Mitarbeitern die Förderung und Unterstützung bieten, die sie brauchen, um sich in ihrem Arbeitsbereich kompetent zu fühlen."
   person: "Michel van Zandvoort"

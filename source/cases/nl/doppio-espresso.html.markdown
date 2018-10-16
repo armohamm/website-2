@@ -10,7 +10,7 @@ lang: nl
 logo_white: cases/doppio-espresso/logo-white.png
 description: "Doppio Espresso maakt gebruik van CAPP Agile Learning voor het delen van kennis en performance support. Lees wat ze dat heeft opgeleverd in deze casus."
 image: images/cases/doppio-espresso/social.jpg
-mood_image: cases/doppio-espresso/mood.jpg
+header_image: cases/doppio-espresso/mood.jpg
 quote:
   text: "Als we een nieuw broodje hebben, is het <strong>heel makkelijk</strong> om even een kort filmpje te maken. En om dat in een space te delen met wat extra uitleg."
   person: "Peter van Eijl"

@@ -188,15 +188,15 @@ activate :blog do |blog|
   blog.paginate = false
 end
 
-page "blog/*", layout: :blog_post_layout
+page "blog/*", layout: :post_layout
 page "blog/tags/*", layout: :blog_layout
 page "blog/index.html", layout: :blog_layout
 page "blog/tags.html", layout: :blog_layout
 page "blog/feed.xml", layout: false
-page "jobs/*", layout: :jobs_post_layout
+page "jobs/*", layout: :post_layout
 page "jobs/index.html", layout: :jobs_layout
 page "jobs/feed.xml", layout: false
-page "cases/*", layout: :cases_post_layout
+page "cases/*", layout: :post_layout
 page "cases/index.html", layout: :cases_layout
 page "cases/feed.xml", layout: false
 

@@ -14,7 +14,7 @@ lang: nl
 logo_white: cases/dianet/logo-dianet-white.png
 description: "Met CAPP LMS gaan medewerkers zelfregie ervaren, bijvoorbeeld dankzij het Kwaliteitspaspoort dat onze medewerkers een gepersonaliseerd dashboard toont. Lees hoe we dat samen hebben gedaan in deze casus."
 image: images/cases/dianet/dianet-social.jpg
-mood_image: cases/dianet/mood-dianet.jpg
+header_image: cases/dianet/mood-dianet.jpg
 quote:
   text: "De overgang naar de laatste versie van CAPP LMS, waarin de focus meer ligt op het laten leren en ontwikkelen vanuit het perspectief van de medewerkers, kwam voor Dianet op het juiste moment. Met CAPP LMS gaan medewerkers zelfregie ervaren, bijvoorbeeld dankzij het Kwaliteitspaspoort dat onze medewerkers een gepersonaliseerd dashboard toont."
   person: "Hanke Mensink"

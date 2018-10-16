@@ -13,7 +13,7 @@ lang: de
 logo_white: cases/strukton/logo-white.png
 description: "Der Weg zur gesichterten Compliance"
 image: images/cases/strukton/social-de.jpg
-mood_image: cases/strukton/mood.jpg
+header_image: cases/strukton/mood.jpg
 quote:
   text: "Defacto hat für uns mitgedacht und uns geholfen, die Einhaltung der Compliance-Richtlinien in unserem Unternehmen sicherzustellen."
   person: "Esther Maas-Schelling"

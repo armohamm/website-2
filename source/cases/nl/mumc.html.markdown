@@ -16,7 +16,7 @@ lang: nl
 logo_white: cases/mumc/logo-white.png
 description: "Door middel van performance support en CAPP LMS kan MUMC steun en support geven aan medewerkers. Lees in deze casus hoe we dat samen hebben gedaan."
 image: images/cases/mumc/social.jpg
-mood_image: cases/mumc/mood.jpg
+header_image: cases/mumc/mood.jpg
 quote:
   text: "Door middel van performance support en CAPP LMS kunnen we onze medewerkers de <strong>steun en support</strong> geven die ze nodig hebben om zichzelf bekwaam in hun werk te voelen."
   person: "Michel van Zandvoort"

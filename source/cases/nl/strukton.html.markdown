@@ -11,7 +11,7 @@ lang: nl
 logo_white: cases/strukton/logo-white.png
 description: "Defacto heeft Strukton geholpen met het borgen van de compliance binnen de organisatie. In deze case leggen we uit hoe we dat samen hebben gedaan."
 image: images/cases/strukton/social.jpg
-mood_image: cases/strukton/mood.jpg
+header_image: cases/strukton/mood.jpg
 quote:
   text: "Defacto heeft <strong>echt</strong> met ons <strong>meegedacht</strong> en geholpen met het borgen van de compliance binnen onze organisatie."
   person: "Esther Maas-Schelling"
