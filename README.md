@@ -1,6 +1,8 @@
 ## Defacto websites
 
-The source code for our websites:
+ [![CircleCI branch](https://img.shields.io/circleci/project/github/DefactoSoftware/website/master.svg)](https://circleci.com/gh/DefactoSoftware/website) [![GitHub issues](https://img.shields.io/github/issues/defactosoftware/website.svg)](https://github.com/defactosoftware/website/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/defactosoftware/website.svg)](https://github.com/DefactoSoftware/website/pulls)
+
+The source code for our websites, built with [Middleman](https://middlemanapp.com/):
 
 [https://www.defacto.nl](https://www.defacto.nl)  
 [https://www.defactolearning.de](https://www.defactolearning.de)  
@@ -8,14 +10,14 @@ The source code for our websites:
 
 More detailed information can be found at the [Wiki](https://github.com/DefactoSoftware/website/wiki).
 
-##### Dependencies
+### Dependencies
 
-- Ruby 2.3.3 (install with [rbenv](https://github.com/sstephenson/rbenv))
-- Bundler
+-   Ruby 2.3.3 (install with [rbenv](https://github.com/sstephenson/rbenv))
+-   Bundler
 
 To install other dependencies run `bundle install` from the root of the project.
 
-##### Server
+### Server
 
 Start [Middleman](https://middlemanapp.com) server and browse to [http://localhost:4567](http://localhost:4567):
 
@@ -25,7 +27,7 @@ rake serve:de
 rake serve:en
 ```
 
-##### Build
+### Build
 
 ```bash
 rake build:nl
@@ -33,16 +35,16 @@ rake build:de
 rake build:en
 ```
 
-##### Test (and build before)
+### Test (and build before)
 
 ```bash
 rake test:nl
 rake test:de
 rake test:en
-rake test # Test all locales with HTML-proofer
+rake test # Test all build with HTML-proofer
 ```
 
-##### Stage (and build before)
+### Stage (and build before)
 
 We can stage a version of the website in one locale:
 
@@ -54,7 +56,7 @@ rake deploy_staging:en
 
 Staging is deployed to [website-staging/tree/gh-pages](https://github.com/DefactoSoftware/website-staging/tree/gh-pages)
 
-##### Deploy (and build before)
+### Deploy (and build before)
 
 ```bash
 rake deploy:nl
@@ -67,12 +69,12 @@ rake deploy # Deploy all locales
 `:de` is deployed to [website-de/tree/gh-pages](https://github.com/DefactoSoftware/website-de/tree/gh-pages).  
 `:en` is deployed to [website-en/tree/gh-pages](https://github.com/DefactoSoftware/website-en/tree/gh-pages).
 
-##### Useful links for debugging
+### Useful links for debugging
 
 - http://localhost:4567/__middleman/config/
 - http://localhost:4567/__middleman/sitemap/
 
-##### Thanks to
+#### Thanks to
 
 - [Middleman](https://middlemanapp.com/)
 - [Middleman Search](https://github.com/manastech/middleman-search)
