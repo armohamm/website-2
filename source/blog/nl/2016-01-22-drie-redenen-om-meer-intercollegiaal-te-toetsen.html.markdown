@@ -7,17 +7,17 @@ lang: nl
 featured_image: images/blog/featured/20160122-intercollegiaal-toetsen.jpg
 ---
 
-### *De afgelopen anderhalf jaar staat de vakliteratuur er bol van; 70-20-10, terug naar werkplekleren, de professional zelf verantwoordelijk, social learning...het gaat maar door.*
+__De afgelopen anderhalf jaar staat de vakliteratuur er bol van; 70-20-10, terug naar werkplekleren, de professional zelf verantwoordelijk, social learning...het gaat maar door.__
 
-In de basis is de boodschap eigenlijk heel simpel: **mensen leren het meest wanneer zij leren van elkaar**. Als ik naar mijn eigen situatie kijk klopt dat ook zeker. Gelukkig zie ik steeds meer van mijn klanten de beweging naar meer werkplekgeoriënteerde leervormen maken.
+In de basis is de boodschap eigenlijk heel simpel: __mensen leren het meest wanneer zij leren van elkaar__. Als ik naar mijn eigen situatie kijk klopt dat ook zeker. Gelukkig zie ik steeds meer van mijn klanten de beweging naar meer werkplekgeoriënteerde leervormen maken.
 
 Wanneer het aankomt op het toetsen en vastleggen van de kennis van medewerkers wordt echter vaak nog gebruik gemaakt van 'klassiek' toetsen, meestal in de vorm van een e-toets. Dat vind ik jammer. Leren op de werkplek is juist bijzonder waardevol, omdat je leert van 'echte' ervaringen. Je leert om te gaan met situaties die zich in de praktijk voordoen, in plaats van met hypothetische scenario's. Je werkt onder de stress die gepaard gaat met de situatie en moet presteren onder druk. Is dat niet uiteindelijk wat we van onze medewerkers willen? Aantoonbaar maken dat zij met deze scenario's en risico's om kunnen gaan?
 
 Dat is niet wat we toetsen met een e-toets. De enige manier om vaardigheden echt te toetsen is om ook het toetsen te doen op de werkplek, wat mij betreft door collega's onderling. Hoewel de meeste ziekenhuizen waar ik als consultant kom het hier in theorie wel mee eens zijn, durven ze in de praktijk deze stap meestal niet te maken. Toetsen op de werkplek staat in de discussie vaak gelijk aan het verlies van controle over het proces en de kwaliteit van het toetsproces.
 
-#### Ik heb **drie redenen** om deze stap toch te zetten:
+__Ik heb drie redenen om deze stap toch te zetten:__
 
-### 1. Intercollegiale toetsing is minder fraudegevoelig dan een e-toets
+## 1. Intercollegiale toetsing is minder fraudegevoelig dan een e-toets
 
 Intercollegiaal toetsen is minder gevoelig voor fraude, maar vaak wordt het tegendeel beweerd. Organisaties zijn bang dat wanneer intercollegiaal toetsen is toegestaan er teveel ruimte is voor 'vriendjespolitiek', waarbij mensen van elkaar maar even aangeven dat ze bepaalde vaardigheden bezitten.
 
@@ -31,7 +31,7 @@ Iedere verpleegkundige heeft dat in het achterhoofd en niemand wil medeverantwoo
 
 ## 2. Intercollegiale toetsing is meer valide dan een e-toets
 
-Met een intercollegiale toets op de werkvloer toets je of iemand de werkzaamheden van alledag aankan. Met een e-toets test je of iemand dat *theoretisch* kan. Dit is een groot verschil. Als ik de keuze heb tussen een verpleegkundige aan mijn bed die in de praktijk heeft aangetoond capabel te zijn of een verpleegkundige met een 10 op haar theorie, dan kies ik toch voor de eerste.
+Met een intercollegiale toets op de werkvloer toets je of iemand de werkzaamheden van alledag aankan. Met een e-toets test je of iemand dat _theoretisch_ kan. Dit is een groot verschil. Als ik de keuze heb tussen een verpleegkundige aan mijn bed die in de praktijk heeft aangetoond capabel te zijn of een verpleegkundige met een 10 op haar theorie, dan kies ik toch voor de eerste.
 
 Bovendien zijn de meeste e-toetsen multiple choice. Hierin zit een gokkans. Je kunt theoretisch op puur geluk een toets halen, wat meet je dan nog?
 
@@ -51,6 +51,6 @@ Er staan nogal wat bekwaamheden in die moeten worden aangetoond. Als je praktisc
 
 Wanneer er getoetst kan worden in het werkproces van alledag is de impact veel kleiner. Bovendien heb ik gemerkt dat een werknemer meer open staat voor een dergelijke vorm van toetsing. Iedereen begrijpt dat je moet kunnen aantonen geschikt te zijn voor je werk, zeker wanneer de gezondheid en veiligheid van mensen op het spel staat. De grootste weerstand tegen scholing ontstaat immers doordat mensen te veel kostbare werktijd aan theorie kwijt zijn, terwijl het juist om de praktijk op de werkplek gaat!
 
-Ik ben erg benieuwd naar hoe anderen hier tegenaan kijken. **[Stuur mij gerust je visie](mailto:j.lenglet@defacto.nl?subject=Intercollegiaal toetsen)**.
+Ik ben erg benieuwd naar hoe anderen hier tegenaan kijken. __[Stuur mij gerust je visie](mailto:j.lenglet@defacto.nl?subject=Intercollegiaal toetsen)__.
 
-*In mijn volgende blog zal ik een casus bespreken waarin het toetsen mijns inziens erg goed belegd is op de werkvloer, dus houd ons blog in de gaten!*
+_In mijn volgende blog zal ik een casus bespreken waarin het toetsen mijns inziens erg goed belegd is op de werkvloer, dus houd ons blog in de gaten!_
