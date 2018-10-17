@@ -20,7 +20,7 @@
 
       <ol class="post-list">
 
-        <% (blog(blog).articles - [current_article]).each do |article| %>
+        <% (blog(blog).articles - [current_article])[0...5].each do |article| %>
 
           <li>
 
