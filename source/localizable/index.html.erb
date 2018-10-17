@@ -19,13 +19,23 @@ header_style: invert
 <% unless root_locale == :en %>
   <%= partial "home/news" %>
 <% end %>
+
 <%= partial "home/solutions" %>
+
 <% unless root_locale == :en %>
   <%= partial "clients/clients-cases-overview", locals: { count: 2 } %>
 <% end %>
+
+<% if root_locale == :nl %>
+  <%= partial "partials/social-proof" %>
+<% end %>
+
 <% if root_locale == :de %>
   <%= partial "home/copy" %>
 <% end %>
+
 <%= partial "partials/featured-testimonial" %>
+
 <%= partial "home/featured-blog" %>
+
 <%= partial "clients/clients-section" %>
