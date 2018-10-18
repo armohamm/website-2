@@ -2,9 +2,17 @@
 
   <div class="row">
 
-    <h1>
-      <%= t("cases.overview.title") %>
-    </h1>
+    <% if root_url? || current_page.locale_root_path =~ /klanten.html/ %>
+      <div class="headline">
+        <h2>
+          <%= t("cases.overview.title") %>
+        </h2>
+      </div>
+    <% else %>
+      <h1>
+        <%= t("cases.overview.title") %>
+      </h1>
+    <% end %>
 
     <div class="cases-overview-context">
 
@@ -61,7 +69,7 @@
       <% end %>
 
       <%= nav_link_to t("cases.contact"), "/contact.html#form", class: "button orange" %>
-      
+
     </div>
 
   </div>

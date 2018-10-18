@@ -1,14 +1,24 @@
 ---
 title:
-  nl: Klanten & cases
+  nl: Onze klanten & cases
   de: Unsere Kunden & Cases
-  en: Our clients
+  en: Our Clients
 description:
   nl: Enkele van onze klanten zijn RadboudUMC, LUMC, MUMC+, MMC, Gelre, Spaarne, Kennemer, Sint Franciscus, Vlietland, Sogeti en Schiphol Group
   de: Einige Kunden sind Evangelisches Krankenhaus Oldenburg, Friedrich Ebert Krankenhaus, Berendsohn, Maastricht UMC, TUI und Schiphol Group
   en: TUI, LUMC, MUMC+, MMC, Gelre, Spaarne, Kennemer, Sint Franciscus, Vlietland, Sogeti and Schiphol Group are some of our clients.
 blog: cases
 ---
+
+<section class="gray">
+  <div class="row">
+
+    <h1>
+      <%= t("clients.title") %>
+    </h1>
+
+  </div>
+</div>
 
 <% unless root_locale == :en %>
   <%= partial "clients/clients-cases-overview", locals: { count: 2 } %>
