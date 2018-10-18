@@ -9,7 +9,7 @@ featured_image: images/blog/featured/20171211-klantendag.jpg
 call_to_action: demo-request
 ---
 
-Op donderdag 30 november werd er in Slot Doddendael bij Nijmegen het eerste van de in totaal vier klantenpanels gehouden. De focus lag op de nieuwe versie van CAPP.
+__Op donderdag 30 november werd er in Slot Doddendael bij Nijmegen het eerste van de in totaal vier klantenpanels gehouden. De focus lag op de nieuwe versie van [CAPP](/capp-lms/).__
 
 Het slot met zijn historische setting bood een goed moment om de geschiedenis en de ontwikkeling van CAPP te belichten. Wat in 1993 begon als een cursusadministratiepakket voor o.a. opleiders is uitgegroeid tot een volledige softwareoplossing gericht op leren, talentmanagement, kennismanagement en compliance voor kennisintensieve organisaties.
 
