@@ -1,4 +1,4 @@
-## Defacto websites
+## Defacto Websites
 
  [![CircleCI branch](https://img.shields.io/circleci/project/github/DefactoSoftware/website/master.svg)](https://circleci.com/gh/DefactoSoftware/website) [![GitHub issues](https://img.shields.io/github/issues/defactosoftware/website.svg)](https://github.com/defactosoftware/website/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/defactosoftware/website.svg)](https://github.com/DefactoSoftware/website/pulls)
 
