@@ -25,7 +25,7 @@ Uiteraard is dit een risico en het zal vast weleens gebeuren, maar hier wil ik i
 
 Ik heb met vele verpleegkundigen gesproken en als er iets is wat iedereen wil voorkomen is het een fout maken waar de patiënt de gevolgen van voelt. Hier kun je zien waar zo'n fout toe kan leiden:
 
-<iframe src="https://player.vimeo.com/video/86035039?api=1&player_id=vimeo-player-1" id="vimeo-player-1" frameborder="0" data-progress="true" data-seek="true" data-bounce="true" data-title="E-learning Video" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/86035039" width="500" height="281" frameborder="0" allowfullscreen allowscriptaccess="never"></iframe>
 
 Iedere verpleegkundige heeft dat in het achterhoofd en niemand wil medeverantwoordelijk zijn voor een dergelijke situatie. Door werknemers op deze verantwoordelijkheid aan te spreken zal men de toetsing zeker serieus nemen.
 

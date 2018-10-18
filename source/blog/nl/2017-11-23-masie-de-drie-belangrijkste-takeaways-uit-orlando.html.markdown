@@ -54,5 +54,5 @@ Leren en performance komen steeds dichter bij elkaar te liggen. Aan ons de uitda
 - Michelle Obama is een fantastische spreker, en kan heel goed en heel subtiel Trump onderuit halen.
 - De show van John Litgow op Broadway is zeer de moeite waard om te bezoeken.
 - De buttons van Learning 2017 waren ook heel erg leuk dit jaar
-<iframe src="https://player.vimeo.com/video/243773500" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/243773500">Buttons</a> from <a href="https://vimeo.com/masie">MASIE Learning Talks</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="https://player.vimeo.com/video/243773500" width="640" height="360" frameborder="0" allowfullscreen allowscriptaccess="never"></iframe>
