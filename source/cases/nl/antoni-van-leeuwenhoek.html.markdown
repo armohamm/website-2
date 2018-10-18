@@ -35,7 +35,7 @@ call_to_action: demo-request
 
 “Voor het AVL is een Learning Management System (LMS) een belangrijk instrument om een inspirerende leeromgeving te creëren. In [CAPP LMS](/capp-lms/) kan niet alleen het formele leren goed worden vormgegeven, maar ook het informele en multidisciplinaire leren worden hierin gefaciliteerd. Dit sluit helemaal aan bij onze cultuur waarin leren op de werkplek, van en met elkaar, centraal staat en het fundament is van hoe we werken.”
 
-“Dit zagen wij ook in de werkwijze van Defacto terug en was een van de reden om voor deze partij te kiezen. Een andere reden was het [Kwaliteitspaspoort](/kwaliteitspaspoort)​. Defacto heeft hiermee een prachtig instrument om bevoegd- en bekwaamheden overzichtelijk in kaart te brengen waardoor AVL inzichtelijk kan maken of ze voldoen aan alle wettelijke vereisten. Met behulp van de implementatie consultants van Defacto en het ziekenhuis zelf is de digitale leeromgeving vervolgens volledig ingericht en gereedgemaakt voor gebruik.”
+“Dit zagen wij ook in de werkwijze van Defacto terug en was een van de reden om voor deze partij te kiezen. Een andere reden was het [Kwaliteitspaspoort](/kwaliteitspaspoort/)​. Defacto heeft hiermee een prachtig instrument om bevoegd- en bekwaamheden overzichtelijk in kaart te brengen waardoor AVL inzichtelijk kan maken of ze voldoen aan alle wettelijke vereisten. Met behulp van de implementatie consultants van Defacto en het ziekenhuis zelf is de digitale leeromgeving vervolgens volledig ingericht en gereedgemaakt voor gebruik.”
 
 ## Gebruiksvriendelijk
 
