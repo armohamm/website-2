@@ -302,7 +302,7 @@ set :markdown, input: "GFM", auto_ids: false
 # Raise exception when there is a wrong/no i18n key
 class TestExceptionLocalizationHandler
   def call(exception, locale, key, options)
-    raise exception.to_exception if exception.is_a?(MissingTranslation)
+    raise exception.to_exception if exception.is_a?(I18n::MissingTranslation)
     super
   end
 end
