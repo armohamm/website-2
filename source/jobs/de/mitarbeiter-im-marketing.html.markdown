@@ -12,18 +12,18 @@ Lust dich kreativ auszutoben und in einem internationalen Umfeld zu arbeiten?
 
 Zur Unterstützung unseres stetig wachsenden Teams suchen wir zum nächstmöglichen Zeitpunkt einen
 
-# Mitarbeiter im Marketing (m/w)
+## Mitarbeiter im Marketing (m/w)
 
 Als Mitarbeiter im Marketing bist du verantwortlich für die Ausführung diverser Marketingaktivitäten mit der Zielsetzung u.a. Leads zu generieren und die Kundenzufriedenheit zu erhöhen. An diesen Zielen arbeitest du gemeinsam mit den Kollegen aus den Abteilungen Sales und Accountmanagement.
 
-## Deine Aufgaben:
+### Deine Aufgaben:
 
 - Erstellung von Content für diverse Kommunikationsmittel
 - Optimalisieren und verwalten von Content (offline/online)
 - Organisation und Durchführung von Seminaren für potenzielle Kunden
 - Newsletter erstellen und versenden
 
-## Dein Profil:
+### Dein Profil:
 
 - Du hast dein Studium mit einem wirtschaftswissenschaftlichen oder technischen Schwerpunkt erfolgreich abgeschlossen oder bist gerade dabei
 - Du zeichnest dich durch ein selbstsicheres Auftreten, viel Eigeninitiative und Flexibilität aus und lässt dich auch von hoher Dynamik nicht verunsichern
@@ -33,7 +33,7 @@ Als Mitarbeiter im Marketing bist du verantwortlich für die Ausführung diverse
 - Du kennst die neuesten Trends und Best Practices im Marketing
 - Du hast eine Affinität mit Software
 
-## Wir bieten Dir:
+### Wir bieten Dir:
 
 - Einen spannenden Arbeitsbereich in motivierten Team mit flachen Hierarchien
 - Eine gute Arbeitsatmosphäre und wertschätzende Unternehmenskultur

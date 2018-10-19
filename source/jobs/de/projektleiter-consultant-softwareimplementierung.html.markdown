@@ -19,6 +19,7 @@ Du bist verantwortlich für eine erfolgreiche Implementierung unserer LMS Softwa
 Wir suchen jemanden mit Leidenschaft für Software und digitale Lernwelten! Fühlst du dich angesprochen? Dann bewirb dich jetzt!
 
 ### Dein Profil:
+
 - Du hast ein abgeschlossen Studium (Fachhochschule/Universität) der Wirtschaftswissenschaften, Informatik o.ä. oder eine vergleichbare Ausbildung
 - Du hast nachweislich Berufserfahrung, vorzugsweise in Lernsoftware, E-Learning, HR Software oder Gesundheitswesen
 - Du hast ein gutes technisches Verständnis und Leidenschaft für Business Software und IT-Systeme
@@ -30,6 +31,7 @@ Wir suchen jemanden mit Leidenschaft für Software und digitale Lernwelten! Füh
 - Du bist mit viel Energie, Empathie und Kreativität gewappnet, die Dir helfen, unser Team perfekt auszustatten
 
 ### Wir bieten Dir:
+
 - Einen spannenden Arbeitsbereich in motivierten Team mit flachen Hierarchien
 - Eine gute Arbeitsatmosphäre und wertschätzende Unternehmenskultur
 - Ein gesundes Familienunternehmen mit internationalter Ausrichtung
