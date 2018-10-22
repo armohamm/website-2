@@ -1,5 +1,5 @@
 ---
-title: "Doppio Espresso case"
+title: "Doppio Espresso Case"
 sub_title: "De beste koffie wordt ondersteund door de beste software"
 date: 2017-09-10 09:00 CEST
 services:

@@ -21,6 +21,7 @@ section.cases-overview {
     }
   }
 
+  // Case Overview
   .case-wrapper {
     align-items: stretch;
     display: flex;
@@ -73,18 +74,18 @@ section.cases-overview {
       }
     }
 
-    .case-content {
-      position: relative;
-      text-align: center;
-      width: 100%;
-      z-index: 1;
-    }
-
     .case-logo {
       display: block;
       margin: 30px auto;
       max-height: 150px;
       max-width: 200px;
+    }
+
+    .case-content {
+      position: relative;
+      text-align: center;
+      width: 100%;
+      z-index: 1;
     }
 
     .case-description {

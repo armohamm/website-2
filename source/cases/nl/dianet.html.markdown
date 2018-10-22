@@ -1,5 +1,5 @@
 ---
-title: "Dianet case"
+title: "Dianet Case"
 sub_title: "Met CAPP LMS worden management- en leerdoelstellingen succesvol gecombineerd"
 date: 2018-09-25 8:00 CEST
 services:

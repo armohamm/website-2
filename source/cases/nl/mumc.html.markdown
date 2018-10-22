@@ -1,5 +1,5 @@
 ---
-title: "Maastricht UMC+ Academie case"
+title: "Maastricht UMC+ Academie Case"
 sub_title: "'Klinisch redeneren' ondersteund door CAPP LMS"
 date: 2017-10-10 8:00 CEST
 services:

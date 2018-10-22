@@ -1,5 +1,5 @@
 ---
-title: "ZINN case"
+title: "ZINN Case"
 sub_title: "De zorg verbeteren met software op maat"
 date: 2017-09-10 8:00 CEST
 services:

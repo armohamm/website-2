@@ -1,5 +1,5 @@
 ---
-title: "Evangelisches Krankenhaus Oldenburg case"
+title: "Evangelisches Krankenhaus Oldenburg Case"
 sub_title: "Evangelisches Krankenhaus Oldenburg schafft Fakten und Raum für Talent"
 date: 2017-09-10 10:00 CEST
 services:

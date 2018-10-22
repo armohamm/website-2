@@ -1,5 +1,5 @@
 ---
-title: "Strukton case"
+title: "Strukton Case"
 sub_title: "De route naar geborgde compliance"
 date: 2017-09-10 11:00 CEST
 services:

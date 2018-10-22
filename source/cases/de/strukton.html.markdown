@@ -1,5 +1,5 @@
 ---
-title: "Strukton case"
+title: "Strukton Case"
 sub_title: "Der Weg zur gesichterten Compliance"
 date: 2017-09-12 11:00 CEST
 services:

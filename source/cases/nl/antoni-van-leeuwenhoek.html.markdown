@@ -1,5 +1,5 @@
 ---
-title: "Antoni van Leeuwenhoek case"
+title: "Antoni van Leeuwenhoek Case"
 sub_title: "Samen werken aan een scherpere visie op leren en ontwikkelen"
 date: 2018-08-14 8:00 CEST
 services:

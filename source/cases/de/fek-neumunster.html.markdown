@@ -1,5 +1,5 @@
 ---
-title: "Friedrich Ebert Krankenhaus Neumünster case"
+title: "Friedrich Ebert Krankenhaus Neumünster Case"
 sub_title: "Digitale Lernumgebung im FEK Neumünster etabliert"
 date: 2018-08-19 11:00 CEST
 services:

@@ -9,7 +9,41 @@
   width: 100%;
 
   h1 {
+    font-size: $base-font-size * 1.5;
     font-weight: 700;
+    margin: 0 auto;
+    max-width: $post-max-width;
+
+    @include media($medium-up) {
+      font-size: $base-font-size * 2.4;
+    }
+
+    body.blog-article & {
+      margin: 0 auto 0.8em;
+    }
+  }
+
+  .blog-meta {
+    color: $white;
+
+    a {
+      color: $white;
+
+      &:hover {
+        color: $light-gray;
+      }
+    }
+  }
+
+  h2 {
+    font-size: $base-font-size * 2;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto 2em;
+    max-height: 200px;
+    max-width: 200px;
   }
 
   &::before {
