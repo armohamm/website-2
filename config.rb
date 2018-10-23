@@ -319,7 +319,11 @@ configure :build do
   activate :minify_javascript
 
   # Enable cache buster
-  activate :asset_hash, ignore: ["images/blog/featured", "images/logos/defacto.png"]
+  activate :asset_hash, ignore: [
+    "images/logos/defacto.png",
+    "images/blog/featured",
+    "images/blog/flexible-cover-images-using-intrinsic-ratio/aspect-ratio-demo.png"
+  ]
 
   I18n.exception_handler = TestExceptionLocalizationHandler.new
 end
