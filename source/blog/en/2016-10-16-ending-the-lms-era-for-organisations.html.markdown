@@ -8,8 +8,7 @@ image: images/blog/social/ending-lms-era-1200x630.gif
 featured_image: images/blog/featured/20161016-ending-lms-era.gif
 ---
 
-
-[CAPP Agile Learning](/capp-agile-learning) (formerly known as LearningSpaces) is a simple to use online knowledge sharing platform which allows you to focus all your learning activities in one place. After initially having set our focus on advancing teams, we decided to launch a **CAPP Agile Learning** version **2.0** for the enterprise market in *November* at our HQ in Groningen, the Netherlands.
+[CAPP Agile Learning](/capp-agile-learning/) (formerly known as LearningSpaces) is a simple to use online knowledge sharing platform which allows you to focus all your learning activities in one place. After initially having set our focus on advancing teams, we decided to launch a **CAPP Agile Learning** version **2.0** for the enterprise market in *November* at our HQ in Groningen, the Netherlands.
 
 We kicked off by aiming at teams up to 100 people with our lean LMS solution. But after capturing the attention from bigger enterprises, we decided to slightly shift our focus and start working on a new version which allows bigger organisations to concentrate their learning patterns all in one place.
 

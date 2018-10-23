@@ -10,7 +10,7 @@ featured_image: images/blog/featured/20160411-questions-answers.jpg
 
 ## Past events
 
-When we were making [CAPP Agile Learning](/capp-agile-learning) we wanted it to be the easiest way to create a course or materialise an information bundle. Now CAPP Agile Learning enables teams to share knowledge and allow team members to test each other.
+When we were making [CAPP Agile Learning](/capp-agile-learning/) we wanted it to be the easiest way to create a course or materialise an information bundle. Now CAPP Agile Learning enables teams to share knowledge and allow team members to test each other.
 
 I think we succeeded in allowing the users to create Spaces, which have Chapters with knowledge, where anyone in a team can store it and the rest can learn from the expertise of their peers! There is more, we created Quizzes and Assignments to test the knowledge that's learned in the chapters.
 
