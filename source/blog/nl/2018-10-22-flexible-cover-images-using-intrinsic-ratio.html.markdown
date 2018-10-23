@@ -4,9 +4,9 @@ date: 2018-10-22 8:00 CEST
 tags: Frontend, UI/UX, CSS
 author: Matthijs
 lang: nl
-image: images/blog/flexible-cover-images-using-intrinsic-ratio/intrinsic-ratio-1200x630.png
-featured_image: images/blog/flexible-cover-images-using-intrinsic-ratio/featured.png
-header_image: images/blog/flexible-cover-images-using-intrinsic-ratio/header.png
+image: /images/blog/flexible-cover-images-using-intrinsic-ratio/intrinsic-ratio-1200x630.png
+featured_image: /images/blog/flexible-cover-images-using-intrinsic-ratio/featured.png
+header_image: /images/blog/flexible-cover-images-using-intrinsic-ratio/header.png
 canonical_url: https://en.defacto.nl/blog/flexible-cover-images-using-intrinsic-ratio/
 ---
 
@@ -18,7 +18,7 @@ The solution to our problem was **intrinsic ratio**, which is often used for [cr
 
 The recommended dimensions for header images in CAPP Agile Learning are 1280 by 720 pixels. The aspect ratio for these dimensions is 16:9 (= 1280:720). To get the needed percentage we divide 9 by 16, which gives us 0.5625 or 56.25%.
 
-![Aspect Ratio](images/blog/flexible-cover-images-using-intrinsic-ratio/aspect-ratio.png)
+![Aspect Ratio](blog/flexible-cover-images-using-intrinsic-ratio/aspect-ratio.png)
 
 Now we can apply the intrinsic ratio trick:
 
