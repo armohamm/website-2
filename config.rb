@@ -490,6 +490,7 @@ helpers do
 
     is_active = url_for(args[url_arg_index].split("#")[0], relative: false) ==
                 url_for(current_page.url, relative: false)
+
     options[:class] ||= ""
     options[:class] << " active" if is_active
 

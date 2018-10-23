@@ -1,7 +1,7 @@
 <nav class="main-nav <%= header_style %>">
   <ul>
     <li>
-      <%= nav_link_to t("header.home"), "/" %>
+      <%= nav_link_to t("header.home"), "/", relative: false %>
     </li>
     <li class="has-dropdown" data-content="products">
       <%= nav_link_to t("header.products"), "/producten.html" %>
