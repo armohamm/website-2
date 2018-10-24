@@ -12,6 +12,26 @@
     padding-top: 6em;
   }
 
+  &.cta-event {
+    background-image: url("../images/moods/gebruikersoverleg-november-2018.jpg");
+    background-position: center;
+    background-size: cover;
+    color: $white;
+
+    h3 {
+      margin-bottom: 1em;
+    }
+
+    p {
+      font-size: $base-font-size * 1.2;
+      margin: 0;
+
+      &:last-of-type {
+        margin-bottom: 1.5em;
+      }
+    }
+  }
+
   .avatar {
     height: 100px;
     line-height: 100px;
