@@ -65,10 +65,10 @@
       </p>
 
       <% unless current_page.url == "/cases/" %>
-        <%= nav_link_to t("cases.all_cases"), "/cases/", class: "button orange outline" %>
+        <%= link_to t("cases.all_cases"), "/cases/", class: "button orange outline" %>
       <% end %>
 
-      <%= nav_link_to t("cases.contact"), "/contact.html#form", class: "button orange" %>
+      <%= link_to t("cases.contact"), "/contact.html#form", class: "button orange" %>
 
     </div>
 

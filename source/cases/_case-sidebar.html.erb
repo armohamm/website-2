@@ -31,7 +31,7 @@
         <% current_article.data.services.each do |service| %>
           <li class="service">
             <% if service.link %>
-              <% nav_link_to("#{service.link}.html") do %>
+              <% link_to("#{service.link}.html") do %>
                 <span class="icon-checkmark"></span>
                 <%= service.title %>
               <% end %>

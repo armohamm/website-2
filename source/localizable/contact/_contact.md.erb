@@ -24,9 +24,9 @@
       <div class="contact-content">
         <h3><%= t("contact.main.demo.heading") %></h3>
         <p><%= t("contact.main.demo.info") %></p>
-        <%= nav_link_to t("contact.main.demo.button"), "/demo-aanvragen.html", "data-event": "contact_demo", class: "button orange" %>
+        <%= link_to t("contact.main.demo.button"), "/demo-aanvragen.html", "data-event": "contact_demo", class: "button orange" %>
       </div>
-      <%= nav_link_to "", "/demo-aanvragen.html", "data-event": "contact_demo", class: "contact-mobile-trigger" %>
+      <%= link_to "", "/demo-aanvragen.html", "data-event": "contact_demo", class: "contact-mobile-trigger" %>
     </div>
 
     <div class="col">

@@ -7,8 +7,8 @@
         <%= image_tag "logos/capp-new-version-white.svg", alt: "CAPP LMS", class: "logo" %>
         <h1><%= t("home.hero_capp.title") %></h1>
         <h2><%= t("home.hero_capp.text") %></h2>
-        <%= nav_link_to t("actions.read_more_2"), "/capp-lms.html", "data-event" => "home_read_more", class: "button pink" %>
-        <%= nav_link_to t("actions.home.demo"), "/demo-aanvragen.html", "data-event" => "home_demo", class: "button white-pink" %>
+        <%= link_to t("actions.read_more_2"), "/capp-lms.html", "data-event" => "home_read_more", class: "button pink" %>
+        <%= link_to t("actions.home.demo"), "/demo-aanvragen.html", "data-event" => "home_demo", class: "button white-pink" %>
 
       <% else %>
 
@@ -16,9 +16,9 @@
         <% unless root_locale == :de %>
           <h2><%= t("home.hero.text") %></h2>
         <% end %>
-        <%= nav_link_to t("actions.home.demo"), "/demo-aanvragen.html", "data-event" => "home_demo", class: "button" %>
+        <%= link_to t("actions.home.demo"), "/demo-aanvragen.html", "data-event" => "home_demo", class: "button" %>
         <% if root_locale == :de %>
-          <%= nav_link_to t("actions.home.productsheet"), "/produktblatt-herunterladen.html", "data-event" => "home_productsheet", class: "button white outline" %>
+          <%= link_to t("actions.home.productsheet"), "/produktblatt-herunterladen.html", "data-event" => "home_productsheet", class: "button white outline" %>
         <% end %>
 
       <% end %>
