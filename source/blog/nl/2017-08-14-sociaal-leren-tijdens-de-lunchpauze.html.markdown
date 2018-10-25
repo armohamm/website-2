@@ -8,7 +8,7 @@ image: images/blog/social/lunchbreak-learning-1200x630.jpg
 featured_image: images/blog/featured/20160330-lunchbreak-learning.jpg
 ---
 
-De lunchpauze is het moment om je werk te onderbreken zodat je er ’s middags weer vol tegenaan kunt. Maar als je stopt met werken, betekent dat dan ook dat je stopt met het genereren van ideeën? Natuurlijk niet!
+__De lunchpauze is het moment om je werk te onderbreken zodat je er ’s middags weer vol tegenaan kunt. Maar als je stopt met werken, betekent dat dan ook dat je stopt met het genereren van ideeën? Natuurlijk niet!__
 
 Koffie- en lunchpauzes zorgen voor beter contact met collega's en goede ideeën. Dit zijn de momenten waarop je je collega's ziet, hoort waar zij mee bezig zijn, problemen bespreekt, oplossingen bedenkt en nog veel meer.
 
