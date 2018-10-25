@@ -5,7 +5,7 @@ tags: Defacto, netwerkbijeenkomst
 author: Lennart
 lang: nl
 featured: true
-image: images/blog/social/clubabend-bremen-1200-630.jpg
+image: images/blog/social/clubabend-bremen-1200x630.jpg
 featured_image: images/blog/featured/20181023-clubabend-bremen-arnoud.jpg
 header_image: moods/clubabend-bremen-arnoud-mood.jpg
 ---
