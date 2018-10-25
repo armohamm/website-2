@@ -4,13 +4,13 @@ date: 2018-10-22 8:00 CEST
 tags: Frontend, UI/UX, CSS
 author: Matthijs
 lang: nl
-image: /images/blog/flexible-cover-images-using-intrinsic-ratio/intrinsic-ratio-1200x630.png
-featured_image: /images/blog/flexible-cover-images-using-intrinsic-ratio/featured.png
-header_image: /images/blog/flexible-cover-images-using-intrinsic-ratio/header.png
+image: images/blog/social/flexible-cover-images-1200x630.png
+featured_image: images/blog/featured/20181022-flexible-cover-images.png
+header_image: moods/flexible-cover-images.png
 canonical_url: https://en.defacto.nl/blog/flexible-cover-images-using-intrinsic-ratio/
 ---
 
-**We recently changed the way header images are displayed in [CAPP Agile Learning](/capp-agile-learning/). They used to be fixed height and were clipped at the sides depending on the screen resolution. This would hide parts of the image which got really annoying, especially when using text in the image that is being clipped. So what we needed was a way for the images to maintain their [aspect ratio](https://en.wikipedia.org/wiki/Aspect_ratio){:target="\_blank"}{:rel="noopener"}{:title="Aspect Ratio on Wikipedia"}.**
+__We recently changed the way header images are displayed in [CAPP Agile Learning](/capp-agile-learning/). They used to be fixed height and were clipped at the sides depending on the screen resolution. This would hide parts of the image which got really annoying, especially when using text in the image that is being clipped. So what we needed was a way for the images to maintain their [aspect ratio](https://en.wikipedia.org/wiki/Aspect_ratio){:target="_blank"}{:rel="noopener"}{:title="Aspect Ratio on Wikipedia"}.__
 
 The solution to our problem was **intrinsic ratio**, which is often used for [creating responsive videos](http://alistapart.com/article/creating-intrinsic-ratios-for-video){:target="\_blank"}{:rel="noopener"}{:title="Creating intrinsic ratio for video"}. This technique makes use of the unique way `padding-top` and `padding-bottom` deal with percentage values, which will be interpreted as a percentage of the width of the containing element.
 
@@ -18,7 +18,7 @@ The solution to our problem was **intrinsic ratio**, which is often used for [cr
 
 The recommended dimensions for header images in CAPP Agile Learning are 1280 by 720 pixels. The aspect ratio for these dimensions is 16:9 (= 1280:720). To get the needed percentage we divide 9 by 16, which gives us 0.5625 or 56.25%.
 
-![Aspect Ratio](blog/flexible-cover-images-using-intrinsic-ratio/aspect-ratio.png)
+![Aspect Ratio](blog/aspect-ratio.png)
 
 Now we can apply the intrinsic ratio trick:
 
@@ -87,4 +87,4 @@ In the [demo](http://codepen.io/snap/full/NGxgLr/){:target="\_blank"}{:rel="noop
 <p data-height="265" data-theme-id="0" data-slug-hash="NGxgLr" data-default-tab="css,result" data-user="snap" data-pen-title="Responsive intrinsic ratio w/ background image" class="codepen">See the Pen <a href="https://codepen.io/snap/pen/NGxgLr/">Responsive intrinsic ratio w/ background image</a> by Matthijs Kuiper (<a href="https://codepen.io/snap">@snap</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-That's all there is to it. With just a little CSS you can scale elements on the fly while maintaining their aspect ratio. If you have questions or cool ideas on intrinsic ratio, please let us know on [twitter](https://twitter.com/DefactoSoftware)!
+That's all there is to it. With just a little CSS you can scale elements on the fly while maintaining their aspect ratio. If you have questions or cool ideas on intrinsic ratio, please let us know on [Twitter](https://twitter.com/DefactoSoftware){:target="_blank"}{:rel="noopener"}{:title="Defacto on Twitter"}!

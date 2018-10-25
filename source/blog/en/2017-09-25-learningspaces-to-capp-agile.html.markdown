@@ -4,7 +4,6 @@ date: 2017-09-25 08:00 CEST
 tags: Rebranding, Learningspaces, Performance Support, Development
 author: Milda
 lang: en
-featured: true
 image: images/blog/social/learningspaces-cappagilelearning-1200x630.jpg
 featured_image: images/blog/featured/20170925-learningspaces-cappagilelearning.jpg
 ---
