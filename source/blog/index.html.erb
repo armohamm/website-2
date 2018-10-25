@@ -8,16 +8,18 @@ index: false
 <% content_for :meta_description, t("blog.meta_description", page_number: page_number, num_pages: num_pages) %>
 
 
-<section class="row">
+<section>
+  <div class="row">
 
-  <ol class="blog-list">
-    <% page_articles.each do |article| %>
-      <li>
-        <%= partial "blog/blog-article-preview", locals: { article: article } %>
-      </li>
-    <% end %>
-  </ol>
+    <ol class="blog-list">
+      <% page_articles.each do |article| %>
+        <li>
+          <%= partial "blog/blog-article-preview", locals: { article: article } %>
+        </li>
+      <% end %>
+    </ol>
 
-  <%= partial "blog/pagination", locals: current_page.metadata[:locals] %>
+    <%= partial "blog/pagination", locals: current_page.metadata[:locals] %>
 
+  </div>
 </section>

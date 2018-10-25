@@ -13,18 +13,20 @@ unique_for_locale: true
 
 <section class="jobs-text">
   <div class="row">
-    <div class="col">
+    <article>
       <%= partial "jobs/jobs-text" %>
-    </div>
+    </article>
   </div>
 </section>
 
 <section class="jobs-overview">
   <div class="row">
-    <div class="col post-body">
+    <div class="col">
+
       <h2>
         <%= t("jobs.vacancies") %>
       </h2>
+
       <ol class="post-list">
         <% page_articles.each do |article| %>
           <li>
@@ -32,6 +34,7 @@ unique_for_locale: true
           </li>
         <% end %>
       </ol>
+
     </div>
   </div>
 </section>
