@@ -1,0 +1,68 @@
+body.support {
+  .hero {
+    background-color: $orange;
+    background-image: url("../images/moods/support.jpg");
+    background-position: center;
+
+    .hero-inner {
+      padding: 4em 1em;
+
+      h1 {
+        font-size: 3em;
+      }
+
+      p {
+        font-size: 1.4em;
+      }
+
+      p:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  section.support-team {
+    background: $light-gray-two;
+
+    h2 {
+      text-align: center;
+    }
+
+    .row {
+      max-width: 640px;
+    }
+  }
+
+  .support-team-wrapper {
+    align-items: stretch;
+    display: flex;
+    flex-wrap: wrap;
+
+    .support-team-item {
+      padding: 0 1em;
+      text-align: center;
+      width: 100%;
+
+      @include media($medium-up) {
+        width: 50%;
+      }
+
+      @include media($large-up) {
+        width: 25%;
+      }
+
+      img {
+        @include avatar-size(120px);
+        margin-bottom: 0.2em;
+      }
+
+      h5 {
+        font-weight: 700;
+
+        span {
+          display: block;
+        }
+      }
+    }
+  }
+}

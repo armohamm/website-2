@@ -51,11 +51,6 @@
     <%= partial "partials/meta/organization_schema" if root_url? %>
     <%= javascript_include_tag "jquery", "all" %>
     <%= javascript_include_tag "search" if current_page.locale_root_path =~ /zoeken.html/ %>
-    <% if current_page.locale_root_path =~ /contact.html/ %>
-      <%= partial "partials/intercom", locals: { intercom_id: "yb5mzq3j"} %>
-    <% else %>
-      <%= partial "partials/intercom", locals: { intercom_id: "tf7cx147"} %>
-    <% end %>
-
+    <%= partial "partials/intercom", locals: { intercom_id: intercom_id } %>
   </body>
 </html>
