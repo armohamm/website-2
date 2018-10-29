@@ -26,19 +26,19 @@
 
     <%= alternate_link_tags(current_page) -%>
 
-    <%= partial "partials/open_graph" unless current_page.data.robots && current_page.data.robots.include?("noindex") -%>
+    <%= partial "partials/meta/open_graph" unless current_page.data.robots && current_page.data.robots.include?("noindex") -%>
 
     <%= feed_tag :atom, "#{blog("blog").options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
     <%= stylesheet_link_tag "main" %>
     <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <%= partial "partials/google_analytics" if production %>
+    <%= partial "partials/meta/google_analytics" if production %>
   </head>
 
   <body class="<%= page_classes %>">
 
     <div class="page-wrap">
 
-      <%= partial "partials/header" %>
+      <%= partial "header/header" %>
 
       <div class="main" role="main">
         <%= yield %>
@@ -46,9 +46,9 @@
 
     </div>
 
-    <%= partial "partials/footer" %>
+    <%= partial "footer/footer" %>
     <%= partial "partials/privacy-notification" unless root_locale == :en -%>
-    <%= partial "partials/organization_schema" if root_url? %>
+    <%= partial "partials/meta/organization_schema" if root_url? %>
     <%= javascript_include_tag "jquery", "all" %>
     <%= javascript_include_tag "search" if current_page.locale_root_path =~ /zoeken.html/ %>
     <% if current_page.locale_root_path =~ /contact.html/ %>
