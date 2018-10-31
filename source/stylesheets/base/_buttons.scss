@@ -82,7 +82,6 @@
     @include button($pink);
   }
 
-
   &.turquoise {
     @include button($turquoise);
   }
@@ -103,6 +102,17 @@
         border-color: $white;
         color: $white;
       }
+    }
+  }
+
+  &.light {
+    @include button($lighter-gray);
+    color: $dark-gray;
+
+    &:hover,
+    &:focus {
+      background-color: $light-gray;
+      color: $dark-gray;
     }
   }
 
