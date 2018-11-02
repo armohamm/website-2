@@ -7,9 +7,9 @@ lang: nl
 featured_image: images/blog/featured/20151113-gebruikersbijeenkomst.jpg
 ---
 
-*Blog verzorgd door Cas Paauwe, Docent en LMS beheerder van het Gelre Ziekenhuis te Apeldoorn.*
+__Het is donderdagochtend 15 oktober, we gaan naar de gebruikersbijeenkomst van onze partner Defacto. Met collega Alien gaan we snel naar Utrecht na onze laatste interne afspraak om 11.30 uur. Helaas missen we de lunch. De bijeenkomst is net begonnen wanneer wij aanschuiven in een uitermate goed gevulde zaal in het gebouw van de KvK Utrecht.__
 
-Het is donderdagochtend 15 oktober, we gaan naar de gebruikersbijeenkomst van onze partner Defacto. Met collega Alien gaan we snel naar Utrecht na onze laatste interne afspraak om 11.30 uur. Helaas missen we de lunch. De bijeenkomst is net begonnen wanneer wij aanschuiven in een uitermate goed gevulde zaal in het gebouw van de KvK Utrecht.
+_Blog verzorgd door Cas Paauwe, Docent en LMS beheerder van het Gelre Ziekenhuis te Apeldoorn._
 
 Ontwikkelingen en onderling contact staat vandaag centraal en dat vinden we een prima zaak. Ik zie het als samenwerkend leren. Er wordt informatie gegeven over de laatste ontwikkelingen in het LMS genaamd CAPP en met name over het te ontwikkelen Flexibele Kwaliteitspaspoort. Als deelnemend en betrokken ziekenhuis blijken we al goed op de hoogte te zijn.
 

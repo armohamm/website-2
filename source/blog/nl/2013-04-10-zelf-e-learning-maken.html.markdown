@@ -7,7 +7,7 @@ lang: nl
 featured_image: images/blog/featured/20130410-e-learning.jpg
 ---
 
-**Om de zoveel maanden gebeurt er weer wat nieuws op het gebied van e-learning. Zo heb je waarschijnlijk de afgelopen jaren de termen _Serious Gaming_, _Microlearning, Gamification_ en _Flipped Classroom_ al wel eens langs horen komen. Stuk voor stuk interessante onderwerpen waar je meteen enthousiast van wordt, zodra je er over hoort. Maar het lijkt wel of deze hypes voor veel organisaties uiteindelijk slechts hypothetisch blijven.**
+__Om de zoveel maanden gebeurt er weer wat nieuws op het gebied van e-learning. Zo heb je waarschijnlijk de afgelopen jaren de termen _Serious Gaming_, _Microlearning, Gamification_ en _Flipped Classroom_ al wel eens langs horen komen. Stuk voor stuk interessante onderwerpen waar je meteen enthousiast van wordt, zodra je er over hoort. Maar het lijkt wel of deze hypes voor veel organisaties uiteindelijk slechts hypothetisch blijven.__
 
 De succesverhalen horen we uitsluitend op congressen en gaan vooral over grote (Amerikaanse) bedrijven.
 

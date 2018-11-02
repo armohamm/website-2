@@ -7,7 +7,7 @@ lang: nl
 featured_image: images/blog/featured/20150924-babyboomers-kennis.png
 ---
 
-Ik ben een babyboomer. Daar maak je je niet geliefd mee bij de jongere generaties. Maximaal geprofiteerd van maximaal gunstige omstandigheden. Ze hebben de huizen, de salarissen, de banen en in veel gevallen ook unieke kennis. En wat geven ze terug?
+__Ik ben een babyboomer. Daar maak je je niet geliefd mee bij de jongere generaties. Maximaal geprofiteerd van maximaal gunstige omstandigheden. Ze hebben de huizen, de salarissen, de banen en in veel gevallen ook unieke kennis. En wat geven ze terug?__
 
 Werkgevers maken zich zorgen over het massaal uittreden van babyboomers. Dat is geen nieuws, maar wat doe je er mee? Die huizen en hun vermogen zullen ze niet inleveren, maar hun banen uiteindelijk wel. En als het aan ons ligt leveren ze hun KENNIS in.
 

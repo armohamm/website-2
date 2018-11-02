@@ -7,28 +7,32 @@ lang: nl
 featured_image: images/blog/featured/20160104-convenant.jpg
 ---
 
-**Samen met onze klanten Ziekenhuis Rivierenland Tiel en het Leids Universitair Medisch Centrum (LUMC) hebben we een tweetal 'ronde tafel'-bijeenkomsten georganiseerd in het kader van het Convenant Medische Technologie (CMT). Het convenant regelt een veilige toepassing van medische technologie in ziekenhuizen. Dit betekent een veilig product in handen van een opgeleide gebruiker, in een omgeving die veilig gebruik garandeert.**
+__Samen met onze klanten Ziekenhuis Rivierenland Tiel en het Leids Universitair Medisch Centrum (LUMC) hebben we een tweetal 'ronde tafel'-bijeenkomsten georganiseerd in het kader van het Convenant Medische Technologie (CMT). Het convenant regelt een veilige toepassing van medische technologie in ziekenhuizen. Dit betekent een veilig product in handen van een opgeleide gebruiker, in een omgeving die veilig gebruik garandeert.__
 
 Tijdens de bijeenkomsten zijn we ingegaan op het aspect van het convenant waar nog veel vragen over leven binnen ziekenhuizen: hoe maak je iedereen bewust en aantoonbaar bekwaam in het werken met medische apparatuur en hoe borg je dit? Dit leidt tot vragen als: hoe regel je dit effectief en efficiënt, *just in time* voor elke medewerker? En uiteindelijk heel belangrijk: hoe draagt dit bij aan de kwaliteit van de zorg?
 
 Rivierenland en LUMC hebben hun oplossing, het zogenoemde **3 stappen plan**, tijdens de bijeenkomsten gedeeld met andere ziekenhuizen. Het 3 stappen plan wordt ondersteund met de software van Defacto.
 
-### 3 stappen plan
+## 3 stappen plan
 
-#### 1. Definiëren van profielen
+### 1. Definiëren van profielen
+
 Met behulp van [het Kwaliteitspaspoort van Defacto](/kwaliteitspaspoort/) kan van alle functies aangegeven worden met welke medische apparatuur de medewerkers werken en waarvoor deze medewerkers dus gecertificeerd moeten zijn.
 
-#### 2. Monitoren van de profielen
+### 2. Monitoren van de profielen
+
 Iedere medewerker en zijn leidinggevenden hebben via het Kwaliteitspaspoort *real time* inzicht in de status van de certificering van de medewerker in kwestie.
 
 #### Het vereistenprofiel van een zorgmedewerker:
+
 ![Kwaliteitspaspoort Defacto](/images/blog/kwaliteitspaspoort-defacto.png)
 
+### 3. Actueel houden van de kennis van de medewerkers én de organisatie
 
-#### 3. Actueel houden van de kennis van de medewerkers én de organisatie
 Met de applicatie [CAPP Agile Learning van Defacto](/capp-agile-learning/) wordt er een platform gecreëerd waar iedere medewerker alle belangrijke informatie rondom de medische apparatuur op de afdeling kan vinden. Door de mogelijkheid tot het stellen van vragen en het verbeteren van bestaande teksten leren medewerkers van elkaar en draagt iedereen de verantwoordelijkheid voor het up-to-date houden van bestaande kennis. Op deze manier kan opgedane kennis gedeeld en verrijkt worden. Ook kunnen kritische bedrijfssituaties in CAPP Agile Learning gemeld, opgelost en zichtbaar worden zodat de hele organisatie ervan kan leren.
 
-#### CAPP Agile Learning:
+## CAPP Agile Learning:
+
 ![CAPP Agile Learning Defacto](/images/blog/cappagilelearning-defacto.png)
 
 Tijdens de bijeenkomsten bleek dat er nog veel vragen zijn over de implementatie en de borging:

@@ -7,13 +7,13 @@ lang: nl
 featured_image: images/blog/featured/20151214-innovatie.jpg
 ---
 
-### *‘We moeten ons opleidingsprogramma innoveren, jij mag dit project leiden. Denk er echter wel aan dat we geen nieuwe ICT voorzieningen kunnen aanschaffen en dat we moeten blijven voldoen aan de huidige regelgeving’*
+__‘We moeten ons opleidingsprogramma innoveren, jij mag dit project leiden. Denk er echter wel aan dat we geen nieuwe ICT voorzieningen kunnen aanschaffen en dat we moeten blijven voldoen aan de huidige regelgeving’__
 
 Deze innovatieparadox is een tegenstrijdigheid waarmee eenieder die zich in het werkveld van opleiden beweegt te maken krijgt. Aan de ene kant van deze paradox hebben we de wil, het inzicht en de gevoelde noodzaak tot verandering. Aan de andere kant van de paradox worden we met onze neus op de feiten gedrukt. Verouderde ICT, wet- en regelgeving, of voorschriften van een keurmerk. Kortom, onze bewegingsruimte wordt beperkt. Willen innoveren en de vrijheid hebben tot innovatie kunnen twee totaal verschillende werelden lijken.
 
 Bovenstaand scenario zal voor velen herkenbaar zijn. Toch is dit niet hetgeen dat innoveren moeilijk maakt. Een verouderde ICT die niet mee wil bewegen, regelgeving die innovatie tegenhoudt, het zijn slechts bijproducten van een organisatie waar innovatie niet van de grond komt. Tegenwerpingen als deze zijn niets anders dan signalen dat innovatie nog niet gedragen of geaccepteerd wordt. Wat is nu eigenlijk het echte probleem?
 
-Innovatie is niet het invoeren van een nieuw opleidingsprogramma of het aanschaffen van nieuwe software. Innovatie is het veranderen van de **mindset** van een organisatie. Mijn ervaring is dat wanneer er gesproken wordt over innovatie veelal gesproken wordt in termen van resultaat.
+Innovatie is niet het invoeren van een nieuw opleidingsprogramma of het aanschaffen van nieuwe software. Innovatie is het veranderen van de __mindset__ van een organisatie. Mijn ervaring is dat wanneer er gesproken wordt over innovatie veelal gesproken wordt in termen van resultaat.
 
 #### *‘Wij gaan werken met zelfsturende teams’*
 

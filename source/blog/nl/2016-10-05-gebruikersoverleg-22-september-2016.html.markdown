@@ -8,7 +8,7 @@ image: images/blog/social/gebruikersoverleg-september-2016-1200x630.png
 featured_image: images/blog/featured/20161005-gebruikersoverleg.jpg
 ---
 
-**In het mooie auditorium van het Gelre Ziekenhuis hebben Gerwin, Bastiaan en Joep presentaties gehouden over het Kwaliteitspaspoort, onze applicatie 360˚Feedback en over ons product CAPP Agile Learning.**
+__In het mooie auditorium van het Gelre Ziekenhuis hebben Gerwin, Bastiaan en Joep presentaties gehouden over het Kwaliteitspaspoort, onze applicatie 360˚Feedback en over ons product CAPP Agile Learning.__
 
 Naast de presentaties, is een van de vaste en populaire onderdelen de zogenaamde 'Rondetafelgesprekken'. Tijdens deze gesprekken wordt dieper ingegaan op de onderwerpen en worden vragen en oplossingen gedeeld met elkaar. Het Gebruikersoverleg is altijd op locatie van een van onze klanten. Vandaag waren we te gast bij het [Gelre Ziekenhuis](https://www.gelreziekenhuizen.nl/Gelreziekenhuizen){:target="_blank"}.
 

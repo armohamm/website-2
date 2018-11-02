@@ -7,7 +7,7 @@ lang: nl
 featured_image: images/blog/featured/20160201-den-haag.png
 ---
 
-**De afgelopen twee weken zijn we met een team van Defacto keihard bezig geweest om de Gemeente Den Haag Dienst OCW aan te laten sluiten op onze reeds bestaande CAPP-omgeving bij de Dienst SZW.**
+__De afgelopen twee weken zijn we met een team van Defacto keihard bezig geweest om de Gemeente Den Haag Dienst OCW aan te laten sluiten op onze reeds bestaande CAPP-omgeving bij de Dienst SZW.__
 
 Het was de bedoeling om enerzijds met een centrale back office te gaan werken en anderzijds voor de verschillende afdelingen/diensten aparte leerportalen te ontwikkelen. Daarnaast moet in de toekomst het uitwisselen van leermateriaal etc. mogelijk zijn.  
 

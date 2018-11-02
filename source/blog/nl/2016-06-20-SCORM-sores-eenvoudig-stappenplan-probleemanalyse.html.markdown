@@ -8,9 +8,9 @@ image: images/blog/social/scorm-sores-1200x630.png
 featured_image: images/blog/featured/20160620-help-scorm.png
 ---
 
-### SCORM Sores – een eenvoudig stappenplan op je probleemanalyse
+__E-Learning modules. Iedere organisatie heeft er tegenwoordig wel een paar. En elke organisatie die e-learning modules heeft, heeft er ook wel eens problemen mee. Modules die niet opstarten, filmpjes die niet afspelen, resultaten die niet terugkomen... De lijst gaat nog wel even door. Welke stappen kun je ondernemen om snel achter de aard van het probleem te komen, zonder van het kastje naar de muur gestuurd te worden?__
 
-**E-Learning modules. Iedere organisatie heeft er tegenwoordig wel een paar. En elke organisatie die e-learning modules heeft, heeft er ook wel eens problemen mee. Modules die niet opstarten, filmpjes die niet afspelen, resultaten die niet terugkomen... De lijst gaat nog wel even door. Welke stappen kun je ondernemen om snel achter de aard van het probleem te komen, zonder van het kastje naar de muur gestuurd te worden?**
+## SCORM Sores – een eenvoudig stappenplan op je probleemanalyse
 
 Om problemen voor te zijn proberen we altijd korte lijntjes te hebben met e-learning leveranciers waar onze klanten gebruik van maken. Toch ontkom je er niet aan dat er soms iets niet werkt. Dat leidt vaak tot veel frustratie bij alle betrokken partijen.
 
@@ -18,7 +18,7 @@ De frustratie komt veelal voort uit een gebrek aan kennis over de werking van e-
 
 ### Analyseer in welk proces het probleem met de e-learning ligt
 
-In de basis is het afspelen van E-Learning een proces tussen **drie verschillende factoren**:
+In de basis is het afspelen van E-Learning een proces tussen __drie verschillende factoren__:
 
 ![drie factoren](/images/blog/drie-factoren.png)
 

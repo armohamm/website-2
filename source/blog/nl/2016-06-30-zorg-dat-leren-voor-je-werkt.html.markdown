@@ -8,7 +8,7 @@ image: images/blog/social/zorg-dat-leren-voor-je-werkt-1200x630.png
 featured_image: images/blog/featured/20160630-leren.png
 ---
 
-Een intrigerende slogan die de MUMC+ Academie gebruikt als leidraad voor haar leer- en ontwikkelbeleid. Tijdens een klantbijeenkomst begin dit jaar heeft Michel van Zandvoort, directeur van de Academie zijn visie en de gekozen aanpak toegelicht. In onderstaande fragmenten vatten we zijn inspirerende verhaal samen.
+__Een intrigerende slogan die de MUMC+ Academie gebruikt als leidraad voor haar leer- en ontwikkelbeleid. Tijdens een klantbijeenkomst begin dit jaar heeft Michel van Zandvoort, directeur van de Academie zijn visie en de gekozen aanpak toegelicht. In onderstaande fragmenten vatten we zijn inspirerende verhaal samen.__
 
 De aanleiding en de visie van de MUMC+ Academie.
 
