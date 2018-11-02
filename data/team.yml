@@ -15,13 +15,10 @@
 #    avatar: /images/team/madeyes.jpg
 #    avatar: http://defacto.nl/madeyes.jpg
 #
-# 2. Use `email` propery to get gravater, ie:
-#    email: m.kuiper@defacto.nl
-#
-# 3. Look for `#{firstname.downcase}.jpg` in the images/team/ directory.
+# 2. Look for `#{firstname.downcase}.jpg` in the images/team/ directory.
 #    So `firstname: Matthijs` will use images/team/matthijs.jpg if it exists.
 #
-# 4. Use a placeholder as fallback.
+# 3. Use a placeholder as fallback.
 #
 ###############################################################################
 

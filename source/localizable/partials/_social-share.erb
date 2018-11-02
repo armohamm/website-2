@@ -5,7 +5,7 @@
   <div class="title">
     <% if jobs_post? %>
       <%= t("sharing.share_job") %>
-    <% elsif is_blog? %>
+    <% elsif blog? %>
       <%= t("sharing.share_post") %>
     <% elsif case? %>
       <%= t("sharing.share_case") %>
