@@ -1,6 +1,6 @@
 ---
 title: "Color Placeholders for Loading Images"
-date: 2018-10-24 08:00 CEST
+date: 2017-10-24 08:00 CEST
 tags: Development, JavaScript, CSS
 author: Matthijs
 lang: nl

@@ -1,6 +1,6 @@
 ---
 title: "Flexible cover images using intrinsic ratio"
-date: 2018-10-22 8:00 CEST
+date: 2017-04-22 8:00 CEST
 tags: Frontend, UI/UX, CSS
 author: Matthijs
 lang: nl
