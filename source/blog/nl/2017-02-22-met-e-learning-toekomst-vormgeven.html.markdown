@@ -8,9 +8,9 @@ image: images/blog/social/workshop-e-learning-toekomst-1200x630.png
 featured_image: images/blog/featured/20170221-e-learning-toekomst.jpg
 ---
 
-**Op vrijdag 9 februari hebben we een workshop gehouden over de aantrekkelijkheid als werkgever en kennismanagement. Defacto was uitgenodigd door ZeQ (een Duits adviesbureau voor verhoging van de kwaliteit binnen de gezondheidszorg) om samen deze workshop te verzorgen. Het werd een leuke middag, waar in een ontspannen sfeer veel kennis werd gedeeld.**
+__Op vrijdag 9 februari hebben we een workshop gehouden over de aantrekkelijkheid als werkgever en kennismanagement. Defacto was uitgenodigd door ZeQ (een Duits adviesbureau voor verhoging van de kwaliteit binnen de gezondheidszorg) om samen deze workshop te verzorgen. Het werd een leuke middag, waar in een ontspannen sfeer veel kennis werd gedeeld.__
 
-De ondertitel voor de bijeenkomst was *“Hoe je met e-learning je toekomst vorm kunt geven"*. Een thema dat in Duitsland op dit moment haar opwachting maakt, maar ook in Nederland actueel blijft. En ondanks dat we al jaren bekend zijn met het e-learning thema merken we dat we nooit zijn uitgeleerd.
+De ondertitel voor de bijeenkomst was _“Hoe je met e-learning je toekomst vorm kunt geven"_. Een thema dat in Duitsland op dit moment haar opwachting maakt, maar ook in Nederland actueel blijft. En ondanks dat we al jaren bekend zijn met het e-learning thema merken we dat we nooit zijn uitgeleerd.
 
 Wat vonden de workshopdeelnemers de belangrijkste conclusies?
 

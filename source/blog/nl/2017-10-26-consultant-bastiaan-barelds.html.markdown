@@ -8,7 +8,7 @@ image: images/blog/social/bastiaan-barelds1200x630.jpg
 featured_image: images/blog/featured/20171026-bastiaan-barelds.jpg
 ---
 
-**"Wij zijn niet het type bedrijf dat onze software over de schutting gooit", zegt Bastiaan Barelds, consultant bij Defacto. "Een groot en belangrijk onderdeel van onze software is het implementatieproces. Wij kijken echt naar wat er speelt bij de klant en eigenlijk zijn we meer partners dan adviseurs tijdens dit proces."**
+__"Wij zijn niet het type bedrijf dat onze software over de schutting gooit", zegt Bastiaan Barelds, consultant bij Defacto. "Een groot en belangrijk onderdeel van onze software is het implementatieproces. Wij kijken echt naar wat er speelt bij de klant en eigenlijk zijn we meer partners dan adviseurs tijdens dit proces."__
 
 ## Video
 

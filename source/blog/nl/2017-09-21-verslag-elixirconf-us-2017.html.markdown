@@ -8,7 +8,8 @@ featured: true
 image: images/blog/social/elixirconf-1200x630.jpg
 featured_image: images/blog/featured/20170921-elixirconf.jpg
 ---
-**Bij Defacto hechten we grote waarde aan de ontwikkeling van onze medewerkers. Niet verrassend aangezien ons credo 'Developing People' is. Toch is het vaak een uitdaging om tijd en toewijding te vinden om precies dit te doen: jezelf ontwikkelen.**
+
+__Bij Defacto hechten we grote waarde aan de ontwikkeling van onze medewerkers. Niet verrassend aangezien ons credo 'Developing People' is. Toch is het vaak een uitdaging om tijd en toewijding te vinden om precies dit te doen: jezelf ontwikkelen.__
 
 In het snel veranderende landschap van software-ontwikkeling is er een breed aanbod aan leermogelijkheden in de vorm van wat we micro-learning noemen. Denk aan blogs, videotutorials of technische documentatie. Het is echter belangrijk om niet te vergeten zo af en toe ook fysiek deel te nemen aan het leren, bijvoorbeeld in een klaslokaal of tijdens een werkgroep. Zeker om dit samen met collega's te doen heeft meerwaarde. Het geeft je een unieke kans om eens samen te reflecteren op de gepresenteerde stof en de uitdaging van het vak software-ontwikkeling.
 

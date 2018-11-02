@@ -8,7 +8,7 @@ image: images/blog/social/masie-learning-2017-1200x630.jpg
 featured_image: images/blog/featured/20171023-learning-2017-masie.jpg
 ---
 
-**Deze week heb ik samen met mijn collega Martina het genoegen om Elliott Masie’s ‘Learning 2017’ congres bij te wonen. Samen met een delegatie van andere Nederlandse professionals op het gebied van leren en ontwikkelen zijn wij mee met de [Performance Journey](http://www.performance-journey.com){:target="_blank"}{:rel="noopener"}{:title="Performance Journey"}, een initiatief van Alfred Remmits en Janine van Zoest.**
+__Deze week heb ik samen met mijn collega Martina het genoegen om Elliott Masie’s ‘Learning 2017’ congres bij te wonen. Samen met een delegatie van andere Nederlandse professionals op het gebied van leren en ontwikkelen zijn wij mee met de [Performance Journey](http://www.performance-journey.com){:target="_blank"}{:rel="noopener"}{:title="Performance Journey"}, een initiatief van Alfred Remmits en Janine van Zoest.__
 
 Als onderdeel van deze journey hadden wij het privilege om de ochtend voor de start van het congres al aanwezig te zijn bij een exclusieve welkomstsessie van [Eliott Masie](https://masie.com/information/who-is-elliott-masie){:target="_blank"}{:rel="noopener"}{:title="Eliott Masie"} zelf. Masie wordt mondiaal gezien als een van de belangrijkste thought leaders op het gebied van corporate learning en innovaties. In 45 minuten nam Masie ons mee in hetgeen wij van het congres kunnen verwachten.
 

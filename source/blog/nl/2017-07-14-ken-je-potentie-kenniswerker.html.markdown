@@ -8,7 +8,7 @@ image: images/blog/social/creation-1200x630.jpg
 featured_image: images/blog/featured/20170630-creation.jpg
 ---
 
-_Heb je ooit een kenniswerker ontmoet? Ze zijn meestal te vinden in het hart van je organisatie. Kijk maar om je heen, al je collega's zijn kenniswerkers. Het neemt vele vormen aan. Je ziet het terug in hun bereidheid en motivatie, ideeën, ervaringen en interpretatie. Dit alles zorgt ervoor dat kenniswerkers onmisbaar zijn in je organisatie. Toch vergeten directeuren en managers ze regelmatig op waarde te schatten._
+__Heb je ooit een kenniswerker ontmoet? Ze zijn meestal te vinden in het hart van je organisatie. Kijk maar om je heen, al je collega's zijn kenniswerkers. Het neemt vele vormen aan. Je ziet het terug in hun bereidheid en motivatie, ideeën, ervaringen en interpretatie. Dit alles zorgt ervoor dat kenniswerkers onmisbaar zijn in je organisatie. Toch vergeten directeuren en managers ze regelmatig op waarde te schatten.__
 
 Op dit moment wordt *succes gedefinieerd door iets wat je kunt meten*. Doordat het moeilijk is om de kennis te meten vinden leidinggevenden het ongemakkelijk om dit te promoten. **De focus verschoof daarom naar iets wat makkelijker te meten is: omzet**. Daardoor werd kennis, een van de meest belangrijke aspecten in een organisatie, het ondergeschoven kindje binnen organisaties.
 

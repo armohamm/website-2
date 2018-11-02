@@ -7,6 +7,7 @@ lang: nl
 image: images/blog/social/blockchain-1200x630.jpg
 featured_image: images/blog/featured/20170912-blockchain.jpg
 ---
+
 __Als softwarebedrijf dat zich bezighoudt met educatie zijn we altijd geïnteresseerd in de nieuwste en innovatieve trends rondom leren en het veilig houden van data. Zeker omdat we werken met ziekenhuizen, zorginstellingen en andere organisaties waar compliance een grote rol speelt. Vertrouwen, echtheid van informatie en deskundigheid is daarom voor ons van groot belang. Daarom waren we op 5 september 2017 aanwezig op de [Blockchain in Education](https://www.bcined2017.nl/){:target="_blank"}{:rel="noopener"}{:title="Blockchain in education"} conferentie aan de Rijksuniversiteit in Groningen.__
 
 ## Blockchain, wat is dat?

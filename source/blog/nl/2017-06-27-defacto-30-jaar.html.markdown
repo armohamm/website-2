@@ -8,7 +8,7 @@ image: images/blog/social/30-jaar-1200x630.jpg
 featured_image: images/blog/featured/20170627-30-jaar.jpg
 ---
 
-**2017 is het jaar dat [Defacto](/over-ons/) 30 jaar bestaat en dat was reden voor een feestje. Op 16 juni stond de tuin van Zuiderpark 3 vol met (oud-)collega's, familie en vrienden. Onder het genot van een drankje en de Defacto band werd de afgelopen 30 jaar goed gevierd.**
+__2017 is het jaar dat [Defacto](/over-ons/) 30 jaar bestaat en dat was reden voor een feestje. Op 16 juni stond de tuin van Zuiderpark 3 vol met (oud-)collega's, familie en vrienden. Onder het genot van een drankje en de Defacto band werd de afgelopen 30 jaar goed gevierd.__
 
 Een barbecue, gebak, [Holy Water gin](http://holywater.church/){:target="_blank"}{:rel="noopener"}{:title="Holy Water gin"}, lampjes en een vuurkorf. Het grind waar normaal auto's geparkeerd staan was nu het toneel voor een zomers tafereel met een partytent in het midden. Met ruim honderd man hing er een gezellige en knusse sfeer waar iedereen warm onthaald werd.
 

@@ -9,7 +9,7 @@ image: images/blog/social/5-moments-of-need-1200x630.jpg
 featured_image: images/blog/featured/20180117-5-moments-of-need.jpg
 ---
 
-**Als onderwijskundige ben ik blij met de laatste ontwikkelingen op het gebied van leren. In de afgelopen vijf jaar is de perceptie rondom dit onderwerp veranderd en de aandacht voor alle vormen van leren is toegenomen.**
+__Als onderwijskundige ben ik blij met de laatste ontwikkelingen op het gebied van leren. In de afgelopen vijf jaar is de perceptie rondom dit onderwerp veranderd en de aandacht voor alle vormen van leren is toegenomen.__
 
 Dit is ook duidelijk te zien bij bedrijven waar ik vanuit mijn werkzaamheden als consultant kom. De vraag naar interventies op de werkplek, kort werkplekleren en _performance support_ stijgt.
 

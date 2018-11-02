@@ -8,7 +8,7 @@ image: images/blog/social/gebruikersoverleg-2-2017-1200x630.jpg
 featured_image: images/blog/featured/20171004-gebruikersoverleg.jpg
 ---
 
-**Op de zonnige donderdag 21 september werd bij onze klant ’s Heerenloo het tweede Defacto Gebruikersoverleg van 2017 georganiseerd. Het thema van de dag was [CAPP Agile Learning](/capp-agile-learning/){:title="CAPP Agile Learning"}. Het was bovendien het moment om de nieuwe versie van CAPP aan onze klanten aan te kondigen.**
+__Op de zonnige donderdag 21 september werd bij onze klant ’s Heerenloo het tweede Defacto Gebruikersoverleg van 2017 georganiseerd. Het thema van de dag was [CAPP Agile Learning](/capp-agile-learning/){:title="CAPP Agile Learning"}. Het was bovendien het moment om de nieuwe versie van CAPP aan onze klanten aan te kondigen.__
 
 Onder het genot van een uitgebreide lunch kwamen de deelnemers binnen. De gesprekken kwamen meteen op gang en er werden direct ideeën uitgewisseld. Dat is de kern van ons Gebruikersoverleg: onze klanten de mogelijkheid geven om zowel met elkaar als met ons in gesprek te gaan. Even bij elkaar in de keuken kijken en zo elkaar vooruit helpen.
 

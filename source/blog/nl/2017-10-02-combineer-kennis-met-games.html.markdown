@@ -7,7 +7,8 @@ lang: nl
 image: images/blog/social/modern-learner-1200x630.png
 featured_image: images/blog/featured/20150521-modern-learner.png
 ---
-**Hoe kun je het leervermogen van je werknemers verhogen? Door kennis met (online) games te combineren.**
+
+__Hoe kun je het leervermogen van je werknemers verhogen? Door kennis met (online) games te combineren.__
 
 ![modern learner infographic](/images/blog/en/meet-the-modern-learner-infographic.jpg)
 

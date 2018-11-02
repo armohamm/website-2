@@ -7,7 +7,8 @@ lang: nl
 image: images/blog/social/zerocopter-1200x630.jpg
 featured_image: images/blog/featured/20170904-zerocopter.jpg
 ---
-**Als je software gebruikt wil je zeker weten dat het goed werkt, makkelijk in gebruik is én dat het veilig is. Het internet is van iedereen en je kunt ook alles op het internet vinden. Het is dus extra belangrijk om zeker te weten dat jouw data niet zomaar op straat komt te liggen. Wij vinden het belangrijk dat jouw data veilig is bij ons, daarin gaan we net een stapje verder. Sinds januari 2017 werken we daarom samen met [Zerocopter](https://zerocopter.com/){:target="_blank"}{:rel="Zerocopter"}{:title="Zerocopter"} en laten we ons regelmatig hacken.**
+
+__Als je software gebruikt wil je zeker weten dat het goed werkt, makkelijk in gebruik is én dat het veilig is. Het internet is van iedereen en je kunt ook alles op het internet vinden. Het is dus extra belangrijk om zeker te weten dat jouw data niet zomaar op straat komt te liggen. Wij vinden het belangrijk dat jouw data veilig is bij ons, daarin gaan we net een stapje verder. Sinds januari 2017 werken we daarom samen met [Zerocopter](https://zerocopter.com/){:target="_blank"}{:rel="Zerocopter"}{:title="Zerocopter"} en laten we ons regelmatig hacken.__
 
 [![Zerocopter](/images/blog/zerocopter-logo.jpg)](https://zerocopter.com/){:target="_blank"}{:rel="Zerocopter"}{:title="Zerocopter"}
 

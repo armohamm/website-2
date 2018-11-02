@@ -8,7 +8,7 @@ image: images/blog/social/certified-1200x630.gif
 featured_image: images/blog/featured/20170620-certified.gif
 ---
 
-**Met gepaste trots kunnen we melden dat [Defacto](/over-ons/) vanaf heden ISO 9001, ISO 14001, ISO 27001 en NEN 7510 gecertificeerd is en aldus voldoet aan de voorschriften op het gebied van kwaliteit, milieumanagement, informatieveiligheid en informatiebeveiliging in de zorg.**
+__Met gepaste trots kunnen we melden dat [Defacto](/over-ons/) vanaf heden ISO 9001, ISO 14001, ISO 27001 en NEN 7510 gecertificeerd is en aldus voldoet aan de voorschriften op het gebied van kwaliteit, milieumanagement, informatieveiligheid en informatiebeveiliging in de zorg.__
 
 ![ISO en NEN certificaten](/images/blog/gecertificeerd.png)
 

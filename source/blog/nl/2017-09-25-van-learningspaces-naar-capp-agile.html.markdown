@@ -8,7 +8,8 @@ featured: true
 image: images/blog/social/learningspaces-cappagilelearning-1200x630.jpg
 featured_image: images/blog/featured/20170925-learningspaces-cappagilelearning.jpg
 ---
-**Recent hebben we besloten om de manier waarop we software maken te veranderen. Voor ons is software development veel meer dan alleen het eindproduct. Onze producten zijn een manier om onze belangrijkste missie uit te voeren: bedrijven en organisaties helpen met het ontwikkelen van hun werknemers.**
+
+__Recent hebben we besloten om de manier waarop we software maken te veranderen. Voor ons is software development veel meer dan alleen het eindproduct. Onze producten zijn een manier om onze belangrijkste missie uit te voeren: bedrijven en organisaties helpen met het ontwikkelen van hun werknemers.__
 
 Door de jaren heen hebben we veel ervaring opgedaan op het gebied van leren en ontwikkelen. Dit zorgde voor verschillende oplossingen voor bedrijven van ieder formaat, zoals [360° Feedback](/360-feedback/){:title="360° Feedback"} en [HappyHours](https://github.com/DefactoSoftware/hours){:target="_blank"}{:rel="noopener"}{:title="HappyHours"}. Hiermee wilden we onze gebruikers tegemoet te komen tijdens alledaagse uitdagingen.
 

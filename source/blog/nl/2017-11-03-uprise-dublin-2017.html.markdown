@@ -8,7 +8,7 @@ image: images/blog/social/uprise-dublin-2017-1230x630.jpg
 featured_image: images/blog/featured/20171031-uprise-dublin-2017.jpg
 ---
 
-**Met een pint kraanwater in mijn hand luisterde ik naar een gesprek over bitcoin. Een complex onderwerp, zelfs voor de mensen die zich daar dagelijks mee bezig houden. Tijdens de afsluitende netwerkborrel op Uprise 2017 in Dublin was dit het moment om ideeën uit te wisselen met de andere bezoekers.**
+__Met een pint kraanwater in mijn hand luisterde ik naar een gesprek over bitcoin. Een complex onderwerp, zelfs voor de mensen die zich daar dagelijks mee bezig houden. Tijdens de afsluitende netwerkborrel op Uprise 2017 in Dublin was dit het moment om ideeën uit te wisselen met de andere bezoekers.__
 
 ![Milda, Stéphanie & Marc Buckley](/images/blog/uprise_2017-milda_en_stephanie.jpg)
 <p class="caption">Milda & Stéphanie tijdens Uprise 2017 in gesprek met Marc Buckley</p>
