@@ -294,7 +294,8 @@ set :images_dir, "images"
 activate :syntax #, line_numbers: true
 
 set :markdown_engine, :kramdown
-set :markdown, input: "GFM", auto_ids: false
+set :markdown, input: "GFM",
+               auto_ids: true
 
 #set :markdown_engine, :redcarpet
 #set :markdown, fenced_code_blocks: true, smartypants: true
