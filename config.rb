@@ -325,6 +325,7 @@ configure :build do
   activate :asset_hash, ignore: [
     "images/logos/defacto.png",
     "images/blog/featured",
+    # Image below is used in sn3p's codepen https://codepen.io/snap/pen/NGxgLr
     "images/blog/flexible-cover-images-using-intrinsic-ratio/aspect-ratio-demo.png"
   ]
 
