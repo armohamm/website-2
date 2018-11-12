@@ -74,10 +74,24 @@ rake deploy # Deploy all locales
 - http://localhost:4567/__middleman/config/
 - http://localhost:4567/__middleman/sitemap/
 
-#### Thanks to
+### Thanks
+
+Thanks to :heart:
 
 - [Middleman](https://middlemanapp.com/)
-- [Middleman Search](https://github.com/manastech/middleman-search)
+- [Middleman Blog](https://github.com/middleman/middleman-blog)
+- [Middleman Deploy](https://github.com/karlfreeman/middleman-deploy)
+- [Middleman Search](https://github.com/manastech/middleman-search) with [Lunr.js](https://github.com/olivernn/lunr.js/)
+- [Middleman Syntax](https://github.com/middleman/middleman-syntax)
+- [Middleman Minify HTML](https://github.com/middleman/middleman-minify-html)
+- [Bourbon](https://github.com/thoughtbot/bourbon/)
+- [Thoughtbot](https://github.com/thoughtbot)
+- [Builder](https://github.com/jimweirich/builder/)
+- [Rake](https://github.com/ruby/rake)
+- [Nokogiri](https://github.com/sparklemotion/nokogiri)
 - [HTML-proofer](https://github.com/gjtorikian/html-proofer)
-- [CircleCI](https://circleci.com/)
+- [What Input](https://github.com/ten1seven/what-input)
+- [Icomoon](https://icomoon.io/)
 - [Hound](https://houndci.com/)
+- [Rubocop](https://github.com/rubocop-hq/rubocop)
+- [CircleCI](https://circleci.com/)
