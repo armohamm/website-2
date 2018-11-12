@@ -24,11 +24,6 @@ $(function () {
   // Placeholder polyfill
   $('input, textarea').placeholder();
 
-  // Inject hidden browser version input in forms
-  var browser = bowser.name + ' ' + bowser.version;
-  var browserInput = '<input type="hidden" name="browser" value="' + browser + '">';
-  $forms.append(browserInput);
-
   // Form submit
   $forms.on('submit', function (event) {
     var $form = $(this);
