@@ -228,7 +228,7 @@
       transition: transform 0.3s ease;
     }
 
-    .active {
+    a[aria-current]:not([aria-current="false"]) {
       background: lighten($gray, 5%);
       border-radius: 3px;
     }
@@ -254,10 +254,6 @@
       &:hover {
         color: $gray-menu;
       }
-
-      &.active {
-        background: $white;
-      }
     }
   }
 
@@ -276,24 +272,6 @@
 
       &:hover {
         color: darken($orange, 15%);
-      }
-
-      &.active {
-        border-radius: 0;
-      }
-    }
-
-    li:first-of-type {
-      .active {
-        border-top-left-radius: 3px;
-        border-top-right-radius: 3px;
-      }
-    }
-
-    li:last-of-type {
-      .active {
-        border-bottom-left-radius: 3px;
-        border-bottom-right-radius: 3px;
       }
     }
   }
@@ -329,18 +307,6 @@
     .main-nav {
       ul > li {
         > a {
-          opacity: 1;
-        }
-
-        &.active > a {
-          color: $orange;
-          opacity: 0.8;
-        }
-      }
-
-      &.header-white {
-        .active > a {
-          color: $white;
           opacity: 1;
         }
       }

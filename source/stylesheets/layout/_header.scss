@@ -43,8 +43,7 @@
 
             &:hover,
             &:focus,
-            &:active,
-            &.active {
+            &:active {
               color: $orange;
             }
           }
@@ -137,14 +136,17 @@
 
         &:hover,
         &:focus,
-        &:active,
-        &.active {
+        &:active {
           color: $orange;
         }
 
         &.header-search {
           line-height: inherit;
-          padding-right: 30px;
+          margin-right: 1em;
+        }
+
+        &[aria-current]:not([aria-current="false"]) {
+          color: $orange;
         }
       }
 
@@ -154,8 +156,7 @@
 
           &:hover,
           &:focus,
-          &:active,
-          &.active {
+          &:active {
             color: $orange;
           }
         }
@@ -167,8 +168,7 @@
 
           &:hover,
           &:focus,
-          &:active,
-          &.active {
+          &:active {
             color: $white;
           }
         }

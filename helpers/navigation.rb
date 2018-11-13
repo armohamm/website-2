@@ -25,19 +25,17 @@ module Navigation
     url.sub("/#{locale}/", full_url("/", locale))
   end
 
-  # Build nav links with active class for current_page
+  # Link_to with aria_current for current_page
+  # https://github.com/thoughtbot/middleman-aria_current
   def nav_link_to(*args, &block)
-    url_arg_index = block ? 0 : 1
-    options_index = block ? 1 : 2
-
+    url_arg_index = block_given? ? 0 : 1
+    options_index = block_given? ? 1 : 2
     args[options_index] ||= {}
     options = args[options_index].dup
 
-    is_active = url_for(args[url_arg_index], relative: false) ==
-                url_for_current_page
+    arg_url = url_for(args[url_arg_index].split("#")[0], relative: false)
 
-    options[:class] ||= +""
-    options[:class] << " active" if is_active
+    options["aria-current"] = "page" if arg_url == url_for_current_page
 
     args[options_index] = options
     locale_link_to(*args, &block)
