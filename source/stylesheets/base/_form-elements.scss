@@ -59,6 +59,10 @@ textarea {
     border-color: $action-color;
     box-shadow: $form-box-shadow-focus;
     outline: none;
+
+    html[data-whatintent='keyboard'] & {
+      outline: 3px solid $orange;
+    }
   }
 }
 

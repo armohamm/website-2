@@ -58,16 +58,19 @@ a {
   color: $action-color;
   text-decoration: none;
 
-  &:active,
-  &:focus,
-  &:hover {
-    color: darken($action-color, 15%);
-  }
-
-  &:active,
   &:focus {
     outline: none;
   }
+}
+
+// Using what-intent to target specific input
+// https://github.com/ten1seven/what-input
+[data-whatintent='mouse'] *:focus {
+  outline: none;
+}
+
+[data-whatintent='keyboard'] *:focus {
+  outline: 3px solid $orange;
 }
 
 blockquote {
