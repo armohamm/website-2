@@ -64,15 +64,15 @@ body.contact {
 
         img {
           display: block;
-          margin-left: 12px;
+          margin-left: 18px;
           margin-top: 21px;
           max-height: 48px;
           max-width: 60px;
 
           @include media($large-up) {
             float: none;
-            margin: 0 auto;
-            max-height: 120px;
+            margin: 0 auto 1em;
+            max-height: 70px;
             max-width: 100%;
           }
         }
