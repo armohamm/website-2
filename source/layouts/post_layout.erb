@@ -67,7 +67,7 @@
   } -%>
 <% end %>
 
-<% unless blog_controller.name == :cases %>
+<% unless blog_controller.name == :cases || blog.articles.count < 3 %>
   <%= partial "partials/related-posts", locals: {
     article: current_article,
     blog: blog_controller.name.to_s

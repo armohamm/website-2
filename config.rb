@@ -60,11 +60,29 @@ set :cname,
 ready do
   case root_locale
   when :nl
-    ignores = ["/blog/de/*", "/jobs/de/*", "/blog/en/*", "/cases/de/*"]
+    ignores = [
+      "/blog/de/*",
+      "/blog/en/*",
+      "/jobs/de/*",
+      "/jobs/en/*",
+      "/cases/de/*"
+    ]
   when :de
-    ignores = ["/blog/en/*", "/blog/nl/*", "/jobs/nl/*", "/cases/nl/*"]
+    ignores = [
+      "/blog/en/*",
+      "/blog/nl/*",
+      "/jobs/en/*",
+      "/jobs/nl/*",
+      "/cases/nl/*"
+    ]
   when :en
-    ignores = ["/blog/de/*", "/blog/nl/*", "/jobs/*", "/cases/*"]
+    ignores = [
+      "/blog/de/*",
+      "/blog/nl/*",
+      "/jobs/de/*",
+      "/jobs/nl/*",
+      "/cases/*"
+    ]
   end
 
   ignores.each do |path|
@@ -173,6 +191,8 @@ activate :blog do |blog|
     blog.sources = "/nl/{title}.html"
   when :de
     blog.sources = "/de/{title}.html"
+  when :en
+    blog.sources = "/en/{title}.html"
   end
   blog.paginate = false
 end

@@ -19,15 +19,7 @@ description: We rely on open source software and like to give back to the commun
       </p>
 
       <p>
-        Like what you see?
-
-        <% if root_locale == :en %>
-          <a href="https://www.defacto.nl/jobs/">
-        <% else %>
-          <a href="/jobs/">
-        <% end %>
-          Work with us!
-        </a>
+        Like what you see? <%= link_to "Work with us!", "/jobs/" %>
       </p>
 
     </article>

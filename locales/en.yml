@@ -11,7 +11,6 @@ en:
     demo-aanvragen: "request-demo"
     diensten: services
     implementaties: implementations
-    jobs: careers
     klanten: clients
     koppelingen: integrations
     kwaliteitspaspoort: "quality-portfolio"
@@ -34,7 +33,7 @@ en:
     contact: Contact
     heading: "We are Defacto"
     heading2: "Learning and developing since 1987"
-    jobs: Careers
+    jobs: jobs
     references: References
     team:
       work_with_us: Work at
@@ -203,11 +202,11 @@ en:
     menu: Menu
     products: Products
     services: Services
-    jobs: Careers
+    jobs: jobs
     open-source: "Open Source"
   home:
     hero:
-      text: "More than 250.000 professionals use our software to learn and develop their talents. "
+      text: "More than 200.000 professionals use our software to learn and develop their talents."
       title: "Developing People"
     home:
       news:
@@ -224,6 +223,13 @@ en:
         title: CAPP Quality Portfolio
   implementaties:
     heading: Implementation doesn’t have to be complicated
+  jobs:
+    acquisition: "Note: acquisition based on this vacancy is not appreciated."
+    apply: "Apply now!"
+    header: "Jobs"
+    more: "More jobs:"
+    title: "Job:"
+    vacancies: "Jobs:"
   hosting:
     heading: "Hosting and Security"
   koppelingen:
@@ -281,6 +287,7 @@ en:
     title: "We ensure a successful implementation of CAPP LMS with the following services"
   sharing:
     share_post: "Share this article:"
+    share_job: "Share this job:"
     twitter: Share on Twitter
     facebook: Share on Facebook
     google_plus: Share on Google+
