@@ -33,7 +33,7 @@ en:
     contact: Contact
     heading: "We are Defacto"
     heading2: "Learning and developing since 1987"
-    jobs: jobs
+    jobs: Jobs
     references: References
     team:
       work_with_us: Work at
@@ -202,7 +202,7 @@ en:
     menu: Menu
     products: Products
     services: Services
-    jobs: jobs
+    jobs: Jobs
     open-source: "Open Source"
   home:
     hero:
