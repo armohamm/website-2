@@ -23,13 +23,17 @@
 
   .footer-main {
     border-bottom: 1px solid $gray-menu;
+    display: flex;
+    flex-direction: column;
 
     @include media($xxlarge-up) {
-      display: flex;
+      flex-direction: row;
     }
   }
 
   .connect {
+    flex: 1;
+    order: 1;
     padding-bottom: 2em;
 
     @include media($large-up) {
@@ -78,6 +82,9 @@
   }
 
   .navigation {
+    flex: 1;
+    order: 2;
+
     @include media($large-up) {
       display: flex;
       padding-bottom: 2em;
