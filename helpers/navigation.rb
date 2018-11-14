@@ -25,7 +25,16 @@ module Navigation
     url.sub("/#{locale}/", full_url("/", locale))
   end
 
-  # Link_to with aria_current for current_page
+  # Get the current_page or match on path starts_with
+  def active_page?(path)
+    arg_url = url_for(path.split("#")[0], relative: false)
+    url_for_page = url_for_current_page()
+    path_matches = url_for_page.start_with?(arg_url) && arg_url != "/"
+
+    url_for_page == arg_url || path_matches
+  end
+
+  # Link_to with aria_current for active_page
   # https://github.com/thoughtbot/middleman-aria_current
   def nav_link_to(*args, &block)
     url_arg_index = block_given? ? 0 : 1
@@ -33,9 +42,7 @@ module Navigation
     args[options_index] ||= {}
     options = args[options_index].dup
 
-    arg_url = url_for(args[url_arg_index].split("#")[0], relative: false)
-
-    options["aria-current"] = "page" if arg_url == url_for_current_page
+    options["aria-current"] = "page" if active_page?(args[url_arg_index])
 
     args[options_index] = options
     locale_link_to(*args, &block)
