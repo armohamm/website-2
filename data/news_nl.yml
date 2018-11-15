@@ -1,3 +1,9 @@
+- title: "Defacto klantendag"
+  text: "Maandag 5 november hadden we weer een geslaagde editie van onze klantendag. Dit jaar werd het gehouden bij het Antoni van Leeuwenhoek instituut in Amsterdam. De aanwezigen werden aan de hand van presentaties en workshops meegenomen in de laatste ontwikkelingen rondom CAPP LMS."
+  image: "news/news-klantendag.jpg"
+  link: "/blog/defacto-klantendag-november-2018/"
+  alt: "Defacto Klantendag november 2018"
+
 - title: "Nederland en Duitsland, buren met digitaal wereldse verschillen"
   text: "Onze Sales Manager Arnoud Knoeff sprak namens Defacto over de verschillen tussen Nederland en Duitsland op het gebied van digitale cultuur en het digitaal leren en opleiden in de gezondheidszorg met een LMS."
   image: "news/arnoud-bremen.jpg"
@@ -9,9 +15,3 @@
   image: "news/dianet.jpg"
   link: "/cases/dianet/"
   alt: "Case Dianet"
-
-- title: "Antoni van Leeuwenhoek van start met CAPP LMS"
-  text: "Lees hier hoe de implementatie van de nieuwste versie van CAPP LMS bij het Antoni van Leeuwenhoek onder meer zorgt voor een scherpere visie op leren en ontwikkelen."
-  image: "news/avl.jpg"
-  link: "/cases/antoni-van-leeuwenhoek/"
-  alt: "Case Antoni van Leeuwenhoek"
