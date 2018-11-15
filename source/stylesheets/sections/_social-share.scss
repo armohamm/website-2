@@ -3,9 +3,10 @@ section.social-share {
   padding-top: 4em;
   text-align: center;
 
-  .title {
+  h6 {
     color: $post-meta;
     font-size: $base-font-size * 1.2;
+    font-weight: 500;
     margin-bottom: 1em;
   }
 
