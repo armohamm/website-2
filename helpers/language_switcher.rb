@@ -9,7 +9,7 @@ module LanguageSwitcher
 
   # Get flag image
   def flag_image(lang)
-    image_tag("flags/#{lang}.png", alt: flag_titles[lang])
+    image_tag("flags/#{lang}.svg", alt: flag_titles[lang])
   end
 
   # Get exceptions
