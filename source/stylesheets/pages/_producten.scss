@@ -139,7 +139,7 @@
   }
 }
 
-.capp-agile {
+.capp-agile-learning {
   .left {
     background-color: $green;
     background-image: url("../images/moods/capp-agile-learning.jpg");
@@ -148,7 +148,11 @@
 
     h2 {
       img {
-        width: 360px;
+        width: 240px;
+
+        @include media($medium-up) {
+          width: 360px;
+        }
       }
     }
   }

@@ -132,7 +132,6 @@ de:
   capp-agile:
     name: CAPP Agile Learning
     desc: "Performance-Support mit CAPP Agile Learning: schnell, effektiv und genau auf Ihr Unternehmen zugeschnitten."
-    logo: logos/capp-agile-white.png
     hero:
       heading: "Flexibles E-Learning mit CAPP Agile Learning"
       action: "Demo anfragen"

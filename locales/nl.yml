@@ -91,7 +91,6 @@ nl:
   capp-agile:
     name: CAPP Agile Learning
     desc: "Performance support door 'kennis-on-demand'. Verbeter prestaties door medewerkers te voorzien van just-in-time kennis. Leg kennis simpel vast en deel handleidingen, protocollen, werkinstructies, QR-codes e.d."
-    logo: logos/capp-agile-white.png
     hero:
       img: screenshots/capp-agile-hero_nl.png
       heading: "Met CAPP Agile Learning creëer je een platform gericht op de kennis die je organisatie in huis heeft. Performance support made agile: snel, effectief en specifiek voor jouw organisatie."

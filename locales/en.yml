@@ -89,7 +89,6 @@ en:
   capp-agile:
     name: CAPP Agile Learning
     desc: "CAPP Agile Learning enables you to create a platform that is dedicated to your organisation's expertise. Performance Support made Agile; quick, effective and customised to your organisation."
-    logo: logos/capp-agile-white.png
     hero:
       heading: "Performance support for every organisation."
       action: "Contact us"
