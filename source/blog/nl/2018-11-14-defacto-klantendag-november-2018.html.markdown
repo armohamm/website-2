@@ -7,7 +7,7 @@ lang: nl
 featured: true
 image: images/blog/social/social-klantendag-1200x630.jpg
 featured_image: images/blog/featured/20181114-klantendag.jpg
-header_image: moods/mood-klantendag.jpg
+header_image: moods/klantendag-mood.jpg
 ---
 
 __Op maandag 5 november hielden we weer een klantendag. Deze editie vond plaats bij het Antoni van Leeuwenhoek instituut in Amsterdam, die als eerste klant live is gegaan met de laatste versie van CAPP LMS. Tijdens onze voorbereiding was het ons al duidelijk dat het een drukbezocht evenement zou worden, met 90 aanmeldingen van 35 organisaties uit de zorg, overheid en overige sectoren.__
@@ -20,11 +20,11 @@ Na de opening was het woord aan Gerwin Veenstra, Product Owner bij Defacto. Hij 
 
 Bij de tweede presentatie was het Miriam Boer, Academie Manager bij het Antoni van Leeuwenhoek instituut, die met veel enthousiasme vertelde over de implementatie van CAPP LMS en de samenwerking met Defacto. De rol en inzet van onze consultants werd geprezen, net als de manier waarop wij openstaan voor input als het gaat om softwareontwikkeling. Miriam sloot haar presentatie af door te zeggen dat, ondanks dat AVL als eerste de nieuwste versie van CAPP LMS ging gebruiken, ze volledig achter de keuze staat en CAPP LMS van harte aanbeveelt bij klanten die nadenken over migratie en met name herimplementatie naar de laatste versie.
 
-Deze aanbeveling vormde een goede brug naar de laatste plenaire presentatie van de dag, door senior consultant Joep Lenglet. Hij vertelde over de mogelijkheden die de laatste versie van CAPP LMS biedt voor onze klanten en wat de verschillen tussen datamigratie en herimplementatie zijn. Zo werd voor de aanwezigen als snel helder dat het voor hun organisaties CAPP LMS pas echt optimaal ingezet kan worden bij herimplementatie. Bij een migratie worden alleen de bestaande functionaliteiten gemigreerd, bij een herimplementatie worden ook alle nieuwe functionaliteiten door onze consultants ingericht, waarmee onze klanten hun medewerkers optimaal kunnen laten leren en ontwikkelen. Dit biedt onze klanten een LMS dat toekomstbestendig is en essentieel is voor het behalen van de doelstellingen van zowel de organisatie als de medewerkers.
+Deze aanbeveling vormde een goede brug naar de laatste plenaire presentatie van de dag, door senior consultant Joep Lenglet. Hij vertelde over de mogelijkheden van de laatste versie van CAPP LMS en wat de verschillen tussen datamigratie en herimplementatie zijn. Het werd de aanwezigen al snel helder dat alle mogelijkheden van CAPP LMS pas echt benut kunnen worden na een herimplementatie. Bij een migratie wordt alleen de bestaande inrichting een op een overgezet. Bij een herimplementatie worden niet alleen alle nieuwe functionaliteiten door onze consultants ingericht, maar evalueren we ook eerder gemaakte keuzes om ze indien mogelijk te verbeteren. Dit biedt onze klanten een LMS dat toekomstbestendig is, medewerkers motiveert en essentieel is voor het behalen van de doelstellingen van zowel de organisatie als de medewerkers.
 
 ![Joep Lenglet in gesprek met klanten](/images/blog/klantendag-009.jpg)
 
-Na de pauze waren er twee workshopsrondes, elk met keuze uit drie onderwerpen, die door onze consultants werden gegeven. De workshops gingen over: autorisatiestructuur, het gebruik van ons Kwaliteitspaspoort en vernieuwde e-learning en cursusmogelijkheden met CAPP LMS. Aan de hand van praktijkvoorbeelden kreeg men inzicht in de nieuwe en verbeterde features bij CAPP LMS.
+Na de pauze waren er twee workshopsessies, elk met keuze uit drie onderwerpen, die door onze consultants werden gegeven. De workshops gingen over: autorisatiestructuur, het gebruik van ons Kwaliteitspaspoort en vernieuwde e-learning en cursusmogelijkheden met CAPP LMS. Aan de hand van praktijkvoorbeelden kreeg men inzicht in de nieuwe en verbeterde features bij CAPP LMS.
 
 Tot slot was er de gelegenheid om gezamenlijk nog na te praten onder het genot van een borrel. Met dank aan de uitstekende catering van het AVL kon iedereen genieten van lekkere hapjes en drankjes. Onze consultants, account managers en een aantal developers waren druk in gesprek over CAPP LMS, ideeën voor de toekomst en een scala aan andere onderwerpen.
 
