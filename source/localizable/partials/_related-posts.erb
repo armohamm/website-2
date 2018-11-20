@@ -1,4 +1,4 @@
-<section class="related-posts">
+<section class="other-posts">
 
   <div class="row">
 
@@ -20,19 +20,7 @@
 
       <ol class="post-list">
 
-        <% (blog(blog).articles - [current_article])[0...5].each do |article| %>
-
-          <li>
-
-            <% if blog == "jobs" %>
-              <%= partial "jobs/job-preview", locals: { article: article } %>
-            <% elsif blog == "blog" %>
-              <%= partial "blog/blog-article-preview", locals: { article: article } %>
-            <% end %>
-
-          </li>
-
-        <% end %>
+        <%= other_posts() %>
 
       </ol>
 
