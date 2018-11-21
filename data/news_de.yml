@@ -1,3 +1,9 @@
+- title: "Online Educa Berlin"
+  text: "Defacto ist auch dieses Jahr wieder auf der OEB in Berlin vertreten. Die OEB verschiebt seit 24 Jahren Grenzen, stellt vorgefasste Meinungen in Frage und fördert und formt neue Ideen über die Zukunft von Digitalem Lernen."
+  image: "news/oeb-news.jpg"
+  link: "/veranstaltungskalender/"
+  alt: "OEB (Online Educa Berlin)"
+
 - title: "Fort- und Weiterbildung für Medizinische Fachangestellte: gute Perspektiven!"
   text: "Zahlreiche Angebote der Fort- und Weiterbildung für Medizinische Fachangestellte (MFA) im Krankenhaus eröffnen diesen ein breites Spektrum an Zusatzqualifikationen und neuen Tätigkeitsfeldern. "
   image: "news/mfa.jpg"
@@ -9,9 +15,3 @@
   image: "news/werken-bij-defacto.jpg"
   link: "/jobs/projektleiter-consultant-softwareimplementierung/"
   alt: "Werde Teil unseres Teams und arbeite aktiv an unserem Motto 'Developing People' mit!"
-
-- title: "CAPP LMS sorgt für einfache und schnelle Erfassung Ihrer CME-Punkte"
-  text: "Seit dem Jahr 2004 ist gesetzlich vorgeschrieben, dass sich in Deutschland zugelassene Ärzte kontinuierlich berufsbegleitend fortbilden – und zwar mit Fortbildungsmaßnahmen, die von einer Landesärztekammer freigegeben wurden."
-  image: "news/cme-news.jpg"
-  link: "/blog/cme-punkte-schnell-erfassen-mit-capp-lms/"
-  alt: "CAPP LMS sorgt für einfache und schnelle Erfassung Ihrer CME-Punkte"
