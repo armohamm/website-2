@@ -10,6 +10,10 @@ section.clients {
     flex-wrap: wrap;
     justify-content: center;
 
+    @include media($xlarge-up) {
+      flex-wrap: nowrap;
+    }
+
     .client {
       align-items: center;
       display: flex;
