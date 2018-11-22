@@ -1,14 +1,20 @@
 section.clients {
   background-color: $lightest-gray;
   background-image: linear-gradient(darken($lightest-gray, 2), $lightest-gray 120px);
-  padding: 4em 1em 2em;
+  padding: 4em 1em;
   text-align: center;
+
+  h3 {
+    font-size: $base-font-size * 2;
+    margin-bottom: 1.5em;
+  }
 
   .logos {
     align-items: center;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin-bottom: 1em;
 
     @include media($xlarge-up) {
       flex-wrap: nowrap;
