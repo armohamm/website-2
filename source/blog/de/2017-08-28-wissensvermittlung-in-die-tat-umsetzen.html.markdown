@@ -7,7 +7,7 @@ lang: de
 image: images/blog/social/knowledge-transfer-1200x630.jpg
 featured_image: images/blog/featured/20151030-knowledge-transfer.jpg
 ---
-**Wenn Organisationen nicht aufpassen werden die Mitarbeiter mit dem meisten Wissen in Rente gehen ohne ihr Wissen zu übertragen an Kollegen. Ich sprach mit [Daniel Weinzveg](http://www.dweinzveg.com/){:target="_blank"}{:rel="noopener"}{:title="Daniel Weinzveg"} über Wissenstransfer, der "Boomer Brain Drain" und Lösungen um das Loch der Wissensentfluss zu schliessen.**
+**Wenn Organisationen nicht aufpassen werden die Mitarbeiter mit dem meisten Wissen in Rente gehen ohne ihr Wissen zu übertragen an Kollegen. Ich sprach mit [Daniel Weinzveg](http://www.dweinzveg.com/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Daniel Weinzveg"} über Wissenstransfer, der "Boomer Brain Drain" und Lösungen um das Loch der Wissensentfluss zu schliessen.**
 
 **D**aniel: Die herstellende Industrie ist Teil des Frühwarnsystems einer riesigen organisatorischen Herausforderung, der sich auch die Industrie in Ihrer Nähe früher oder später gegenübersehen wird. Nein, es handelt sich nicht um China, 3D-Drucker oder Handelsabkommen. Es ist der Talent-Pool beziehungsweise sein Fehlen. Obwohl der *„Boomer Brain Drain“* keine neue Erkenntnis ist, wird nur wenig unternommen, um der Abwanderung von Leistungsträgern Einhalt zu gebieten. Und diese Abwanderung wird nach Expertenmeinung Unternehmen aller Arten und Größen gefährden. Aus sozialen und kulturellen Gründen erfährt das die herstellende Industrie heute schon schmerzhaft am eigenen Leib, aber die Tendenz weitet sich in hoher Geschwindigkeit auf alle Branchen aus.
 
@@ -39,7 +39,7 @@ Das ist das Wichtigste für eine erfolgreiche Nachfolgestrategie und um den Brai
 
 ## Einen strategischen & messbaren Plan entwickeln
 
-**D**: Sobald eine *Wissenskarte* des Unternehmens erstellt wurde, sollte geplant werden, wie Mitarbeiter A seine Fähigkeiten und sein Wissen an Mitarbeiter B weitergeben kann. Es gibt einige wenige sehr erfolgreiche Ansätze, wie explizites und implizites Unternehmenswissen vermittelt werden kann. Mein Favorit ist der [3-Schritte-Plan von Steve Trautman Trautman](http://stevetrautman.com/3-step-solution/){:target="_blank"}{:rel="noopener"}{:title="Steve Trautman"}. Eine andere Expertin in diesem Bereich ist [Dorothy Leonard](http://www.leonardbartongroup.com/html/team/LBG_Team_Dorothy_01.html){:rel="noopener"}{:title="Dorothy Leonard"}.
+**D**: Sobald eine *Wissenskarte* des Unternehmens erstellt wurde, sollte geplant werden, wie Mitarbeiter A seine Fähigkeiten und sein Wissen an Mitarbeiter B weitergeben kann. Es gibt einige wenige sehr erfolgreiche Ansätze, wie explizites und implizites Unternehmenswissen vermittelt werden kann. Mein Favorit ist der [3-Schritte-Plan von Steve Trautman Trautman](http://stevetrautman.com/3-step-solution/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Steve Trautman"}. Eine andere Expertin in diesem Bereich ist [Dorothy Leonard](http://www.leonardbartongroup.com/html/team/LBG_Team_Dorothy_01.html){:rel="noopener noreferrer"}{:title="Dorothy Leonard"}.
 
 Egal, für welchen Ansatz Sie sich entscheiden, achten Sie darauf, dass er messbar ist und dass Sie ihn konsequent verfolgen. Legen Sie Messgrößen fest, um die Reserven an Führungsnachwuchs (Bench Strength), Kompetenzen und Risiken zu messen. Moderne Arbeitsplätze unterliegen einem ständigen Wandel, das macht das Managen von Mitarbeitern und Wissen nicht leichter.
 

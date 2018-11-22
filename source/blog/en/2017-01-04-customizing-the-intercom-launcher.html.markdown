@@ -8,9 +8,9 @@ image: images/blog/social/intercom-launcher-1200x630.jpg
 featured_image: images/blog/featured/20170104-intercom-launcher.jpg
 ---
 
-We've been using [Intercom](https://www.intercom.com/){:target="_blank"}{:rel="noopener"} in CAPP Agile Learning for well over a year now, and like we said back then, it has really improved our support and in-app communication with users.
+We've been using [Intercom](https://www.intercom.com/){:target="_blank"}{:rel="noopener noreferrer"} in CAPP Agile Learning for well over a year now, and like we said back then, it has really improved our support and in-app communication with users.
 
-A few weeks ago Intercom introduced their [new messenger](https://docs.intercom.com/a-guide-to-the-new-intercom-messenger/the-new-intercom-messenger){:target="_blank"}{:rel="noopener"}, where they've added some new features and did an impressive redesign.
+A few weeks ago Intercom introduced their [new messenger](https://docs.intercom.com/a-guide-to-the-new-intercom-messenger/the-new-intercom-messenger){:target="_blank"}{:rel="noopener noreferrer"}, where they've added some new features and did an impressive redesign.
 
 Before the update we applied a bit of styling to change the size of the launcher (the default is too big for our taste). But after the update this doesn't work anymore due to the fact that **Intercom renders everything inside an iframe** now. I was hoping for a little bit more control over the size through the [App settings](https://docs.intercom.com/configure-intercom-for-your-product-or-site/customize-the-intercom-messenger/customize-the-intercom-messenger-basics), but this is limited to selecting a custom color.
 
@@ -41,7 +41,7 @@ This stylesheet should **also be included in your app or website** (or at least 
 
 ## Create a custom launcher
 
-A custom launcher gives you more control over its appearance and behaviour. This is the "[official](https://docs.intercom.com/configure-intercom-for-your-product-or-site/customize-the-intercom-messenger/customize-the-intercom-messenger-technical){:target="_blank"}{:rel="noopener"}" way to customize the launcher, and probably more future proof compared to injecting a stylesheet into the iframe. The example below is a smaller recreation of the original launcher.
+A custom launcher gives you more control over its appearance and behaviour. This is the "[official](https://docs.intercom.com/configure-intercom-for-your-product-or-site/customize-the-intercom-messenger/customize-the-intercom-messenger-technical){:target="_blank"}{:rel="noopener noreferrer"}" way to customize the launcher, and probably more future proof compared to injecting a stylesheet into the iframe. The example below is a smaller recreation of the original launcher.
 
 First create a link with a mailto address, which serves as a fallback in case Intercom is not (yet) booted. Don't forget to replace `YOUR_APP_ID`.
 
@@ -55,21 +55,21 @@ The styling is copied from the original launcher (for the most part):
 
 <script src="https://gist.github.com/2f3e3c5ba51fd8733a29fc0b4ff95a42.js?file=intercom-launcher.scss" type="text/javascript"></script>
 
-**Note:** The styling is in SCSS format. You can compile it to CSS [online](http://www.sassmeister.com){:target="_blank"}{:rel="noopener"} or via command line:
+**Note:** The styling is in SCSS format. You can compile it to CSS [online](http://www.sassmeister.com){:target="_blank"}{:rel="noopener noreferrer"} or via command line:
 
 ~~~
 sass --watch . --no-cache
 ~~~
 
-Also, I didn't include vendor prefixes so you might want to add those. Or even better, use [Autoprefixer](https://github.com/postcss/autoprefixer){:target="_blank"}{:rel="noopener"}.
+Also, I didn't include vendor prefixes so you might want to add those. Or even better, use [Autoprefixer](https://github.com/postcss/autoprefixer){:target="_blank"}{:rel="noopener noreferrer"}.
 
-Last but not least, [turn off](https://docs.intercom.com/configure-intercom-for-your-product-or-site/customize-the-intercom-messenger/turning-off-the-intercom-messenger-launcher){:target="_blank"}{:rel="noopener"} the default launcher, or [hide it](https://docs.intercom.com/configure-intercom-for-your-product-or-site/customize-the-intercom-messenger/customize-the-intercom-messenger-technical#show-the-intercom-messenger-to-selected-users-for-web-){:target="_blank"}{:rel="noopener"} by adding `hide_default_launcher: true` to your Intercom settings. For more information read the [docs](https://docs.intercom.com/configure-intercom-for-your-product-or-site/customize-the-intercom-messenger/customize-the-intercom-messenger-technical){:target="_blank"}{:rel="noopener"}.
+Last but not least, [turn off](https://docs.intercom.com/configure-intercom-for-your-product-or-site/customize-the-intercom-messenger/turning-off-the-intercom-messenger-launcher){:target="_blank"}{:rel="noopener noreferrer"} the default launcher, or [hide it](https://docs.intercom.com/configure-intercom-for-your-product-or-site/customize-the-intercom-messenger/customize-the-intercom-messenger-technical#show-the-intercom-messenger-to-selected-users-for-web-){:target="_blank"}{:rel="noopener noreferrer"} by adding `hide_default_launcher: true` to your Intercom settings. For more information read the [docs](https://docs.intercom.com/configure-intercom-for-your-product-or-site/customize-the-intercom-messenger/customize-the-intercom-messenger-technical){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ---
 
 ###### Intercom's missing ready callback
 
-The Intercom [JavaScript API](https://docs.intercom.com/configure-intercom-for-your-product-or-site/customize-the-intercom-messenger/the-intercom-javascript-api){:target="_blank"}{:rel="noopener"} is lacking a `ready` callback, something I've missed from the beginning. There is an `Intercom.boot` flag to test if it's booted, but you still have to watch/poll it (like the example above). I've been talking to Sean, a really helpful Customer Support Engineer at Intercom, about this and he said:
+The Intercom [JavaScript API](https://docs.intercom.com/configure-intercom-for-your-product-or-site/customize-the-intercom-messenger/the-intercom-javascript-api){:target="_blank"}{:rel="noopener noreferrer"} is lacking a `ready` callback, something I've missed from the beginning. There is an `Intercom.boot` flag to test if it's booted, but you still have to watch/poll it (like the example above). I've been talking to Sean, a really helpful Customer Support Engineer at Intercom, about this and he said:
 
 > I'll tag this as a feature request, maybe we can look at getting it added at some point.
 

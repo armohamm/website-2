@@ -26,7 +26,7 @@ One way to improve focus is to minimize the clutter on the page. When a user rea
 
 ## Line length
 
-To achieve optimal readability a text line needs to be [between 45 to 75 characters](http://webtypography.net/2.1.2){:target="_blank"}{:rel="noopener"}. Too narrow lines will result in having the eye travel back too often, which breaks the rhythm. Too long lines will result in having a difficult time to focus on the text. It also makes it more difficult to stay on the same line. I chose to aim around 75 characters per line which fits nicely within the bounds of a portrait iPad.
+To achieve optimal readability a text line needs to be [between 45 to 75 characters](http://webtypography.net/2.1.2){:target="_blank"}{:rel="noopener noreferrer"}. Too narrow lines will result in having the eye travel back too often, which breaks the rhythm. Too long lines will result in having a difficult time to focus on the text. It also makes it more difficult to stay on the same line. I chose to aim around 75 characters per line which fits nicely within the bounds of a portrait iPad.
 
 ## Typeface
 
@@ -58,7 +58,7 @@ article {
 
 ## Harmonious font sizes
 
-To calculate font sizes I used the [type-scale](http://type-scale.com/){:target="_blank"}{:rel="noopener"} tool. This generates a series of harmonious values for headings and small text, which can be applied to the base font size.
+To calculate font sizes I used the [type-scale](http://type-scale.com/){:target="_blank"}{:rel="noopener noreferrer"} tool. This generates a series of harmonious values for headings and small text, which can be applied to the base font size.
 
 To make life easier I added a series of three different scales as arrays in the SCSS typography variables file.
 

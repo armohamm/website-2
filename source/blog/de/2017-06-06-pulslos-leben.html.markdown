@@ -15,7 +15,7 @@ Menschen mit einem Herzunterstützungssystem - im umgangssprachlichen Gebrauch a
 ## „Es gibt noch viel zu tun“
 Nicht nur was die Aufklärungsarbeit rund um das Kunstherz angeht, sondern auch bei der Website gibt es für die Zukunft Pläne. Neben dem kontinuierlichen Ausbau soll es zudem eine Kommunikationsplattform für Betroffene sowie einen Klinikfinder geben, der im Notfall in sekundenschnelle ein geeignetes Krankenhaus in der Nähe ausfindig macht.
 
-Das wichtigste nicht vergessen, dies ist die Adresse im Netz: [https://www.pulslos-leben.de](https://www.pulslos-leben.de){:target="_blank"}{:rel="noopener"}. Verzeihen Sie uns noch die ein oder andere Baustelle, wir tun unser Bestes! Wenn Sie Ideen oder Fragen haben freuen wir uns sehr auf Ihre Nachricht.
+Das wichtigste nicht vergessen, dies ist die Adresse im Netz: [https://www.pulslos-leben.de](https://www.pulslos-leben.de){:target="_blank"}{:rel="noopener noreferrer"}. Verzeihen Sie uns noch die ein oder andere Baustelle, wir tun unser Bestes! Wenn Sie Ideen oder Fragen haben freuen wir uns sehr auf Ihre Nachricht.
 
 Viele Grüße,
 

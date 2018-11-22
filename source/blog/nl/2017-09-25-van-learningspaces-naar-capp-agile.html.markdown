@@ -11,7 +11,7 @@ featured_image: images/blog/featured/20170925-learningspaces-cappagilelearning.j
 
 __Recent hebben we besloten om de manier waarop we software maken te veranderen. Voor ons is software development veel meer dan alleen het eindproduct. Onze producten zijn een manier om onze belangrijkste missie uit te voeren: bedrijven en organisaties helpen met het ontwikkelen van hun werknemers.__
 
-Door de jaren heen hebben we veel ervaring opgedaan op het gebied van leren en ontwikkelen. Dit zorgde voor verschillende oplossingen voor bedrijven van ieder formaat, zoals [360° Feedback](/360-feedback/){:title="360° Feedback"} en [HappyHours](https://github.com/DefactoSoftware/hours){:target="_blank"}{:rel="noopener"}{:title="HappyHours"}. Hiermee wilden we onze gebruikers tegemoet te komen tijdens alledaagse uitdagingen.
+Door de jaren heen hebben we veel ervaring opgedaan op het gebied van leren en ontwikkelen. Dit zorgde voor verschillende oplossingen voor bedrijven van ieder formaat, zoals [360° Feedback](/360-feedback/){:title="360° Feedback"} en [HappyHours](https://github.com/DefactoSoftware/hours){:target="_blank"}{:rel="noopener noreferrer"}{:title="HappyHours"}. Hiermee wilden we onze gebruikers tegemoet te komen tijdens alledaagse uitdagingen.
 
 Nu willen we nog een stapje verder gaan en een nog betere gebruikservaring te creëren voor iedere gebruiker. Daarom voegen we al onze producten samen onder een naam. Dat betekent dat sommige producten een andere naam krijgen om beter aan te sluiten bij deze nieuwe focus. Daarom hebben we een van onze leermanagementsystemen hernoemd van LearningSpaces naar [CAPP Agile Learning](/capp-agile-learning/).
 

@@ -48,6 +48,6 @@ Daarnaast is het belangrijk om leren leuker te maken. Daardoor neemt de betrokke
 
 *	De mens is tegenwoordig 'geprogrammeerd' om games leuk te vinden en heeft een natuurlijke neiging om zich meer te verdiepen in activiteiten die gamegerelateerd zijn.
 
-Dit wetende maak je een bedrijf succesvoller als je de kracht van de moderne student ontketent en de werknemers stimuleert om op informele wijze kennis te delen. Als je hulp nodig hebt bij het opzetten van een platform voor sociaal leren, kun je contact met ons opnemen via [CAPP Agile Learning](/capp-agile-learning/) of stuur een persoonlijk bericht of tweet naar [@DefactoSoftware](https://twitter.com/DefactoSoftware){:target="_blank"}{:rel="noopener"}{:title="Defacto Twitter"}.
+Dit wetende maak je een bedrijf succesvoller als je de kracht van de moderne student ontketent en de werknemers stimuleert om op informele wijze kennis te delen. Als je hulp nodig hebt bij het opzetten van een platform voor sociaal leren, kun je contact met ons opnemen via [CAPP Agile Learning](/capp-agile-learning/) of stuur een persoonlijk bericht of tweet naar [@DefactoSoftware](https://twitter.com/DefactoSoftware){:target="_blank"}{:rel="noopener noreferrer"}{:title="Defacto Twitter"}.
 
 (Sommige ideeën zijn afkomstig van Langevin Learning Services en Gartner. Bedankt beiden!)

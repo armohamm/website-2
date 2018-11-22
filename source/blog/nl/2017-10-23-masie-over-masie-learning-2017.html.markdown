@@ -8,9 +8,9 @@ image: images/blog/social/masie-learning-2017-1200x630.jpg
 featured_image: images/blog/featured/20171023-learning-2017-masie.jpg
 ---
 
-__Deze week heb ik samen met mijn collega Martina het genoegen om Elliott Masie’s ‘Learning 2017’ congres bij te wonen. Samen met een delegatie van andere Nederlandse professionals op het gebied van leren en ontwikkelen zijn wij mee met de [Performance Journey](http://www.performance-journey.com){:target="_blank"}{:rel="noopener"}{:title="Performance Journey"}, een initiatief van Alfred Remmits en Janine van Zoest.__
+__Deze week heb ik samen met mijn collega Martina het genoegen om Elliott Masie’s ‘Learning 2017’ congres bij te wonen. Samen met een delegatie van andere Nederlandse professionals op het gebied van leren en ontwikkelen zijn wij mee met de [Performance Journey](http://www.performance-journey.com){:target="_blank"}{:rel="noopener noreferrer"}{:title="Performance Journey"}, een initiatief van Alfred Remmits en Janine van Zoest.__
 
-Als onderdeel van deze journey hadden wij het privilege om de ochtend voor de start van het congres al aanwezig te zijn bij een exclusieve welkomstsessie van [Eliott Masie](https://masie.com/information/who-is-elliott-masie){:target="_blank"}{:rel="noopener"}{:title="Eliott Masie"} zelf. Masie wordt mondiaal gezien als een van de belangrijkste thought leaders op het gebied van corporate learning en innovaties. In 45 minuten nam Masie ons mee in hetgeen wij van het congres kunnen verwachten.
+Als onderdeel van deze journey hadden wij het privilege om de ochtend voor de start van het congres al aanwezig te zijn bij een exclusieve welkomstsessie van [Eliott Masie](https://masie.com/information/who-is-elliott-masie){:target="_blank"}{:rel="noopener noreferrer"}{:title="Eliott Masie"} zelf. Masie wordt mondiaal gezien als een van de belangrijkste thought leaders op het gebied van corporate learning en innovaties. In 45 minuten nam Masie ons mee in hetgeen wij van het congres kunnen verwachten.
 
 ![Elliott Masie](/images/blog/elliottmasie.jpg)
 
@@ -31,6 +31,6 @@ Een hele hoop vragen om te prikkelen en nog heel weinig antwoorden. Toch merk ik
 
 Wat betekent bovenstaande voor mijn klanten en het advies dat ik mijn klanten zou moeten geven? Wat betekent dit voor Defacto als softwarebedrijf, hoe zou onze volgende versie er uit moeten zien? We zijn namelijk al druk bezig met het ontwikkelen van een nieuwe versie van ons LMS zodat we dit in 2018 kunnen lanceren!
 
-De antwoorden moet ik voor nu nog schuldig blijven, maar bij mij is het zaadje geplant om hier mee verder te gaan. Aan het eind van Learning2017 hoop ik met antwoorden, of in ieder geval antwoordrichtingen, weer terug te gaan naar Nederland (en ik zal hier ook zeker over bloggen!) Ik heb er vertrouwen in, zeker na de woorden van [Bob Mosher](https://www.linkedin.com/in/bmosher/){:target="_blank"}{:rel="noopener"}{:title="Linkedin Bob Mosher"}, die ons na Masie toesprak:
+De antwoorden moet ik voor nu nog schuldig blijven, maar bij mij is het zaadje geplant om hier mee verder te gaan. Aan het eind van Learning2017 hoop ik met antwoorden, of in ieder geval antwoordrichtingen, weer terug te gaan naar Nederland (en ik zal hier ook zeker over bloggen!) Ik heb er vertrouwen in, zeker na de woorden van [Bob Mosher](https://www.linkedin.com/in/bmosher/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Linkedin Bob Mosher"}, die ons na Masie toesprak:
 
 >“Elliott Masie asks the right questions, and then finds people like you and me around him, to help him find the answers for his ideas.”

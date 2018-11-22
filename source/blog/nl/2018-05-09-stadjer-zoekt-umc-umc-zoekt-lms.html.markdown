@@ -11,7 +11,7 @@ header_image: moods/UMCG.jpg
 call_to_action: demo-request
 ---
 
-__In de stad Groningen ben ik geboren en getogen. Stadjer noemen we dat hier. Zowel ik als vrijwel al mijn collega’s hebben een directe, dan wel indirecte historie met wat ooit het Academisch Ziekenhuis Groningen (AZG) heette en nu alweer sinds 2005 bekend staat als het [Universitair Medisch Centrum Groningen (UMCG)](https://www.umcg.nl/){:target="_blank"}{:rel="noopener"}{:title="UMCG"}.__
+__In de stad Groningen ben ik geboren en getogen. Stadjer noemen we dat hier. Zowel ik als vrijwel al mijn collega’s hebben een directe, dan wel indirecte historie met wat ooit het Academisch Ziekenhuis Groningen (AZG) heette en nu alweer sinds 2005 bekend staat als het [Universitair Medisch Centrum Groningen (UMCG)](https://www.umcg.nl/){:target="_blank"}{:rel="noopener noreferrer"}{:title="UMCG"}.__
 
 Vanuit deze persoonlijke verbondenheid zijn we dan ook erg trots en blij dat we vorige maand de Europese aanbesteding van het UMCG voor een nieuw [Leer Management Systeem (LMS)](/capp-lms/){:title="CAPP LMS"} hebben gewonnen en met het gezamenlijke projectteam deze maand de kick-off van het project gaan houden.
 

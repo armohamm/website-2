@@ -10,7 +10,7 @@ featured_image: images/blog/featured/20181010-stormruiter-blog.jpg
 header_image: moods/stormruiter.jpg
 ---
 
-__Vrijdag 5 oktober waren we in Leeuwarden bij het spektakelstuk ['De Stormruiter'](https://www.destormruiter.nl/){:target="_blank"}{:rel="noopener"}{:title="De Stormruiter"}, een groots verhaal over een eeuwenoude Nederlandse strijd, die tegen de zee. Het verhaal, gebaseerd op het boek 'Der Schimmelreiter van Theodor Storm en geregisseerd door Jos Thie, speelt zich af in de 18e eeuw aan de Friese waddenkust. Het beschrijft de dagelijkse beslommeringen van het dorp het Bildt dat bezig is om de dijk gereed te maken die het zou moeten beschermen tegen stormen en hoog water.__
+__Vrijdag 5 oktober waren we in Leeuwarden bij het spektakelstuk ['De Stormruiter'](https://www.destormruiter.nl/){:target="_blank"}{:rel="noopener noreferrer"}{:title="De Stormruiter"}, een groots verhaal over een eeuwenoude Nederlandse strijd, die tegen de zee. Het verhaal, gebaseerd op het boek 'Der Schimmelreiter van Theodor Storm en geregisseerd door Jos Thie, speelt zich af in de 18e eeuw aan de Friese waddenkust. Het beschrijft de dagelijkse beslommeringen van het dorp het Bildt dat bezig is om de dijk gereed te maken die het zou moeten beschermen tegen stormen en hoog water.__
 
 <iframe src="https://www.youtube-nocookie.com/embed/3dphQ6dECLU?rel=0&amp;showinfo=0&amp;cc_lang_pref=de&amp;cc_load_policy=1" frameborder="0" allowfullscreen></iframe>
 

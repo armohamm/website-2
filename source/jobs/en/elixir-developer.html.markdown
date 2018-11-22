@@ -35,4 +35,4 @@ Defacto has a flat organizational structure and a high degree of transparency. T
 
 We believe that it is important to be able to work in a stimulating and encouraging environment. Our working hours are flexible, it's about the quality you deliver.
 
-[Visit us on GitHub](https://github.com/DefactoSoftware/){:target="_blank"}{:rel="noopener"}{:title="GitHub profile Defacto Software"}.
+[Visit us on GitHub](https://github.com/DefactoSoftware/){:target="_blank"}{:rel="noopener noreferrer"}{:title="GitHub profile Defacto Software"}.

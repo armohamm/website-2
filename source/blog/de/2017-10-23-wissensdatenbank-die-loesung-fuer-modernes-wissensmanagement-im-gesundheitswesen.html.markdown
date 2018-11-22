@@ -30,7 +30,7 @@ Neben Wissensdatenbanken gibt es auch andere Anwendungen für das innerbetriebli
 
 Wikis dienen oft für die Verlinkung von Texten in kleinen und mittleren Organisationen und bilden ein Glossar oder Nachschlagwerk für das innerbetriebliche Wissensmanagement - ganz nach dem Vorbild der großen Online-Enzyklopädie Wikipedia. Enterprise Searches auf der anderen Seite sind vorallem für große Unternehmen mit mehreren Datenquellen und großen Investitionsmöglichkeiten interessant. Sie werden häufig für die Dokumentensuche verwendet und nutzen moderne Big Data Ansätze. Collaboration Management und Groupwarelösungen umfassen Anwendungen, deren Hauptaugenmerk auf der Interaktion und Zusammenarbeit in Form von Foren, E-Learning oder Dokumentenverwaltung liegen.
 
-Allerdings zeigen all diese Lösungen im Vergleich mit Wissensdatenbanken einige signifikante Mängel auf. Ob strukturell, preislich oder bei der Förderung des Workflows im Betrieb, Wissensdatenbanken bieten einige wesentliche Vorteile, wie die Grafik der [Community of Knowledge](http://www.community-of-knowledge.de/beitrag/sucht-ihr-noch-oder-wisst-ihr-schon/){:target="_blank"}{:rel="noopener"}{:title="Community of Knowledge"} verdeutlicht:
+Allerdings zeigen all diese Lösungen im Vergleich mit Wissensdatenbanken einige signifikante Mängel auf. Ob strukturell, preislich oder bei der Förderung des Workflows im Betrieb, Wissensdatenbanken bieten einige wesentliche Vorteile, wie die Grafik der [Community of Knowledge](http://www.community-of-knowledge.de/beitrag/sucht-ihr-noch-oder-wisst-ihr-schon/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Community of Knowledge"} verdeutlicht:
 
 ![Anwendungen für Wissensmanagement](/images/blog/de/Wissensmanagementanwendungen.jpg)
 

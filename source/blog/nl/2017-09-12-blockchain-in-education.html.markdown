@@ -8,7 +8,7 @@ image: images/blog/social/blockchain-1200x630.jpg
 featured_image: images/blog/featured/20170912-blockchain.jpg
 ---
 
-__Als softwarebedrijf dat zich bezighoudt met educatie zijn we altijd geïnteresseerd in de nieuwste en innovatieve trends rondom leren en het veilig houden van data. Zeker omdat we werken met ziekenhuizen, zorginstellingen en andere organisaties waar compliance een grote rol speelt. Vertrouwen, echtheid van informatie en deskundigheid is daarom voor ons van groot belang. Daarom waren we op 5 september 2017 aanwezig op de [Blockchain in Education](https://www.bcined2017.nl/){:target="_blank"}{:rel="noopener"}{:title="Blockchain in education"} conferentie aan de Rijksuniversiteit in Groningen.__
+__Als softwarebedrijf dat zich bezighoudt met educatie zijn we altijd geïnteresseerd in de nieuwste en innovatieve trends rondom leren en het veilig houden van data. Zeker omdat we werken met ziekenhuizen, zorginstellingen en andere organisaties waar compliance een grote rol speelt. Vertrouwen, echtheid van informatie en deskundigheid is daarom voor ons van groot belang. Daarom waren we op 5 september 2017 aanwezig op de [Blockchain in Education](https://www.bcined2017.nl/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Blockchain in education"} conferentie aan de Rijksuniversiteit in Groningen.__
 
 ## Blockchain, wat is dat?
 
@@ -20,11 +20,11 @@ Blockchain is dus een veilige manier voor het opslaan en verspreiden van human c
 
 ## Eigenaar van je eigen assets
 
-Goed, je diploma’s staan op de blockchain. En nu? Hoe kun je zeker zijn dat deze altijd aan jou verbonden zijn en dat ze ook geaccepteerd worden? [LearningMachine](https://www.learningmachine.com/){:target="_blank"}{:rel="noopener"}{:title="LearningMachine"}, een van de sprekers tijdens de conferentie, heeft daar de app Blockcerts voor ontwikkeld waarop je je diploma’s kunt opslaan. Dit houdt in dat jij zelf de rechten hebt over je diploma’s en met wie je ze deelt. Daardoor ben je niet meer afhankelijk van de instanties en kun je veel sneller je informatie delen. In het geval van verlies, emigratie of andere onvoorziene omstandigheden heb je altijd toegang tot je eigen 'human capital' en kun je aantonen dat je je vak kan en mag uitoefenen.
+Goed, je diploma’s staan op de blockchain. En nu? Hoe kun je zeker zijn dat deze altijd aan jou verbonden zijn en dat ze ook geaccepteerd worden? [LearningMachine](https://www.learningmachine.com/){:target="_blank"}{:rel="noopener noreferrer"}{:title="LearningMachine"}, een van de sprekers tijdens de conferentie, heeft daar de app Blockcerts voor ontwikkeld waarop je je diploma’s kunt opslaan. Dit houdt in dat jij zelf de rechten hebt over je diploma’s en met wie je ze deelt. Daardoor ben je niet meer afhankelijk van de instanties en kun je veel sneller je informatie delen. In het geval van verlies, emigratie of andere onvoorziene omstandigheden heb je altijd toegang tot je eigen 'human capital' en kun je aantonen dat je je vak kan en mag uitoefenen.
 
 Vooral in situaties en organisaties waar compliance een grote rol speelt, is het kunnen aantonen dat je bevoegd en bekwaam bent natuurlijk van groot belang. Het laat aan alle betrokken partijen zien dat jij de kennis en vaardigheden hebt om je vak goed uit te oefenen.
 
-Op dit moment staat de blockchain technologie nog in de kinderschoenen. Er wordt veel gehandeld in bitcoins en andere altcoins, maar de technologie wordt nog niet toegepast in de scholing- en educatiewereld op [een paar universiteiten na die er al mee experimenteren](http://certificates-bootcamp.mit.edu/){:target="_blank"}{:rel="noopener"}{:title="MIT gebruikt blockchain"}.
+Op dit moment staat de blockchain technologie nog in de kinderschoenen. Er wordt veel gehandeld in bitcoins en andere altcoins, maar de technologie wordt nog niet toegepast in de scholing- en educatiewereld op [een paar universiteiten na die er al mee experimenteren](http://certificates-bootcamp.mit.edu/){:target="_blank"}{:rel="noopener noreferrer"}{:title="MIT gebruikt blockchain"}.
 
 ## Veiligheid en privacy
 

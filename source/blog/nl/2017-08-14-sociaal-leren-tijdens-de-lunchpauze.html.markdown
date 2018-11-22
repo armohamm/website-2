@@ -12,7 +12,7 @@ __De lunchpauze is het moment om je werk te onderbreken zodat je er ’s middags
 
 Koffie- en lunchpauzes zorgen voor beter contact met collega's en goede ideeën. Dit zijn de momenten waarop je je collega's ziet, hoort waar zij mee bezig zijn, problemen bespreekt, oplossingen bedenkt en nog veel meer.
 
-Laatst kwam ik in contact met [Stuart Blacker](https://im5tu.io/){:target="_blank"}{:rel="noopener"}{:title="Stuart Blackler's blog"} en zijn succesverhaal is een goed begin voor een gespreksonderwerp tijdens de lunch.
+Laatst kwam ik in contact met [Stuart Blacker](https://im5tu.io/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Stuart Blackler's blog"} en zijn succesverhaal is een goed begin voor een gespreksonderwerp tijdens de lunch.
 
 ## Verleden
 

@@ -8,7 +8,7 @@ image: images/blog/social/knowledge-transfer-1200x630.jpg
 featured_image: images/blog/featured/20151030-knowledge-transfer.jpg
 ---
 
-__Als organisaties niet oppassen gaan de medewerker met de meeste kennis straks met pensioen zonder hun kennis over te dragen. Ik sprak met [Daniel Weinzveg](http://www.dweinzveg.com/){:target="_blank"}{:rel="noopener"}{:title="Daniel Weinzveg"} over kennisoverdracht, de *‘boomer brain drain’* en oplossingen om het kennisgat te dichten.__
+__Als organisaties niet oppassen gaan de medewerker met de meeste kennis straks met pensioen zonder hun kennis over te dragen. Ik sprak met [Daniel Weinzveg](http://www.dweinzveg.com/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Daniel Weinzveg"} over kennisoverdracht, de *‘boomer brain drain’* en oplossingen om het kennisgat te dichten.__
 
 **D**aniel: De productiesector wordt als eerste geconfronteerd met een enorme organisatorische uitdaging. Binnenkort zijn ook andere branches aan de beurt. Nee, we hebben het niet over China, 3D-printers of handelsbeleid. Het is de talent pool, of eigenlijk het gebrek eraan. De *'Boomer Brain Drain'* (hoogopgeleide mensen uit de babyboomgeneratie die met pensioen gaan) is niet nieuw, maar er wordt weinig gedaan om het verlies van talent tegen te gaan. Zelfs nu analytici voorspellen dat organisaties van alle rangen en standen er last van gaan krijgen. Als gevolg van sociale en culturele factoren zijn de gevolgen op dit moment vooral voelbaar in de productie, maar de trend zet in rap tempo door naar alle sectoren.
 
@@ -40,7 +40,7 @@ Dit is essentieel en hoe eerder de bovenstaande vragen beantwoord zijn, hoe grot
 
 ## Ontwikkel een strategisch en meetbaar plan
 
-**D**: Zodra de vaardigheden en *kennis van een organisatie* zijn geïdentificeerd, kun je een plan maken om die vaardigheden en kennis van over te dragen. Er zijn een aantal zeer succesvolle processen voor het overdragen van expliciete en impliciete organisatorische kennis. Mijn favoriet is het [3-stappenplan van Steve Trautman](http://stevetrautman.com/3-step-solution/){:target="_blank"}{:rel="noopener"}{:title="Steve Trautman"}. Maar ook [Dorothy Leonard](http://www.leonardbartongroup.com/html/team/LBG_Team_Dorothy_01.html){:rel="noopener"}{:title="Dorothy Leonard"} is een expert op dit gebied.
+**D**: Zodra de vaardigheden en *kennis van een organisatie* zijn geïdentificeerd, kun je een plan maken om die vaardigheden en kennis van over te dragen. Er zijn een aantal zeer succesvolle processen voor het overdragen van expliciete en impliciete organisatorische kennis. Mijn favoriet is het [3-stappenplan van Steve Trautman](http://stevetrautman.com/3-step-solution/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Steve Trautman"}. Maar ook [Dorothy Leonard](http://www.leonardbartongroup.com/html/team/LBG_Team_Dorothy_01.html){:rel="noopener noreferrer"}{:title="Dorothy Leonard"} is een expert op dit gebied.
 
 Welk proces je ook kiest, zorg dat het meetbaar is en je het voortdurend bijhoudt. Bepaal de meetwaarden voor het meten van de kracht van de "reservebank", vakbekwaamheid en risico. Werkplekken veranderen tegenwoordig voortdurend en het managen van mensen en kennis blijft een uitdaging.
 

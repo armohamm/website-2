@@ -10,7 +10,7 @@ featured_image: images/blog/featured/20160316-teamwork.jpg
 
 > Unity is power, when there is teamwork and collaboration, wonderful things can happen.
 
-But let’s admit it is becoming rather difficult to [enhance teamwork](/capp-agile-learning/) between different generations, because every generation has a different perception of communication, and communication is vital for teamwork. Recently we had a chat with a teamwork guru **[Anne Loehr](http://www.anneloehr.com){:target="_blank"}{:rel="noopener"}** and she helped us to answer the question whether teamwork is redefined by every generation.
+But let’s admit it is becoming rather difficult to [enhance teamwork](/capp-agile-learning/) between different generations, because every generation has a different perception of communication, and communication is vital for teamwork. Recently we had a chat with a teamwork guru **[Anne Loehr](http://www.anneloehr.com){:target="_blank"}{:rel="noopener noreferrer"}** and she helped us to answer the question whether teamwork is redefined by every generation.
 
 **M**ilda: Hey Anne, I know quite a lot about you, but could you tell our readers a bit about yourself?
 

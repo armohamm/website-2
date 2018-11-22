@@ -12,7 +12,7 @@ Mittagspause: Die Zeit des Tages, wenn die Mitarbeiter ihre Arbeit unterbrechen 
 
 Sehen Sie, darüber haben Sie noch nicht nachgedacht! Das Büro und die Mittagspause erzeugen sogar eine noch stärkere Verbundenheit und einen extremen Ideenfluss. Das ist die Zeit, in der Sie die meisten Kollegen sehen: Sie hören ihre Meinungen, Witze, Probleme, Lösungen und noch viel mehr.
 
-Erst vor Kurzem habe ich [Stuart Blacker](https://im5tu.io/){:target="_blank"}{:rel="noopener"}{:title="Stuart Blackler's blog"} kennengelernt und seine Erfolgsgeschichte gehört. Also, hier kommt Ihr Gesprächsbeitrag für die nächste Mittagspause:
+Erst vor Kurzem habe ich [Stuart Blacker](https://im5tu.io/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Stuart Blackler's blog"} kennengelernt und seine Erfolgsgeschichte gehört. Also, hier kommt Ihr Gesprächsbeitrag für die nächste Mittagspause:
 
 ## Vergangenheit:
 

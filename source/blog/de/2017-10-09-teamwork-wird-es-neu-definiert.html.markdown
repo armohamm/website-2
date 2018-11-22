@@ -10,7 +10,7 @@ featured_image: images/blog/featured/20160316-teamwork.jpg
 
 > Einheit ist Macht! Wo es Teamwork und Zusammenarbeit gibt, können wunderbare Dinge passieren.
 
-**Aber es ist relativ schwierig, generationenübergreifendes Teamwork zu fördern, weil jede Generation ihre eigene Auffassung von Kommunikation hat, und Kommunikation das A und O für Teamwork ist. Kürzlich habe ich mit Teamwork-Guru [Anne Loehr](http://www.anneloehr.com){:target="_blank"}{:rel="noopener"} gesprochen, und sie hat uns geholfen, die Frage zu beantworten, ob jede Generation Teamwork neu definiert.**
+**Aber es ist relativ schwierig, generationenübergreifendes Teamwork zu fördern, weil jede Generation ihre eigene Auffassung von Kommunikation hat, und Kommunikation das A und O für Teamwork ist. Kürzlich habe ich mit Teamwork-Guru [Anne Loehr](http://www.anneloehr.com){:target="_blank"}{:rel="noopener noreferrer"} gesprochen, und sie hat uns geholfen, die Frage zu beantworten, ob jede Generation Teamwork neu definiert.**
 
 
 **Milda: Hallo Anne, ich weiß schon einiges über Sie, aber würden Sie unseren Lesern bitte etwas von sich erzählen?**

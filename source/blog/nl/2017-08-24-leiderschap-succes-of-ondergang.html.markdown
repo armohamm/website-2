@@ -9,7 +9,7 @@ image: images/blog/social/leadership-1200x630.jpg
 featured_image: images/blog/featured/20151008-leadership.jpg
 ---
 
-__Leiderschap is essentieel voor een bedrijf. De meeste mensen nemen ontslag vanwege hun manager en niet vanwege het werk. Daarom is het goed om het te hebben over hoe je aan goed leiderschapskwaliteiten komt. Ik sprak onlangs met Spencer van [theTILLERY](http://www.thetillery.com/#cultivating-brands){:target="_blank"}{:rel="noopener"}{:title="theTILLERY"} en hij deelde zijn geheim voor goed leiderschap.__
+__Leiderschap is essentieel voor een bedrijf. De meeste mensen nemen ontslag vanwege hun manager en niet vanwege het werk. Daarom is het goed om het te hebben over hoe je aan goed leiderschapskwaliteiten komt. Ik sprak onlangs met Spencer van [theTILLERY](http://www.thetillery.com/#cultivating-brands){:target="_blank"}{:rel="noopener noreferrer"}{:title="theTILLERY"} en hij deelde zijn geheim voor goed leiderschap.__
 
 __M__ilda: Hé Spencer, zou je ons wat meer willen vertellen over jezelf?
 

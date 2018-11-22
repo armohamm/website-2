@@ -48,8 +48,8 @@ Schon jetzt lässt sich jedoch sagen, dass man mit großer Neugier auf die anste
 
 ## Links
 
-[www.cdu.de](https://www.cdu.de/){:target="_blank"}{:rel="noopener"}{:title="CDU"}
-[www.die-linke.de](https://die-linke.de){:target="_blank"}{:rel="noopener"}{:title="Die Linke"}
-[www.fdp.de](https://www.fdp.de){:target="_blank"}{:rel="noopener"}{:title="FDP"}
-[www.gruene.de](https://www.gruene.de){:target="_blank"}{:rel="noopener"}{:title="Die Grünen"}
-[www.spd.de](https://www.spd.de){:target="_blank"}{:rel="noopener"}{:title="SPD"}
+[www.cdu.de](https://www.cdu.de/){:target="_blank"}{:rel="noopener noreferrer"}{:title="CDU"}
+[www.die-linke.de](https://die-linke.de){:target="_blank"}{:rel="noopener noreferrer"}{:title="Die Linke"}
+[www.fdp.de](https://www.fdp.de){:target="_blank"}{:rel="noopener noreferrer"}{:title="FDP"}
+[www.gruene.de](https://www.gruene.de){:target="_blank"}{:rel="noopener noreferrer"}{:title="Die Grünen"}
+[www.spd.de](https://www.spd.de){:target="_blank"}{:rel="noopener noreferrer"}{:title="SPD"}

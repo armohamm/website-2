@@ -7,7 +7,7 @@ lang: de
 image: images/blog/social/blockchain-1200x630.jpg
 featured_image: images/blog/featured/20170912-blockchain.jpg
 ---
-__Als Softwareunternehmen, das sich auf Bildung konzentriert, interessieren wir uns immer für die neusten und innovativsten Trends rund ums Lernen und sicheres Datenmanagement. Denn auch für unsere Kunden aus den Bereichen Krankenhaus und anderen Einrichtungen im Gesundheitswesen spielt das Thema Compliance eine immer wichtiger werdende Rolle.  Aus diesem Grund waren wir bei der [Blockchain in Education Konferenz](https://www.bcined2017.nl/){:target="_blank"}{:rel="noopener"}{:title="Blockchain in Education Konferenz"} an der Universität Groningen am 5. September 2017 anwesend, um unser Fachwissen über diese Thematik weiterzuvertiefen.__
+__Als Softwareunternehmen, das sich auf Bildung konzentriert, interessieren wir uns immer für die neusten und innovativsten Trends rund ums Lernen und sicheres Datenmanagement. Denn auch für unsere Kunden aus den Bereichen Krankenhaus und anderen Einrichtungen im Gesundheitswesen spielt das Thema Compliance eine immer wichtiger werdende Rolle.  Aus diesem Grund waren wir bei der [Blockchain in Education Konferenz](https://www.bcined2017.nl/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Blockchain in Education Konferenz"} an der Universität Groningen am 5. September 2017 anwesend, um unser Fachwissen über diese Thematik weiterzuvertiefen.__
 
 ## Blockchain, was ist das?
 
@@ -23,7 +23,7 @@ Nun sind Ihre Diplome auf einer Blockchain geschützt. Wie können Sie jetzt sic
 
 Gerade in Einrichtungen und Organisationen, in denen Compliance eine große Rolle spielt, ist es natürlich von großer Bedeutung sicherzustellen, dass Sie kompetent und qualifiziert sind. Um Ihre Aufgaben entsprechend ausüben zu können, sollten Sie daher jeder Zeit in der Lage seien, auf ihre Qualifikationen und erworbenen Fähigkeiten verweisen zu können.
 
-Derzeit steckt die Blockchain-Technologie jedoch noch in den Kinderschuhen. In Bitcoins und anderen Altcoins wird zwar viel zu diesem Thema erforscht, aber die Technik wird bis auf einige Universitäten, [die damit experimentieren](http://certificates-bootcamp.mit.edu/){:target="_blank"}{:rel="noopener"}{:title="MIT verwendet Blockchain"}, noch nicht in Schulungs- und Bildungseinrichtungen verwendet.
+Derzeit steckt die Blockchain-Technologie jedoch noch in den Kinderschuhen. In Bitcoins und anderen Altcoins wird zwar viel zu diesem Thema erforscht, aber die Technik wird bis auf einige Universitäten, [die damit experimentieren](http://certificates-bootcamp.mit.edu/){:target="_blank"}{:rel="noopener noreferrer"}{:title="MIT verwendet Blockchain"}, noch nicht in Schulungs- und Bildungseinrichtungen verwendet.
 
 ## Sicherheit und Privatsphäre
 

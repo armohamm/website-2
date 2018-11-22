@@ -10,7 +10,7 @@ featured_image: images/blog/featured/20170430-largest-internet-company.gif
 
 >According to futurist Thomas Frey, in 14 years it'll be a big deal when students learn from robot teachers over the internet.
 
-A few weeks ago I stumbled upon an article about '[The largest internet company in 2030? This prediction will probably surprise you](https://www.businessinsider.nl/futurist-predicts-online-school-largest-online-company-2016-12/?international=true&r=US){:target="_blank"}{:rel="noopener"}' and I got worried; did it become a niche topic to write **obvious** predictions about education, or did we become lazy in drawing future scenarios?
+A few weeks ago I stumbled upon an article about '[The largest internet company in 2030? This prediction will probably surprise you](https://www.businessinsider.nl/futurist-predicts-online-school-largest-online-company-2016-12/?international=true&r=US){:target="_blank"}{:rel="noopener noreferrer"}' and I got worried; did it become a niche topic to write **obvious** predictions about education, or did we become lazy in drawing future scenarios?
 
 ## Extra extra, mr. Robot will take over the world!
 
@@ -28,7 +28,7 @@ These claims are not predictions, these are copies from nowadays trend to receiv
 
 Therefore, lets simulate the future a little bit further than the one predicted by Thomas Frey. It's a year of 2030, virtual is being considered the actual reality if one wishes. Globalisation, and the internet is pushing us towards conformity, mutual identity, value formation, similar perception of importance of education within our lives.
 
-Education becomes an institution, or dogma, rather than an optional way of living. The educators within this environment will be bots **as it is now** e.g. [Duolingo](http://bots.duolingo.com){:target="_blank"}{:rel="noopener"}. Nothing really changes, except the normative perspective. The year 2020, 2030 etc. will look the same as today with innovated technology, and one thing that will be changed tremendously - increased and eased international communication, and mutual understanding through education.
+Education becomes an institution, or dogma, rather than an optional way of living. The educators within this environment will be bots **as it is now** e.g. [Duolingo](http://bots.duolingo.com){:target="_blank"}{:rel="noopener noreferrer"}. Nothing really changes, except the normative perspective. The year 2020, 2030 etc. will look the same as today with innovated technology, and one thing that will be changed tremendously - increased and eased international communication, and mutual understanding through education.
 
 ## Corporation of university education; Middle-Ages edition
 

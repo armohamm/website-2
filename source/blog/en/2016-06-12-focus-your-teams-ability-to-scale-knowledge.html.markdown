@@ -32,7 +32,7 @@ That's how we came up with our slogan:
 
 > Focus your team’s learning efforts
 
-[A blogpost](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091#.en5d01ogi){:target="_blank"}{:rel="noopener"} from Airbnb's engineering team makes a great case for leveraging knowledge sharing within your organization (too bad we don't have iPython embeds - yet). This quote struck a chord in particular:
+[A blogpost](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091#.en5d01ogi){:target="_blank"}{:rel="noopener noreferrer"} from Airbnb's engineering team makes a great case for leveraging knowledge sharing within your organization (too bad we don't have iPython embeds - yet). This quote struck a chord in particular:
 
 > As an organization grows, how do we make sure that an insight uncovered by one person effectively transfers beyond the targeted recipient? Internally, we call this scaling knowledge.
 

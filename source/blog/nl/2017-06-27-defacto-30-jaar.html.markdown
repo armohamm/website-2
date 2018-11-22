@@ -10,11 +10,11 @@ featured_image: images/blog/featured/20170627-30-jaar.jpg
 
 __2017 is het jaar dat [Defacto](/over-ons/) 30 jaar bestaat en dat was reden voor een feestje. Op 16 juni stond de tuin van Zuiderpark 3 vol met (oud-)collega's, familie en vrienden. Onder het genot van een drankje en de Defacto band werd de afgelopen 30 jaar goed gevierd.__
 
-Een barbecue, gebak, [Holy Water gin](http://holywater.church/){:target="_blank"}{:rel="noopener"}{:title="Holy Water gin"}, lampjes en een vuurkorf. Het grind waar normaal auto's geparkeerd staan was nu het toneel voor een zomers tafereel met een partytent in het midden. Met ruim honderd man hing er een gezellige en knusse sfeer waar iedereen warm onthaald werd.
+Een barbecue, gebak, [Holy Water gin](http://holywater.church/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Holy Water gin"}, lampjes en een vuurkorf. Het grind waar normaal auto's geparkeerd staan was nu het toneel voor een zomers tafereel met een partytent in het midden. Met ruim honderd man hing er een gezellige en knusse sfeer waar iedereen warm onthaald werd.
 
 ![Sfeerplaatje](/images/blog/30-jaar-01.jpg)
 
-Niet alleen Defacto heeft een verjaardag te vieren, ook het pand heeft een jubileum te vieren. 135 jaar geleden in 1882 werd het gebouwd door Jan Alken die het pand Harep Senang noemde wat ‘blije passie’ betekent. [Beno Hofman](http://benohofman.nl/){:target="_blank"}{:rel="noopener"}{:title="Beno Hofman"}, het geheugen van Groningen, vertelde geanimeerd over de geschiedenis van het pand en die van het Zuiderpark.
+Niet alleen Defacto heeft een verjaardag te vieren, ook het pand heeft een jubileum te vieren. 135 jaar geleden in 1882 werd het gebouwd door Jan Alken die het pand Harep Senang noemde wat ‘blije passie’ betekent. [Beno Hofman](http://benohofman.nl/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Beno Hofman"}, het geheugen van Groningen, vertelde geanimeerd over de geschiedenis van het pand en die van het Zuiderpark.
 
 Inmiddels is het pand meerdere eigenaren verder en kocht Hans Veeger de stadsvilla in 1999. In de loop der jaren hebben buurtkinderen in de bosjes een hut gemaakt. Tijdens de feestelijkheden kregen de kinderen van de hut in de bosjes ook hun eigen nummerbordje 'Zuiderpark 3A'. Ter ere daarvan kon iedereen een rondleiding krijgen in de hut.
 

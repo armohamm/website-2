@@ -10,7 +10,7 @@ featured_image: images/blog/featured/20180116-patientenzufriedenheit.png
 
 **In einer aktuellen Studie stellt die Wirtschaftsprüfungs- und Beratungsgesellschaft Pricewaterhouse Cooper (PwC) Ergebnisse einer Umfrage zur Patientenzufriedenheit im deutschen Gesundheitswesen vor. Was erwarten Patienten von ihrem Krankenhaus und welche Kriterien sind für die Wahl des Hauses entscheidend? Wir haben uns der Studie gewidmet und präsentieren die wichtigsten Punkte rund um Patientenzufriedenheit und Digitalisierung auf einen Blick.**
 
-Im vergangenen Jahr wurden rund 19,5 Millionen Patienten in deutschen Krankenhäusern behandelt. Was sind deren Eindrücke von der Patientenversorgung? Um das herauszufinden hat die Wirtschaftsprüfungs- und Beratungsgesellschaft PwC im November eine [repräsentative Umfrage unter 1,000 Bürgern](https://www.pwc.de/de/pressemitteilungen/2017/pwc-studie-erste-hilfe-krankenhaeuser-2017-v2.pdf){:target="_blank"}{:rel="noopener"}{:title="PwC Studie"} durchgeführt. Das Ergebnis: Die verfügbare Nähe und die Qualität der Versorgung stehen an erster Stelle der Patienten.
+Im vergangenen Jahr wurden rund 19,5 Millionen Patienten in deutschen Krankenhäusern behandelt. Was sind deren Eindrücke von der Patientenversorgung? Um das herauszufinden hat die Wirtschaftsprüfungs- und Beratungsgesellschaft PwC im November eine [repräsentative Umfrage unter 1,000 Bürgern](https://www.pwc.de/de/pressemitteilungen/2017/pwc-studie-erste-hilfe-krankenhaeuser-2017-v2.pdf){:target="_blank"}{:rel="noopener noreferrer"}{:title="PwC Studie"} durchgeführt. Das Ergebnis: Die verfügbare Nähe und die Qualität der Versorgung stehen an erster Stelle der Patienten.
 
 ## Patienten erwarten fachkompetentes Klinikpersonal
 
@@ -37,7 +37,7 @@ Bei der Erstwahl von Patienten liegen erwartungsgemäß die Universitätsklinike
 
 Das der Fachkräftemangel das Gesundheitswesen vor große Herausforderungen stellt ist bereits bekannt. Jedoch sind nun auch vermehrt Patienten während ihres letzten Krankenhausaufenthalts darauf aufmerksam geworden: 25 Prozent der Befragten identifizierten die Personalverfügbarkeit als Problem. Auch die Qualität der Patientenversorgung (z.B. Essen, Zimmerausstattung, etc.) und die fehlende Empathie der behandelnden Ärzte wurden mit 18 beziehungsweise 17 Prozent bemängelt.
 
-Damit verweist die Studie direkt auf eine im Dezember 2017 erschienene [Statistik der Arbeitsagentur für Arbeit](https://statistik.arbeitsagentur.de/Navigation/Footer/Top-Produkte/Fachkraefteengpassanalyse-Nav.html){:target="_blank"}{:rel="noopener"}{:title="Arbeitsagenut für Arbeit - Fachkräfteengpassanalyse"}, welche signifikante Engpässe der Gesundheits- und Pflegeberufe in nahezu allen Bundesländern offenlegte.
+Damit verweist die Studie direkt auf eine im Dezember 2017 erschienene [Statistik der Arbeitsagentur für Arbeit](https://statistik.arbeitsagentur.de/Navigation/Footer/Top-Produkte/Fachkraefteengpassanalyse-Nav.html){:target="_blank"}{:rel="noopener noreferrer"}{:title="Arbeitsagenut für Arbeit - Fachkräfteengpassanalyse"}, welche signifikante Engpässe der Gesundheits- und Pflegeberufe in nahezu allen Bundesländern offenlegte.
 
 ## Defacto stärkt die Qualität Ihres Hauses
 
