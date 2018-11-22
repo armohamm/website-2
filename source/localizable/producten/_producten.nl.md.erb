@@ -2,7 +2,9 @@
 
   <li class="capp-lms">
     <% link_to "/capp-lms.html", class: "col left" do %>
-      <h2><%= t("capp.name") %></h2>
+      <h2>
+        <%= image_tag "logos/logo-capp-lms-white.svg", alt: t("capp.name"), title: t("capp.name") %>
+      </h2>
     <% end %>
     <div class="col right">
       <p><%= t("capp.desc", link: link_to(t("capp.name"), "/capp-lms.html")) %></p>
@@ -12,7 +14,9 @@
 
   <li class="kwaliteitspaspoort">
     <% link_to "/kwaliteitspaspoort.html", class: "col left" do %>
-      <h2><%= image_tag t("kwaliteitspaspoort.logo"), alt: t("kwaliteitspaspoort.name") %></h2>
+      <h2>
+        <%= image_tag "logos/logo-kwaliteitspaspoort-white-vertical.svg", alt: t("kwaliteitspaspoort.name"), title: t("kwaliteitspaspoort.name") %>
+      </h2>
     <% end %>
     <div class="col right">
       <p><%= t("kwaliteitspaspoort.desc", link: link_to(t("kwaliteitspaspoort.name"), "/kwaliteitspaspoort.html")) %></p>
@@ -22,7 +26,7 @@
 
   <li class="kwaliteitsmonitor">
     <% link_to "/kwaliteitsmonitor.html", class: "col left" do %>
-      <h2><%= image_tag t("kwaliteitsmonitor.logo_white"), alt: t("kwaliteitsmonitor.name") %></h2>
+      <h2><%= image_tag "logos/logo-kwaliteitsmonitor-white-vertical.svg", alt: t("kwaliteitsmonitor.name"), title: t("kwaliteitsmonitor.name") %></h2>
     <% end %>
     <div class="col right">
       <p><%= t("kwaliteitsmonitor.desc", link: link_to(t("kwaliteitsmonitor.name"), "/kwaliteitsmonitor.html")) %></p>
@@ -32,7 +36,9 @@
 
   <li class="capp-agile-learning">
     <% link_to "/capp-agile-learning.html", class: "col left" do %>
-      <h2><%= image_tag "logos/logo-capp-agile-learning.svg", alt: t("capp-agile.name") %></h2>
+      <h2>
+        <%= image_tag "logos/logo-capp-agile-learning-white-vertical.svg", alt: t("capp-agile.name"), title: t("capp-agile.name") %>
+      </h2>
     <% end %>
     <div class="col right">
       <p><%= t("capp-agile.desc", link: link_to(t("capp-agile.name"), "/capp-agile-learning.html")) %></p>
@@ -42,7 +48,9 @@
 
   <li class="threesixty">
     <% link_to "/360-feedback.html", class: "col left" do %>
-      <h2><%= image_tag t("threesixty.logo"), alt: t("threesixty.name") %></h2>
+      <h2>
+        <%= image_tag "logos/logo-360feedback.svg", alt: t("threesixty.name"), title: t("threesixty.name") %>
+      </h2>
     <% end %>
     <div class="col right">
       <p><%= t("threesixty.desc", link: link_to(t("threesixty.name"), "/360-feedback.html")) %></p>

@@ -101,6 +101,10 @@
 .capp-lms {
   .left {
     background: $pink;
+
+    img {
+      width: 210px;
+    }
   }
 }
 
@@ -133,7 +137,7 @@
 
     h2 {
       img {
-        width: 300px;
+        width: 230px;
       }
     }
   }
@@ -148,11 +152,7 @@
 
     h2 {
       img {
-        width: 240px;
-
-        @include media($medium-up) {
-          width: 360px;
-        }
+        width: 300px;
       }
     }
   }

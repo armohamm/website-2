@@ -22,7 +22,9 @@
 
   <li class="kwaliteitspaspoort">
     <% link_to "/kwaliteitspaspoort.html", class: "col left" do %>
-      <h2><%= image_tag t("kwaliteitspaspoort.logo_underneath"), alt: t("kwaliteitspaspoort.name") %></h2>
+      <h2>
+        <%= image_tag "logos/logo-qualitatspass-white-horizontal.svg", alt: t("kwaliteitspaspoort.name"), title: t("kwaliteitspaspoort.name") %>
+      </h2>
     <% end %>
     <div class="col right">
       <p><%= t("kwaliteitspaspoort.desc", link: link_to(t("kwaliteitspaspoort.name"), "/kwaliteitspaspoort.html")) %></p>
@@ -32,7 +34,9 @@
 
   <li class="capp-agile-learning">
     <% link_to "/capp-agile-learning.html", class: "col left" do %>
-      <h2><%= image_tag "logos/logo-capp-agile-learning.svg", alt: t("capp-agile.name") %></h2>
+      <h2>
+        <%= image_tag "logos/logo-capp-agile-learning-white-vertical.svg", alt: t("capp-agile.name"), title: t("capp-agile.name") %>
+      </h2>
     <% end %>
     <div class="col right">
       <p><%= t("capp-agile.desc", link: link_to(t("capp-agile.name"), "/capp-agile-learning.html")) %></p>
@@ -52,7 +56,9 @@
 
   <li class="threesixty">
     <% link_to "/360-feedback.html", class: "col left" do %>
-      <h2><%= image_tag t("threesixty.logo"), alt: t("threesixty.name") %></h2>
+      <h2>
+        <%= image_tag "logos/logo-360feedback.svg", alt: t("threesixty.name"), title: t("threesixty.name") %>
+      </h2>
     <% end %>
     <div class="col right">
       <p><%= t("threesixty.desc", link: link_to(t("threesixty.name"), "/360-feedback.html")) %></p>
