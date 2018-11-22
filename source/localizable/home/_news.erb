@@ -16,7 +16,7 @@ news_items = all_news_items.clone
       news_event = "news-#{news_index}"
     %>
 
-      <% link_to news_item.link, title: news_item.title, class: "news-item", "data-event" => "#{news_event}" do %>
+      <% link_to news_item.link, title: news_item.title, class: "news-item" do %>
         <div class="image">
           <%= image_tag news_item.image, alt: news_item.alt, title: news_item.alt %>
         </div>
