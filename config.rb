@@ -1,17 +1,11 @@
 # frozen_string_literal: true
 
-##
-# Compass
-###
-
-require "net/http"
-
 # Determine root locale
 root_locale = (ENV["LOCALE"] ? ENV["LOCALE"].to_sym : :nl)
 # Accessible as `root_locale` in helpers and `config[:root_locale]` in templates
 set :root_locale, root_locale
 
-activate :i18n, mount_at_root: root_locale, langs: %i(nl de en)
+activate :i18n, mount_at_root: root_locale, langs: %i[nl de en]
 
 set :ga_code, "UA-6700447-1"
 
@@ -24,39 +18,24 @@ set :production, production
 
 # Set a CNAME per target environment
 set :cname,
-  if staging
-    "staging.defacto.nl"
-  else
-    case root_locale
-    when :nl
-      "www.defacto.nl"
-    when :de
-      "www.defactolearning.de"
-    when :en
-      "en.defacto.nl"
+    if staging
+      "staging.defacto.nl"
+    else
+      case root_locale
+      when :nl
+        "www.defacto.nl"
+      when :de
+        "www.defactolearning.de"
+      when :en
+        "en.defacto.nl"
+      end
     end
-  end
-
-# Change Compass configuration
-# compass_config do |config|
-#   config.output_style = :compact
-# end
 
 ###
 # Page options, layouts, aliases and proxies
 ###
 
-# Per-page layout changes:
-#
-# With no layout
-# page "/path/to/file.html", layout: false
-# page "/path/to/file.html", layout: :otherlayout
-
-# A path which all have the same layout
-# with_layout :admin do
-#   page "/admin/*"
-# end
-
+# Ignore the content types in other locales
 ready do
   case root_locale
   when :nl
@@ -97,72 +76,73 @@ ready do
   end
 end
 
-# # Prevent other locales from building (breaks page_classes)
-# if root_locale == :nl
-#   (langs - [root_locale, :de]).each do |locale|
-#     ignore "/#{locale}/*"
-#   end
-# else
-#   (langs - [root_locale]).each do |locale|
-#     ignore "/#{locale}/*"
-#   end
-# end
-
-page "/*.xml", layout: false
-page "/*.json", layout: false
-page "/*.txt", layout: false
-
+# Ignore the selection file for Icomoon
 ignore "/fonts/icons/selection.json"
 
-# Redirects to prevent 404's
+# Redirects
+#
+# To prevent 404's we redirect old paths to new paths
+
 unless root_locale == :de
-  redirect "blog/tags/learningspaces.html", to: "/blog/tags/capp-agile-learning/"
+  redirect "blog/tags/learningspaces.html", to:
+           "/blog/tags/capp-agile-learning/"
 end
 
 unless root_locale == :en
-  redirect "elearning.html", to: "e-learning.html"
-  redirect "learningspaces.html", to: "capp-agile-learning.html"
+  redirect "elearning.html", to:
+           "e-learning.html"
+  redirect "learningspaces.html", to:
+           "capp-agile-learning.html"
 end
 
-# Redirects locale specific
 case root_locale
 when :nl
-  redirect "events.html", to: "evenementenagenda.html"
-  redirect "events/gebruikersbijeenkomst-november-2018.html", to: "/evenementenagenda/gebruikersbijeenkomst-november-2018/"
-  redirect "workshop-convenant-mt.html", to: "convenant-medische-technologie.html"
-  redirect "capp-lms-nieuw.html", to: "capp-lms.html"
-  redirect "blog/learningspaces-op-websummit.html", to: "/blog/capp-agile-learning-op-websummit/"
-  redirect "blog/learningspaces-een-veilige-ruimte-om-te-leren-van-elkaar.html", to: "/blog/capp-agile-learning-een-veilige-ruimte-om-te-leren-van-elkaar/"
-  redirect "referenties.html", to: "klanten.html"
+  redirect "events.html", to:
+           "evenementenagenda.html"
+  redirect "events/gebruikersbijeenkomst-november-2018.html", to:
+           "/evenementenagenda/gebruikersbijeenkomst-november-2018/"
+  redirect "workshop-convenant-mt.html", to:
+           "convenant-medische-technologie.html"
+  redirect "capp-lms-nieuw.html", to:
+           "capp-lms.html"
+  redirect "blog/learningspaces-op-websummit.html", to:
+           "/blog/capp-agile-learning-op-websummit/"
+  redirect "blog/learningspaces-een-veilige-ruimte-om-te-leren-van-elkaar.html", to:
+           "/blog/capp-agile-learning-een-veilige-ruimte-om-te-leren-van-elkaar/"
+  redirect "referenties.html", to:
+           "klanten.html"
 when :de
-  redirect "events.html", to: "veranstaltungskalender.html"
-  redirect "jobs/consultant.html", to: "/jobs/projektleiter-consultant-softwareimplementierung/"
-  redirect "datenschutz.html", to: "datenschutzerklarung.html"
-  redirect "elearning-starterkit.html", to: "e-learning-starterkit.html"
-  redirect "hosting.html", to: "hosting-sicherheit.html"
-  redirect "kundenreferenzen.html", to: "kundenstimmen.html"
-  redirect "qualitatspass.html", to: "qualitatspass-qualitatsmonitor.html"
-  redirect "referenzen.html", to: "kunden.html"
+  redirect "events.html", to:
+            "veranstaltungskalender.html"
+  redirect "jobs/consultant.html", to:
+           "/jobs/projektleiter-consultant-softwareimplementierung/"
+  redirect "datenschutz.html", to:
+           "datenschutzerklarung.html"
+  redirect "elearning-starterkit.html", to:
+           "e-learning-starterkit.html"
+  redirect "hosting.html", to:
+           "hosting-sicherheit.html"
+  redirect "kundenreferenzen.html", to:
+           "kundenstimmen.html"
+  redirect "qualitatspass.html", to:
+           "qualitatspass-qualitatsmonitor.html"
+  redirect "referenzen.html", to:
+           "kunden.html"
 when :en
-  redirect "capp-11.html", to: "capp-lms.html"
-  redirect "organisatie.html", to: "about-us.html"
-  redirect "references.html", to: "clients.html"
+  redirect "capp-11.html", to:
+           "capp-lms.html"
+  redirect "organisatie.html", to:
+           "about-us.html"
+  redirect "references.html", to:
+           "clients.html"
 end
 
-# Proxy pages (http://middlemanapp.com/basics/dynamic-pages/)
-# proxy "/this-page-has-no-template.html", "/template-file.html", locals: {
-#  which_fake_page: "Rendering a fake page with a local variable" }
-
-# Automatic image dimensions on image_tag helper
-# activate :automatic_image_sizes
-
-# Reload the browser automatically whenever files change
-# activate :livereload
-# activate :livereload, host: "127.0.0.1"
-
-# Blog
+# Set the timezone
 Time.zone = "CET"
 
+# Blogs content types
+
+# Activate and setup the blog content type
 activate :blog do |blog|
   blog.name = "blog"
   blog.prefix = "blog"
@@ -176,12 +156,12 @@ activate :blog do |blog|
     blog.sources = "/en/{year}-{month}-{day}-{title}.html"
   end
   blog.tag_template = "blog/tag.html"
-  # blog.calendar_template = "blog/calendar.html"
   blog.paginate = true
   blog.page_link = "{num}"
   blog.per_page = 10
 end
 
+# Activate and setup the jobs content type
 activate :blog do |blog|
   blog.name = "jobs"
   blog.prefix = "jobs"
@@ -197,6 +177,7 @@ activate :blog do |blog|
   blog.paginate = false
 end
 
+# Activate and setup the cases content type
 activate :blog do |blog|
   blog.name = "cases"
   blog.prefix = "cases"
@@ -210,6 +191,23 @@ activate :blog do |blog|
   blog.paginate = false
 end
 
+# Per-page layout changes:
+#
+# With no layout
+# page "/path/to/file.html", layout: false
+# page "/path/to/file.html", layout: :otherlayout
+
+# A path which all have the same layout
+# with_layout :admin do
+#   page "/admin/*"
+# end
+
+# With no layout
+page "/*.xml", layout: false
+page "/*.json", layout: false
+page "/*.txt", layout: false
+
+# With layout
 page "blog/*", layout: :post_layout
 page "blog/tags/*", layout: :blog_layout
 page "blog/index.html", layout: :blog_layout
@@ -222,9 +220,11 @@ page "cases/*", layout: :post_layout
 page "cases/index.html", layout: :cases_layout
 page "cases/feed.xml", layout: false
 
+# Activate directory indexes for pretty urls
 activate :directory_indexes
 
-# Search
+# Activate and setup middleman-search
+# https://github.com/manastech/middleman-search
 activate :search do |search|
   search.resources = ["blog/", "cases/", "jobs/"]
 
@@ -265,13 +265,11 @@ activate :search do |search|
 
     to_store[:type] = to_store(resource)
 
-    if resource.data.author.present?
-      to_store[:author] = resource.data.author
-    end
+    to_store[:author] = resource.data.author if resource.data.author.present?
   end
 end
 
-# Store content types for search
+# Store content type metadata for search
 def to_store(resource)
   if resource.url.start_with?("/blog/")
     "Blog"
@@ -282,10 +280,12 @@ def to_store(resource)
   end
 end
 
+# Activate and setup autoprefixer
 activate :autoprefixer do |config|
   config.browsers = ["last 3 versions", "Explorer >= 9"]
 end
 
+# Activate and setup minify_html
 unless staging
   activate :minify_html do |html|
     html.remove_multi_spaces        = true
@@ -307,20 +307,22 @@ unless staging
   end
 end
 
+# Set relative_links to true
 set :relative_links, true
+
+# Set assets directories
 set :css_dir, "stylesheets"
 set :js_dir, "javascripts"
 set :images_dir, "images"
 
 # Middleman syntax (https://github.com/middleman/middleman-syntax)
-activate :syntax #, line_numbers: true
+activate :syntax
 
+# Use kramdown for markdown
+# https://kramdown.gettalong.org/
 set :markdown_engine, :kramdown
 set :markdown, input: "GFM",
                auto_ids: true
-
-#set :markdown_engine, :redcarpet
-#set :markdown, fenced_code_blocks: true, smartypants: true
 
 # Raise exception when there is a wrong/no i18n key
 class TestExceptionLocalizationHandler
@@ -335,7 +337,7 @@ end
 ###
 
 configure :build do
-  # For example, change the Compass output style for deployment
+  # Minify CSS on build
   activate :minify_css
 
   # Minify Javascript on build
@@ -346,6 +348,7 @@ configure :build do
     "images/logos/defacto.png",
     "images/blog/featured",
     # Image below is used in sn3p's codepen https://codepen.io/snap/pen/NGxgLr
+    # and therefore should never be changed
     "images/blog/flexible-cover-images-using-intrinsic-ratio/aspect-ratio-demo.png"
   ]
 
@@ -356,7 +359,7 @@ end
 # Deploy
 ###
 
-# Deploy for each locale
+# Deploy for staging and each locale
 activate :deploy do |deploy|
   deploy.method = :git
   deploy.remote =
