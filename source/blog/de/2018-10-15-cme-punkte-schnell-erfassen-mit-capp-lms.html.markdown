@@ -4,7 +4,6 @@ date: 2018-10-15 08:00 CEST
 tags: CME Punkte, LMS, Krankenhaus
 author: Susan
 lang: de
-featured: true
 image: images/blog/social/cme-1200x630.jpg
 featured_image: images/blog/featured/20181015-cme.jpg
 header_image: moods/cme-mood.jpg
