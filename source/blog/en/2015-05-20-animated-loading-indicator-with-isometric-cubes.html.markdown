@@ -73,7 +73,7 @@ Now we add the styling. Give the faces a background color and make sure they are
 }
 ~~~
 
-__Note:__ Don't forget to add vendor prefixes for the `transform*` properties if you want cross-browser [support](http://caniuse.com/#feat=transforms2d){:target="_blank"}{:rel="noopener noreferrer"}. In the demos I use [SCSS](http://sass-lang.com) and the [bourbon](http://bourbon.io){:target="_blank"}{:rel="noopener noreferrer"} mixin library so I don't have to worry about these prefixes.
+__Note:__ Don't forget to add vendor prefixes for the `transform*` properties if you want cross-browser [support](https://caniuse.com/#feat=transforms2d){:target="_blank"}{:rel="noopener noreferrer"}. In the demos I use [SCSS](http://sass-lang.com) and the [bourbon](http://bourbon.io){:target="_blank"}{:rel="noopener noreferrer"} mixin library so I don't have to worry about these prefixes.
 
 Check out the __[demo](http://codepen.io/snap/pen/NPqjMp?editors=110){:target="_blank"}{:rel="noopener noreferrer"}__. I also created a demo of an __[alternative technique](http://codepen.io/snap/pen/GgJWmY?editors=110){:target="_blank"}{:rel="noopener noreferrer"}__.
 Both techniques are shown in the [demo](http://codepen.io/snap/pen/ogXwdz?editors=110){:target="_blank"}{:rel="noopener noreferrer"} below.
@@ -145,7 +145,7 @@ Now we can apply the animation to the cubes' faces. We configure the animation b
 }
 ~~~
 
-__Note:__ Don't forget to add vendor prefixes for `@keyframes` and `animation*` if you want cross-browser [support](http://caniuse.com/#feat=css-animation){:target="_blank"}{:rel="noopener noreferrer"}.
+__Note:__ Don't forget to add vendor prefixes for `@keyframes` and `animation*` if you want cross-browser [support](https://caniuse.com/#feat=css-animation){:target="_blank"}{:rel="noopener noreferrer"}.
 
 Like the animations but think all the isometric projection math is too much fuzz? Don't worry, you can create the same effect with __inline SVG__. In fact, we are now using SVG for our loading indicator in CAPP Agile Learning.
 

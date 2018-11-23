@@ -1,17 +1,23 @@
 # frozen_string_literal: true
 
+# Require https://github.com/gjtorikian/html-proofer
 require "html-proofer"
 
-raise IOError, "Directory ./build does not exist. Run `middleman build` before running tests" unless Dir.exist?("./build")
+# Raise error if build directory does not exist
+raise IOError, "Directory ./build does not exist." unless Dir.exist?("./build")
 
-HTMLProofer.check_directory("./build",
+# Configuration
+# All options: https://github.com/gjtorikian/html-proofer#configuration
+options = {
   log_level: :debug,
   check_img_http: true,
   allow_hash_href: true,
-  check_html: true, :validation => { :report_missing_names => false },
+  check_html: true, validation: { report_missing_names: false },
   check_favicon: false,
   check_opengraph: true,
-  alt_ignore: ["https://googleads.g.doubleclick.net/" \
-               "pagead/viewthroughconversion/1008438803/" \
-               "?value=0&guid=ON&script=0"],
-  http_status_ignore: [0, 999, 403, 401]).run
+  http_status_ignore: [0, 999, 403, 401],
+  typhoeus: { timeout: 30 }
+}
+
+# Run html-proofer on build directory
+HTMLProofer.check_directory("./build", options).run
