@@ -4,7 +4,6 @@ date: 2018-11-14 8:00 CEST
 tags: Defacto, netwerkbijeenkomst, klantendag
 author: Lennart
 lang: nl
-featured: true
 image: images/blog/social/social-klantendag-1200x630.jpg
 featured_image: images/blog/featured/20181114-klantendag.jpg
 header_image: moods/klantendag-mood.jpg
