@@ -2,7 +2,7 @@
 title: "Leren verandert! Elliott Masie's Learning 2018"
 date: 2018-11-22 8:00 CEST
 tags: Defacto, netwerkbijeenkomst
-author: Lennart
+author: Arnoud
 lang: nl
 featured: true
 image: images/blog/social/masies-learning-1200x630.jpg
@@ -10,7 +10,7 @@ featured_image: images/blog/featured/20181123-masies-learning.jpg
 header_image: moods/masies-learning-mood.jpg
 ---
 
-__Als toonaangevend softwarebedrijf op het gebied van het leermanagement systeem (LMS) is het natuurlijk belangrijk om te horen wat de nieuwe trends zijn op het gebied van leren en ontwikkelen. Aan mij dit jaar de eer om af te mogen reizen naar Masie’s Learning 2018 in Orlando, met als thema “Learning Changes!” Op zondagmorgen werd in de openingssessies al door Elliot Masie aangegeven dat het huidige leermanagementsysteem (LMS) “dood” is. Niet een boodschap die je als leverancier van een LMS graag hoort, maar wel een die niet nieuw is en ook begrijpelijk is. Het standaard, oude en traditionele LMS heeft inderdaad zijn beste tijd gehad. Dit hadden we als Defacto al enige jaren geleden voorzien en was ook de reden om een nieuwe versie van ons CAPP LMS te lanceren. Maar wat verandert er dan allemaal en waarom is dit zo? Hier de punten die ik heb meegenomen vanuit Masies Learning 2018.__
+__Als toonaangevend softwarebedrijf op het gebied van het leermanagement systeem (LMS) is het natuurlijk belangrijk om te horen wat de nieuwe trends zijn op het gebied van leren en ontwikkelen. Aan mij dit jaar de eer om af te mogen reizen naar Masie’s Learning 2018 in Orlando, met als thema “Learning Changes!” Op zondagmorgen werd in de openingssessies al door Elliot Masie aangegeven dat het huidige leermanagementsysteem (LMS) “dood” is. Niet een boodschap die je als leverancier van een LMS graag hoort, maar wel een die niet nieuw is en ook begrijpelijk is. Het standaard, oude en traditionele LMS heeft inderdaad zijn beste tijd gehad. Dit hadden we als Defacto al [enige jaren geleden voorzien](https://www.e-learning.nl/Nieuws/tabid/62/ID/22816/Het-LMS-is-dood.aspx){:target="_blank"}{:rel="noopener noreferrer"}{:title="Het LMS is dood"} en was ook de reden om een nieuwe versie van ons CAPP LMS te lanceren. Maar wat verandert er dan allemaal en waarom is dit zo? Hier de punten die ik heb meegenomen vanuit Masies Learning 2018.__
 
 ## De vormen van leren veranderen
 Blended leren staat niet meer voor een mix van klassikale bijeenkomsten en e-learning, dat is namelijk blended training, maar juist voor een mix van alle vormen van leren. Dit betekent dat een goed LMS alle vormen van leren moet ondersteunen en dat onze laatste versie van CAPP LMS dit ook doet. Leerelementen kunnen dus bestaan uit een artikel, een goed boek, een video, of een stukje eigen gemaakte content in welke vorm dan ook. Ook het reeds bekende begrip mirco-leren krijgt hiermee opnieuw aandacht, aangezien de aangeboden content wel kort moet zijn, zodat de diverse leerelementen snel haalbare doelen vormen.
