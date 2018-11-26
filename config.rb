@@ -5,8 +5,10 @@ root_locale = (ENV["LOCALE"] ? ENV["LOCALE"].to_sym : :nl)
 # Accessible as `root_locale` in helpers and `config[:root_locale]` in templates
 set :root_locale, root_locale
 
+# Activate i18n for root locale
 activate :i18n, mount_at_root: root_locale, langs: %i[nl de en]
 
+# Set Google Analytics id
 set :ga_code, "UA-6700447-1"
 
 # Set target environments
@@ -15,6 +17,9 @@ set :staging, staging
 
 production = ENV["PRODUCTION"] == "true"
 set :production, production
+
+# Set timezone
+Time.zone = "CET"
 
 # Set a CNAME per target environment
 set :cname,
@@ -82,6 +87,7 @@ ignore "/fonts/icons/selection.json"
 # Redirects
 #
 # To prevent 404's we redirect old paths to new paths
+# We define redirects per locale in data/redirects.yml
 
 unless root_locale == :de
   redirect "blog/tags/learningspaces.html", to:
@@ -95,52 +101,23 @@ unless root_locale == :en
            "capp-agile-learning.html"
 end
 
-case root_locale
-when :nl
-  redirect "events.html", to:
-           "evenementenagenda.html"
-  redirect "events/gebruikersbijeenkomst-november-2018.html", to:
-           "/evenementenagenda/gebruikersbijeenkomst-november-2018/"
-  redirect "workshop-convenant-mt.html", to:
-           "convenant-medische-technologie.html"
-  redirect "capp-lms-nieuw.html", to:
-           "capp-lms.html"
-  redirect "blog/learningspaces-op-websummit.html", to:
-           "/blog/capp-agile-learning-op-websummit/"
-  redirect "blog/learningspaces-een-veilige-ruimte-om-te-leren-van-elkaar.html", to:
-           "/blog/capp-agile-learning-een-veilige-ruimte-om-te-leren-van-elkaar/"
-  redirect "referenties.html", to:
-           "klanten.html"
-when :de
-  redirect "events.html", to:
-            "veranstaltungskalender.html"
-  redirect "jobs/consultant.html", to:
-           "/jobs/projektleiter-consultant-softwareimplementierung/"
-  redirect "datenschutz.html", to:
-           "datenschutzerklarung.html"
-  redirect "elearning-starterkit.html", to:
-           "e-learning-starterkit.html"
-  redirect "hosting.html", to:
-           "hosting-sicherheit.html"
-  redirect "kundenreferenzen.html", to:
-           "kundenstimmen.html"
-  redirect "qualitatspass.html", to:
-           "qualitatspass-qualitatsmonitor.html"
-  redirect "referenzen.html", to:
-           "kunden.html"
-when :en
-  redirect "capp-11.html", to:
-           "capp-lms.html"
-  redirect "organisatie.html", to:
-           "about-us.html"
-  redirect "references.html", to:
-           "clients.html"
+# Get data yml per locale for redirects
+data_redirects =
+  case root_locale
+  when :nl
+    data.redirects_nl
+  when :de
+    data.redirects_de
+  when :en
+    data.redirects_en
+  end
+
+# Redirect each defined old to new path
+data_redirects.each do |redirect|
+  redirect redirect.from.to_s, to: redirect.to.to_s
 end
 
-# Set the timezone
-Time.zone = "CET"
-
-# Blogs content types
+# Blog content types
 
 # Activate and setup the blog content type
 activate :blog do |blog|
@@ -191,16 +168,7 @@ activate :blog do |blog|
   blog.paginate = false
 end
 
-# Per-page layout changes:
-#
-# With no layout
-# page "/path/to/file.html", layout: false
-# page "/path/to/file.html", layout: :otherlayout
-
-# A path which all have the same layout
-# with_layout :admin do
-#   page "/admin/*"
-# end
+# Layouts
 
 # With no layout
 page "/*.xml", layout: false
@@ -324,14 +292,6 @@ set :markdown_engine, :kramdown
 set :markdown, input: "GFM",
                auto_ids: true
 
-# Raise exception when there is a wrong/no i18n key
-class TestExceptionLocalizationHandler
-  def call(exception, locale, key, options)
-    raise exception.to_exception if exception.is_a?(I18n::MissingTranslation)
-    super
-  end
-end
-
 ###
 # Build
 ###
@@ -351,6 +311,9 @@ configure :build do
     # and therefore should never be changed
     "images/blog/flexible-cover-images-using-intrinsic-ratio/aspect-ratio-demo.png"
   ]
+
+  # Raise exception for missing translations during build
+  require "lib/test_exception_localization_handler"
 
   I18n.exception_handler = TestExceptionLocalizationHandler.new
 end

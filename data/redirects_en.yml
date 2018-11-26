@@ -1,0 +1,6 @@
+- from: "capp-11.html"
+  to: "capp-lms.html"
+- from: "organisatie.html"
+  to: "about-us.html"
+- from: "references.html"
+  to: "clients.html"
