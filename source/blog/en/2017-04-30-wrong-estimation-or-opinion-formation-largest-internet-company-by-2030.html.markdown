@@ -8,9 +8,9 @@ image: images/blog/social/largest-internet-company-1200x630.gif
 featured_image: images/blog/featured/20170430-largest-internet-company.gif
 ---
 
->According to futurist Thomas Frey, in 14 years it'll be a big deal when students learn from robot teachers over the internet.
+__According to futurist Thomas Frey, in 14 years it'll be a big deal when students learn from robot teachers over the internet.__
 
-A few weeks ago I stumbled upon an article about '[The largest internet company in 2030? This prediction will probably surprise you](https://www.businessinsider.nl/futurist-predicts-online-school-largest-online-company-2016-12/?international=true&r=US){:target="_blank"}{:rel="noopener noreferrer"}' and I got worried; did it become a niche topic to write **obvious** predictions about education, or did we become lazy in drawing future scenarios?
+A few weeks ago I stumbled upon an article about '[The largest internet company in 2030? This prediction will probably surprise you](https://www.businessinsider.nl/futurist-predicts-online-school-largest-online-company-2016-12/?international=true&r=US){:target="_blank"}{:rel="noopener noreferrer"}' and I got worried; did it become a niche topic to write __obvious__ predictions about education, or did we become lazy in drawing future scenarios?
 
 ## Extra extra, mr. Robot will take over the world!
 
@@ -28,11 +28,11 @@ These claims are not predictions, these are copies from nowadays trend to receiv
 
 Therefore, lets simulate the future a little bit further than the one predicted by Thomas Frey. It's a year of 2030, virtual is being considered the actual reality if one wishes. Globalisation, and the internet is pushing us towards conformity, mutual identity, value formation, similar perception of importance of education within our lives.
 
-Education becomes an institution, or dogma, rather than an optional way of living. The educators within this environment will be bots **as it is now** e.g. [Duolingo](http://bots.duolingo.com){:target="_blank"}{:rel="noopener noreferrer"}. Nothing really changes, except the normative perspective. The year 2020, 2030 etc. will look the same as today with innovated technology, and one thing that will be changed tremendously - increased and eased international communication, and mutual understanding through education.
+Education becomes an institution, or dogma, rather than an optional way of living. The educators within this environment will be bots __as it is now__ e.g. [Duolingo](http://bots.duolingo.com){:target="_blank"}{:rel="noopener noreferrer"}. Nothing really changes, except the normative perspective. The year 2020, 2030 etc. will look the same as today with innovated technology, and one thing that will be changed tremendously - increased and eased international communication, and mutual understanding through education.
 
 ## Corporation of university education; Middle-Ages edition
 
-The largest world company during **all times**? This observation will probably "surprise" you. It is, and **always will be** educational institutions. Thought the biggest difference of education in the Middle-Ages, and the year of 2030 is the way it's being **spread**. In the 15th century the church was the driving force behind expansion of universities, today it's the internet, tomorrow maybe virtual reality or something which is beyond my reach to predict.  
+The largest world company during __all times__? This observation will probably "surprise" you. It is, and __always will be__ educational institutions. Thought the biggest difference of education in the Middle-Ages, and the year of 2030 is the way it's being __spread__. In the 15th century the church was the driving force behind expansion of universities, today it's the internet, tomorrow maybe virtual reality or something which is beyond my reach to predict.  
 
 ## Post-internet
 

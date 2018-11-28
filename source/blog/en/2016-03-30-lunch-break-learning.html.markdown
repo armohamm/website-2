@@ -8,7 +8,7 @@ image: images/blog/social/lunchbreak-learning-1200x630.jpg
 featured_image: images/blog/featured/20160330-lunchbreak-learning.jpg
 ---
 
-Lunch break: the time of the day when people stop work to have lunch. But if you stopped working, does it mean that you actually stopped generating ideas?
+__Lunch break: the time of the day when people stop work to have lunch. But if you stopped working, does it mean that you actually stopped generating ideas?__
 
 Thought so, you haven't! The office and lunch breaks cause even stronger connectedness and heavy idea flow. It's a time of the day when you see everyone: hear their thoughts, jokes, problems, solutions and much more.
 

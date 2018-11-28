@@ -8,23 +8,23 @@ image: images/blog/social/scaling-knowledge-1200x630.gif
 featured_image: images/blog/featured/20160612-scaling-knowledge.gif
 ---
 
-One of the dangers of working on a new product is falling in love with it. We try to ask ourselves weekly if we've grown too close to [CAPP Agile Learning](/capp-agile-learning/).
+__One of the dangers of working on a new product is falling in love with it. We try to ask ourselves weekly if we've grown too close to [CAPP Agile Learning](/capp-agile-learning/).__
 
 The answer? We really, really like CAPP Agile Learning. We also believe in the ideas behind it. I guess you could say things are getting serious. But if things don't work out, we're ready to move on and start something new.
 
 It's important to find a balance between being critical and inspired. If you're too critical, you'll end up killing creativity.
 
-That balance is best achieved through external validation. Other people. And **not** just your paying users and champions - they already believe in your product.
+That balance is best achieved through external validation. Other people. And __not__ just your paying users and champions - they already believe in your product.
 
 So we talked a lot to other people about our product and the problem that it solves.
 
-It's just that CAPP Agile Learning *can* solve a couple of related problems.
+It's just that CAPP Agile Learning _can_ solve a couple of related problems.
 
 You want use CAPP Agile Learning to set up online learning quickly? No problem. An extensive learning community for your whole organization? Sure. Sharing product manuals with your clients? Of course.
 
 It's cool when people use your product in different ways. But a lack of focus can be dangerous.
 
-We always envisioned CAPP Agile Learning as a solution **for teams**. Teams that operate in a field where knowledge, experience and growth are paramount. Teams with motivated people that **want to learn** from each other.
+We always envisioned CAPP Agile Learning as a solution __for teams__. Teams that operate in a field where knowledge, experience and growth are paramount. Teams with motivated people that __want to learn__ from each other.
 
 That's how we came up with our slogan:
 
@@ -36,4 +36,4 @@ That's how we came up with our slogan:
 
 > As an organization grows, how do we make sure that an insight uncovered by one person effectively transfers beyond the targeted recipient? Internally, we call this scaling knowledge.
 
-Now **that** is the problem we are trying to solve with CAPP Agile Learning.
+Now __that__ is the problem we are trying to solve with CAPP Agile Learning.

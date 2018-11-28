@@ -8,9 +8,9 @@ image: images/blog/social/creation-1200x630.jpg
 featured_image: images/blog/featured/20170630-creation.jpg
 ---
 
-Have you ever met a knowledge worker? Most of the times they are the core of your organisation. Therefore look around you, almost all of your peers are knowledge workers. It can be their eagerness and drive, or ideas, experiences and ways of interpretation that make knowledge workers an unsubstitutable asset for your organisation. Though very often CEO's forget the importance of their high potential assets.
+__Have you ever met a knowledge worker? Most of the times they are the core of your organisation. Therefore look around you, almost all of your peers are knowledge workers. It can be their eagerness and drive, or ideas, experiences and ways of interpretation that make knowledge workers an unsubstitutable asset for your organisation. Though very often CEO's forget the importance of their high potential assets.__
 
-Right now, *the metrics is the key of 'successful' performance*. Since it is very difficult to  measure the knowledge of a knowledge worker, executives feel increasingly uncomfortable with promoting this specific term. Executives attention shifted **from importance of knowledge to a one basic metric - revenue**. Hence, while being so compelled by the notion of metric, executives undermined knowledge, one and the most important component within an organisation.
+Right now, _the metrics is the key of 'successful' performance_. Since it is very difficult to  measure the knowledge of a knowledge worker, executives feel increasingly uncomfortable with promoting this specific term. Executives attention shifted __from importance of knowledge to a one basic metric - revenue__. Hence, while being so compelled by the notion of metric, executives undermined knowledge, one and the most important component within an organisation.
 
 ## Defining the concept
 
@@ -30,7 +30,7 @@ The term itself sounds very exclusive. Imagine saying:
 
 Today executives are distinguishing between 'the talent' and 'the others' based on a numeric metric. Therefore, it creates a false ladder, where the cream of the crop is a knowledge worker who generates the most revenue.
 
-Let's admit, not all of us can play the field. Consequently the ability to measure everyone's performance as a knowledge worker becomes impossible. This is where the '**false ladder effect**' comes into being. I call it a false ladder effect, because everyone in an organisation is a knowledge worker. An executive is just favouring those, whose performace can be measured. All highly routinised jobs require creativity and improvisation. A sales executive would have nothing to sell or generate leads with if not 'the other' knowledge workers. Developers, marketers, data analysts, HR managers, secretaries etc. posses knowledge, which is unique, and enables the organisation to work smoothly.
+Let's admit, not all of us can play the field. Consequently the ability to measure everyone's performance as a knowledge worker becomes impossible. This is where the '__false ladder effect__' comes into being. I call it a false ladder effect, because everyone in an organisation is a knowledge worker. An executive is just favouring those, whose performace can be measured. All highly routinised jobs require creativity and improvisation. A sales executive would have nothing to sell or generate leads with if not 'the other' knowledge workers. Developers, marketers, data analysts, HR managers, secretaries etc. posses knowledge, which is unique, and enables the organisation to work smoothly.
 
 ## Twist of scenario
 
@@ -40,7 +40,7 @@ __Costs more than you think__
 
 Julie Kantor, a founder of Twomentor measured that loosing one worker can cost approximately $15,000-$20,000 dollars. Let's do the math; multiply 50% of your employees by this amount of money.
 
-[Julie Kantor](http://www.huffingtonpost.com/julie-kantor/high-turnover-costs-way-more-than-you-think_b_9197238.html), tried to break down the costs and explain why substituting employees is so expensive. It becomes so, because an organisation ends up with costly on-boarding and training, interviewing new candidate expenses, lowered engagement by the employees who have stayed, and even more costs since certain costs are industry specific.
+[Julie Kantor](http://www.huffingtonpost.com/julie-kantor/high-turnover-costs-way-more-than-you-think_b_9197238.html){:target="_blank"}{:rel="noopener noreferrer"}, tried to break down the costs and explain why substituting employees is so expensive. It becomes so, because an organisation ends up with costly on-boarding and training, interviewing new candidate expenses, lowered engagement by the employees who have stayed, and even more costs since certain costs are industry specific.
 
 __What actually costs money__
 

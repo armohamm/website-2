@@ -8,7 +8,7 @@ image: images/blog/social/cappagilelearning-1200x630.jpg
 featured_image: images/blog/featured/20150520-animated-loading.png
 ---
 
-In general people don't like to wait. And no matter how fast we make our application there will always be something that takes time to process. But in many cases, if the user is informed, they will be more patient.
+__In general people don't like to wait. And no matter how fast we make our application there will always be something that takes time to process. But in many cases, if the user is informed, they will be more patient.__
 
 Fortunately, [CAPP Agile Learning](/capp-agile-learning/) is pretty fast and there is little waiting time. But sometimes transitioning between pages can take a brief moment, ie. due to slow internet or a large request to the server.
 

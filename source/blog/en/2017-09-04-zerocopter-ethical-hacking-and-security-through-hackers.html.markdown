@@ -7,11 +7,12 @@ lang: en
 image: images/blog/social/zerocopter-1200x630.jpg
 featured_image: images/blog/featured/20170904-zerocopter.jpg
 ---
-**The internet is for everyone by everyone and you can find everything online.​ When you're using software you want to be sure that it's bug-free, easy to use and secure. This means it's extra important that your data doesn't accidentally leak onto the web. We take security very seriously and want your data to be safe on our servers. That's why we started working with [Zerocopter](https://zerocopter.com/){:target="_blank"}{:rel="Zerocopter"}{:title="Zerocopter"} in January 2017. This means that, as we speak, we're being hacked on a regular basis.**
 
-[![Zerocopter](/images/blog/zerocopter-logo.jpg)](https://zerocopter.com/){:target="_blank"}{:rel="Zerocopter"}{:title="Zerocopter"}
+__The internet is for everyone by everyone and you can find everything online.​ When you're using software you want to be sure that it's bug-free, easy to use and secure. This means it's extra important that your data doesn't accidentally leak onto the web. We take security very seriously and want your data to be safe on our servers. That's why we started working with [Zerocopter](https://zerocopter.com/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Zerocopter"} in January 2017. This means that, as we speak, we're being hacked on a regular basis.__
 
-But, hacking is what we *don't* want right? Not by normal hackers, no, but Zerocopter collaborates with ethical hackers. These hackers are connected to Zerocopter and are helping us to track down possible leaks. The goal of this collaboration is to help us secure our software by actively trying to break into our software. Sometimes the best way to fix something is to try and break it first. Or in this case: to hack it.
+[![Zerocopter](/images/blog/zerocopter-logo.jpg)](https://zerocopter.com/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Zerocopter"}
+
+But, hacking is what we _don't_ want right? Not by normal hackers, no, but Zerocopter collaborates with ethical hackers. These hackers are connected to Zerocopter and are helping us to track down possible leaks. The goal of this collaboration is to help us secure our software by actively trying to break into our software. Sometimes the best way to fix something is to try and break it first. Or in this case: to hack it.
 
 ![Zerocopter](/images/blog/zerocopter.jpg)
 

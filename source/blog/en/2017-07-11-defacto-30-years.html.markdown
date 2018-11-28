@@ -8,7 +8,7 @@ image: images/blog/social/30-jaar-1200x630.jpg
 featured_image: images/blog/featured/20170627-30-jaar.jpg
 ---
 
-**2017 is the year Defacto turned 30 and that didn't go by unnoticed. On the 16th of June, the garden of Zuiderpark 3 was filled with co-workers, family and friends. Coupled with (local) drinks and the Defacto band the past 30 years were abundantly celebrated.**
+__2017 is the year Defacto turned 30 and that didn't go by unnoticed. On the 16th of June, the garden of Zuiderpark 3 was filled with co-workers, family and friends. Coupled with (local) drinks and the Defacto band the past 30 years were abundantly celebrated.__
 
 A barbecue, cake, [Holy Water gin](http://holywater.church/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Holy Water gin"}, lights and a fire to keep warm around. The gravel that normally offers space for the cars was this night transformed into a summer scene complete with a large party tent. With well over hundred people there was a relaxed and cosy atmosphere that warmly welcomed everyone.
 

@@ -8,7 +8,7 @@ image: images/blog/social/read-mode-1200x630.jpg
 featured_image: images/blog/featured/20150530-read-mode.jpg
 ---
 
-One of the first things I mentioned when I started working at [CAPP Agile Learning](/capp-agile-learning/) two months ago is that CAPP Agile Learning needed an overhaul on the iPad in portrait mode. The iPad, in my opinion, is the single most suitable device for information consumption; a handy, lightweight device that can be held like a book and needs no extra peripherals to work well.
+__One of the first things I mentioned when I started working at [CAPP Agile Learning](/capp-agile-learning/) two months ago is that CAPP Agile Learning needed an overhaul on the iPad in portrait mode. The iPad, in my opinion, is the single most suitable device for information consumption; a handy, lightweight device that can be held like a book and needs no extra peripherals to work well.__
 
 ## What was the deal?
 

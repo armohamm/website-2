@@ -7,7 +7,8 @@ lang: en
 image: images/blog/social/elixirconf-1200x630.jpg
 featured_image: images/blog/featured/20170921-elixirconf.jpg
 ---
-**At Defacto, we greatly value development of our own employees. No surprise there: our motto is Developing People. However, at times it can be challenging to find the time and dedication to do exactly this: develop yourself.**
+
+__At Defacto, we greatly value development of our own employees. No surprise there: our motto is Developing People. However, at times it can be challenging to find the time and dedication to do exactly this: develop yourself.__
 
 In the ever-changing landscape of software development, learning opportunities present themselves often in the form of micro-learning, i.e. blogposts, (video) tutorials or even technical documentation. Sometimes, however, it is important to actually get physically involved in the learning process, interact with real people and actively participate in classes or workshops. Doing this together with your colleagues is even better, because you can reflect on the material presented and the challenges we face while we're developing our software.
 

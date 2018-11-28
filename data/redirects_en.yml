@@ -4,3 +4,5 @@
   to: "about-us.html"
 - from: "references.html"
   to: "clients.html"
+- from: "blog/making-capp-agile-fit-the-ipad.html"
+  to: "/blog/making-capp-agile-learning-fit-the-ipad"

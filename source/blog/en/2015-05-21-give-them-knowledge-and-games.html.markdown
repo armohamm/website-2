@@ -10,21 +10,21 @@ featured_image: images/blog/featured/20150521-modern-learner.png
 
 ![modern learner infographic](/images/blog/en/meet-the-modern-learner-infographic.jpg)
 
-**The definition**: Modern Learner — a person who likes learning what he wants and when he wants. Or one who’s learning needs or habits are changed by their distracting environments. 
+__The definition: Modern Learner — a person who likes learning what he wants and when he wants. Or one who’s learning needs or habits are changed by their distracting environments.__ 
 
-**Features**: overwhelmed, distracted, impatient.
+__Features__: overwhelmed, distracted, impatient.
 
-**In the need of**: personalized, interactive, fun, universal access and concentrated knowledge.
+__In the need of__: personalized, interactive, fun, universal access and concentrated knowledge.
 
 Now, we have covered all the important terms we can get more in depth about why. How modern learners came into being, how to help them and how can modern learners help you?
 
-**Dear modern learner,**
+__Dear modern learner,__
 
 First of all, why are you like this? Because you are reading this blogpost during your work, because your phone has a pushed notification every 2 minutes about what is happening on Facebook, Twitter or LinkedIn, because you are distracted by almost everything that surrounds you! Second of all, you need everything here and now, not in 3 days, but now. Probably your modern working environments led you to understanding that the knowledge should be very easy to reach, find and share.
 
 But what do you get in reality? Your employer has very high expectations for you to stay in the ‘Know everything’ zone and yet he often doesn’t provide you with the instant access to all of the knowledge that is contained within the organization you are working. Actually it doesn’t sounds fair neither for you nor for your employer because both of you want to end up in the win-win situation. A situation where you gain the knowledge that helps you to accomplish your tasks fast and effectively.
 
-**Dear Employer**,
+__Dear Employer__,
 
 How can you enhance the learning potential of your employees? Just give them knowledge and games, let your employees learn whenever they can. First of all, you have to understand the benefits of personalised informal way of learning. 
 

@@ -8,7 +8,7 @@ image: images/blog/social/micro-future-1200x630.jpg
 featured_image: images/blog/featured/20160517-micro-future.jpg
 ---
 
-Nutshell learning - never heard of it? Let me put it straight: learning in a nutshell is daily knowledge micro dosing. Even though **micro learning** is not a new concept, everyone surprisingly makes a big deal out of it (including me).
+__Nutshell learning - never heard of it? Let me put it straight: learning in a nutshell is daily knowledge micro dosing. Even though **micro learning** is not a new concept, everyone surprisingly makes a big deal out of it (including me).__
 
 ## Teeny tiny:
 

@@ -8,11 +8,11 @@ image: images/blog/social/intercom-launcher-1200x630.jpg
 featured_image: images/blog/featured/20170104-intercom-launcher.jpg
 ---
 
-We've been using [Intercom](https://www.intercom.com/){:target="_blank"}{:rel="noopener noreferrer"} in CAPP Agile Learning for well over a year now, and like we said back then, it has really improved our support and in-app communication with users.
+__We've been using [Intercom](https://www.intercom.com/){:target="_blank"}{:rel="noopener noreferrer"} in CAPP Agile Learning for well over a year now, and like we said back then, it has really improved our support and in-app communication with users.__
 
 A few weeks ago Intercom introduced their [new messenger](https://docs.intercom.com/a-guide-to-the-new-intercom-messenger/the-new-intercom-messenger){:target="_blank"}{:rel="noopener noreferrer"}, where they've added some new features and did an impressive redesign.
 
-Before the update we applied a bit of styling to change the size of the launcher (the default is too big for our taste). But after the update this doesn't work anymore due to the fact that **Intercom renders everything inside an iframe** now. I was hoping for a little bit more control over the size through the [App settings](https://docs.intercom.com/configure-intercom-for-your-product-or-site/customize-the-intercom-messenger/customize-the-intercom-messenger-basics), but this is limited to selecting a custom color.
+Before the update we applied a bit of styling to change the size of the launcher (the default is too big for our taste). But after the update this doesn't work anymore due to the fact that __Intercom renders everything inside an iframe__ now. I was hoping for a little bit more control over the size through the [App settings](https://docs.intercom.com/configure-intercom-for-your-product-or-site/customize-the-intercom-messenger/customize-the-intercom-messenger-basics), but this is limited to selecting a custom color.
 
 ![New vs Old Intercom launchers](/images/blog/en/intercom-new-vs-old-launcher.png)
 
@@ -35,7 +35,7 @@ The stylesheet that is injected by the script:
 
 <script src="https://gist.github.com/852cfed0ee22b07b5263ca04930705c8.js?file=intercom.css" type="text/javascript"></script>
 
-This stylesheet should **also be included in your app or website** (or at least the first part). The first parts targets the launcher iframe itself, the second part targets the iframe content (SCSS version [here](https://gist.github.com/sn3p/852cfed0ee22b07b5263ca04930705c8#file-intercom-scss)).
+This stylesheet should __also be included in your app or website__ (or at least the first part). The first parts targets the launcher iframe itself, the second part targets the iframe content (SCSS version [here](https://gist.github.com/sn3p/852cfed0ee22b07b5263ca04930705c8#file-intercom-scss)).
 
 ---
 
@@ -55,7 +55,7 @@ The styling is copied from the original launcher (for the most part):
 
 <script src="https://gist.github.com/2f3e3c5ba51fd8733a29fc0b4ff95a42.js?file=intercom-launcher.scss" type="text/javascript"></script>
 
-**Note:** The styling is in SCSS format. You can compile it to CSS [online](http://www.sassmeister.com){:target="_blank"}{:rel="noopener noreferrer"} or via command line:
+__Note:__ The styling is in SCSS format. You can compile it to CSS [online](http://www.sassmeister.com){:target="_blank"}{:rel="noopener noreferrer"} or via command line:
 
 ~~~
 sass --watch . --no-cache
