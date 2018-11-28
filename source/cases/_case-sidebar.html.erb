@@ -67,7 +67,7 @@
         <% if current_page.data.facts.url %>
           <dt><%= t("cases.sidebar.facts.website") %></dt>
           <dd>
-            <%= link_to current_page.data.facts.url, current_page.data.facts.url, target: "_blank", rel: "noopener", title: current_page.title %>
+            <%= link_to current_page.data.facts.url, current_page.data.facts.url, target: "_blank", rel: "noopener noreferrer", title: current_page.title %>
           </dd>
         <% end %>
       </dl>
