@@ -7,7 +7,8 @@ lang: de
 image: images/blog/social/learningspaces-cappagilelearning-1200x630.jpg
 featured_image: images/blog/featured/20170925-learningspaces-cappagilelearning.jpg
 ---
-**In dem wir den Namen ändern, ändern wir die Wahrnehmung. Mit diesem Vorsatz hat sich Defacto entschieden, von nun an den Herstellungsprozess von Software aus einer anderen Perspektive aus zu verfolgen. Für uns ist Softwareentwicklung mehr, als nur ein Produkt herzustellen. Es ist zu einer tragenden Säule unserer Geschäftsvorstellung und allgemeinen Mission geworden: Wir streben danach, Softwarelösungen zu finden, um Organisationen mit der Entwicklung ihrer wichtigsten Resource zu helfen - den Menschen.**
+
+__In dem wir den Namen ändern, ändern wir die Wahrnehmung. Mit diesem Vorsatz hat sich Defacto entschieden, von nun an den Herstellungsprozess von Software aus einer anderen Perspektive aus zu verfolgen. Für uns ist Softwareentwicklung mehr, als nur ein Produkt herzustellen. Es ist zu einer tragenden Säule unserer Geschäftsvorstellung und allgemeinen Mission geworden: Wir streben danach, Softwarelösungen zu finden, um Organisationen mit der Entwicklung ihrer wichtigsten Resource zu helfen - den Menschen.__
 
 Die Jahre der Expertise innerhalb des Bildungsmanagements und der Personalentwicklung halfen uns, verschiedene erfolgreiche Lösungen zur Verbesserung der unternehmerischen Performance jeglicher Art zu kreieren. Von [360° Feedback](/360-feedback/){:title="360° Feedback"} zu [HappyHours](https://github.com/DefactoSoftware/hours){:target="_blank"}{:rel="noopener noreferrer"}{:title="HappyHours"} oder dem [E-Learning Starterkit](/e-learning-starterkit/){:title="E-Learning Starterkit"}, wir haben jederzeit versucht, die Anforderungen unserer Nutzer zu verstehen, um diese bei ihren alltäglichen Aufgaben zu unterstützen.
 

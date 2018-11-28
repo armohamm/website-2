@@ -8,9 +8,9 @@ image: images/blog/social/creation-1200x630.jpg
 featured_image: images/blog/featured/20170630-creation.jpg
 ---
 
-_Sind Sie schon einmal einem Wissensarbeiter begegnet? Die meiste Zeit arbeiten diese im tiefsten Inneren Ihres Unternehmens. Sehen Sie sich um, praktisch alle Ihrer Kollegen sind Wissensarbeiter. Es können ihr Eifer, ihre Begeisterung, ihre Erfahrungen oder ihre Interpretationsfähigkeiten sein, die die Wissensarbeiter zu unverzichtbaren Vermögenswerten im Unternehmen machen. Dennoch vergessen CEOs oftmals die Bedeutung dieser Vermögenswerte mit deren hohem Potenzial._
+__Sind Sie schon einmal einem Wissensarbeiter begegnet? Die meiste Zeit arbeiten diese im tiefsten Inneren Ihres Unternehmens. Sehen Sie sich um, praktisch alle Ihrer Kollegen sind Wissensarbeiter. Es können ihr Eifer, ihre Begeisterung, ihre Erfahrungen oder ihre Interpretationsfähigkeiten sein, die die Wissensarbeiter zu unverzichtbaren Vermögenswerten im Unternehmen machen. Dennoch vergessen CEOs oftmals die Bedeutung dieser Vermögenswerte mit deren hohem Potenzial.__
 
-Gerade heutzutage *Messwerte der Schlüssel zu ‚erfolgreichen‘ Leistungen*. Da es recht schwierig ist, das Wissen eines Wissensarbeiters zu messen, tun sich Führungskräfte zunehmend sehr schwer damit, diesen spezifischen Begriff zu verwenden. Ihre Aufmerksamkeit verschob sich **von der Bedeutung des Wissens zu einem Basismesswert – dem Ertrag**. Durch diese Fixierung auf die Idee eines Messwerts untergruben Führungskräfte das Wissen, obwohl gerade das eine der wichtigsten Komponenten innerhalb eines Unternehmens ist.
+Gerade heutzutage _Messwerte der Schlüssel zu ‚erfolgreichen‘ Leistungen_. Da es recht schwierig ist, das Wissen eines Wissensarbeiters zu messen, tun sich Führungskräfte zunehmend sehr schwer damit, diesen spezifischen Begriff zu verwenden. Ihre Aufmerksamkeit verschob sich __von der Bedeutung des Wissens zu einem Basismesswert – dem Ertrag__. Durch diese Fixierung auf die Idee eines Messwerts untergruben Führungskräfte das Wissen, obwohl gerade das eine der wichtigsten Komponenten innerhalb eines Unternehmens ist.
 
 ## Definition des Konzepts
 
@@ -38,7 +38,7 @@ Stellen Sie sich eine Situation vor, in der eine Führungskraft alle Mitarbeiter
 
 __Kostet mehr, als Sie denken__
 
-Julie Kantor, Kostet mehr, als Sie denken [hat berechnet,](http://www.huffingtonpost.com/julie-kantor/high-turnover-costs-way-more-than-you-think_b_9197238.html){:target="_blank"}{:rel="noopener noreferrer"}{:title="High turnover costs way more than you think"} dass der Verlust nur eines Arbeiters etwa 15.000 bis 20.000 Dollar kosten kann. Rechnen wir weiter: Multiplizieren Sie 50 % Ihrer Mitarbeiter mit dieser Summe.
+Julie Kantor, Kostet mehr, als Sie denken [hat berechnet](http://www.huffingtonpost.com/julie-kantor/high-turnover-costs-way-more-than-you-think_b_9197238.html){:target="_blank"}{:rel="noopener noreferrer"}{:title="High turnover costs way more than you think"}, dass der Verlust nur eines Arbeiters etwa 15.000 bis 20.000 Dollar kosten kann. Rechnen wir weiter: Multiplizieren Sie 50 % Ihrer Mitarbeiter mit dieser Summe.
 
 Julie Kantor versuchte, die Kosten aufzuschlüsseln und zu erklären, warum der Austausch von Mitarbeitern so teuer ist. Dies ist der Fall, weil dem Unternehmen hohe Kosten bei Einstellung und Schulung, durch Bewerbungsgespräche, geringeres Engagement von verbliebenen Mitarbeitern und zudem weitere branchenspezifische Kosten entstehen
 

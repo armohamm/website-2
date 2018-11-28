@@ -8,7 +8,7 @@ image: images/blog/social/micro-future-1200x630.jpg
 featured_image: images/blog/featured/20160517-micro-future.jpg
 ---
 
-Kompaktes Lernen – noch nie gehört? Lassen Sie es mich kurz zusammenfassen: Kompaktes Lernen ist die tägliche Mikrodosis Wissen. Auch wenn **Mikrolernen** kein neues Konzept ist, macht erstaunlicherweise jeder eine große Sache daraus (ich auch).
+__Kompaktes Lernen – noch nie gehört? Lassen Sie es mich kurz zusammenfassen: Kompaktes Lernen ist die tägliche Mikrodosis Wissen. Auch wenn __Mikrolernen__ kein neues Konzept ist, macht erstaunlicherweise jeder eine große Sache daraus (ich auch).__
 
 ## Klitzeklein
 
@@ -21,9 +21,9 @@ Wir sind heute einem unglaublich schnellen Informationsfluss ausgesetzt und unse
 
 ## Formell wird informell
 
-Formelle Schulungen – im Klassenzimmer oder im Büro – können in ihrer Dauer von wenigen Tagen bis hin zu drei Jahren, wenn wir von einem Bachelor-Abschluss sprechen, variieren. Die ständige Verfügbarkeit von Informationen und unser wahrgenommener Zeitmangel machen das **formale Lernen** zu einer bedrohten Art – und ich weiß nicht, ob es unsere Verantwortung ist, sie zu schützen.
+Formelle Schulungen – im Klassenzimmer oder im Büro – können in ihrer Dauer von wenigen Tagen bis hin zu drei Jahren, wenn wir von einem Bachelor-Abschluss sprechen, variieren. Die ständige Verfügbarkeit von Informationen und unser wahrgenommener Zeitmangel machen das __formale Lernen__ zu einer bedrohten Art – und ich weiß nicht, ob es unsere Verantwortung ist, sie zu schützen.
 
-Moderne Lerner haben weniger Zeit, also warum kalkulieren wir das nicht mit ein und servieren Informationen in leicht verdaulichen Häppchen? An dieser Stelle kommt **informelles Lernen** ins Spiel. Podcasts, Videoschulungen und interaktive Infografiken schienen vor Kurzem noch Zukunftsmusik zu sein, aber unser Konsumverhalten hat uns auf die Überholspur geführt und es scheint Bedarf an etwas noch Effizienterem als Videoschulungen und Podcasts zu geben.
+Moderne Lerner haben weniger Zeit, also warum kalkulieren wir das nicht mit ein und servieren Informationen in leicht verdaulichen Häppchen? An dieser Stelle kommt __informelles Lernen__ ins Spiel. Podcasts, Videoschulungen und interaktive Infografiken schienen vor Kurzem noch Zukunftsmusik zu sein, aber unser Konsumverhalten hat uns auf die Überholspur geführt und es scheint Bedarf an etwas noch Effizienterem als Videoschulungen und Podcasts zu geben.
 
 Unsere verkürzte Aufmerksamkeitsspanne, unsere Tendenz, Dinge zu vergessen, und unterschiedliche Erwartungen an das Lernen im Allgemeinen, weckt in uns das Bedürfnis nach Mikrolernen.
 

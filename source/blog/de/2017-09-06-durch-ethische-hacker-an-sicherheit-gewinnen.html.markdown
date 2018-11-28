@@ -7,9 +7,10 @@ lang: de
 image: images/blog/social/zerocopter-1200x630.jpg
 featured_image: images/blog/featured/20170904-zerocopter.jpg
 ---
-**Wenn man Software verwendet, erwartet man, dass diese fehlerfrei funktioniert, einfach zu bedienen und allen voran sicher ist. Das Internet ist für Jeden und man kann heutzutage auch alles dort finden. Daher ist es wichtig, dass keine Daten versehentlich nach außen gelangen. Wir nehmen Sicherheit sehr ernst und wollen, dass ihre Daten auf unseren Servern mit allen Mitteln geschützt werden. Dazu arbeiten wir seit Januar 2017 mit [Zerocopter](https://zerocopter.com/){:target="_blank"}{:rel="Zerocopter"}{:title="Zerocopter"} zusammen und lassen uns von ihnen regelmäßig hacken.**
 
-[![Zerocopter](/images/blog/zerocopter-logo.jpg)](https://zerocopter.com/){:target="_blank"}{:rel="Zerocopter"}{:title="Zerocopter"}
+__Wenn man Software verwendet, erwartet man, dass diese fehlerfrei funktioniert, einfach zu bedienen und allen voran sicher ist. Das Internet ist für Jeden und man kann heutzutage auch alles dort finden. Daher ist es wichtig, dass keine Daten versehentlich nach außen gelangen. Wir nehmen Sicherheit sehr ernst und wollen, dass ihre Daten auf unseren Servern mit allen Mitteln geschützt werden. Dazu arbeiten wir seit Januar 2017 mit [Zerocopter](https://zerocopter.com/){:target="_blank"}{:rel="noopener noreferrer"} zusammen und lassen uns von ihnen regelmäßig hacken.__
+
+[![Zerocopter](/images/blog/zerocopter-logo.jpg)](https://zerocopter.com/){:target="_blank"}{:rel="noopener noreferrer"} {:title="Zerocopter"}
 
 Aber Hacken ist doch etwas was wir auf gar keinen Fall möchten? Das ist richtig! Zerocopter jedoch arbeitet zusammen mit ethischen Hackern.  Diese Hacker sind angestellt bei Zerocopter und helfen uns, mögliche Schwachstellen in unserer Software zu finden. Das Ziel? Sie sollen Wege entdecken, um in unsere Software zu gelangen damit wir sicherstellen können, dass diese Schlupflöcher geschlossen werden. Manchmal ist der beste Weg um etwas zu verbessern, es zunächst versuchen zu zerstören. Oder in diesem Fall: versuchen es zu hacken.
 

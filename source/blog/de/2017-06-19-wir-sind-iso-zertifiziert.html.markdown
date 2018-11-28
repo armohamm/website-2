@@ -8,7 +8,7 @@ image: images/blog/social/certified-1200x630.gif
 featured_image: images/blog/featured/20170620-certified.gif
 ---
 
-**Stolz können wir sagen, dass Defacto nun ISO 9001, ISO 14001, ISO 27001 und NEN 7510 zertifiziert ist und somit bestimmte Anforderung in den Bereichen Qualitätsmanagement, Umweltmanagement, Informationssicherheitsmanagement und Informationssicherheit im Gesundheitswesen einhalten.**
+__Stolz können wir sagen, dass Defacto nun ISO 9001, ISO 14001, ISO 27001 und NEN 7510 zertifiziert ist und somit bestimmte Anforderung in den Bereichen Qualitätsmanagement, Umweltmanagement, Informationssicherheitsmanagement und Informationssicherheit im Gesundheitswesen einhalten.__
 
 ![ISO und NEN Zertifizierung](/images/blog/de/zertifiziert.png)
 

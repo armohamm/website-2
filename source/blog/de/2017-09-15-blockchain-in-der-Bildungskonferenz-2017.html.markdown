@@ -7,6 +7,7 @@ lang: de
 image: images/blog/social/blockchain-1200x630.jpg
 featured_image: images/blog/featured/20170912-blockchain.jpg
 ---
+
 __Als Softwareunternehmen, das sich auf Bildung konzentriert, interessieren wir uns immer für die neusten und innovativsten Trends rund ums Lernen und sicheres Datenmanagement. Denn auch für unsere Kunden aus den Bereichen Krankenhaus und anderen Einrichtungen im Gesundheitswesen spielt das Thema Compliance eine immer wichtiger werdende Rolle.  Aus diesem Grund waren wir bei der [Blockchain in Education Konferenz](https://www.bcined2017.nl/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Blockchain in Education Konferenz"} an der Universität Groningen am 5. September 2017 anwesend, um unser Fachwissen über diese Thematik weiterzuvertiefen.__
 
 ## Blockchain, was ist das?

@@ -8,14 +8,14 @@ image: images/blog/social/drei-grunde-1200x630.png
 featured_image: images/blog/featured/20160803-interkollegiales-testen.jpg
 ---
 
-**Die Fachliteratur boomt: Lernen nach dem '70-20-10-Prinzip', zurück zum direkten ’Lernen am Arbeitsplatz’, mehr Eigenverantwortung, soziales Lernen stimulieren und vieles mehr.**
+__Die Fachliteratur boomt: Lernen nach dem '70-20-10-Prinzip', zurück zum direkten ’Lernen am Arbeitsplatz’, mehr Eigenverantwortung, soziales Lernen stimulieren und vieles mehr.__
 
 Im Grunde ist die Botschaft simpel: Menschen lernen am meisten, wenn sie voneinander lernen. Wenn ich an meine persönliche Situation denke, kann ich dem nur zustimmen. Deshalb freut es mich natürlich umso mehr, dass immer mehr meiner Kunden die Methode des arbeitsplatzorientierten Lernens in ihrem Betrieb anwenden.
 
 Wenn es um das Testen oder feststellen des Wissensniveaus eines Mitarbeiters geht, werden in den meisten Fällen noch klassische Testmethoden angewandt. Das kann zum Beispiel ein E-Test sein. Schade! Lernen am Arbeitsplatz ist vor allem so wertvoll, weil man von echten Erfahrungen lernt. Man lernt mit Situationen aus der Praxis um zu gehen und übt nicht nur an theoretischen Scenarios. Dadurch erfährt man auch, wie stressig manche Situationen in Wirklichkeit sein können und muss - für die Realität relevante - Leistungen erbringen. Ist das nicht genau das, was wir uns von unseren Mitarbeitern wünschen und Ihnen deutlich machen wollen? Aufzeigen, dass sie mit diesen Situationen und Risiken umgehen können?
 Genau das kann ein E-Test allerdings gar nicht so genau ermitteln. Die einzige Art und Weise, Fertigkeiten wirklich zu testen, ist meiner Meinung nach direkt am Arbeitsplatz von Kollegen untereinander. Obwohl die meisten Krankenhäuser, die ich als Berater besuche, mir zustimmen, trauen sie sich bis jetzt noch nicht, diese Methode bei sich in die Praxis umzusetzen.
 
-**Hier kommen 3 Gründe, die ganz klar dafür sprechen, die interkollegiale Methode anzuwenden:**
+__Hier kommen 3 Gründe, die ganz klar dafür sprechen, die interkollegiale Methode anzuwenden:__
 
 ## 1. Interkollegiales Testen ist weniger anfällig für Betrug als ein E-Test
 

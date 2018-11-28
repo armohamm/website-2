@@ -8,7 +8,7 @@ image: images/blog/social/zelfsturende-teams-ondersteunen-kwaliteitspaspoort.png
 featured_image: images/blog/featured/20160726-kpp.jpg
 ---
 
-**Mijn collega Marian schreef recent over [zelfsturende teams in de zorg](/blog/zelfsturende-teams-hot-topic-in-de-zorg/) en hoe het *CAPP Kwaliteitspaspoort* daarbij kan ondersteunen.**
+__Mijn collega Marian schreef recent over [zelfsturende teams in de zorg](/blog/zelfsturende-teams-hot-topic-in-de-zorg/) en hoe het _CAPP Kwaliteitspaspoort_ daarbij kan ondersteunen.__
 
 De grote uitdaging daarvan is om een oplossing te vinden die:
 

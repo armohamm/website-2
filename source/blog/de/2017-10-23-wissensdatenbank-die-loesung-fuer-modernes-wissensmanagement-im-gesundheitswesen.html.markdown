@@ -8,15 +8,15 @@ image: images/blog/social/wissensdatenbank-1200x630.png
 featured_image: images/blog/featured/20171023-wissensmanagement.jpg
 ---
 
-**Um das Wissen in einer Organisation zu verwalten und zu teilen gibt es viele verschiedene Möglichkeiten. Doch was sind die Vorteile von innerbetrieblichem Wissensmanagement? Welche Alternativen gibt es und worauf sollte ich achten? Anhand von einem Praxisbeispiel bringen wir Ihnen die Anwendungsbereiche von Wissensdatenbanken für Organisationen aus dem Gesundheitswesen näher und gehen auf die wesentlichen Bedeutungen von Wissensmanagement ein.**
+__Um das Wissen in einer Organisation zu verwalten und zu teilen gibt es viele verschiedene Möglichkeiten. Doch was sind die Vorteile von innerbetrieblichem Wissensmanagement? Welche Alternativen gibt es und worauf sollte ich achten? Anhand von einem Praxisbeispiel bringen wir Ihnen die Anwendungsbereiche von Wissensdatenbanken für Organisationen aus dem Gesundheitswesen näher und gehen auf die wesentlichen Bedeutungen von Wissensmanagement ein.__
 
-Die zentrale Aufgabe von Lösungen des Wissensmanagements ist es, die Menschen innerhalb einer Organisation bei der Ausübung ihrer alltäglichen Tätigkeiten zu unterstützen. Darum bestehen die Kernfunktionen einer Wissensdatenbank im Wesentlichen darin, erworbenes Wissen anderen Kollegen zur Verfügung zu stellen und innerhalb der Organisation zu teilen. Ressourcen und spezifisches Know-how können so auf Knopfdruck abgerufen werden. Sie besitzen somit die Flexibilität, dort, wo Sie gerade bestimmtes Wissen benötigen und dann, wenn Sie es brauchen, darauf zugreifen zu können. Wir nennen das **Learning on demand**.
+Die zentrale Aufgabe von Lösungen des Wissensmanagements ist es, die Menschen innerhalb einer Organisation bei der Ausübung ihrer alltäglichen Tätigkeiten zu unterstützen. Darum bestehen die Kernfunktionen einer Wissensdatenbank im Wesentlichen darin, erworbenes Wissen anderen Kollegen zur Verfügung zu stellen und innerhalb der Organisation zu teilen. Ressourcen und spezifisches Know-how können so auf Knopfdruck abgerufen werden. Sie besitzen somit die Flexibilität, dort, wo Sie gerade bestimmtes Wissen benötigen und dann, wenn Sie es brauchen, darauf zugreifen zu können. Wir nennen das __Learning on demand__.
 
 Dieses Konzept des internen Teilen von Wissen und Lernens funktioniert dabei idealerweise auf verschiedenen Ebenen. So können Sie Ihr persönliches Wissen nicht nur Ihren direkten Kollegen zur Verfügung stellen, sondern gegebenenfalls dieses auch mit einer Abteilung, einem Team oder der gesamten Organisation teilen.
 
 Weiterhin kann Wissen in einer Datenbank nicht nur gesammelt werden - man kann es auch kommentieren und miteinander verknüpfen. So wird nicht nur der Austausch unter Kollegen gefördert, sondern zielgerichtetes Lernen wird ein fester Bestandteil Ihrer innerbetrieblichen Personalentwicklung: Durch das Erstellen von Lernpfaden werden logisch aufeinander aufbauende Sequenzen und das Wissen für spezielle Anwendungsbereiche gruppiert. So sehen die Anwender nur die selektiven Informationen, die für sie zur Bewältigung ihrer aktuellen Herausforderung relevant sind.
 
-> **Der Vorteil liegt auf der Hand: Lernen wird präzisiert und effizienter gestaltet!**
+> __Der Vorteil liegt auf der Hand: Lernen wird präzisiert und effizienter gestaltet!__
 
 ## Gerätepass als Beispiel aus der Praxis
 
@@ -38,4 +38,4 @@ Allerdings zeigen all diese Lösungen im Vergleich mit Wissensdatenbanken einige
 
 Wir von Defacto setzen unseren Fokus auf den informellen Wissensaustausch in Form von [CAPP Agile Learning](/capp-agile-learning/). Damit bieten wir eine einfache und flexible Lernumgebung, in die ein Jeder mit wenigen Mausklicks neue Kapitel, Lernpfade oder Themengebiete erstellen kann. Diese Plattform dient dabei nicht nur zum Austausch von Geräten innerhalb Krankenhäuser. Erfahrungen haben gezeigt, dass diese beispielsweise auch für die Einarbeitung von neuen Mitarbeitern, die Anleitungen für Softwarelösungen wie Excel oder Word und Fach- und Sachgebiete einzelner Abteilungen genutzt werden.
 
-Mit unserem Ziel, **Performance Support Lösungen** für Einrichtungen des Gesundheitswesen zu erstellen, setzen wir daher unsere Messlatte hoch. Wir möchten die Strukturen für das flexible Lernen am Arbeitsplatz und den einfachen Austausch von Wissen liefern. Wir möchten das wichtigste Kapital einer jeden Organisation weiterentwickeln: Den Menschen.
+Mit unserem Ziel, __Performance Support Lösungen__ für Einrichtungen des Gesundheitswesen zu erstellen, setzen wir daher unsere Messlatte hoch. Wir möchten die Strukturen für das flexible Lernen am Arbeitsplatz und den einfachen Austausch von Wissen liefern. Wir möchten das wichtigste Kapital einer jeden Organisation weiterentwickeln: Den Menschen.

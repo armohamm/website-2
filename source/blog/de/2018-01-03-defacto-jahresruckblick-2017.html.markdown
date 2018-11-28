@@ -8,7 +8,7 @@ image: images/blog/social/frohe-feiertage-1200x630.jpg
 featured_image: images/blog/featured/20171222-jahresruckblick-defacto.png
 ---
 
-**Wieder ist ein Jahr voller Eindrücke zu Ende gegangen. Seit nunmehr 30 Jahren arbeitet Defacto kontinuierlich an der Weiterentwicklung von Bildungs- und Lernlösungen für das Gesundheitswesen. Mit der Wissenslösung CAPP Agile Learning, der Erweiterung des Qualitätspasses und der Neuausrichtung hinsichtlich Wissensmanagement und Compliance blicken wir auf ein erfolgreiches Jahr 2017 zurück. Einem guten Start ins Jahr 2018 steht somit nichts mehr im Wege!**
+__Wieder ist ein Jahr voller Eindrücke zu Ende gegangen. Seit nunmehr 30 Jahren arbeitet Defacto kontinuierlich an der Weiterentwicklung von Bildungs- und Lernlösungen für das Gesundheitswesen. Mit der Wissenslösung CAPP Agile Learning, der Erweiterung des Qualitätspasses und der Neuausrichtung hinsichtlich Wissensmanagement und Compliance blicken wir auf ein erfolgreiches Jahr 2017 zurück. Einem guten Start ins Jahr 2018 steht somit nichts mehr im Wege!__
 
 ## Ein Event jagte das nächste
 

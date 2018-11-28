@@ -8,9 +8,9 @@ image: images/blog/social/qualitat-sichern-durch-bildungsmanagement-1200x630.png
 featured_image: images/blog/featured/20161025-workshop.jpg
 ---
 
-Unser Workshop mit dem 6K-Verbund in Neumünster war ein voller Erfolg!
+__Unser Workshop mit dem 6K-Verbund in Neumünster war ein voller Erfolg!__
 
-Unter dem Motto **'Qualität sichern durch Bildungsmanagement'** haben wir am 5.Oktober 2016 zusammen mit dem [Friedrich-Ebert-Krankenhaus (FEK)](http://www.friedrich-ebert-krankenhaus.de/){:target="_blank"} einen interessanten Workshop gegeben.
+Unter dem Motto __'Qualität sichern durch Bildungsmanagement'__ haben wir am 5.Oktober 2016 zusammen mit dem [Friedrich-Ebert-Krankenhaus (FEK)](http://www.friedrich-ebert-krankenhaus.de/){:target="_blank"}{:rel="noopener noreferrer"}  einen interessanten Workshop gegeben.
 
 Experten aus den Bereichen Fort- und Weiterbildung, Qualitätsmanagement und Personalentwicklung sind zusammen gekommen, um über die Digitalisierung und den Einsatz von Software im Bildungsmanagement zu diskutieren. Nach einer kleinen Vorstellungsrunde und einer kurzen Präsentation unserer Lösungen, folgten Vorträge unserer Kunden.
 

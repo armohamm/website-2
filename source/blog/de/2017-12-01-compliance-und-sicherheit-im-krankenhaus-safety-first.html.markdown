@@ -8,7 +8,7 @@ image: images/blog/social/compliance-sicherheit-1200x630.jpg
 featured_image: images/blog/featured/20171201-compliance-sicherheit.jpg
 ---
 
-**Die zunehmende Digitalisierung und die damit verbundenen neuen Gesetze setzen Krankenhäuser mehr und mehr unter Druck. Darum ist es umso wichtiger, dass die Themen Sicherheit und Compliance nicht ausschließlich von der IT- oder Personalabteilung getragen werden, sondern in allen Unternehmensbereichen abgedeckt sind. Wir klären Sie über die grundlegenden Herausforderungen und Lösungsmöglichkeiten auf.**
+__Die zunehmende Digitalisierung und die damit verbundenen neuen Gesetze setzen Krankenhäuser mehr und mehr unter Druck. Darum ist es umso wichtiger, dass die Themen Sicherheit und Compliance nicht ausschließlich von der IT- oder Personalabteilung getragen werden, sondern in allen Unternehmensbereichen abgedeckt sind. Wir klären Sie über die grundlegenden Herausforderungen und Lösungsmöglichkeiten auf.__
 
 Bereits die Cyber-Angriffe auf Krankenhäuser Anfang 2016 haben gezeigt, dass kritische Infrastrukturen vermehrt in die Zielscheibe von Kriminellen rücken. Tatsächlich war der Gesundheitssektor bereits 2015 der am Häufigsten aus dem Netz heraus angegriffene Bereich! Auch deshalb wurden in den letzten Jahren zahlreiche neue nationale und europäische Gesetze verabschiedet, um die Sicherheit der Unternehmen und die der Patienten auch in Zukunft gewährleisten zu können.
 

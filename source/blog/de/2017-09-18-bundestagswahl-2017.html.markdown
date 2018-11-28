@@ -7,11 +7,12 @@ lang: de
 image: images/blog/social/bundestagswahl-1200x630.jpg
 featured_image: images/blog/featured/20170918-bundestagswahl-2017.jpg
 ---
-**Am 24. September 2017 ist es soweit und bundesweit wird in Deutschland zur Wahlurne gebeten. Doch was versprechen die großen Parteien für das Gesundheitswesen in Deutschland? Wie wird die Digitalisierung voranschreiten?  Wir haben uns mit der Thematik befasst und die wichtigsten Unterpunkte der diesjährigen Bundestagswahl für Sie zusammengefasst.**
+
+__Am 24. September 2017 ist es soweit und bundesweit wird in Deutschland zur Wahlurne gebeten. Doch was versprechen die großen Parteien für das Gesundheitswesen in Deutschland? Wie wird die Digitalisierung voranschreiten?  Wir haben uns mit der Thematik befasst und die wichtigsten Unterpunkte der diesjährigen Bundestagswahl für Sie zusammengefasst.__
 
 ## Personalbegrenzungen in der Pflege?
 
-Bereits bei dem diesjährigen Deutschen Pflegetag im April haben wir feststellen können, dass das Thema Pflege eine bedeutende Rolle in der neuen Legislaturperiode einnehmen wird. Der zunehmende Personaldruck und die Belastungen am Arbeitsplatz erfordere neue politische Lösungsansätze, wurde schon damals von den Pflegern gefordert. Den Bericht zu der Veranstaltung [können Sie hier nachlesen](/blog/pflegetag-2017/){:title="Pflegetag 2017"}.
+Bereits bei dem diesjährigen Deutschen Pflegetag im April haben wir feststellen können, dass das Thema Pflege eine bedeutende Rolle in der neuen Legislaturperiode einnehmen wird. Der zunehmende Personaldruck und die Belastungen am Arbeitsplatz erfordere neue politische Lösungsansätze, wurde schon damals von den Pflegern gefordert. Den Bericht zu der Veranstaltung [können Sie hier nachlesen](/blog/pflegetag-2017/){:title="Blog uber Pflegetag 2017"}.
 
 Während alle genannten Parteien sich daher für eine Verbesserung der Arbeitsbedingungen oder Ausbildung im Bereich Pflege stark machen, gehen die Vorstellung bei Personalbemessungen auseinander: Die CDU, SPD und Grüne fordern einheitlich einen Personalschlüssel, um mögliche Untergrenzen festzulegen, auch wenn die Sozialdemokraten diese in andere Bereiche der Krankenpflege ausweiten möchten und die Grünen zusätzlich die Altenpflege dazuzählen. Die FDP dagegen lehnt Konzepte der Personalbemessung ab.
 
@@ -39,14 +40,13 @@ Mit der digitalen Patientenakte als Herzstücke möchte die CDU/CSU den von ihne
 Die SPD erkennt in der Telemedizin den wichtigsten Aspekt der Digitalisierung für das Gesundheitswesen und möchte diese entsprechend nutzen, um die flächendeckende Versorgung sicherzustellen. Die Patientenakte solle dabei für die sektorübergreifende Behandlung dienen.
 Auch die Grünen und die FDP sehen in der Gesundheitsakte Vorteile der Digitalisierung. Ein wesentlicher Punkt bleibt dabei jedoch weiterhin das Thema Datenschutz und geschützte Patienteninhalte. E-Health Systeme können nur dann funktionieren, wenn der freiwillige, sichere und direkte Datenaustausch gegeben sei.
 
-
 ## Zusammenfassung
 
 Auch wenn wir einige wichtige Themen des Gesundheitswesens mit Hinblick auf die kommende Bundestagswahl beleuchten konnten, so gibt es dennoch viele Fragezeichen hinter den verschiedenen Konzepten und Lösungsansätzen der Parteien. Nehmen Sie sich daher die Zeit, um die jeweiligen Parteiprogramme zu studieren, bevor Sie am 24. September Ihre Stimme abgeben.
 
 Schon jetzt lässt sich jedoch sagen, dass man mit großer Neugier auf die anstehende Wahl und die zukünftige Regierung blicken kann, denn es bleibt mit Spannung zu erwarten, wie diese die Aufgaben rund um das Gesundheitswesens konkret umsetzen wird.
 
-## Links
+### Links
 
 [www.cdu.de](https://www.cdu.de/){:target="_blank"}{:rel="noopener noreferrer"}{:title="CDU"}
 [www.die-linke.de](https://die-linke.de){:target="_blank"}{:rel="noopener noreferrer"}{:title="Die Linke"}

@@ -8,7 +8,7 @@ image: images/blog/social/deutschland-niederlanden-1200x630.png
 featured_image: images/blog/featured/20150713-unterschiede-deutschland-niederlanden.png
 ---
 
-In den letzten Monaten haben wir enthusiastisch mit einem CAPP-Projekt im Evangelischen Krankenhaus Oldenburg begonnen. Sofort zeigten sich witzige Unterschiede zwischen Deutschland und den Niederlanden.
+__In den letzten Monaten haben wir enthusiastisch mit einem CAPP-Projekt im Evangelischen Krankenhaus Oldenburg begonnen. Sofort zeigten sich witzige Unterschiede zwischen Deutschland und den Niederlanden.__
 
 Der Geburtsname zum Beispiel hat unterschiedliche Bedeutungen. In den Niederlanden bleibt der Geburtsname sehr wichtig, denn eigentlich werden Zertifikate immer auf den Geburtsnamen ausgestellt und nicht auf den Nachnamen des Partners, den man ggfs. angenommen hat. Daher kann man in CAPP neben seinem eigenen Nachnamen (Geburtsnamen) auch ggfs. noch den Nachnamen des Partners festlegen und angeben, mit welchem Namen oder mit welcher Kombination aus den beiden Namen er/sie angesprochen werden möchte.
 

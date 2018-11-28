@@ -2,13 +2,13 @@
 title: Ein Workshop zum Thema “Mittels E-Learning Zukunftsthemen bewegen”
 date: 2017-02-21 08:00 CEST
 tags: Workshop, E-Learning
-author: Martina
+author: Martina de Vos
 lang: de
 image: images/blog/social/workshop-zukunftsthemen-1200x630.png
 featured_image: images/blog/featured/20170221-e-learning-zukunftsthemen.jpg
 ---
 
-**Am Freitag den 9. Februar fand ein Workshop zum Thema Arbeitsattraktivität und Wissensmanagement statt. Defacto wurde von ZeQ eingeladen, gemeinsam diesen Workshop zu gestalten. Wir freuten uns also auf einen tollen Nachmittag, an dem viel Wissen in einer entspannten Atmosphäre miteinander geteilt werden konnte. Lesen Sie in diesem Blog eine Zusammenfassung von spannenden Denkansätzen.**
+__Am Freitag den 9. Februar fand ein Workshop zum Thema Arbeitsattraktivität und Wissensmanagement statt. Defacto wurde von ZeQ eingeladen, gemeinsam diesen Workshop zu gestalten. Wir freuten uns also auf einen tollen Nachmittag, an dem viel Wissen in einer entspannten Atmosphäre miteinander geteilt werden konnte. Lesen Sie in diesem Blog eine Zusammenfassung von spannenden Denkansätzen.__
 
 Wie der Untertitel schon verrät, sollte sich alles um das Thema bewegen, wie E-Learning unser zukünftiges Lernen verändern wird. Eine Frage die aktueller nicht sein könnte und an Relevanz in den nächsten Jahren nur zunehmen wird.
 
@@ -41,6 +41,3 @@ ZeQ entwickelt gemeinsam mit Krankenhäusern E-Learningmodule für das Gesundhei
 Defacto ist seit ca. 10 Jahren innerhalb des niederländischen Gesundheitssektors beschäftigt und konnte dadurch viel Erfahrung mit Implementierung und vor allem auch dem Prozess der Akzeptanz, ein solches System zu gebrauchen, sammeln und gibt es gerne weiter.
 
 Wir freuen uns, Sie zu den Themen E-Learning und Lernmanagementsystemen unterstützen und beraten zu können. Haben Sie vielleicht selbst Erfahrungen zum Thema gemacht? Teilen Sie auch diese gerne mit uns!
-
-Martina de Vos
-Aus- und Weiterbildungsberaterin

@@ -8,9 +8,9 @@ image: images/blog/social/zerocopter-1200x630.jpg
 featured_image: images/blog/featured/20170904-zerocopter.jpg
 ---
 
-__Als je software gebruikt wil je zeker weten dat het goed werkt, makkelijk in gebruik is én dat het veilig is. Het internet is van iedereen en je kunt ook alles op het internet vinden. Het is dus extra belangrijk om zeker te weten dat jouw data niet zomaar op straat komt te liggen. Wij vinden het belangrijk dat jouw data veilig is bij ons, daarin gaan we net een stapje verder. Sinds januari 2017 werken we daarom samen met [Zerocopter](https://zerocopter.com/){:target="_blank"}{:rel="Zerocopter"}{:title="Zerocopter"} en laten we ons regelmatig hacken.__
+__Als je software gebruikt wil je zeker weten dat het goed werkt, makkelijk in gebruik is én dat het veilig is. Het internet is van iedereen en je kunt ook alles op het internet vinden. Het is dus extra belangrijk om zeker te weten dat jouw data niet zomaar op straat komt te liggen. Wij vinden het belangrijk dat jouw data veilig is bij ons, daarin gaan we net een stapje verder. Sinds januari 2017 werken we daarom samen met [Zerocopter](https://zerocopter.com/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Zerocopter"} en laten we ons regelmatig hacken.__
 
-[![Zerocopter](/images/blog/zerocopter-logo.jpg)](https://zerocopter.com/){:target="_blank"}{:rel="Zerocopter"}{:title="Zerocopter"}
+[![Zerocopter](/images/blog/zerocopter-logo.jpg)](https://zerocopter.com/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Zerocopter"}
 
 Maar hacken is toch juist wat we *niet* willen? Dat klopt! Zerocopter werkt samen met ethische hackers. Deze hackers zijn aangesloten bij Zerocopter en helpen om gaten in de beveiliging van onze software te vinden. Hun doel? Manieren vinden om onze software binnen te komen zodat wij weer kunnen zorgen dat die gaten gedicht worden. Soms is iets stukmaken de beste manier om iets beter te maken. Of in dit geval: het proberen te hacken.
 

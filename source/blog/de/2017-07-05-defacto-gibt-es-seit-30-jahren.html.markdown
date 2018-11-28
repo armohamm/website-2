@@ -8,7 +8,7 @@ image: images/blog/social/30-jaar-1200x630.jpg
 featured_image: images/blog/featured/20170627-30-jaar.jpg
 ---
 
-**2017 ist das Jahr an dem [Defacto](/uber-uns/) seit 30 Jahren besteht, das ist natürlich Grund genug um ausgiebig zu feiern. Am 16. Juli war der Garten am Zuiderpark 3 voll mit (alten) Kollegen, Familie und Freunden und es wurden mit Essen, Trinken und der Defacto Band die letzten 30 Jahre gefeiert.**
+__2017 ist das Jahr an dem [Defacto](/uber-uns/) seit 30 Jahren besteht, das ist natürlich Grund genug um ausgiebig zu feiern. Am 16. Juli war der Garten am Zuiderpark 3 voll mit (alten) Kollegen, Familie und Freunden und es wurden mit Essen, Trinken und der Defacto Band die letzten 30 Jahre gefeiert.__
 
 Catering mit smokey BBQ, Desserts, [Holy Water gin](http://holywater.church/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Holy Water gin"}, Lichterketten und Feuerkörbe. Der Kies der normalerweise mit Autos zugeparkt ist, war jetzt Schauplatz für ein Sommerfest mit Partyzelt. Die rund 100 Gäste sorgten eine gemütliche und unterhaltsame Atmosphäre in der jeder warm empfangen wurde.
 

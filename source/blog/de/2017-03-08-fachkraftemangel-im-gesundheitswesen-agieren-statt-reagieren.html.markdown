@@ -8,7 +8,7 @@ image: images/blog/social/fachkraftemangel-1200x630.png
 featured_image: images/blog/featured/20170308-fachkraftemangel.jpg
 ---
 
-**Egal ob in der Politik, den Krankenhäusern und Kliniken oder bei den Ausbildungszentren selbst, das Thema Fachkräftemangel geistert bereits seit einiger Zeit durch das deutsche Gesundheitssystem und bringt die Verantwortlichen ins Schwitzen. Doch was sind die genauen Ursachen und wie sehen momentane Lösungsansätze aus?**
+__Egal ob in der Politik, den Krankenhäusern und Kliniken oder bei den Ausbildungszentren selbst, das Thema Fachkräftemangel geistert bereits seit einiger Zeit durch das deutsche Gesundheitssystem und bringt die Verantwortlichen ins Schwitzen. Doch was sind die genauen Ursachen und wie sehen momentane Lösungsansätze aus?__
 
 Wie die Bundesagentur für Arbeit in ihrer im Dezember 2016 publizierten Studie veröffentlichte, ist der akute Fachkräftemangel eine Belastung für das gesamte Gesundheitssystem in Deutschland. Die Engpässe bestehen in nahezu allen Bundesländern und umfassen Experten der Humanmedizin und Pharmazie, Fachkräfte und Spezialisten in der Gesundheits-, Kranken- und Altenpflege sowie Physiotherapeuten und Therapeutinnen. Während es in anderen Berufen durchschnittlich 95 Tage dauert, bedarf es demnach rund 132 Tage, um einen Beruf der Kranken- und Gesundheitspflege zu füllen!
 

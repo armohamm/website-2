@@ -8,7 +8,7 @@ image: images/blog/social/lunchbreak-learning-1200x630.jpg
 featured_image: images/blog/featured/20160330-lunchbreak-learning.jpg
 ---
 
-Mittagspause: Die Zeit des Tages, wenn die Mitarbeiter ihre Arbeit unterbrechen und essen gehen. Aber Pause bedeutet nicht automatisch, dass man in dieser Zeit keine guten Einfälle haben kann.
+__Mittagspause: Die Zeit des Tages, wenn die Mitarbeiter ihre Arbeit unterbrechen und essen gehen. Aber Pause bedeutet nicht automatisch, dass man in dieser Zeit keine guten Einfälle haben kann.__
 
 Sehen Sie, darüber haben Sie noch nicht nachgedacht! Das Büro und die Mittagspause erzeugen sogar eine noch stärkere Verbundenheit und einen extremen Ideenfluss. Das ist die Zeit, in der Sie die meisten Kollegen sehen: Sie hören ihre Meinungen, Witze, Probleme, Lösungen und noch viel mehr.
 

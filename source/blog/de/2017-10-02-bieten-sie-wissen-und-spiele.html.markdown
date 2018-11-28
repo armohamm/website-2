@@ -8,25 +8,25 @@ image: images/blog/social/modern-learner-1200x630.png
 featured_image: images/blog/featured/20150521-modern-learner.png
 ---
 
-Wie können Sie die Lernfähigkeit Ihrer Mitarbeiter erhöhen? Durch die Kombination von Wissen mit (Online-) Spielen.
+__Wie können Sie die Lernfähigkeit Ihrer Mitarbeiter erhöhen? Durch die Kombination von Wissen mit (Online-) Spielen.__
 
 ![modern learner infographic](/images/blog/en/meet-the-modern-learner-infographic.jpg)
 
-**Die Definition**: : Der moderne Lerner – eine Person, die lernen möchte was und wann sie will. Oder jemand, der sich leicht ablenken lässt und dessen Lernbedürfnisse und -gewohnheiten sich entsprechend ändern.
+__Die Definition__: : Der moderne Lerner – eine Person, die lernen möchte was und wann sie will. Oder jemand, der sich leicht ablenken lässt und dessen Lernbedürfnisse und -gewohnheiten sich entsprechend ändern.
 
-**Eigenschaften**: überwältigt, abgelenkt, ungeduldig.
+__Eigenschaften__: überwältigt, abgelenkt, ungeduldig.
 
-**Braucht**: auf ihn zugeschnittenes, interaktives und spaßiges Material, universellen Zugang und konzentriertes Wissen.
+__Braucht__: auf ihn zugeschnittenes, interaktives und spaßiges Material, universellen Zugang und konzentriertes Wissen.
 
 Jetzt, wo wir die wichtigen Begrifflichkeiten geklärt haben, können wir einen genaueren Blick auf die Gründe werfen. Wie hat sich der moderne Lerner entwickelt, wie kann man ihm helfen und wie können moderne Lerner Ihnen helfen?
 
-**Lieber moderner Lerner,**
+__Lieber moderner Lerner,__
 
 zunächst die Frage: Warum sind Sie so, wie Sie sind? Sie lesen diesen Blogeintrag während der Arbeit, Ihr Smartphone ist so eingerichtet, dass Sie über eine Push-Benachrichtigung alle 2 Minuten über die neuesten Einträge bei Facebook, Twitter oder LinkedIn informiert werden, Sie lassen sich von fast Allem in Ihrer Umgebung ablenken. Sie wollen alles hier und jetzt, nicht übermorgen, sondern jetzt. Vielleicht vermittelt Ihnen Ihr moderner Arbeitsplatz den Eindruck, dass Wissen immer einfach zu erreichen, zu finden und zu vermitteln sein sollte.
 
 Und wie sieht die Realität aus? Ihr Arbeitgeber stellt hohe Anforderungen an Sie: Sie müssen immer auf dem neuesten Stand sein. Gleichzeitig bietet er Ihnen aber nicht immer den dafür notwendigen Zugriff auf das innerhalb der Firma verfügbare Wissen. Eigentlich ist das weder für Sie noch für Ihren Arbeitgeber fair, denn am Ende wünschen Sie sich beide eine Win-win-Situation. Eine Situation, in der Sie an das Wissen kommen, das Ihnen dabei hilft, Ihre Aufgaben schnell und effektiv zu erledigen.
 
-**Lieber Arbeitgeber,**
+__Lieber Arbeitgeber,__
 
 Wie können Sie das Lernpotenzial Ihrer Arbeitnehmer steigern? Bieten Sie ihnen Wissen und Spiele, lassen Sie Ihre Arbeitnehmer lernen, wann immer sich die Möglichkeit bietet? Zunächst müssen Sie die Vorteile des individuellen, zwanglosen Lernens verstehen. 
 

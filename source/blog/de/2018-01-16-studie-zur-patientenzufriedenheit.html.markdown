@@ -8,7 +8,7 @@ image: images/blog/social/patientenzufriedenheit-1200x630.jpg
 featured_image: images/blog/featured/20180116-patientenzufriedenheit.png
 ---
 
-**In einer aktuellen Studie stellt die Wirtschaftsprüfungs- und Beratungsgesellschaft Pricewaterhouse Cooper (PwC) Ergebnisse einer Umfrage zur Patientenzufriedenheit im deutschen Gesundheitswesen vor. Was erwarten Patienten von ihrem Krankenhaus und welche Kriterien sind für die Wahl des Hauses entscheidend? Wir haben uns der Studie gewidmet und präsentieren die wichtigsten Punkte rund um Patientenzufriedenheit und Digitalisierung auf einen Blick.**
+__In einer aktuellen Studie stellt die Wirtschaftsprüfungs- und Beratungsgesellschaft Pricewaterhouse Cooper (PwC) Ergebnisse einer Umfrage zur Patientenzufriedenheit im deutschen Gesundheitswesen vor. Was erwarten Patienten von ihrem Krankenhaus und welche Kriterien sind für die Wahl des Hauses entscheidend? Wir haben uns der Studie gewidmet und präsentieren die wichtigsten Punkte rund um Patientenzufriedenheit und Digitalisierung auf einen Blick.__
 
 Im vergangenen Jahr wurden rund 19,5 Millionen Patienten in deutschen Krankenhäusern behandelt. Was sind deren Eindrücke von der Patientenversorgung? Um das herauszufinden hat die Wirtschaftsprüfungs- und Beratungsgesellschaft PwC im November eine [repräsentative Umfrage unter 1,000 Bürgern](https://www.pwc.de/de/pressemitteilungen/2017/pwc-studie-erste-hilfe-krankenhaeuser-2017-v2.pdf){:target="_blank"}{:rel="noopener noreferrer"}{:title="PwC Studie"} durchgeführt. Das Ergebnis: Die verfügbare Nähe und die Qualität der Versorgung stehen an erster Stelle der Patienten.
 

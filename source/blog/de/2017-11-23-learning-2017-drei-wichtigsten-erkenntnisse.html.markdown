@@ -8,7 +8,7 @@ image: images/blog/social/masie-learning-2017-1200x630.jpg
 featured_image: images/blog/featured/20171023-learning-2017-masie.jpg
 ---
 
-**Meine Teilnahme am [Learning 2017 Event](https://www.learning2017.com){:target="_blank"}{:rel="noopener noreferrer"}{:title="Learning 2017"} von Eliott Masie in Orlando ist inzwischen schon wieder zwei Wochen her. Dennoch befinde ich mich wegen all der Eindrücke und Inspirationen immer noch in einer Art Rauschzustand. Bevor ich aber in einer Reihe von Blogs genauer auf Einzelheiten eingehe, möchte ich gerne meine wichtigsten "Take-away’s" dieses Kongresses mit Ihnen teilen.**
+__Meine Teilnahme am [Learning 2017 Event](https://www.learning2017.com){:target="_blank"}{:rel="noopener noreferrer"}{:title="Learning 2017"} von Eliott Masie in Orlando ist inzwischen schon wieder zwei Wochen her. Dennoch befinde ich mich wegen all der Eindrücke und Inspirationen immer noch in einer Art Rauschzustand. Bevor ich aber in einer Reihe von Blogs genauer auf Einzelheiten eingehe, möchte ich gerne meine wichtigsten "Take-away’s" dieses Kongresses mit Ihnen teilen.__
 
 ## Scheitern ist gut
 

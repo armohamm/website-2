@@ -8,9 +8,9 @@ image: images/blog/social/mein-e-learning-modul-1200x630.png
 featured_image: images/blog/featured/20160721-hilfe-scorm.png
 ---
 
-### - SCORM Sores – ein einfach auszuführender Plan für Ihre Problemanalyse -
+## - SCORM Sores – ein einfach auszuführender Plan für Ihre Problemanalyse -
 
-**E-Learning Module. Jede Organisation hat heutzutage das Ein oder Andere. Vor allem hat jede Organisation, die auch E-Learning Module hat, ab und zu Probleme damit. Module die nicht starten, Filme die nicht abgespielt werden können, Resultate die nicht zu finden sind. Die Liste lässt sich fröhlich fortsetzen. Was können Sie also tun, um die Ursache des Problems schnell zu finden?**
+__E-Learning Module. Jede Organisation hat heutzutage das Ein oder Andere. Vor allem hat jede Organisation, die auch E-Learning Module hat, ab und zu Probleme damit. Module die nicht starten, Filme die nicht abgespielt werden können, Resultate die nicht zu finden sind. Die Liste lässt sich fröhlich fortsetzen. Was können Sie also tun, um die Ursache des Problems schnell zu finden?__
 
 Damit Probleme gar nicht erst auftreten, versuchen wir eine enge Beziehung mit den E-Learning Anbietern zu pflegen, mit denen unsere Kunden zu tun haben. Trotzdem kann man Probleme manchmal nicht vermeiden, was, für alle Beteiligten, zu Frustration führen kann.
 
@@ -44,7 +44,8 @@ Der Anbieter Ihres E-Learning Moduls kann normalerweise angeben, welche Plug-Ins
 
 ## 2. Schritt: Spielen Sie das Modul in einem anderen LMS ab
 
-Wenn das Modul in keinem Browser das gewünschte Resultat bringt, bleiben noch zwei Felder übrig, in denen das Problem sitzen kann. Als nächstes können Sie am besten kontrollieren ob das Problem in Ihrem LMS sitzt. Dazu müssen Sie das E-Learning Modul in einem anderen LMS abspielen. Hierfür gibt es ein sehr brauchbares Online-Tool: [SCORM-Cloud](https://cloud.scorm.com/){:target="_blank"}.
+
+Wenn das Modul in keinem Browser das gewünschte Resultat bringt, bleiben noch zwei Felder übrig, in denen das Problem sitzen kann. Als nächstes können Sie am besten kontrollieren ob das Problem in Ihrem LMS sitzt. Dazu müssen Sie das E-Learning Modul in einem anderen LMS abspielen. Hierfür gibt es ein sehr brauchbares Online-Tool: [SCORM-Cloud](https://cloud.scorm.com/){:title="SCORM Cloud"}{ :target="_blank" }{:rel="noopener noreferrer"}.
 
 Die SCORM-Cloud ist international anerkannt als “der SCORM-Standard”. Es ist die sauberste E-Learning Umgebung, die sie verwenden können. Mit Modulen die kleiner als 100MB sind, können Sie mit einem gratis Account die Module testen (siehe auch der Screenshot von einem Demo Modul hierunter). Wenn Ihr Modul in der SCORM-Umgebung keinen Error anzeigt, ist mit dem Modul alles in Ordnung. Wahrscheinlich liegt das Problem dann bei Ihrem Anbieter, der an dieser Stelle selbst nach dem Problem suchen muss.
 

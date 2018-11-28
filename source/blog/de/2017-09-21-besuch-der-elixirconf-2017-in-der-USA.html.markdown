@@ -7,7 +7,8 @@ lang: de
 image: images/blog/social/elixirconf-1200x630.jpg
 featured_image: images/blog/featured/20170921-elixirconf.jpg
 ---
-**Bei Defacto legen wir großen Wert auf die Entwicklung unserer eigenen Mitarbeiter. Natürlich, denn unser Ziel ist es, die Entwicklung von Menschen zu fördern. Allerdings kann es manchmal schwierig sein, die Zeit und das Engagement zu finden, genau dies zu tun: Sich selbst zu entwickeln.**
+
+__Bei Defacto legen wir großen Wert auf die Entwicklung unserer eigenen Mitarbeiter. Natürlich, denn unser Ziel ist es, die Entwicklung von Menschen zu fördern. Allerdings kann es manchmal schwierig sein, die Zeit und das Engagement zu finden, genau dies zu tun: Sich selbst zu entwickeln.__
 
 In der sich ständig verändernden Landschaft der Softwareentwicklung präsentieren sich Lernmöglichkeiten oft in Form von Micro-Learning, also in Form von Blogposts, (Video-) Tutorials oder sogar technischen Dokumentationen. Manchmal ist es jedoch wichtig, sich auch körperlich in Lernprozesse einzubringen, mit echten Menschen zu interagieren und aktiv an Seminaren oder Workshops teilzunehmen. Wenn man dies zudem noch mit den Arbeitskollegen macht, ist der Lerneffekt noch besser: Man kann so zusammen über das vorgestellte Material und die Herausforderungen reflektieren, die man während der Zeit am Arbeitsplatz erfährt.
 
