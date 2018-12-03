@@ -1,5 +1,4 @@
 body.capp-agile-learning {
-
   .header-image {
     $hero-image: "../images/moods/capp-agile-learning.jpg";
     background: $green url($hero-image) center fixed;
@@ -10,10 +9,15 @@ body.capp-agile-learning {
 
     .logo-capp-agile-learning {
       margin: 0 auto 1.2em;
-      max-width: 400px;
+      width: 240px;
+
+      @include media($medium-up) {
+        width: 320px;
+      }
     }
 
     .hero-inner {
+      padding: 3em 1em 2em;
       position: relative;
 
       @include media($large-up) {
