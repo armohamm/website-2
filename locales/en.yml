@@ -4,6 +4,7 @@ en:
     formats:
       blog_date: "%e %B %Y"
   CNAME: en.defacto.nl
+  current_locale: "English"
 
   # Path translations
   paths:
@@ -42,6 +43,7 @@ en:
   actions:
     download: Download
     download_productsheet: "Download productsheet"
+    request_demo: "Request a demo"
     home:
       demo: "Request a demo"
       productsheet: "Download a productsheet"
@@ -248,14 +250,17 @@ en:
     name: CAPP Quality Portfolio
   nav:
     capp-lms: "LMS and efficiency software to advance the development of your employees"
+    capp-learn: "Intuitive learning management system for knowledge-intensive organisations"
     kwaliteitspaspoort: "Real-time insights into competencies within your organisation"
     capp-agile: "Performance support on demand"
     starterkit: "Create your own professional e-learning content"
     threesixty: "Increase the efficiency and quality of your HRD"
+    close: "Close"
   products:
     title: "Products that we are proud of"
     capp:
       capp-lms: "CAPP Learning & Developing"
+      learn: "CAPP Learning & Developing"
   productsheet_download:
     heading: "More information about training and learning with CAPP LMS?"
     title: "Download CAPP Productsheet"

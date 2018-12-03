@@ -1,24 +1,30 @@
 <div class="header-image">
 
-  <header class="header <%= header_style %> dropdown-menu" data-header="fixed">
+  <header class="global-navigation no-dropdown-transition initialized <%= header_style %>" data-header="fixed" role="banner">
 
-    <div class="header-container">
+    <nav>
+      <div class="container">
 
-      <div class="logo">
+        <ul class="nav-root">
 
-        <% locale_link_to("/", relative: false) do %>
-          <%= inline_svg "logos/logo-defacto.svg", title: "Defacto Software" %>
-        <% end %>
+          <li class="nav-section logo">
+            <% locale_link_to("/", relative: false, class: "root-link item-home") do %>
+              <span>
+                <%= inline_svg "logos/logo-defacto.svg", title: "Defacto Software" %>
+              </span>
+            <% end %>
+          </li>
+
+          <%= partial "header/nav-primary" %>
+
+        </ul>
 
       </div>
 
-      <a href="#" class="nav-trigger <%= "nav-trigger-white" if nav_white? %>">
-        <span aria-hidden="true"></span>
-      </a>
+      <%= partial "header/nav-mobile" %>
 
-      <%= partial "header/main-nav" %>
-
-    </div>
+      <%= partial "header/nav-dropdowns" %>
+    </nav>
 
   </header>
 

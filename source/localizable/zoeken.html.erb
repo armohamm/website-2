@@ -16,11 +16,11 @@ index: false
   read_more: t("actions.read_more"),
   build_date: DateTime.now().to_time.to_i,
 } do %>
-  <section class="gray">
+  <section class="heading-secondary">
     <div class="row">
       <div class="headline">
         <h1><%= t("search.heading") %></h1>
-        <input id="search-input" placeholder="<%= t("search.placeholder") %>" type="text">
+        <input id="search-input" class="search-input" placeholder="<%= t("search.placeholder") %>" type="text">
 
         <div class="index-info">
           <div id="downloading">

@@ -1,7 +1,5 @@
 body.klanten_index {
-  text-align: center;
-
-  .references-list {
+  ul.references-list {
     > li {
       background-color: $white;
       height: 150px;

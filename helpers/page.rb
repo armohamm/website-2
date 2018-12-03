@@ -37,6 +37,11 @@ module Page
     (page.url =~ %r{^\/jobs\/(\d+\/)?$}).present?
   end
 
+  # Cases index?
+  def cases_index?(page = current_page)
+    (page.url =~ %r{^\/cases\/(\d+\/)?$}).present?
+  end
+
   # CAPP Agile Learning page?
   def capp_agile_url?(page = current_page)
     page.url == "/capp-agile-learning/"

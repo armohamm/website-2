@@ -1,6 +1,5 @@
 .testimonials {
   background-color: $lighter-gray;
-  text-align: center;
 
   .testimonial-list {
     margin: 0 auto;
@@ -105,6 +104,10 @@
           }
         }
       }
+    }
+
+    .testimonials-button {
+      text-align: center;
     }
   }
 }

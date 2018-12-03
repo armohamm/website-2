@@ -17,10 +17,6 @@ html {
 
 body {
   height: 100%;
-
-  @include media($menu-desktop) {
-    padding-top: $header-height;
-  }
 }
 
 .page-wrap {

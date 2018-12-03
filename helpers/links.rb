@@ -19,17 +19,28 @@ module Links
 
   # Get full jobs url
   def full_jobs_url(lang)
-    lang == :en ? "/" : full_url("/jobs/", lang)
+    full_url("/jobs/", lang)
   end
 
-  # Get full url
-  def full_url(url, locale = I18n.locale)
+  # Get full cases url
+  def full_cases_url(lang)
+    lang == :en ? "/" : full_url("/cases/", lang)
+  end
+
+  # Get full current url
+  def full_env_url(url, locale = I18n.locale)
     base =
       if staging
         "https://staging.defacto.nl"
       else
         "https://#{I18n.t('CNAME', locale: locale)}"
       end
+    URI.join(base, url).to_s
+  end
+
+  # Get full url
+  def full_url(url, locale = I18n.locale)
+    base = "https://#{I18n.t('CNAME', locale: locale)}"
     URI.join(base, url).to_s
   end
 end

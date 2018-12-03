@@ -4,6 +4,7 @@ de:
     formats:
       blog_date: "%e. %B %Y"
   CNAME: www.defactolearning.de
+  current_locale: "Deutsch"
 
   # Path translations
   paths:
@@ -92,6 +93,7 @@ de:
     tell_me_more: "Erzähl mir mehr"
     try_for_free: "Gratis testen"
     visit_website: "Besuche die Website"
+    request_demo: "Demo anfragen"
     home:
       demo: "Demo anfragen"
       productsheet: "Produktblatt herunterladen"
@@ -329,7 +331,7 @@ de:
       image: screenshots/hero-qualitatspass.png
     logo: logos/qualitatspass_qualitatsmonitor_white.png
     logo_underneath: logos/qualitatspass_qualitatsmonitor_underneath.png
-    name: "Qualitätspass & Qualitätsmonitor"
+    name: "Qualitätspass & Monitor"
   nav:
     capp-learn: "Software für ein effizientes Bildungsmanagement und E-Learning"
     capp-develop: "Bieten Sie nachhaltige und innovative Talententwicklung"
@@ -337,6 +339,7 @@ de:
     capp-agile: "Performance-Support für alle Unternehmen und Organisationen"
     starterkit: "Lernen Sie, eigene E-Learning Module zu erstellen"
     threesixty: "Die Sichtweisen der anderen kennen, um sich selbst weiterzuentwickeln"
+    close: "Schließen"
   privacy-policy:
     name: "Datenschutzerklärung"
     text: "Mit Nutzung dieser Website, geben Sie ihr Einverständnis mit unserer %{link} ab"

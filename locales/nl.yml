@@ -4,6 +4,7 @@ nl:
     formats:
       blog_date: "%e %B %Y"
   CNAME: www.defacto.nl
+  current_locale: "Nederlands"
 
   urls:
     contact: https://formkeep.com/f/aff54030c202
@@ -60,6 +61,7 @@ nl:
     tell_me_more: "Vertel me meer"
     try_for_free: "Probeer gratis"
     visit_website: "Bezoek de website"
+    request_demo: "Productdemo aanvragen"
     home:
       demo: "Vraag een demo aan"
   blog:
@@ -295,6 +297,7 @@ nl:
     kwaliteitspaspoort: "Real-time inzicht in bevoegd- en bekwaamheid binnen je organisatie"
     capp-agile: "Performance support voor elke organisatie"
     threesixty: "Maak een efficiëntieslag in je HRD"
+    close: "Sluiten"
   privacy-policy:
     name: "Privacy Policy"
     text: "Door deze website te gebruiken stemt u in met onze %{link}"

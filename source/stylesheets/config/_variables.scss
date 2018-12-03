@@ -3,7 +3,6 @@ $header-height: 74px;
 
 // Typography
 $base-font-family: 'Open Sans', $helvetica;
-// $heading-font-family: 'Montserrat', $base-font-family;
 $heading-font-family: $base-font-family;
 $quote-font-family: "Trebuchet MS", $helvetica;
 
@@ -83,6 +82,10 @@ $action-color: $orange;
 // Border
 $base-border-color: $light-gray;
 $base-border: 1px solid $base-border-color;
+
+// Navigation colors
+$shadow-blue: #32325d;
+$shadow-blueish: #525f7f;
 
 // Forms
 $form-box-shadow: inset 0 1px 3px rgba($black, 0.06);

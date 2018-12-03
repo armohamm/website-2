@@ -51,6 +51,20 @@ body.demo-aanvragen {
         padding: 3em;
       }
 
+      input {
+        border-color: $base-border-color;
+      }
+
+      button,
+      .button {
+        margin: 0 0 1.5em;
+
+        @include media($medium-up) {
+          display: inline-block;
+          margin: 0;
+        }
+      }
+
       &::before,
       &::after {
         @include card-shadow;

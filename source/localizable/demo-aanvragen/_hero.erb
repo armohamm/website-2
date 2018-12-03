@@ -1,17 +1,20 @@
 <div class="hero">
-  <div class="row">
+  <div class="hero-inner">
 
     <h1>
       <%= t("demo_request.title") %>
     </h1>
 
     <div class="card">
+
       <h2>
         <%= t("demo_request.form_title") %>
       </h2>
+
       <p>
         <%= t("demo_request.form_text") %>
       </p>
+
       <form class="form-conversion" accept-charset="UTF-8" action="<%= t("urls.contact") %>" method="POST">
         <input type="hidden" name="utf8" value="✓">
         <input type="hidden" name="form" value="<%= t("demo_request.formkeep_title") %>">
@@ -20,6 +23,7 @@
         <input class="required" type="email" name="email" placeholder="<%= t("form.email") %>" required>
         <button type="submit" class="button pink"><%= t("actions.make_appointment") %></button>
       </form>
+  
     </div>
 
   </div>

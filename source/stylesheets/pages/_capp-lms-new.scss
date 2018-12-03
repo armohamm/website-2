@@ -97,7 +97,7 @@ body.nl.capp-lms {
     }
 
     .row {
-      padding: 3em 1em;
+      padding: em($header-height) + 3em 1em 3em;
     }
 
     .logo {

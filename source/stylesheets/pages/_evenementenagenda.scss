@@ -21,10 +21,10 @@ body.evenementenagenda {
     }
 
     .hero-inner {
-      padding: 3em 1em;
+      padding: em($header-height) + 3em 1em 3em;
 
       @include media($medium-up) {
-        padding: 4em 1em;
+        padding: em($header-height) + 4em 1em 4em;
       }
     }
 

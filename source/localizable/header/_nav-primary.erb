@@ -1,0 +1,21 @@
+<li class="nav-section primary">
+  <%= nav_link_to t("header.products"), "/producten.html", class: "root-link item-products has-dropdown", "data-dropdown": "products" %>
+
+  <%= nav_link_to t("header.services"), "/diensten.html", class: "root-link item-service has-dropdown", "data-dropdown": "service" %>
+
+  <%= nav_link_to t("about.clients"), "/klanten.html", class: "root-link item-clients has-dropdown", "data-dropdown": "clients" %>
+
+  <%= nav_link_to "Defacto", "/over-ons.html", class: "root-link item-company has-dropdown", "data-dropdown": "company" %>
+</li>
+
+<li class="nav-section secondary">
+  <% locale_link_to("/zoeken.html", class: "root-link item-search") do %>
+    <%= inline_svg "icons/search.svg", title: t("footer.search") %>
+  <% end %>
+
+  <a class="root-link current-lang item-language has-dropdown" data-dropdown="languages">
+    <%= root_locale.upcase %>
+  </a>
+
+  <%= link_to t("actions.request_demo"), "/demo-aanvragen.html", class: "root-link button rounded pink item-demo" %>
+</li>
