@@ -4,7 +4,6 @@ date: 2018-11-22 8:00 CEST
 tags: Defacto, netwerkbijeenkomst
 author: Arnoud
 lang: nl
-featured: true
 image: images/blog/social/masies-learning-1200x630.jpg
 featured_image: images/blog/featured/20181123-masies-learning.jpg
 header_image: moods/masies-learning-mood.jpg
