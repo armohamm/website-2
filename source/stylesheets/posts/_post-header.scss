@@ -8,11 +8,6 @@
   text-align: center;
   width: 100%;
 
-  .blog-article & {
-    padding-bottom: 8em;
-    padding-top: 8em;
-  }
-
   &::before {
     @include hero-header-overlay;
   }
