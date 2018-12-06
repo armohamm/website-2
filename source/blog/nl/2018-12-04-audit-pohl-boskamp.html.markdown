@@ -25,7 +25,7 @@ Een belangrijk aspect van onze diensten is een robuuste server infrastructuur, h
 - ISO 27018 (Personal Data Protection)
 - TÜV Rheinland (Certified Cloud Service)
 
-Wat erg positief uit de audit komt is het bereik van de back-up recovery, dat er op verzoek snapshots van de gegevens gemaakt kunnen worden en in geval van extreme noodsituaties het van korte duur is voordat alle diensten weer volledig operationeel is.
+Wat erg positief uit de audit komt is het bereik van de back-up recovery, dat er op verzoek snapshots van de gegevens gemaakt kunnen worden en in geval van extreme noodsituaties het van korte duur is voordat alle diensten weer volledig operationeel zijn.
 
 Er is op het gebied van de beveiliging gekeken naar hoe we hier mee omgaan. Voor medewerkers van Defacto is het verplicht dat ze gebruikmaken van 2 Factor Authenticatie en een [password manager](https://1password.com/){:target="_blank"}{:rel="noopener noreferrer"}{:title="1Password"} voor toegang tot de software. Externe partijen zoals [Zerocopter](https://zerocopter.com){:target="_blank"}{:rel="noopener noreferrer"}{:title="Zerocopter"} doen regelmatig tests om mogelijke kwetsbaarheden in (de toegang tot) onze software te voorkomen.
 
