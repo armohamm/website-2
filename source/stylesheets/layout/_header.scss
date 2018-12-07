@@ -592,6 +592,11 @@ header.global-navigation {
 
   .product-icon {
     width: 48px;
+
+    svg {
+      display: block;
+      margin: 0 auto;
+    }
   }
 
   .product-link-content {
