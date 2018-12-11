@@ -198,7 +198,7 @@
               <%= nav_link_to t("header.about"), "/over-ons.html", class: "item-about-us" %>
             </li>
 
-            <% if root_locale == :nl %>
+            <% unless root_locale == :en %>
               <li>
                 <%= nav_link_to "Service & Support", "/support.html", class: "item-service" %>
               </li>

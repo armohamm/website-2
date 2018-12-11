@@ -242,7 +242,7 @@
             <% end %>
           </li>
 
-          <% if root_locale == :nl %>
+          <% unless root_locale == :en %>
             <li>
               <% nav_link_to("/support.html", class: "link-container with-icon") do %>
                 <span class="link-title link-icon">

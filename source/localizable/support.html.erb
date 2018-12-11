@@ -1,8 +1,12 @@
 ---
-title: Service & Support
-description: De servicedesk van Defacto. Hier kunt u terecht voor al uw issues, technische vragen en onderhoudswerkzaamheden.
+title:
+  nl: Service & Support
+  de: Service & Support
+description:
+  nl: De servicedesk van Defacto. Hier kunt u terecht voor al uw issues, technische vragen en onderhoudswerkzaamheden.
+  de: Service und Support von Defacto. Wir helfen Ihnen gerne weiter bei Problemen, technischen Fragen und Updates.
 intercom: servicedesk
-lang_ignore: de, en
+lang_ignore: en
 ---
 
 <div class="hero">
@@ -10,11 +14,11 @@ lang_ignore: de, en
   <div class="hero-inner">
 
     <h1>
-      Service & Support
+      <%= t("service.title") %>
     </h1>
 
     <p>
-      De servicedesk van Defacto. Hier kunt u terecht voor al uw issues, technische vragen en onderhoudswerkzaamheden.
+      <%= t("service.title_text") %>
     </p>
 
   </div>
@@ -27,43 +31,7 @@ lang_ignore: de, en
 
     <article>
 
-      <p>
-        Defacto biedt een uitgebreid pakket aan service & support voor onze klanten. Bent u een key user en heeft u een probleem, een technische vraag of gaat het om andere ondersteuning? U kunt ons op verschillende manieren bereiken.
-      </p>
-
-      <h2>
-        Chat
-      </h2>
-
-      <p>
-        In CAPP Learning & Talent Management en CAPP Agile Learning kunt u het snelst contact met ons opnemen door de geïntegreerde chatfunctionaliteit. U kunt ook vanuit deze pagina direct met onze service & support medewerkers chatten. Dit kunt u doen via het Intercom-icoon rechtsonderin. Indien u dit doet, dan willen we u vragen een e-mailadres op te geven, dan kunnen we u altijd bereiken. U kunt ons ook bereiken via <a href="/contact/#contact-form">het contactformulier.</a>
-      </p>
-
-      <h2>
-        Defacto Portaal
-      </h2>
-
-      <p>
-        Via het <a href="https://defactoportaal.cappagile.com" target="_blank">Defacto Portaal</a>, waarvoor we natuurlijk gebruikmaken van de mogelijkheden van CAPP Agile Learning, publiceren we alle nodige en relevante documentatie over onze software, zoals release notes, handleidingen en nog veel meer.
-      </p>
-
-      <h2>
-        Telefoon
-      </h2>
-
-      <p>
-        Wanneer telefonische afstemming noodzakelijk of gemakkelijker is, dan is de Servicedesk tussen 09.00 uur en 17.00 uur bereikbaar via het algemene nummer van Defacto 050 3144 832 (optie 2) om meldingen door te geven.
-
-        Voor een prioriteit 1 melding (de programmatuur is niet te gebruiken) verzoeken wij om dit telefonisch te melden. Dit kunt u ook doen via bovenstaand telefoonnummer.
-      </p>
-
-      <h2>
-        Vragen over de inrichting en implementatie
-      </h2>
-
-      <p>
-        Ons service & support team staat voor u klaar voor de dagelijkse ondersteuning bij het gebruik van onze software. Indien u specifieke vragen heeft over de inrichting en implementatie van onze software, dan kunt u deze via onze consultants aan ons doorgeven.
-      </p>
+      <%= partial "support/support" %>
 
     </article>
 
@@ -76,7 +44,7 @@ lang_ignore: de, en
   <div class="row">
 
     <h2>
-      Ons support team
+      <%= t("service.team_title") %>
     </h2>
 
     <div class="support-team-wrapper">

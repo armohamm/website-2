@@ -288,6 +288,7 @@ de:
     menu: "Menu"
     products: "Produkte"
     services: "Service"
+    support: "Service & Support"
     jobs: "Jobs"
     themes: "Themen"
     events: "Veranstaltungskalender"
@@ -361,6 +362,10 @@ de:
     downloading: "Index herunterladen"
     vacancy: "Vacanz"
     page: "Seite"
+  service:
+    team_title: "Unser Support-Team"
+    title: "Service & Support"
+    title_text: "Service und Support von Defacto. Wir helfen Ihnen gerne weiter bei Problemen, technischen Fragen und Updates."
   services:
     services:
       elearning:

@@ -318,6 +318,10 @@ nl:
     downloading: "Index downloaden"
     vacancy: "Vacature"
     page: "Pagina"
+  service:
+    team_title: "Ons support team"
+    title: "Service & Support"
+    title_text: "De servicedesk van Defacto. Hier kunt u terecht voor al uw issues, technische vragen en onderhoudswerkzaamheden."
   services:
     services:
       elearning:
