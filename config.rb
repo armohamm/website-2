@@ -81,11 +81,6 @@ ready do
   end
 end
 
-# Prevent other locales from building
-(langs - [root_locale]).each do |locale|
-  ignore "/#{locale}/*"
-end
-
 # Ignore the selection file for Icomoon
 ignore "/fonts/icons/selection.json"
 
