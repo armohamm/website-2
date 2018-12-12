@@ -1,35 +1,28 @@
-<div class="header-image">
 
-  <header class="global-navigation no-dropdown-transition initialized <%= header_style %>" data-header="fixed" role="banner">
+<header class="global-navigation no-dropdown-transition initialized <%= header_style %>" data-header="fixed" role="banner">
 
-    <nav>
-      <div class="container">
+  <nav>
+    <div class="container">
 
-        <ul class="nav-root">
+      <ul class="nav-root">
 
-          <li class="nav-section logo">
-            <% locale_link_to("/", relative: false, class: "root-link item-home") do %>
-              <span>
-                <%= inline_svg "logos/logo-defacto.svg", title: "Defacto Software" %>
-              </span>
-            <% end %>
-          </li>
+        <li class="nav-section logo">
+          <% locale_link_to("/", relative: false, class: "root-link item-home") do %>
+            <span>
+              <%= inline_svg "logos/logo-defacto.svg", title: "Defacto Software" %>
+            </span>
+          <% end %>
+        </li>
 
-          <%= partial "header/nav-primary" %>
+        <%= partial "header/nav-primary" %>
 
-        </ul>
+      </ul>
 
-      </div>
+    </div>
 
-      <%= partial "header/nav-mobile" %>
+    <%= partial "header/nav-mobile" %>
 
-      <%= partial "header/nav-dropdowns" %>
-    </nav>
+    <%= partial "header/nav-dropdowns" %>
+  </nav>
 
-  </header>
-
-  <%= partial "home/hero" if current_page.url == "/" %>
-  <%= partial "capp-agile-learning/hero" if current_page.url == "/capp-agile-learning/" %>
-  <%= partial "capp-lms-new/hero" if root_locale == :nl && current_page.url == "/capp-lms/" %>
-
-</div>
+</header>

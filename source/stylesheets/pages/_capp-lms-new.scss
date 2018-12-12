@@ -79,18 +79,15 @@ body.nl.capp-lms {
     }
   }
 
-  .header-image {
+  .hero {
     $hero-image: "../images/moods/capp-12.jpg";
 
     background: url($hero-image);
     background-size: cover;
-    position: relative;
-    z-index: 1;
-  }
-
-  .hero {
     color: $capp-color;
+    position: relative;
     text-align: center;
+    z-index: 1;
 
     @include media($large-up) {
       text-align: left;

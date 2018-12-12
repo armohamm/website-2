@@ -1,10 +1,7 @@
 body.capp-agile-learning {
-  .header-image {
+  .hero {
     $hero-image: "../images/moods/capp-agile-learning.jpg";
     background: $green url($hero-image) center fixed;
-  }
-
-  .hero {
     position: relative;
 
     .logo-capp-agile-learning {

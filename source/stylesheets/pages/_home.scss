@@ -1,31 +1,29 @@
 .index {
-  .header-image {
-    .hero {
-      h1 {
-        font-size: 1.6em;
-        font-weight: 300;
-        margin: 0 auto 1em;
-        max-width: 900px;
+  .hero {
+    h1 {
+      font-size: 1.6em;
+      font-weight: 300;
+      margin: 0 auto 1em;
+      max-width: 900px;
 
-        @include media($large-up) {
-          font-size: 2.8em;
-        }
+      @include media($large-up) {
+        font-size: 2.8em;
       }
+    }
 
-      h2 {
-        font-size: 1.6em;
-        margin: 0 auto 1.4em;
-        max-width: 860px;
+    h2 {
+      font-size: 1.6em;
+      margin: 0 auto 1.4em;
+      max-width: 860px;
 
-        @include media($large-up) {
-          font-size: 2.2em;
-        }
+      @include media($large-up) {
+        font-size: 2.2em;
       }
     }
   }
 
   &.nl {
-    .header-image {
+    .hero {
       $background-image: "../images/moods/home.svg";
 
       background-color: $capp-dark-blue;
@@ -33,9 +31,7 @@
       background-position: top 0 right -150px;
       background-repeat: no-repeat;
       background-size: 800px auto;
-    }
 
-    .hero {
       .logo {
         margin-bottom: 2.4em;
         max-width: 280px;
@@ -53,14 +49,14 @@
   }
 
   &.de {
-    .header-image {
+    .hero {
       $hero-image: "../images/moods/healthcare.jpg";
       background-image: url($hero-image);
     }
   }
 
   &.en {
-    .header-image {
+    .hero {
       $hero-image: "../images/moods/defacto.jpg";
       background-image: url($hero-image);
     }
