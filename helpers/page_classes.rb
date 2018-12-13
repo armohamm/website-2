@@ -16,6 +16,9 @@ module PageClasses
     elsif classes.include? "capp-entwickeln"
       # Replace `capp-entwickeln` with `capp-lms`
       classes.gsub!("capp-entwickeln", "capp-lms")
+    elsif classes.include? "veranstaltungskalender"
+      # Replace `veranstaltungskalender` with `evenementenagenda`
+      classes.gsub!("veranstaltungskalender", "evenementenagenda")
     end
 
     classes.prepend("#{I18n.locale} ")
