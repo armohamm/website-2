@@ -23,13 +23,13 @@ namespace :serve do
   end
 end
 
-## Build
+## Build for production
 namespace :build do
   def build(env)
     puts "*" * 50
     puts "* Building #{env.upcase} ..."
     puts "*" * 50
-    system "LOCALE=#{env} bundle exec middleman build --clean" or exit(1)
+    system "LOCALE=#{env} PRODUCTION=true bundle exec middleman build --clean" or exit(1)
   end
 
   desc "Build NL"
@@ -96,10 +96,7 @@ task :test => ["test:nl", "test:de", "test:en"]
 namespace :deploy do
   def deploy(env)
     begin
-      puts "*" * 50
-      puts "* Building #{env.upcase} ..."
-      puts "*" * 50
-      system "LOCALE=#{env} PRODUCTION=true bundle exec middleman build --clean" or exit(1)
+      Rake::Task["build:#{env}"].invoke
     rescue SystemExit => e
       puts "*" * 50
       puts "* Build failed, skipping deployment (locale #{env.upcase})"
