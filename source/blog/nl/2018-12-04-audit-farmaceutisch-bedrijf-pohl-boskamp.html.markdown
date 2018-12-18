@@ -1,5 +1,5 @@
 ---
-title: "Met Duitse vlag en wimpel geslaagd voor de audit van Pohl Boskamp"
+title: "Met Duitse vlag en wimpel geslaagd voor de audit van farmaceutisch bedrijf Pohl Boskamp"
 date: 2018-12-04 8:00 CEST
 tags: Defacto
 author: Lennart

@@ -12,3 +12,5 @@
   to: "/blog/capp-agile-learning-een-veilige-ruimte-om-te-leren-van-elkaar/"
 - from: "referenties.html"
   to: "klanten.html"
+- from: "blog/audit-pohl-boskamp.html"
+  to: "/blog/audit-farmaceutisch-bedrijf-pohl-boskamp/"
