@@ -4,7 +4,6 @@ date: 2018-11-22 08:00 CEST
 tags: kundentag, CAPP LMS
 author: Susan
 lang: de
-featured: true
 image: images/blog/social/kundentag-social-1200x630.jpg
 featured_image: images/blog/featured/20181122-kundentag.jpg
 header_image: moods/kundentag-mood.jpg

@@ -4,11 +4,11 @@
   link: "/veranstaltungskalender/"
   alt: "Learntec 2019"
 
-- title: "Workshop Innovative Learnumgebung"
-  text: "Die Ludwig-Maximilians-Universität München, VideoDoc und Defacto laden Sie ganz herzlich ein zum Workshop „Innovative Lernumgebung für eine lückenlose Qualitätssicherung - wie Sie mit digitalen Lösungen Ihr Personal im Krankenhaus qualifizieren und motivieren“."
-  image: "news/workshop-innovative-lernumgebung-news.png"
-  link: "veranstaltungskalender/workshop-innovative-lernumgebung/"
-  alt: "Workshop Innovative Learnumgebung"
+- title: "Erfolgreiches IT Sicherheits Audit bei Defacto durch Pharmaunternehmen Pohl-Boskamp"
+  text: "Aufgrund der strengen Vorschriften im pharmazeutischen Sektor ist es wichtig, dass Softwarelösungen wie CAPP LMS alle relevanten Normen und Anforderungen erfüllen. Darum hat G. Pohl Boskamp GmbH & Co. KG ein Audit bei Defacto und dessen Software durchgeführt."
+  image: "news/news-audit.jpg"
+  link: "/blog/audit-pharmaunternehmen-pohl-boskamp/"
+  alt: "Audit von Pharmaunternehmen Pohl Boskamp mit Bravour bestanden"
 
 - title: "Projektleiter/Consultant gesucht"
   text: "Zur Unterstützung unseres Teams suchen wir zum nächstmöglichen Zeitpunkt einen erfahrenen IT-Consultant (m/w). Werde Teil unseres Teams und arbeite aktiv an unserem Motto 'Developing People' mit!"
