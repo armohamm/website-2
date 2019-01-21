@@ -68,7 +68,7 @@ nl:
     page_title: "Blog | Pagina %{page_number} van %{num_pages} | Defacto"
     meta_description: "Nieuws over trends op het gebied van online leren en ontwikkelen. Actualiteiten op het gebied van software, onze klanten, producten en diensten. | Pagina %{page_number}/%{num_pages}."
     more_on_our_blog: "Meer blogs"
-    more_articles: "Meer artikelen"
+    more_articles: "Lees ook"
     read_more: "Lees verder"
     reading_time:
       title: "Leestijd"
