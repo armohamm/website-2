@@ -69,16 +69,29 @@
 
               <% end %>
 
-              <li>
-                <% nav_link_to("/kwaliteitspaspoort.html", class: "link-container item-quality") do %>
-                  <div class="product-icon">
-                    <%= image_tag "icons/quality-pass.svg", title: t("kwaliteitspaspoort.name"), alt: t("kwaliteitspaspoort.name") %>
-                  </div>
-                  <div class="product-link-content">
-                    <%= t("kwaliteitspaspoort.name") %>
-                  </div>
-                <% end %>
-              </li>
+              <% if root_locale == :de %>
+                <li>
+                  <% nav_link_to("/kwaliteitspaspoort.html", class: "link-container item-capp") do %>
+                    <div class="product-icon">
+                      <%= image_tag "icons/compliance-pink.svg", title: t("kwaliteitspaspoort.name"), alt: t("kwaliteitspaspoort.name") %>
+                    </div>
+                    <div class="product-link-content">
+                      <%= t("kwaliteitspaspoort.name") %>
+                    </div>
+                  <% end %>
+                </li>
+              <% else %>
+                <li>
+                  <% nav_link_to("/kwaliteitspaspoort.html", class: "link-container item-quality") do %>
+                    <div class="product-icon">
+                      <%= image_tag "icons/quality-pass.svg", title: t("kwaliteitspaspoort.name"), alt: t("kwaliteitspaspoort.name") %>
+                    </div>
+                    <div class="product-link-content">
+                      <%= t("kwaliteitspaspoort.name") %>
+                    </div>
+                  <% end %>
+                </li>
+              <% end %>
 
               <% if root_locale == :nl %>
                 <li>

@@ -1,7 +1,7 @@
 ---
 title:
   nl: CAPP Kwaliteitspaspoort
-  de: Talentmanagement dank Qualitätspass und Qualitätsmonitor
+  de: CAPP Compliance und Qualifikationsmanagement
   en: CAPP Quality Portfolio
 description:
   nl: In één oogopslag zicht op bevoegd- en bekwaamheid met het CAPP Kwaliteitspaspoort van Defacto.
@@ -9,27 +9,24 @@ description:
   en: Get insight into the competencies and skills within your organisation at a glance with Defacto’s CAPP Quality  Portfolio.
 ---
 
-<div class="hero">
+<% if root_locale == :de %>
 
-  <div class="hero-inner">
+  <%= partial "kwaliteitspaspoort-new/hero" %>
+  <%= partial "kwaliteitspaspoort-new/page-nav" %>
+  <%= partial "kwaliteitspaspoort-new/introduction" %>
+  <%= partial "kwaliteitspaspoort-new/overview" %>
+  <%= partial "call-to-actions/information-capp12" %>
 
-    <%= image_tag t("kwaliteitspaspoort.logo"), alt: t("kwaliteitspaspoort.name"), class: "kpp-logo" %>
-
-    <div class="hero-copy">
-
-      <h1><%= t("kwaliteitspaspoort.hero.text_md") %></h1>
-
-      <%= image_tag t("kwaliteitspaspoort.hero.image"), title: t("kwaliteitspaspoort.name"), alt: t("kwaliteitspaspoort.name") %>
-
-    </div>
-  </div>
-</div>
-
-<%= partial "kwaliteitspaspoort/kwaliteitspaspoort" %>
-
-<% if root_locale == :de && data.downloads.kwaliteitsmonitor_productsheet[I18n.locale] %>
-  <%= partial "call-to-actions/download-qualitymonitor-productsheet" %>
 <% else %>
-  <%= partial "call-to-actions/appointment-kwaliteitspaspoort" %>
+
+  <%= partial "kwaliteitspaspoort-old/hero" %>
+  <%= partial "kwaliteitspaspoort-old/kwaliteitspaspoort" %>
+
+  <% if root_locale == :de && data.downloads.kwaliteitsmonitor_productsheet[I18n.locale] %>
+    <%= partial "call-to-actions/download-qualitymonitor-productsheet" %>
+  <% else %>
+    <%= partial "call-to-actions/appointment-kwaliteitspaspoort" %>
+  <% end %>
+  <%= partial "clients/clients-section" %>
+
 <% end %>
-<%= partial "clients/clients-section" %>

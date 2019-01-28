@@ -20,15 +20,15 @@
     </div>
   </li>
 
-  <li class="kwaliteitspaspoort">
+  <li class="capp-lms">
     <% link_to "/kwaliteitspaspoort.html", class: "col left" do %>
       <h2>
-        <%= image_tag "logos/logo-qualitatspass-white-horizontal.svg", alt: t("kwaliteitspaspoort.name"), title: t("kwaliteitspaspoort.name") %>
+        <%= t("kwaliteitspaspoort.name-simple") %>
       </h2>
     <% end %>
     <div class="col right">
       <p><%= t("kwaliteitspaspoort.desc", link: link_to(t("kwaliteitspaspoort.name"), "/kwaliteitspaspoort.html")) %></p>
-      <%= link_to t("actions.more_about.more_quality"), "/kwaliteitspaspoort.html", class: "button turquoise outline" %>
+      <%= link_to t("actions.more_about.more_quality_simple"), "/kwaliteitspaspoort.html", class: "button pink outline" %>
     </div>
   </li>
 

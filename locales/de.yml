@@ -78,11 +78,11 @@ de:
       capp: "Zu Learning Management"
       clients: "Mehr über unsere Kunden"
       digital-hospital: "Mehr über Digitalisierung"
-      more_capp: "Mehr zu Learning Management"
-      capp-entwickeln: "Zu Talent Management"
+      more_capp: "Mehr zu CAPP Learning Management"
+      capp-entwickeln: "Zu CAPP Talent Management"
       more_capp-entwickeln: "Mehr zu CAPP Talent Management"
-      quality: "Zum Qualitätspass"
-      more_quality: "Mehr zu Qualitätspass"
+      quality: "Zum Compliance Management"
+      more_quality_simple: "Mehr zu CAPP Compliance"
       capp-agile: "Zu CAPP Agile Learning"
       more_capp-agile: "Mehr zu CAPP Agile Learning"
       starterkit: "Mehr zum E-learning Starterkit"
@@ -329,8 +329,8 @@ de:
         text_html: "Das CAPP Learning Management System (LMS) bedeutet für Ihr Unternehmen motivierendes und effizientes Bildungsmanagement."
         title: "Learning Management"
       quality:
-        text_html: "Erhalten Sie eine Übersicht in die Qualifikationen Ihrer Organisation sowie Ihrem Team und erhöhen Sie so die Qualität Ihrer Gesundheitseinrichtung."
-        title: "Qualitätspass & Qualitätsmonitor"
+        text_html: "Ein anspruchsvolles Qualifikationsmanagement sollte die permanente Fort- und Weiterbildung Ihrer Mitarbeiter auch nachweisen können."
+        title: "Compliance Management"
   hosting:
     heading: "Hosting und Sicherheit"
   implementaties:
@@ -344,15 +344,17 @@ de:
       formkeep_title: "Kwaliteitsmonitor: afspraak maken"
       heading_md: "Endlich eine Übersicht aller Qualifikationen in Ihrer Organisation?"
   kwaliteitspaspoort:
-    desc: "Bündeln Sie die Qualifikation, Entwicklungsstände und andere Kompetenzen Ihrer Mitarbeiter im %{link} und behalten Sie den Überblick."
+    name: "CAPP Compliance & Qualifikationsmanagement"
+    name-simple: "CAPP Compliance"
+    desc: "Qualifikationen und Kompetenzen auf Knopfdruck auswertbar"
+    heading-contact: "Erleben Sie CAPP Compliance & Qualifikationsmanagement live!"
     hero:
-      formkeep_title: "Kwaliteitspaspoort: meer informatie"
-      text_md: "Übersicht aller Qualifkationen und Entwicklungsstände der Mitarbeiter"
-      title: "Qualitätspass & Qualitätsmonitor"
-      image: screenshots/hero-qualitatspass.png
-    logo: logos/qualitatspass_qualitatsmonitor_white.png
-    logo_underneath: logos/qualitatspass_qualitatsmonitor_underneath.png
-    name: "Qualitätspass & Monitor"
+      title: "Compliance & Qualifikationsmanagement"
+      sub_title: "Qualifikationen und Kompetenzen auf Knopfdruck auswertbar "
+    formkeep_title: "Afspraak maken nieuwe CAPP"
+    page-nav:
+      introduction: "CAPP Compliance & Qualifikationsmanagement"
+      features: "Vorteile CAPP"
   nav:
     capp-lms: "Vielfalt des Lernens für motivierte und qualifizierte Mitarbeiter"
     capp-develop: "Nutzen Sie das volle Potenzial Ihrer wertvollsten Ressource"
