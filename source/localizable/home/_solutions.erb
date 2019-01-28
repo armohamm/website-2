@@ -27,11 +27,11 @@
 
       <div class="solution">
         <div class="solution-icon">
-          <%= locale_link_to image_tag("icons/developing-blue.svg", alt: t("home.solutions.develop.title")), "/capp-talent-management.html" %>
+          <%= locale_link_to image_tag("icons/capp-develop-pink.svg", alt: t("home.solutions.develop.title")), "/capp-talent-management.html" %>
         </div>
         <h3><%= locale_link_to t("home.solutions.develop.title"), "/capp-talent-management.html" %></h3>
         <%= markitdown t("home.solutions.develop.text_html", link: locale_link_to("CAPP", "/capp-talent-management.html")) %>
-        <%= locale_link_to t("actions.more_about.capp-entwickeln"), "/capp-talent-management.html", class: "button small blue" %>
+        <%= locale_link_to t("actions.more_about.capp-entwickeln"), "/capp-talent-management.html", class: "button small #{color}" %>
       </div>
 
     <% end %>

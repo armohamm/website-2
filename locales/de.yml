@@ -79,7 +79,7 @@ de:
       clients: "Mehr über unsere Kunden"
       digital-hospital: "Mehr über Digitalisierung"
       more_capp: "Mehr zu Learning Management"
-      capp-entwickeln: "Zu CAPP Talent Management"
+      capp-entwickeln: "Zu Talent Management"
       more_capp-entwickeln: "Mehr zu CAPP Talent Management"
       quality: "Zum Qualitätspass"
       more_quality: "Mehr zu Qualitätspass"
@@ -167,6 +167,15 @@ de:
     formkeep_title: "Afspraak maken nieuwe CAPP"
     page-nav:
       introduction: "CAPP Learning Management"
+      features: "Vorteile CAPP"
+  capp-talent-management:
+    heading-contact: "Erleben Sie CAPP Talent Management live!"
+    hero:
+      title: "Talent Management"
+      sub_title: "Nutzen Sie das volle Potenzial Ihrer wertvollsten Ressource"
+    formkeep_title: "Afspraak maken nieuwe CAPP"
+    page-nav:
+      introduction: "CAPP Talent Management"
       features: "Vorteile CAPP"
   cases:
     all_cases: "Alle Cases"
@@ -314,8 +323,8 @@ de:
         text_html: "Performance-Support mit CAPP Agile Learning: schnell, effektiv und genau auf Ihr Unternehmen zugeschnitten."
         title: "CAPP Agile Learning"
       develop:
-        text_html: "Begleiten Sie die Entwicklung Ihrer Mitarbeiter und fördern Sie, unter anderem mit innovativen E-Learning Modulen, nachhaltige und innovative Talententwicklung."
-        title: "Entwickeln"
+        text_html: "Gutes Talentmanagement bedeutet zu wissen, was die Mitarbeiter*innen alles können, sie entsprechend zu fördern und gezielt einzusetzen."
+        title: "Talent Management"
       learn:
         text_html: "Das CAPP Learning Management System (LMS) bedeutet für Ihr Unternehmen motivierendes und effizientes Bildungsmanagement."
         title: "Learning Management"
@@ -346,8 +355,8 @@ de:
     name: "Qualitätspass & Monitor"
   nav:
     capp-lms: "Vielfalt des Lernens für motivierte und qualifizierte Mitarbeiter"
-    capp-develop: "Bieten Sie nachhaltige und innovative Talententwicklung"
-    kwaliteitspaspoort: "Schaffen Sie einen Überblick aller Qualifikationen und Kompetenzen"
+    capp-develop: "Nutzen Sie das volle Potenzial Ihrer wertvollsten Ressource"
+    kwaliteitspaspoort: "Qualifikationen und Kompetenzen auf Knopfdruck auswertbar"
     capp-agile: "Performance-Support für alle Unternehmen und Organisationen"
     starterkit: "Lernen Sie, eigene E-Learning Module zu erstellen"
     threesixty: "Die Sichtweisen der anderen kennen, um sich selbst weiterzuentwickeln"
