@@ -159,6 +159,15 @@ de:
       img: screenshots/capp-agile-demo_de.png
       img_alt: "Eine (Live-) Präsentation anfragen"
     testimonials_heading: "Kundenstimmen"
+  capp-new:
+    heading-contact: "Erleben Sie CAPP Learning Management live!"
+    hero:
+      title: "Learning Management"
+      sub_title: "Vielfalt des Lernens für motivierte und qualifizierte Mitarbeiter"
+    formkeep_title: "Afspraak maken nieuwe CAPP"
+    page-nav:
+      introduction: "CAPP Learning Management"
+      features: "Vorteile CAPP"
   cases:
     all_cases: "Alle Cases"
     contact: "Kontakt aufnehmen"
