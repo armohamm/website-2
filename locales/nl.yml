@@ -124,9 +124,9 @@ nl:
       title: "Learning & Talent Management"
       sub_title: "CAPP LMS faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant."
     formkeep_title: "Afspraak maken nieuwe CAPP"
-    page_nav:
-      introduction: "Einleitung"
-      features: "Vorteile CAPP"
+    page-nav:
+      introduction: "Inleiding"
+      features: "Features"
   cases:
     next: "Volgende case"
     previous: "Vorige case"
