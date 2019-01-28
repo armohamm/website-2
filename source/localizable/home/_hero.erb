@@ -2,24 +2,29 @@
   <div class="hero-inner">
     <div class="hero-copy">
 
-      <% if root_locale == :nl %>
+      <% if root_locale == :en %>
 
-        <%= image_tag "logos/capp-new-version-white.svg", alt: "CAPP LMS", class: "logo" %>
-        <h1><%= t("home.hero_capp.title") %></h1>
-        <h2><%= t("home.hero_capp.text") %></h2>
-        <%= link_to t("actions.read_more_2"), "/capp-lms.html", class: "button pink" %>
-        <%= link_to t("actions.home.demo"), "/demo-aanvragen.html", class: "button white-pink" %>
+        <h1>
+          <%= t("home.hero.title") %>
+        </h1>
+
+        <%= link_to t("actions.home.demo"), "/demo-aanvragen.html", class: "button" %>
 
       <% else %>
 
-        <h1><%= t("home.hero.title") %></h1>
-        <% unless root_locale == :de %>
-          <h2><%= t("home.hero.text") %></h2>
-        <% end %>
-        <%= link_to t("actions.home.demo"), "/demo-aanvragen.html", class: "button" %>
-        <% if root_locale == :de %>
-          <%= link_to t("actions.home.productsheet"), "/produktblatt-herunterladen.html", class: "button white outline" %>
-        <% end %>
+        <%= image_tag "logos/capp-new-version-white.svg", alt: "CAPP LMS", class: "logo" %>
+
+        <h1>
+          <%= t("home.hero_capp.title") %>
+        </h1>
+
+        <h2>
+          <%= t("home.hero_capp.text") %>
+        </h2>
+
+        <%= link_to t("actions.read_more_2"), "/capp-lms.html", class: "button pink" %>
+
+        <%= link_to t("actions.home.demo"), "/demo-aanvragen.html", class: "button white-pink" %>
 
       <% end %>
 

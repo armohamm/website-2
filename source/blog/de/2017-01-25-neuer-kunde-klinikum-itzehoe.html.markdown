@@ -9,7 +9,7 @@ image: images/blog/social/klinikum-itzehoe-1200x630.png
 featured_image: images/blog/featured/20170125-klinikum-itzehoe.png
 ---
 
-__Als zweites Haus aus dem 6-K Verbund in Schleswig-Holstein, hat sich das Klinikum Itzehoe für eine Zusammenarbeit mit uns entschieden. Gemeinsam sorgen wir mit [CAPP Bilden](/capp-bilden/) für ein effizientes, digitales Bildungsmanagement und leiten so den ersten Schritt in Richtung E-Learning ein.__
+__Als zweites Haus aus dem 6-K Verbund in Schleswig-Holstein, hat sich das Klinikum Itzehoe für eine Zusammenarbeit mit uns entschieden. Gemeinsam sorgen wir mit [CAPP Learning Management](/capp-learning-management/) für ein effizientes, digitales Bildungsmanagement und leiten so den ersten Schritt in Richtung E-Learning ein.__
 
 ![Klinikum Itzehoe](/images/blog/logo-klinikum-itzehoe.png)
 

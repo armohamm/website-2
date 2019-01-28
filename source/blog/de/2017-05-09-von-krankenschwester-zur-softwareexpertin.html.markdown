@@ -8,7 +8,7 @@ image: images/blog/social/interview-martina-1200x630.jpg
 featured_image: images/blog/featured/20170509-von-krankenschwester-zur-softwareexpertin.jpg
 ---
 
-__In Deutschland liegt der Fokus von [CAPP](/capp-bilden/){:title="CAPP Bilden"} ganz klar im Gesundheitswesen. Was gäbe es also für eine bessere Idee, als jemanden im Team zu haben, der aus genau diesem Sektor kommt und außer fachlicher Expertise auch noch viele Jahre an Erfahrung mitbringt?__
+__In Deutschland liegt der Fokus von [CAPP](/capp-learning-management/){:title="CAPP Learning Management"} ganz klar im Gesundheitswesen. Was gäbe es also für eine bessere Idee, als jemanden im Team zu haben, der aus genau diesem Sektor kommt und außer fachlicher Expertise auch noch viele Jahre an Erfahrung mitbringt?__
 
 Martina arbeitet seit 2 Jahren bei Defacto, kommt ursprünglich allerdings aus dem ausführenden Teil im Gesundheitswesen – sie hat 21 Jahre als Krankenschwester gearbeitet. Hier erzählt sie uns von ihrem Werdegang und verrät, warum die Umorientierung für sie ein wertvoller Schritt war.
 

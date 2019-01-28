@@ -1,3 +1,5 @@
+- from: "capp-bilden.html"
+  to: "capp-learning-management.html"
 - from: "events.html"
   to: "veranstaltungskalender.html"
 - from: "jobs/consultant.html"

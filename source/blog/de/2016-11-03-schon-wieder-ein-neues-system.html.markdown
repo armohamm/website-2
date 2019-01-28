@@ -8,7 +8,7 @@ image: images/blog/social/ein-neues-system-1200x630.png
 featured_image: images/blog/featured/20161103-system.png
 ---
 
-__Wir sind uns bewusst über die Tatsache, dass die Einführung eines [Lernmanagentsystems (LMS)](/capp-bilden/) viele Veränderungen in einer Organisation mit sich bringt. Ein solches System hat an sich schon einiges an Gewicht, aber dann kommt auch noch ein neues „Computersystem“ dazu.__
+__Wir sind uns bewusst über die Tatsache, dass die Einführung eines [Lernmanagentsystems (LMS)](/capp-learning-management/) viele Veränderungen in einer Organisation mit sich bringt. Ein solches System hat an sich schon einiges an Gewicht, aber dann kommt auch noch ein neues „Computersystem“ dazu.__
 
 Oft kommt die Frage auf, ob eine solche Umstellung nicht auf Kosten des Patienten gehen würde. „Wir haben schon so viele Systeme!“ und „Wieso muss ich alles registrieren, ich weiß doch auch so, dass ich es kann.“ Während der Implementierungsphase unseres CAPP LMS berücksichtigen wir all diese Fragen. Sowohl vor, während als auch nach der Implementierungsphase.
 

@@ -22,7 +22,7 @@
     }
   }
 
-  &.nl {
+  &:not(.en) {
     .hero {
       $background-image: "../images/moods/home.svg";
 
@@ -45,13 +45,6 @@
           font-size: 3em;
         }
       }
-    }
-  }
-
-  &.de {
-    .hero {
-      $hero-image: "../images/moods/healthcare.jpg";
-      background-image: url($hero-image);
     }
   }
 

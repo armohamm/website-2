@@ -1,14 +1,14 @@
 ---
 title: "Neuer Kunde: medius Kliniken"
 date: 2018-04-30 17:00 CEST
-tags: CAPP Bilden, Qualitätspass, Kunden
+tags: CAPP Learning Management, Qualitätspass, Kunden
 author: Isabela
 lang: de
 image: images/blog/social/neuer-kunde-medius-kliniken-1200x630.jpg
 featured_image: images/blog/featured/20180430-neuer-kunde-medius-kliniken.jpg
 ---
 
-__Mit drei Standorten und rund 2.800 engagierten Mitarbeitern leisten die medius Kliniken hervorragende medizinische Versorgung im Landkreis Esslingen und bieten mit ihrer Akademie ein zukunftsorientiertes und praxisnahes Bildungsangebot für Berufsgruppen im Gesundheitswesen. Mit [CAPP Bilden](/capp-bilden/) erhalten die medius Kliniken ein innovatives und umfangreiches Bildungsmanagementsystem, indem sowohl Mitarbeiter als auch externe Teilnehmer verwaltet und betreut werden können.__
+__Mit drei Standorten und rund 2.800 engagierten Mitarbeitern leisten die medius Kliniken hervorragende medizinische Versorgung im Landkreis Esslingen und bieten mit ihrer Akademie ein zukunftsorientiertes und praxisnahes Bildungsangebot für Berufsgruppen im Gesundheitswesen. Mit [CAPP Learning Management](/capp-learning-management/) erhalten die medius Kliniken ein innovatives und umfangreiches Bildungsmanagementsystem, indem sowohl Mitarbeiter als auch externe Teilnehmer verwaltet und betreut werden können.__
 
 Von unterschiedlichen Anmeldevorgängen und vorhergehenden Genehmigungsprozessen bis hin zu Abrechnungen diverser Veranstaltungen, werden alle Prozesse unterstützt. Zusätzlich können unterschiedliche Veranstaltungstypen zugeordnet werden, bis hin zu E-Learning und Blended Learning.
 

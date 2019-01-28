@@ -16,7 +16,7 @@ Eigentlich sollte der Nachweis über die 15-stellige einheitliche Fortbildungsnu
 
 ## Honorarkürzungen aufgrund fehlender CME-Punkte
 
-Doch wehe dem, der in den letzten fünf Jahren nicht sauber Buch geführt hat, welche [E-Learning-Kurse](/capp-bilden/){:title="CAPP Bilden"}, Hospitationen, wissenschaftlichen Veröffentlichungen etc. er absolviert, welche Fachliteratur er gelesen und welche Kongresse, Seminare, Qualitätszirkel usw. er besucht hat: „Kann ich die fünf Punkte aus dem Tropen-Medizin-Seminar eigentlich noch gutschreiben lassen?“ „War ich nicht vor drei Jahren auf diesem Onkologie-Kongress in Berlin?“ Keine Punkte, keine Kekse!
+Doch wehe dem, der in den letzten fünf Jahren nicht sauber Buch geführt hat, welche [E-Learning-Kurse](/capp-learning-management/){:title="CAPP Learning Management"}, Hospitationen, wissenschaftlichen Veröffentlichungen etc. er absolviert, welche Fachliteratur er gelesen und welche Kongresse, Seminare, Qualitätszirkel usw. er besucht hat: „Kann ich die fünf Punkte aus dem Tropen-Medizin-Seminar eigentlich noch gutschreiben lassen?“ „War ich nicht vor drei Jahren auf diesem Onkologie-Kongress in Berlin?“ Keine Punkte, keine Kekse!
 
 Oder anders formuliert: Wer es nicht schafft, seiner Landesärztekammer den Nachweis über 250 gesammelte Fortbildungspunkte innerhalb von fünf Jahren zu erbringen, muss im nächsten Jahr mit Honorarkürzungen von bis zu 25 Prozent rechnen. Im schlimmsten Fall kann die Kassenärztliche Vereinigung sogar einen Antrag auf Entzug der Zulassung stellen, aufgrund der Verletzung von vertragsärztlichen Pflichten. Ärzte sollten sich also besser frühzeitig um die Erfassung und Sicherung ihrer CME-Punkte kümmern.
 

@@ -15,23 +15,7 @@
 
           <ul>
 
-            <% if root_locale == :nl %>
-              <li>
-                <% nav_link_to("/capp-lms.html", class: "link-container item-capp") do %>
-                  <div class="product-icon">
-                    <%= inline_svg "icons/capp12.svg", title: "CAPP LMS" %>
-                  </div>
-                  <div class="product-link-content">
-                    <span class="link-title">
-                      <%= t("products.capp.capp-lms") %>
-                    </span>
-                    <p class="link-sub">
-                      <%= t("nav.capp-lms") %>
-                    </p>
-                  </div>
-                <% end %>
-              </li>
-            <% else %>
+            <% if root_locale == :en %>
               <li>
                 <% nav_link_to("/capp-lms.html", class: "link-container item-capp-lms") do %>
                   <div class="product-icon">
@@ -43,6 +27,22 @@
                     </span>
                     <p class="link-sub">
                       <%= t("nav.capp-learn") %>
+                    </p>
+                  </div>
+                <% end %>
+              </li>
+            <% else %>
+              <li>
+                <% nav_link_to("/capp-lms.html", class: "link-container item-capp") do %>
+                  <div class="product-icon">
+                    <%= inline_svg "icons/capp12.svg", title: "CAPP LMS" %>
+                  </div>
+                  <div class="product-link-content">
+                    <span class="link-title">
+                      <%= t("products.capp.capp-lms") %>
+                    </span>
+                    <p class="link-sub">
+                      <%= t("nav.capp-lms") %>
                     </p>
                   </div>
                 <% end %>

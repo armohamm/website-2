@@ -14,7 +14,7 @@ __Mitarbeiter zum Lernen motivieren und ihr Talent besser managen? Das ist mögl
 
 Gesundheitseinrichtungen wie Krankenhäuser, die erfolgreich das bereits anwesende Talent entwickeln, können sich im Durchschnitt mehr auf die Motivation ihrer Mitarbeiter verlassen. Denn persönliche Entwicklung wird sehr geschätzt. Außerdem führt qualitatives Personal zu besseren Unternehmensergebnissen und wirkt zudem positiv auf den Fachkräftemangel in Deutschland ein.
 
-Talentmanagement kann durch bestimmte Programme unterstützt werden, vorausgesetzt, diese finden den richtigen Einsatz. Solche Programme liefern verblüffende Ergebnisse, vor allem in Betrieben mit verschiedenen und spezialisierten Fachabteilungen. Defacto hat so ein System entwickelt. Es nennt sich CAPP [Lernmanagementsystem (LMS)](/capp-bilden/) und umfasst zudem den sogenannten Qualitätspass. Dieser gibt ihnen Einsicht in bereits bestehende Talente von jedem Mitarbeiter und ermöglicht das gemeinsame Erarbeiten von Entwicklungschancen.
+Talentmanagement kann durch bestimmte Programme unterstützt werden, vorausgesetzt, diese finden den richtigen Einsatz. Solche Programme liefern verblüffende Ergebnisse, vor allem in Betrieben mit verschiedenen und spezialisierten Fachabteilungen. Defacto hat so ein System entwickelt. Es nennt sich CAPP [Lernmanagementsystem (LMS)](/capp-learning-management/) und umfasst zudem den sogenannten Qualitätspass. Dieser gibt ihnen Einsicht in bereits bestehende Talente von jedem Mitarbeiter und ermöglicht das gemeinsame Erarbeiten von Entwicklungschancen.
 
 ## „Was brauche ich, um mich weiter zu entwickeln?“
 
