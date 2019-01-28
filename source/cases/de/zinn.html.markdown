@@ -5,7 +5,7 @@ date: 2017-09-11 10:00 CEST
 services:
   - title: CAPP Talent Management
     link: /capp-lms
-  - title: CAPP Entwickeln
+  - title: CAPP Talent Management
     link: /capp-entwickeln
   - title: Qualitätspass & Monitor
     link: /kwaliteitspaspoort

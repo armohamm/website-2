@@ -5,7 +5,7 @@ date: 2017-09-10 10:00 CEST
 services:
  - title: CAPP Talent Management
    link: /capp-lms
- - title: CAPP Entwickeln
+ - title: CAPP Talent Management
    link: /capp-entwickeln
  - title: Qualitätspass & Monitor
    link: /kwaliteitspaspoort
@@ -25,7 +25,7 @@ facts:
   employees: 1200
 ---
 
-__Das grenzüberschreitende Gemeinschaftsprojekt im Rahmen der Medizinerausbildung der European Medical School ist ein gutes Beispiel für eine gelungene deutsch-niederländische Kooperation des Evangelischen Krankenhauses Oldenburg (EV). Eine weitere gute Zusammenarbeit bietet sich zwischen dem EV und Defacto an: Die Lösungen “CAPP Talent Management”, “CAPP Entwickeln” und der “CAPP Qualitätspass” können vor dem Hintergrund der Vision des lebenslangen Lernens den dortigen Kulturwandel gemeinsam gestalten. Das Krankenhaus verwendet bereits seit 2015 ein modernes Talentmanagement System und entwickelt eigene E-Learning Kurse.__
+__Das grenzüberschreitende Gemeinschaftsprojekt im Rahmen der Medizinerausbildung der European Medical School ist ein gutes Beispiel für eine gelungene deutsch-niederländische Kooperation des Evangelischen Krankenhauses Oldenburg (EV). Eine weitere gute Zusammenarbeit bietet sich zwischen dem EV und Defacto an: Die Lösungen “CAPP Talent Management”, “CAPP Talent Management” und der “CAPP Qualitätspass” können vor dem Hintergrund der Vision des lebenslangen Lernens den dortigen Kulturwandel gemeinsam gestalten. Das Krankenhaus verwendet bereits seit 2015 ein modernes Talentmanagement System und entwickelt eigene E-Learning Kurse.__
 
 ## Der Mensch im Mittelpunkt
 
@@ -39,7 +39,7 @@ Die Kernfrage war klar: Welcher Mitarbeiter muss welche Fertigkeiten und Qualifi
 
 Ein Referenzbesuch bei einem niederländischen Krankenhaus vermittelte einen ersten Eindruck und wies die Möglichkeiten der Softwarelösungen von Defacto auf.
 
-Im Anschluss an den Besuch wurde das KORGA-System, eine Kombination aus CAPP Talent Management, CAPP Entwickeln und den Qualitätspass, eingeführt. KORGA liefert auf Knopfdruck Einsichten in die interne Organisation und die Fähigkeiten eines jeden Mitarbeiters und ermöglicht darüber hinaus, einen Kompetenzkatalog für Mitarbeiter anzulegen, das Mitarbeitergespräch zu digitalisieren und Seminare und Bildungsmaßnahmen schnell und effizient zu organisieren. Die damit gewonnene Struktur und Flexibilität lässt sich bereits an kleinen Beispielen verdeutlichen. Mögliche Herausforderungen, wie notwendige Sprachkompetenzen der Pfleger und Ärzte bei ausländischen Patienten werden effektiv vom System erkannt und angezeigt. "Das System ist gerade beim Recruiting jüngerer Mitarbeiter von Vorteil, denen wir schnell und übersichtlich Ihre Bildungs- und Karrierechancen aufzeigen können.", führt Frau Stade weiter aus.
+Im Anschluss an den Besuch wurde das KORGA-System, eine Kombination aus CAPP Talent Management, CAPP Talent Management und den Qualitätspass, eingeführt. KORGA liefert auf Knopfdruck Einsichten in die interne Organisation und die Fähigkeiten eines jeden Mitarbeiters und ermöglicht darüber hinaus, einen Kompetenzkatalog für Mitarbeiter anzulegen, das Mitarbeitergespräch zu digitalisieren und Seminare und Bildungsmaßnahmen schnell und effizient zu organisieren. Die damit gewonnene Struktur und Flexibilität lässt sich bereits an kleinen Beispielen verdeutlichen. Mögliche Herausforderungen, wie notwendige Sprachkompetenzen der Pfleger und Ärzte bei ausländischen Patienten werden effektiv vom System erkannt und angezeigt. "Das System ist gerade beim Recruiting jüngerer Mitarbeiter von Vorteil, denen wir schnell und übersichtlich Ihre Bildungs- und Karrierechancen aufzeigen können.", führt Frau Stade weiter aus.
 
 ![KORGA-System](/images/cases/evk/evk-kurskatalog.png)
 <p class="caption">Kurskatalog des KORGA Systems</p>

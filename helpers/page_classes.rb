@@ -13,9 +13,12 @@ module PageClasses
       classes.sub!(/blog_\d+_index/, "blog_index")
     elsif is_blog_article?
       classes += " blog-article"
-    elsif classes.include? "capp-entwickeln"
-      # Replace `capp-entwickeln` with `capp-lms`
-      classes.gsub!("capp-entwickeln", "capp-lms")
+    elsif classes.include? "capp-talent-management"
+      # Replace `capp-talent-management` with `capp-lms`
+      classes.gsub!("capp-talent-management", "capp-lms")
+    elsif classes.include? "kwaliteitspaspoort"
+      # Replace `kwaliteitspaspoort` with `capp-lms`
+      classes.gsub!("kwaliteitspaspoort", "capp-lms") if root_locale == :de
     elsif classes.include? "veranstaltungskalender"
       # Replace `veranstaltungskalender` with `evenementenagenda`
       classes.gsub!("veranstaltungskalender", "evenementenagenda")

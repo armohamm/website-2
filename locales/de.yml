@@ -19,7 +19,7 @@ de:
     implementaties: implementierungen
     klanten: kunden
     koppelingen: schnittstellen
-    kwaliteitspaspoort: qualitatspass-qualitatsmonitor
+    kwaliteitspaspoort: "capp-compliance-qualifikationsmanagement"
     kwaliteitsmonitor: qualitatsmonitor
     over-ons: "uber-uns"
     privacy-policy: "datenschutzerklarung"
@@ -75,12 +75,12 @@ de:
     more_about:
       70-20-10: "Mehr zu 70:20:10"
       cmt: "Mehr zu Medizinproduktegesetz"
-      capp: "Mehr Learning Management"
+      capp: "Zu Learning Management"
       clients: "Mehr über unsere Kunden"
       digital-hospital: "Mehr über Digitalisierung"
       more_capp: "Mehr zu Learning Management"
-      capp-entwickeln: "Zu CAPP Entwickeln"
-      more_capp-entwickeln: "Mehr zu CAPP Entwickeln"
+      capp-entwickeln: "Zu CAPP Talent Management"
+      more_capp-entwickeln: "Mehr zu CAPP Talent Management"
       quality: "Zum Qualitätspass"
       more_quality: "Mehr zu Qualitätspass"
       capp-agile: "Zu CAPP Agile Learning"
@@ -129,10 +129,10 @@ de:
       image: capp-lms-de.png
     name: CAPP Learning Management
   capp-develop:
-    name: CAPP Entwickeln
+    name: CAPP Talent Management
     desc: Bieten Sie Ihren Mitarbeitern nachhaltige und innovative Talententwicklung mit %{link}.
     hero:
-      title: "Ein E-Portfolio für die Personalentwicklung: CAPP Entwickeln"
+      title: "Ein E-Portfolio für die Personalentwicklung: CAPP Talent Management"
   capp-agile:
     name: CAPP Agile Learning
     desc: "Performance-Support mit CAPP Agile Learning: schnell, effektiv und genau auf Ihr Unternehmen zugeschnitten."
@@ -247,7 +247,7 @@ de:
   footer:
     capp:
       learn: "CAPP Learning Management"
-      develop: "CAPP Entwickeln"
+      develop: "CAPP Talent Management"
     copyright_html: "Diese Webseite ist %{link}. © 1987 - %{year} Defacto"
     country: "(NL)"
     follow:
@@ -352,7 +352,7 @@ de:
     capp:
       capp-lms: "CAPP Learning Management"
       learn: "CAPP Learning Management"
-      develop: "CAPP Entwickeln"
+      develop: "CAPP Talent Management"
   productsheet_download:
     title: "Mehr Informationen über Fort- und Weiterbilden mit CAPP LMS?"
     heading: "CAPP Produktblatt herunterladen"

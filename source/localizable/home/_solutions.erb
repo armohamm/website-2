@@ -20,18 +20,18 @@
       </div>
       <h3><%= locale_link_to t("home.solutions.learn.title"), "/capp-lms.html" %></h3>
       <%= markitdown t("home.solutions.learn.text_html", link: locale_link_to("CAPP", "/capp-lms.html")) %>
-      <%= locale_link_to t("actions.more_about.more_capp"), "/capp-lms.html", class: "button small #{color}" %>
+      <%= locale_link_to t("actions.more_about.capp"), "/capp-lms.html", class: "button small #{color}" %>
     </div>
 
     <% if root_locale == :de %>
 
       <div class="solution">
         <div class="solution-icon">
-          <%= locale_link_to image_tag("icons/developing-blue.svg", alt: t("home.solutions.develop.title")), "/capp-entwickeln.html" %>
+          <%= locale_link_to image_tag("icons/developing-blue.svg", alt: t("home.solutions.develop.title")), "/capp-talent-management.html" %>
         </div>
-        <h3><%= locale_link_to t("home.solutions.develop.title"), "/capp-entwickeln.html" %></h3>
-        <%= markitdown t("home.solutions.develop.text_html", link: locale_link_to("CAPP", "/capp-entwickeln.html")) %>
-        <%= locale_link_to t("actions.more_about.capp-entwickeln"), "/capp-entwickeln.html", class: "button small blue" %>
+        <h3><%= locale_link_to t("home.solutions.develop.title"), "/capp-talent-management.html" %></h3>
+        <%= markitdown t("home.solutions.develop.text_html", link: locale_link_to("CAPP", "/capp-talent-management.html")) %>
+        <%= locale_link_to t("actions.more_about.capp-entwickeln"), "/capp-talent-management.html", class: "button small blue" %>
       </div>
 
     <% end %>
