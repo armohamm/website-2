@@ -6,7 +6,7 @@ header.global-navigation {
   position: absolute;
   right: 0;
   top: 0;
-  z-index: 500;
+  z-index: 2;
 
   @include media($menu-desktop) {
     position: fixed;
@@ -282,7 +282,7 @@ header.global-navigation {
     transition-duration: 0.25s;
     transition-property: transform, opacity;
     will-change: transform, opacity;
-    z-index: 1000;
+    z-index: 3;
 
     @include media($menu-desktop) {
       display: block;
