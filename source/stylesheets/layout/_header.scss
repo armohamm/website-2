@@ -407,11 +407,6 @@ header.global-navigation {
     color: $orange-logo;
   }
 
-  .item-starterkit,
-  .item-starterkit .link-title {
-    color: $red;
-  }
-
   // Styles for all links groups in dropdowns
   .link-group {
     padding: 20px 35px;
@@ -550,18 +545,6 @@ header.global-navigation {
 
           .hover-fill-dark {
             fill: darken($orange-logo, 3%);
-          }
-        }
-      }
-
-      &.item-starterkit {
-        &:hover {
-          .link-title {
-            color: darken($red, 5%);
-          }
-
-          .hover-fill-dark {
-            fill: darken($red, 3%);
           }
         }
       }

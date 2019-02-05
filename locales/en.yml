@@ -54,7 +54,6 @@ en:
       quality: "More Quality Portfolio"
       capp-agile: "More CAPP Agile Learning"
       clients: "More about our clients"
-      starterkit: "More E-Learning Starterkit"
       threesixty: "More 360° Feedback"
       elearning: "More E-Learning"
       implementaties: "More implementations"
@@ -163,13 +162,6 @@ en:
     heading_html: "Get our <span class=\"pre\">E-Learning</span> Handbook for free"
     image_alt: "E-Learning Handbook Learn & Let Learn"
     close_alt: "Close"
-  elearning_starterkit:
-    desc: "Create your own content with the E-Learning Starterkit. Save time and money by designing the E-Learning content that suits your individual needs and organisational requirements."
-    hero:
-      formkeep_title: "E-Learning Starterkit"
-      text_md: "Create your own teaching materials simply and affordably."
-      title: "E-Learning Starterkit"
-    name: "E-Learning Starterkit"
   error:
     heading: "Sorry, this page doesn't exist."
     text_md: "This doesn’t mean you did something wrong, it’s possible that we renamed the page or relocated it."
@@ -254,7 +246,6 @@ en:
     capp-learn: "Intuitive learning management system for knowledge-intensive organisations"
     kwaliteitspaspoort: "Real-time insights into competencies within your organisation"
     capp-agile: "Performance support on demand"
-    starterkit: "Create your own professional e-learning content"
     threesixty: "Increase the efficiency and quality of your HRD"
     close: "Close"
   products:

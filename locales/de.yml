@@ -85,7 +85,6 @@ de:
       more_quality_simple: "Mehr zu CAPP Compliance"
       capp-agile: "Zu CAPP Agile Learning"
       more_capp-agile: "Mehr zu CAPP Agile Learning"
-      starterkit: "Mehr zum E-learning Starterkit"
       threesixty: "Mehr zu 360° Feedback"
       elearning: "Mehr zu E-Learning"
       implementaties: "Mehr zu Implementierungen"
@@ -246,14 +245,6 @@ de:
     heading_html: "Unser <span class=\"pre\">E-Learning</span> Buch gratis herunterladen"
     image_alt: "Handbuch Abenteuer E-Learning"
     close_alt: "schließen"
-  elearning_starterkit:
-    desc: "Erstellen Sie Ihre eigenen Module mit dem %{link}. Sparen Sie Geld und passen Sie Ihre Inhalte besser an Ihren Bedarf an. Das E-Learning Starterkit enthält alles was Sie brauchen um direkt zu starten."
-    desc: "Sichern Sie sich mit dem %{link} einen professionellen Start in die Welt des E-Learnings."
-    hero:
-      formkeep_title: "E-Learning Starterkit"
-      text_md: "Einfach und kostengünstig eigene E-Learning Module erstellen."
-      title: "E-Learning Starterkit"
-    name: "E-Learning Starterkit"
   error:
     heading: "Sorry, diese Seite existiert nicht."
     text_md: "Dies bedeutet nicht, dass Sie einen Fehler gemacht haben. Es kann sein, dass wir die Seite umbenannt oder bewegt haben."
@@ -360,7 +351,6 @@ de:
     capp-develop: "Nutzen Sie das volle Potenzial Ihrer wertvollsten Ressource"
     kwaliteitspaspoort: "Qualifikationen und Kompetenzen auf Knopfdruck auswertbar"
     capp-agile: "Performance-Support für alle Unternehmen und Organisationen"
-    starterkit: "Lernen Sie, eigene E-Learning Module zu erstellen"
     threesixty: "Die Sichtweisen der anderen kennen, um sich selbst weiterzuentwickeln"
     close: "Schließen"
   privacy-policy:

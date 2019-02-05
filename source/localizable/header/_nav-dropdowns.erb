@@ -152,24 +152,6 @@
               <% end %>
             </li>
 
-            <% unless root_locale == :nl %>
-              <li>
-                <% nav_link_to("/e-learning-starterkit.html", class: "link-container item-starterkit") do %>
-                  <div class="product-icon">
-                    <%= inline_svg "icons/elearning-starterkit.svg", title: t("elearning_starterkit.name") %>
-                  </div>
-                  <div class="product-link-content">
-                    <span class="link-title">
-                      <%= t("elearning_starterkit.name") %>
-                    </span>
-                    <p class="link-sub">
-                      <%= t("nav.starterkit") %>
-                    </p>
-                  </div>
-                <% end %>
-              </li>
-            <% end %>
-
           </ul>
 
         </div>

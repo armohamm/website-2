@@ -8,8 +8,6 @@
   to: "/jobs/projektleiter-consultant-softwareimplementierung/"
 - from: "datenschutz.html"
   to: "datenschutzerklarung.html"
-- from: "elearning-starterkit.html"
-  to: "e-learning-starterkit.html"
 - from: "hosting.html"
   to: "hosting-sicherheit.html"
 - from: "kundenreferenzen.html"
