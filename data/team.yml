@@ -24,189 +24,152 @@
 
 - firstname: Albert
   lastname: Dijkslag
-  email: a.dijkslag@defacto.nl
   avatar: /images/team/albert-dijkslag.jpg
 
 - firstname: Albert
   lastname: Thie
-  email: a.thie@defacto.nl
   avatar: /images/team/albert-thie.jpg
 
 - firstname: Arnoud
   lastname: Knoeff
-  email: a.knoeff@defacto.nl
   avatar: /images/team/arnoud-knoeff.jpg
 
 - firstname: Bastiaan
   lastname: Barelds
-  email: b.barelds@defacto.nl
   avatar: /images/team/bastiaan-barelds.jpg
 
 - firstname: Cathrin
   lastname: Prins
-  email: c.hormann@defacto.nl
   avatar: /images/team/cathrin-prins.jpg
 
 - firstname: Celine
   lastname: Kemp
-  email: c.kemp@defacto.nl
   avatar: /images/team/celine-kemp.jpg
 
 - firstname: Ellen
   lastname: Westerveld
-  email: ellen@defacto.nl
   avatar: /images/team/ellen-westerveld.jpg
 
 - firstname: Ellie
   lastname: Kuiper
-  email: e.kuiper@defacto.nl
   avatar: /images/team/ellie-kuiper.jpg
 
 - firstname: Ewoud
   lastname: Veenhuizen
-  email: e.veenhuizen@defacto.nl
   avatar: /images/team/ewoud-veenhuizen.jpg
 
 - firstname: Frits
   lastname: Ypeij
-  email: f.ypeij@defacto.nl
   avatar: /images/team/frits-ypeij.jpg
 
 - firstname: Gerwin
   lastname: Veenstra
-  email: g.veenstra@defacto.nl
   avatar: /images/team/gerwin-veenstra.jpg
 
 - firstname: Glenn
   lastname: Geelen
-  email: g.geelen@defacto.nl
   avatar: /images/team/glenn-geelen.jpg
 
 - firstname: Hans
   lastname: Veeger
-  email: h.veeger@defacto.nl
   avatar: /images/team/hans-veeger.jpg
 
 - firstname: Hugo
   lastname: Veeger
-  email: hugo.veeger@defacto.nl
   avatar: /images/team/hugo-veeger.jpg
 
 - firstname: Isabela
   lastname: Wojtowicz
-  email: i.wojtowicz@defacto.nl
   avatar: /images/team/isabela-wojtowicz.jpg
 
 - firstname: Jan
   lastname: Lulof
-  email: j.lulof@defacto.nl
   avatar: /images/team/jan-lulof.jpg
 
 - firstname: Jeroen
   lastname: Dijkhuis
-  email: jeroen@defacto.nl
   avatar: /images/team/jeroen-dijkhuis.jpg
 
 - firstname: Joep
   lastname: Lenglet
-  email: j.lenglet@defacto.nl
   avatar: /images/team/joep-lenglet.jpg
 
 - firstname: Joost
   lastname: Bakhuizen
-  email: j.bakhuizen@defacto.nl
   avatar: /images/team/joost-bakhuizen.jpg
 
 - firstname: Koos
   lastname: Akkerman
-  email: k.akkerman@defacto.nl
   avatar: /images/team/koos-akkerman.jpg
 
 - firstname: Lennart
   prefix: de
   lastname: Vries
-  email: lennart@defacto.nl
   avatar: /images/team/lennart-de-vries.jpg
 
 - firstname: Lizette
   lastname: Weening
-  email: l.weening@defacto.nl
   avatar: /images/team/lizette-weening.jpg
 
 - firstname: Maarten
   lastname: Jacobs
-  email: m.jacobs@defacto.nl
   avatar: /images/team/maarten-jacobs.jpg
 
 - firstname: Marcel
   lastname: Horlings
-  email: m.horlings@defacto.nl
   avatar: /images/team/marcel-horlings.jpg
 
 - firstname: Marian
   lastname: Joustra
-  email: m.joustra@defacto.nl
   avatar: /images/team/marian-joustra.jpg
 
 - firstname: Marleen
   lastname: Renshoff
-  email: marleen@defacto.nl
   avatar: /images/team/marleen-renshoff.jpg
 
 - firstname: Matthijs
   lastname: Kuiper
-  email: m.kuiper@defacto.nl
   avatar: /images/team/matthijs-kuiper.jpg
 
 - firstname: Mirjam
   lastname: Kronemeijer
-  email: mirjam@defacto.nl
   avatar: /images/team/mirjam-kronemeijer.jpg
 
 - firstname: Patrick
   lastname: Scharmin
-  email: patrick@defacto.nl
   avatar: /images/team/patrick-scharmin.jpg
 
 - firstname: Pien
   prefix: van
   lastname: Dalen
-  email: pien@defacto.nl
   avatar: /images/team/pien-van-dalen.jpg
 
 - firstname: Pieter
   lastname: Kaal
-  email: pieter@defacto.nl
   avatar: /images/team/pieter-kaal.jpg
 
 - firstname: Richard
   prefix: van der
   lastname: Veen
-  email: richard@defacto.nl
   avatar: /images/team/richard-van-der-veen.jpg
 
 - firstname: Rick
   lastname: Littel
-  email: rick@defacto.nl
   avatar: /images/team/rick-littel.jpg
 
 - firstname: Ronald
   lastname: Dijkstra
-  email: ronald@defacto.nl
   avatar: /images/team/ronald-dijkstra.jpg
 
 - firstname: Stephan
   lastname: Feifel
-  email: s.feifel@defactolearning.de
   avatar: /images/team/stephan-feifel.jpg
 
 - firstname: Tim
   lastname: Bakker
-  email: t.bakker@defacto.nl
   avatar: /images/team/tim-bakker.jpg
 
 - firstname: Vincent
   prefix: van
   lastname: Trigt
-  email: vincent@defacto.nl
   avatar: /images/team/vincent-van-trigt.jpg
