@@ -2,6 +2,12 @@ body:not(.en).capp-lms {
   color: $capp-color;
 
   :not(.footer) {
+    .cta-bottom {
+      .row {
+        max-width: 1500px;
+      }
+    }
+
     .row {
       max-width: 1260px;
 

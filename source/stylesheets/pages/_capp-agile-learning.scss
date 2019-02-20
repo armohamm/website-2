@@ -147,34 +147,25 @@ body.capp-agile-learning {
   }
 
   .info-request {
-    text-align: left;
-
-    h2 {
-      margin-bottom: 1em;
-      margin-top: 1em;
+    .row {
+      align-items: center;
+      display: flex;
+      justify-content: center;
     }
 
     .col {
-      margin-bottom: 2em;
+      padding-left: 2em;
+      padding-right: 2em;
 
-      @include media($large-up) {
-        @include span-columns(7);
-        margin-top: 2em;
+      @include media($medium-up) {
+        width: 40%;
+      }
 
-        &:first-child {
-          @include span-columns(5);
-          padding-right: 2em;
+      &:last-child {
+        @include media($medium-up) {
+          width: 60%;
         }
       }
-    }
-
-    h3 {
-      font-size: 1.4em;
-    }
-
-    label {
-      font-weight: 500;
-      margin-bottom: 0;
     }
   }
 
