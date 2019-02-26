@@ -85,6 +85,9 @@
 - client: "Kaldi"
   logo: "references/kaldi.png"
 
+- client: "Sana Kliniken"
+  logo: "references/sana-kliniken.png"
+
 - client: "Trajectum"
   logo: "references/trajectum.png"
 
