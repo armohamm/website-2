@@ -17,3 +17,5 @@ capp_productsheet:
 kwaliteitsmonitor_productsheet:
   nl: "/pdf/Productsheet_Kwaliteitsmonitor.pdf"
   de: "/pdf/Productsheet_Qualitaetspass_Qualitaetsmonitor.pdf"
+migratiekit_productsheet:
+  nl: "/pdf/Productsheet_Migratie.pdf"

@@ -1,0 +1,21 @@
+<section class="cta-bottom gray" id="contact-request">
+  <div class="row">
+
+    <h2>
+      Overtuigd of wilt u meer informatie over de update?
+    </h2>
+
+    <p>
+      Download ons product sheet (met handige activiteitenlijst) met alles wat u moet weten over de update.
+    </p>
+
+    <form class="form-inline" accept-charset="UTF-8" action="<%= t("urls.contact") %>" method="POST">
+      <input type="hidden" name="utf8" value="✓">
+      <input type="hidden" name="form" value="Contact - Migratie">
+      <input type="text" name="organisation" placeholder="<%= t("form.organisation") %> *" required>
+      <input type="hidden" name="download" value="<%= full_url(data.downloads.migratiekit_productsheet[I18n.locale]) %>">
+      <button type="submit"><%= t("actions.download_productsheet") %>&nbsp;&nbsp;<span class="icon-pdf"></span></button>
+    </form>
+
+  </div>
+</section>

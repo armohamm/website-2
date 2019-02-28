@@ -1,0 +1,50 @@
+body.update {
+  .hero {
+    $hero-image: "../images/moods/capp-12.jpg";
+
+    background-attachment: scroll;
+    background-color: $orange;
+    background-image: url($hero-image);
+    background-position: center;
+
+    h1 {
+      color: $dark-gray;
+    }
+  }
+
+  :not(.footer):not(.cta-bottom) {
+    .row {
+      max-width: 1260px;
+
+      @include media($medium-up) {
+        align-items: center;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+
+      .col-img {
+        align-items: right;
+      }
+
+      .col {
+        max-width: 1500px;
+
+        @include media($medium-up) {
+          padding: 0;
+        }
+
+        @include media($xlarge-up) {
+          flex: 1;
+        }
+      }
+    }
+  }
+
+  .cta-bottom .gray {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 1em;
+    position: relative;
+  }
+}

@@ -1,0 +1,32 @@
+---
+title: "Uw update naar CAPP LMS"
+description: "Soepel en zorgeloos over naar CAPP LMS"
+lang_ignore: en, de
+robots: noindex, nofollow
+index: false
+---
+
+<div class="hero">
+  <div class="hero-inner">
+    <div class="hero-copy">
+      <h1>
+        Zorgeloos over naar CAPP LMS
+      </h1>
+    </div>
+  </div>
+</div>
+
+<section>
+  <div class="row">
+      <div class="col">
+        <article>
+          <%= partial "migration/content" %>
+        </article>
+      </div>
+      <div class="col-img">
+      <%= image_tag "screenshots/capp-lms/capp-lms-login.png", title: "Soepel en zorgeloos naar CAPP LMS", alt: "Soepel en zorgeloos naar CAPP LMS" %>
+      </div>
+  </div>
+</section>
+
+<%= partial "call-to-actions/information-migration" if root_locale == :nl && data.downloads.migratiekit_productsheet[I18n.locale] %>
