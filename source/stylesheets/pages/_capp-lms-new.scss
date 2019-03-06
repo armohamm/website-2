@@ -191,8 +191,8 @@ body:not(.en).capp-lms {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
-      margin-bottom: 2em;
       max-width: 1380px;
+      padding: 3em 0;
       text-align: left;
 
       @include media($medium-up) {
