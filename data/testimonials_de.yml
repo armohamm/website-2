@@ -26,6 +26,19 @@
 #
 #####################################################################################################
 
+- name: Jutta Geringhoff
+  company: "Bereichsleiterin Personalentwicklung und Personalmarketing, Sana AG"
+  avatar: testimonials/jutta-geringhoff.jpg
+  featured: true
+  quote: |
+    Als Maximalversorger brauchen wir ein flexibles E-Learning-System, um den unterschiedlichen Bildungsbedarf unserer 56 Häuser, Einrichtungen und Dienstleistungsgesellschaften der Sana-Kliniken in vollem Umfang abzudecken.
+
+    Mit einer modernen digitalen Lernplattform sorgen wir dafür, dass unsere Mitarbeiter immer auf dem neuesten Wissensstand sind. Damit legen wir den Grundstein für mehr Qualität und Sicherheit in der Versorgung unserer Patienten – zum Beispiel bei der korrekten Gabe von Medikamenten oder der Einhaltung von Hygienestandards.
+
+    Zugleich möchten wir durch ein individualisiertes digitales Qualifizierungsangebot die Zufriedenheit unserer Mitarbeiter steigern.
+  summary: |
+    Als Maximalversorger brauchen wir ein flexibles E-Learning-System, um den unterschiedlichen Bildungsbedarf unserer 56 Häuser, Einrichtungen und Dienstleistungsgesellschaften der Sana-Kliniken in vollem Umfang abzudecken.
+
 - name: Anne Merlind Monier
   company: "Personalentwicklung, Friedrich-Ebert-Krankenhaus Neumünster"
   avatar: testimonials/anne-merlind-monier.jpg
@@ -44,7 +57,6 @@
 - name: Alke Stade
   company: "Referentin Personalentwicklung, Evangelisches Krankenhaus Oldenburg"
   avatar: testimonials/alke-stade.jpg
-  featured: true
   quote: |
     Die Einführung eines softwaregestützten Personalentwicklungssystems wie CAPP mit seinen vielfältigen Modulen, stellt hohe Anforderungen an eine Organisation wie unser Krankenhaus. In verschiedenen Arbeitsgruppen werden bisherige Prozesse überdacht und neue Prozesse entwickelt.
 
