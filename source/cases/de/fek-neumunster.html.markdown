@@ -14,7 +14,7 @@ description: "Digitale Lernumgebung im FEK Neumünster etabliert"
 image: images/cases/fek/social.jpg
 header_image: cases/fek/mood.jpg
 quote:
-  text: “Mit CAPP Talent Management und dem Qualitätspass erfüllen wir nicht nur das Mindestmaß an Qualitätsanforderungen - wir sind Vorreiter auf diesem Gebiet im Gesundheitswesen.”
+  text: "Mit CAPP Talent Management und dem Qualitätspass erfüllen wir nicht nur das Mindestmaß an Qualitätsanforderungen - wir sind Vorreiter auf diesem Gebiet im Gesundheitswesen."
   person: "Christof Thielecke"
   position: "Leiter Innerbetrieblichen Fortbildung"
 facts:
