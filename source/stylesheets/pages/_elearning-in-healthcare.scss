@@ -1,0 +1,41 @@
+body.e-learning-in-healthcare {
+  .hero {
+    $background-image: "../images/moods/healthcare.jpg";
+
+    background-attachment: scroll;
+    background-color: $blue-alt;
+    background-image: url($background-image);
+    background-position: center;
+
+    .hero-inner {
+      padding: em($header-height) + 4em 1em 4em;
+
+      @include media($medium-up) {
+        padding: em($header-height) + 7em 1em 7em;
+      }
+    }
+
+    h1 {
+      font-size: 2.4em;
+
+      @include media($medium-up) {
+        font-size: 3em;
+        margin: 0 auto 1em;
+        max-width: 900px;
+      }
+    }
+
+    h2 {
+      font-size: 1.6em;
+      margin: 0 0 1em;
+
+      @include media($medium-up) {
+        font-size: 2.4em;
+      }
+    }
+
+    .button {
+      margin: 0;
+    }
+  }
+}

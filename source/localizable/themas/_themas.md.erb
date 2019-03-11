@@ -1,5 +1,17 @@
 <ul class="solutions-list">
 
+  <% if root_locale == :de %>
+    <li class="elearning-in-healthcare">
+      <% link_to "/e-learning-in-healthcare.html", class: "col left" do %>
+        <h2><%= t("themes.elearning-in-healthcare.name") %></h2>
+        <% end %>
+        <div class="col right">
+          <p><%= t("themes.elearning-in-healthcare.desc", link: link_to(t("themes.elearning-in-healthcare.name"), "/e-learning-in-healthcare.html")) %></p>
+          <%= link_to t("actions.more_about.elearning"), "/e-learning-in-healthcare.html", class: "button blue outline" %>
+        </div>
+    </li>
+  <% end %>
+
   <li class="x70-20-10">
     <% link_to "/70-20-10.html", class: "col left" do %>
       <h2><%= t("themes.70-20-10.name") %></h2>
@@ -31,4 +43,5 @@
         </div>
     </li>
   <% end %>
+
 </ul>

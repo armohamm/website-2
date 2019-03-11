@@ -1,0 +1,18 @@
+<section class="cta-bottom gray" id="contact-request">
+  <div class="row">
+
+    <h2><%= t("elearning-in-healthcare.form.header") %></h2>
+    <%= simple_format t("elearning-in-healthcare.form.text") %>
+
+    <form class="form-inline" accept-charset="UTF-8" action="<%= t("urls.contact") %>" method="POST">
+      <input type="hidden" name="utf8" value="✓">
+      <input type="hidden" name="form" value="Contact - E-Learning in Healthcare">
+      <input type="text" name="name" placeholder="<%= t("form.name") %> *" required>
+      <input type="text" name="organisation" placeholder="<%= t("form.organisation") %> *" required>
+      <input type="email" name="email" placeholder="<%= t("form.email") %> *" required>
+      <input type="tel" name="phone" placeholder="<%= t("form.phone") %>">
+      <button type="submit"><%= t("form.submit") %></button>
+    </form>
+
+  </div>
+</section>
