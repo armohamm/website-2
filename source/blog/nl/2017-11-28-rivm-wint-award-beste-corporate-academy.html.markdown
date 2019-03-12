@@ -8,7 +8,7 @@ image: images/blog/social/rivm-wint-award-2017.jpg
 featured_image: images/blog/featured/20171128-rivm-wint-award-2017.jpg
 ---
 
-__De beste corporate academy van Nederland. Zo mag het [Rijksinstituut voor Volksgezondheid en Milieu (RIVM)](http://www.rivm.nl/){:target="_blank"}{:rel="noopener noreferrer"}{:title="RIVM"} haar academy nu noemen. Tijdens het jaarcongres van de [Nederlandse Stichting voor Corporate Universities (NSCU)](http://www.nscu.nl/){:target="_blank"}{:rel="noopener noreferrer"}{:title="NSCU"} ontving de RIVM de award. “Daar zijn we natuurlijk super trots op”, zegt Marjan Soudant, Adviseur Organisatie & Talentontwikkeling van het RIVM.__
+__De beste corporate academy van Nederland. Zo mag het [Rijksinstituut voor Volksgezondheid en Milieu (RIVM)](https://www.rivm.nl/){:target="_blank"}{:rel="noopener noreferrer"}{:title="RIVM"} haar academy nu noemen. Tijdens het jaarcongres van de [Nederlandse Stichting voor Corporate Universities (NSCU)](http://www.nscu.nl/){:target="_blank"}{:rel="noopener noreferrer"}{:title="NSCU"} ontving de RIVM de award. “Daar zijn we natuurlijk super trots op”, zegt Marjan Soudant, Adviseur Organisatie & Talentontwikkeling van het RIVM.__
 
 ![IVM wint award voor beste corporate academy 2017](/images/blog/rivm-wint-corporate-academie-2017.jpg)
 
