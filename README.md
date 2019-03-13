@@ -1,6 +1,10 @@
 ## Defacto Websites
 
- [![CircleCI branch](https://img.shields.io/circleci/project/github/DefactoSoftware/website/master.svg)](https://circleci.com/gh/DefactoSoftware/website) [![GitHub issues](https://img.shields.io/github/issues/defactosoftware/website.svg)](https://github.com/defactosoftware/website/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/defactosoftware/website.svg)](https://github.com/DefactoSoftware/website/pulls)
+ [![CircleCI branch](https://img.shields.io/circleci/project/github/DefactoSoftware/website/master.svg)](https://circleci.com/gh/DefactoSoftware/website) [![GitHub issues](https://img.shields.io/github/issues/defactosoftware/website.svg)](https://github.com/defactosoftware/website/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/defactosoftware/website.svg)](https://github.com/DefactoSoftware/website/pulls) 
+ 
+ ## Netlify Status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/76e34dcf-3a79-4b10-951c-af6bb0956126/deploy-status)](https://app.netlify.com/sites/defacto-nl/deploys) [![Netlify Status](https://api.netlify.com/api/v1/badges/a15c1016-aea4-482d-ad20-218cfbb8249f/deploy-status)](https://app.netlify.com/sites/defacto-de/deploys) [![Netlify Status](https://api.netlify.com/api/v1/badges/c08b69ab-87c7-4d09-bab0-564495bdd413/deploy-status)](https://app.netlify.com/sites/defacto-en/deploys)
+
 
 The source code for our websites, built with [Middleman](https://middlemanapp.com/):
 
