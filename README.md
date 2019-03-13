@@ -12,7 +12,7 @@ More detailed information can be found at the [Wiki](https://github.com/DefactoS
 
 ### Dependencies
 
--   Ruby 2.3.3 (install with [rbenv](https://github.com/sstephenson/rbenv))
+-   Ruby 2.4.3 (install with [rbenv](https://github.com/sstephenson/rbenv))
 -   Bundler
 
 To install other dependencies run `bundle install` from the root of the project.
