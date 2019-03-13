@@ -12,7 +12,7 @@ __In general people don't like to wait. And no matter how fast we make our appli
 
 Fortunately, [CAPP Agile Learning](/capp-agile-learning/) is pretty fast and there is little waiting time. But sometimes transitioning between pages can take a brief moment, ie. due to slow internet or a large request to the server.
 
-So we can't prevent loading time but we can make it less boring. Show something awesome instead of a simple spinner or loading message. At least tickle the user's senses a bit while waiting. The first thing that came to mind was the __[isometric](http://en.wikipedia.org/wiki/Isometric){:target="_blank"}{:rel="noopener noreferrer"}__ shape in our logo, consisting of a cube within a cube (or three times the letter "L" surrounding a cube). Perfect for our loading indicator:
+So we can't prevent loading time but we can make it less boring. Show something awesome instead of a simple spinner or loading message. At least tickle the user's senses a bit while waiting. The first thing that came to mind was the __[isometric](https://en.wikipedia.org/wiki/Isometric){:target="_blank"}{:rel="noopener noreferrer"}__ shape in our logo, consisting of a cube within a cube (or three times the letter "L" surrounding a cube). Perfect for our loading indicator:
 
 ![CAPP Agile Learning logo](/images/blog/en/logo-cappagilelearning.png)
 
@@ -73,12 +73,12 @@ Now we add the styling. Give the faces a background color and make sure they are
 }
 ~~~
 
-__Note:__ Don't forget to add vendor prefixes for the `transform*` properties if you want cross-browser [support](https://caniuse.com/#feat=transforms2d){:target="_blank"}{:rel="noopener noreferrer"}. In the demos I use [SCSS](http://sass-lang.com) and the [bourbon](http://bourbon.io){:target="_blank"}{:rel="noopener noreferrer"} mixin library so I don't have to worry about these prefixes.
+__Note:__ Don't forget to add vendor prefixes for the `transform*` properties if you want cross-browser [support](https://caniuse.com/#feat=transforms2d){:target="_blank"}{:rel="noopener noreferrer"}. In the demos I use [SCSS](https://sass-lang.com){:target="_blank"}{:rel="noopener noreferrer"} and the [Bourbon](https://www.bourbon.io/){:target="_blank"}{:rel="noopener noreferrer"} mixin library so I don't have to worry about these prefixes.
 
-Check out the __[demo](http://codepen.io/snap/pen/NPqjMp?editors=110){:target="_blank"}{:rel="noopener noreferrer"}__. I also created a demo of an __[alternative technique](http://codepen.io/snap/pen/GgJWmY?editors=110){:target="_blank"}{:rel="noopener noreferrer"}__.
-Both techniques are shown in the [demo](http://codepen.io/snap/pen/ogXwdz?editors=110){:target="_blank"}{:rel="noopener noreferrer"} below.
+Check out the __[demo](https://codepen.io/snap/pen/NPqjMp?editors=110){:target="_blank"}{:rel="noopener noreferrer"}__. I also created a demo of an __[alternative technique](https://codepen.io/snap/pen/GgJWmY?editors=110){:target="_blank"}{:rel="noopener noreferrer"}__.
+Both techniques are shown in the [demo](https://codepen.io/snap/pen/ogXwdz?editors=110){:target="_blank"}{:rel="noopener noreferrer"} below.
 
-<iframe height='430' scrolling='no' src='http://codepen.io/snap/embed/ogXwdz/?height=430' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/snap/pen/ogXwdz/'>ogXwdz</a> by Matthijs Kuiper (<a href='http://codepen.io/snap'>@snap</a>) on <a href='http://codepen.io'>CodePen</a>.
+<iframe height='430' scrolling='no' src='https://codepen.io/snap/embed/ogXwdz/?height=430' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/snap/pen/ogXwdz/'>ogXwdz</a> by Matthijs Kuiper (<a href='https://codepen.io/snap'>@snap</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
 Now we need a second cube so we can recreate our logo. Duplicate the cube and wrap them in a container:
@@ -106,9 +106,9 @@ Rotate the second cube 180 degrees and scale it to half its size:
 }
 ~~~
 
-Thats about it, see the [result](http://codepen.io/snap/pen/xbGLMY?editors=110){:target="_blank"}{:rel="noopener noreferrer"} below. I also added some extra styling to render the cube as a wireframe like we have in our logo.
+Thats about it, see the [result](https://codepen.io/snap/pen/xbGLMY?editors=110){:target="_blank"}{:rel="noopener noreferrer"} below. I also added some extra styling to render the cube as a wireframe like we have in our logo.
 
-<iframe height='284' scrolling='no' src='http://codepen.io/snap/embed/xbGLMY/?height=284' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/snap/pen/xbGLMY/'>xbGLMY</a> by Matthijs Kuiper (<a href='http://codepen.io/snap'>@snap</a>) on <a href='http://codepen.io'>CodePen</a>.
+<iframe height='284' scrolling='no' src='https://codepen.io/snap/embed/xbGLMY/?height=284' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/snap/pen/xbGLMY/'>xbGLMY</a> by Matthijs Kuiper (<a href='https://codepen.io/snap'>@snap</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
 ### Animation please
@@ -149,9 +149,9 @@ __Note:__ Don't forget to add vendor prefixes for `@keyframes` and `animation*` 
 
 Like the animations but think all the isometric projection math is too much fuzz? Don't worry, you can create the same effect with __inline SVG__. In fact, we are now using SVG for our loading indicator in CAPP Agile Learning.
 
-The [demo](http://codepen.io/snap/pen/MYwVeP?editors=110){:target="_blank"}{:rel="noopener noreferrer"} below shows the HTML and the SVG aproach, both powered by the same CSS animation! The only difference with SVG is we have to animate the path's "fill" attribute instead of background color.
+The [demo](https://codepen.io/snap/pen/MYwVeP?editors=110){:target="_blank"}{:rel="noopener noreferrer"} below shows the HTML and the SVG aproach, both powered by the same CSS animation! The only difference with SVG is we have to animate the path's "fill" attribute instead of background color.
 
-<iframe height='335' scrolling='no' src='http://codepen.io/snap/embed/MYwVeP/?height=335' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/snap/pen/MYwVeP/'>CAPP Agile Learning logo with CSS (animated)</a> by Matthijs Kuiper (<a href='http://codepen.io/snap'>@snap</a>) on <a href='http://codepen.io'>CodePen</a>.
+<iframe height='335' scrolling='no' src='https://codepen.io/snap/embed/MYwVeP/?height=335' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/snap/pen/MYwVeP/'>CAPP Agile Learning logo with CSS (animated)</a> by Matthijs Kuiper (<a href='https://codepen.io/snap'>@snap</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
 ## Loading template in Ember.js
