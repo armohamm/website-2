@@ -42,7 +42,6 @@
 - name: Anne Merlind Monier
   company: "Personalentwicklung, Friedrich-Ebert-Krankenhaus Neumünster"
   avatar: testimonials/anne-merlind-monier.jpg
-  featured: true
   quote: |
     Wir verglichen mehrere Softwareanbieter für Bildungsmanagement und Personalentwicklung. Defacto konnte sich mit seinen flexiblen Modulen in der Auswahl durchsetzen und überzeugt uns bis heute.
 
@@ -57,6 +56,7 @@
 - name: Alke Stade
   company: "Referentin Personalentwicklung, Evangelisches Krankenhaus Oldenburg"
   avatar: testimonials/alke-stade.jpg
+  featured: true
   quote: |
     Die Einführung eines softwaregestützten Personalentwicklungssystems wie CAPP mit seinen vielfältigen Modulen, stellt hohe Anforderungen an eine Organisation wie unser Krankenhaus. In verschiedenen Arbeitsgruppen werden bisherige Prozesse überdacht und neue Prozesse entwickelt.
 
@@ -64,7 +64,7 @@
 
     Die Berater von Defacto haben uns dabei sehr engmaschig begleitet und gemeinsam mit uns passende Lösungen entwickelt. Dabei werden wir immer wieder neu inspiriert und erhalten so ganz frische Denkansätze -weg von unseren bisherigen Ansätzen und hin zu innovativen Lösungen. Die Zusammenarbeit mit den Kollegen von Defacto empfinden wir durchgängig als befruchtend, unterstützend und eng.
   summary: |
-   Die Einführung eines E-Learningsystems bedeutet für uns einen regelrechten Kulturwandel.
+   Die Einführung eines E-Learningsystems bedeutet für uns einen regelrechten Kulturwandel. Für die Umsetzung dieser verschiedenen Aufgaben ist ein verlässlicher Partner erforderlich, der bereit ist, auch um die Ecke zu denken und die Prozessveränderung im Unternehmen zu begleiten.
 
 - name: Kristel Vissers
   company: "Projektleiter Qualitätspass, Máxima Medisch Centrum"
