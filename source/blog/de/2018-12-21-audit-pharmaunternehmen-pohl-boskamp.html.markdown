@@ -4,7 +4,6 @@ date: 2018-12-21 08:00 CEST
 tags: CAPP LMS
 author: Cathrin
 lang: de
-featured: true
 image: images/blog/social/audit-social-1200x630.jpg
 featured_image: images/blog/featured/20181204-audit-featured.jpg
 header_image: moods/audit-mood.jpg
