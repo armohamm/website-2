@@ -140,6 +140,25 @@
 
         <div class="mobile-secondary-nav">
 
+          <% if root_locale == :de %>
+
+            <ul>
+
+              <li>
+                <span class="mobile-secondary-nav-title">
+                  <%= t("header.solutions") %>
+                </span>
+              </li>
+
+              <li>
+                  <%= nav_link_to t("solutions.pages.healthcare.name"), "/gezondheidswezen.html", class: "item-healthcare" %>
+              </li>
+
+            </ul>
+
+          <% end %>
+
+
           <ul>
 
             <li>

@@ -26,5 +26,5 @@ $medium-only: new-breakpoint(min-width $medium-screen max-width $large-screen - 
 $large-only:  new-breakpoint(min-width $large-screen max-width $xlarge-screen - 1);
 
 // Menu breakpoints
-$menu-mobile:  new-breakpoint(max-width 969px);
-$menu-desktop: new-breakpoint(min-width 970px);
+$menu-mobile:  new-breakpoint(max-width 999px);
+$menu-desktop: new-breakpoint(min-width 1000px);

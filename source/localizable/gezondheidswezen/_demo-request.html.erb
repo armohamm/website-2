@@ -1,0 +1,14 @@
+<section class="demo-request">
+  <div class="row">
+
+    <h2>
+      <%= t("actions.request_demo") %>
+    </h2>
+
+    <%= partial "partials/form", locals: { title: t("solutions.pages.healthcare.form_title"),
+                                           fields: ["name", "email", "organisation", "phone"],
+                                           button_text: t("form.submit"),
+                                           variant: "contact",
+                                           action_url: t("urls.contact")} %>
+  </div>
+</section>

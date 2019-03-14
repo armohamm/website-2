@@ -1,0 +1,49 @@
+<section class="cases-overview" id="references">
+  <div class="row">
+
+    <h2>
+      <%= t("solutions.pages.healthcare.cases.title") %>
+    </h2>
+
+    <div class="case-wrapper">
+      <% blog("cases").articles.select{ |a| a.tags.include?("healthcare") }.each do |article| %>
+        <div class="flex-item">
+          <% link_to(article.url, class: "case", title: article.title, style: "background-image: url(#{image_path(article.data.header_image)})") do %>
+            <div class="case-content">
+
+              <%= image_tag image_path(article.data.logo_white), class: "case-logo", alt: article.title, title: article.title %>
+
+              <% if article.data.sub_title %>
+                <p class="case-description">
+                  <%= article.data.sub_title %>
+                </p>
+              <% end %>
+
+            </div>
+          <% end %>
+        </div>
+      <% end %>
+    </div>
+
+  </div>
+</section>
+
+<section class="clients">
+  <div class="logos">
+    <div class="client">
+      <%= image_tag "clients/mono/logo-sana-kliniken.svg", alt: "Sana Kliniken", title: "Sana Kliniken" %>
+    </div>
+    <div class="client">
+      <%= image_tag "clients/mono/logo-klinikum-itzehoe.svg", alt: "Klinikum Itzehoe", title: "Klinikum Itzehoe" %>
+    </div>
+    <div class="client">
+      <%= image_tag "clients/mono/logo-evangelisches-krankenhaus-oldenburg.svg", alt: "Evangelisches Krankenhaus Oldenburg", title: "Evangelisches Krankenhaus Oldenburg" %>
+    </div>
+    <div class="client">
+      <%= image_tag "clients/mono/logo-friedrich-eberhart-krankenhaus.svg", alt: "Friedrich-Ebert-Krankenhaus", title: "Friedrich-Ebert-Krankenhaus" %>
+    </div>
+    <div class="client">
+      <%= image_tag "clients/mono/logo-landespflegekammer-rheinland-pfalz.svg", alt: "Landespflegekammer Rheinland-Pfalz", title: "Landespflegekammer Rheinland-Pfalz" %>
+    </div>
+  </div>
+</section>

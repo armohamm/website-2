@@ -1,6 +1,10 @@
 <li class="nav-section primary">
   <%= nav_link_to t("header.products"), "/producten.html", class: "root-link item-products has-dropdown", "data-dropdown": "products" %>
 
+  <% if root_locale == :de %>
+    <%= nav_link_to t("header.solutions"), "/oplossingen.html", class: "root-link item-solutions has-dropdown", "data-dropdown": "solutions" %>
+  <% end %>
+
   <%= nav_link_to t("header.services"), "/diensten.html", class: "root-link item-service has-dropdown", "data-dropdown": "service" %>
 
   <%= nav_link_to t("about.clients"), "/klanten.html", class: "root-link item-clients has-dropdown", "data-dropdown": "clients" %>

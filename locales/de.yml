@@ -16,12 +16,14 @@ de:
     diensten: service
     digital-hospital: "digitalisierung-im-krankenhaus"
     e-learning-in-healthcare: "e-learning-im-gesundheitswesen"
+    gezondheidswezen: "gesundheitswesen"
     hosting-security: "hosting-sicherheit"
     implementaties: implementierungen
     klanten: kunden
     koppelingen: schnittstellen
     kwaliteitspaspoort: "capp-compliance-qualifikationsmanagement"
     kwaliteitsmonitor: qualitatsmonitor
+    oplossingen: "loesungen"
     over-ons: "uber-uns"
     privacy-policy: "datenschutzerklarung"
     producten: produkte
@@ -93,6 +95,7 @@ de:
       implementaties: "Mehr zu Implementierungen"
       hosting: "Mehr zu Hosting & Sicherheit"
       koppelingen: "Mehr zu Schnittstellen"
+      healthcare: "Mehr zu Gesundheitswesen"
     tell_me_more: "Erzähl mir mehr"
     try_for_free: "Gratis testen"
     visit_website: "Besuche die Website"
@@ -308,6 +311,7 @@ de:
     menu: "Menu"
     products: "Produkte"
     services: "Service"
+    solutions: "Lösungen"
     support: "Service & Support"
     jobs: "Jobs"
     themes: "Themen"
@@ -417,6 +421,24 @@ de:
     google_plus: Teile auf Google+
     linkedin: Teile auf LinkedIn
     xing: Teile auf Xing
+  solutions:
+    title: "Lösungen"
+    pages:
+      healthcare:
+        name: "Gesundheitswesen"
+        desc: "E-Learning ist ein wichtiger Faktor, um die Mitarbeiter %{link} entsprechend zu schulen. Am besten können Sie Ihre Personalentwicklung mit Software von Defacto darauf abstimmen."
+        link: "im Gesundheitswesen"
+        title: "E-Learning und Personalentwicklung im Krankenhaus: mit Software von Defacto Qualität sichern"
+        page-navigation:
+          general: "Allgemein"
+          learning-platform: "Lernplattform"
+          human-resource-development: "Personalentwicklung"
+          references: "Referenzen"
+        form_title: "Lösungen - Gesundheitswesen"
+        cases:
+          title: "Referenzen"
+        more:
+          title: "Mehr zum Gesundheitswesen"
   testimonials:
     title: "Was unsere Kunden sagen"
     more_testimonials: "Mehr Kundenstimmen"

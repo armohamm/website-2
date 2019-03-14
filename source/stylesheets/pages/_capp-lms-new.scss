@@ -123,49 +123,16 @@ body:not(.en).capp-lms {
     }
   }
 
-  .capp-page-nav {
+  .on-page-navigation {
     background-color: $pink;
-    padding: 1em 3em;
-    text-align: center;
-
-    @include media($medium-up) {
-      padding: 0;
-    }
-
-    ul {
-      width: 100%;
-    }
-
-    li {
-      @include media($medium-up) {
-        display: inline-block;
-      }
-
-      &:first-child a {
-        border-top: 1px solid $white;
-
-        @include media($medium-up) {
-          border-top: 0;
-        }
-      }
-    }
 
     a {
-      border-bottom: 1px solid $white;
       color: $white;
-      display: block;
-      font-size: $base-font-size * 1.2;
-      font-weight: 600;
-      padding: 0.4em 1em;
-
-      @include media($medium-up) {
-        border-bottom: 0;
-        padding: 1.2em 1em;
-      }
 
       &:hover {
-        color: darken($white, 15%);
+        color: darken($white, 10%);
       }
+
     }
   }
 

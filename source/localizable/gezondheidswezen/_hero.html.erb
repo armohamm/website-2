@@ -1,0 +1,17 @@
+<div class="hero">
+  <div class="hero-inner">
+    <div class="hero-copy">
+      <h1>
+        <%= t("solutions.pages.healthcare.title") %>
+      </h1>
+
+      <div class="testimonials featured-testimonials">
+        <%= partial "partials/testimonials", locals: {
+          count: 2,
+          featured: true,
+          summary: true
+        } %>
+      </div>
+    </div>
+  </div>
+</div>

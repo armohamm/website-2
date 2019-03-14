@@ -160,6 +160,29 @@
 
     </div>
 
+    <% if root_locale == :de %>
+
+      <div class="dropdown-section left" data-dropdown="solutions">
+
+        <div class="dropdown-content">
+
+          <div class="link-group">
+
+            <% nav_link_to("/gezondheidswezen.html", class: "link-container with-icon") do %>
+              <span class="link-title link-icon">
+                <%= inline_svg "icons/healthcare.svg", title: t("solutions.pages.healthcare.name") -%>
+                <%= t("solutions.pages.healthcare.name") %>
+              </span>
+            <% end %>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    <% end %>
+
     <div class="dropdown-section left" data-dropdown="service">
 
       <div class="dropdown-content">

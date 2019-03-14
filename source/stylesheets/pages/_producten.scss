@@ -38,47 +38,48 @@
         font-weight: 700;
       }
     }
+  }
 
-    &.left {
-      background-position: center;
-      color: $white;
-      display: table;
-      height: 200px;
-      text-align: center;
-      width: 100%;
+  .left {
+    background-position: center;
+    color: $white;
+    display: table;
+    height: 200px;
+    text-align: center;
+    width: 100%;
+
+    @include media($medium-up) {
+      @include span-columns(5);
+      height: auto;
+    }
+
+    h2 {
+      display: table-cell;
+      font-family: 'Montserrat', $base-font-family;
+      font-size: $base-font-size * 1.4;
+      font-weight: 700;
+      line-height: 1.5;
+      margin: 0;
+      vertical-align: middle;
 
       @include media($medium-up) {
-        @include span-columns(5);
-        height: auto;
-      }
-
-      h2 {
-        display: table-cell;
-        font-family: 'Montserrat', $base-font-family;
-        font-size: $base-font-size * 2.4;
-        font-weight: 700;
-        line-height: 1.5;
-        margin: 0;
-        vertical-align: middle;
-
-        @include media($medium-up) {
-          display: inline-block;
-        }
-      }
-
-      img {
-        max-width: 100%;
-        vertical-align: text-top;
+        display: inline-block;
+        font-size: $base-font-size * 2;
       }
     }
 
-    &.right {
-      text-align: left;
+    img {
+      max-width: 100%;
+      vertical-align: text-top;
+    }
+  }
 
-      @include media($medium-up) {
-        @include span-columns(7);
-        @include reset-display;
-      }
+  .right {
+    text-align: left;
+
+    @include media($medium-up) {
+      @include span-columns(7);
+      @include reset-display;
     }
   }
 }
@@ -91,10 +92,6 @@
       rgba($blue, 0.5) 66%,
       $blue-alt 66%,
       $fallback: $blue-alt);
-
-    h2 {
-      font-size: 3em;
-    }
   }
 }
 
@@ -256,5 +253,15 @@
     background-image: url("../images/moods/healthcare.jpg");
     background-position: center;
     background-size: 250%;
+  }
+}
+
+.healthcare {
+  .left {
+    background-image: url("../images/moods/capp-12.jpg");
+
+    h2 {
+      color: $capp-color;
+    }
   }
 }

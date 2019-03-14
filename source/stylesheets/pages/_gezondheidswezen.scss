@@ -1,0 +1,141 @@
+body.gezondheidswezen {
+  .hero {
+    $hero-image: "../images/moods/capp-12.jpg";
+
+    background: url($hero-image);
+    background-size: cover;
+    color: $capp-color;
+
+    h1 {
+      font-size: $base-font-size * 1.6;
+      margin: 0 auto;
+      max-width: 960px;
+
+      @include media($medium-up) {
+        font-size: $base-font-size * 2.4;
+      }
+    }
+
+    .testimonials {
+      background: transparent;
+      padding: 4em 0 0;
+    }
+
+    .testimonial-list {
+      margin-bottom: 0;
+    }
+  }
+
+  .on-page-navigation {
+    background: $pink;
+
+    a {
+      color: $white;
+
+      &:hover {
+        color: darken($white, 15%);
+      }
+    }
+  }
+
+  section a {
+    color: $pink;
+  }
+
+  section.introduction {
+    $background-image: "../images/moods/home.svg";
+
+    background-color: $capp-dark-blue;
+    background-image: url($background-image);
+    background-position: top 0 right -150px;
+    background-repeat: no-repeat;
+    background-size: 800px auto;
+    color: $white;
+  }
+
+  section.content {
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      max-width: 1380px;
+      text-align: left;
+
+      @include media($medium-up) {
+        align-items: center;
+        padding: 4em 0;
+      }
+    }
+
+    .col {
+      padding: 0 1em;
+
+      @include media($medium-up) {
+        flex: 1;
+
+        &:first-child {
+          margin-right: 2em;
+        }
+
+        &:last-child {
+          margin-left: 2em;
+        }
+      }
+
+      img {
+        display: block;
+        margin: 0 auto 1em;
+
+        @include media($medium-up) {
+          margin: 0;
+        }
+      }
+
+      &-img {
+        margin-bottom: 1em;
+        order: 1;
+
+        @include media($medium-up) {
+          order: initial;
+        }
+      }
+
+      &-text {
+        order: 2;
+
+        @include media($medium-up) {
+          order: initial;
+        }
+      }
+    }
+  }
+
+  section.demo-request {
+    background: $lightest-gray;
+
+    h2 {
+      text-align: center;
+    }
+  }
+
+  .cases-overview {
+    h2 {
+      text-align: center;
+    }
+  }
+
+  .clients {
+    .logos {
+      margin-bottom: 0;
+      margin-top: 1em;
+    }
+
+    .client {
+      margin-bottom: 1em;
+    }
+  }
+
+  section.more-about {
+    background: $lighter-gray;
+  }
+}

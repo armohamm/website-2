@@ -1,0 +1,51 @@
+<%
+if defined?(variant) && variant == "inline"
+  form_class = "form-inline"
+elsif defined?(variant) && variant == "contact"
+  form_class = "form-contact"
+else
+  form_class = "form"
+end
+
+if defined?(url)
+  action_url = locals[:action_url]
+else
+  action_url = t("urls.contact")
+end
+
+if defined?(title)
+  form_title = title
+else
+  form_title = "Contact"
+end
+%>
+
+<form class="<%= form_class %>" accept-charset="UTF-8" action="<%= action_url %>" method="POST">
+
+  <input type="hidden" name="utf8" value="✓">
+  <input type="hidden" name="form" value="<%= form_title %>">
+
+  <% if locals[:fields].include? "name" %>
+    <input type="text" name="name" placeholder="<%= t("form.name") %> *" required>
+  <% end %>
+
+  <% if locals[:fields].include? "organisation" %>
+    <input type="text" name="organisation" placeholder="<%= t("form.organisation") %> *" required>
+  <% end %>
+
+  <% if locals[:fields].include? "email" %>
+    <input type="email" name="email" placeholder="<%= t("form.email") %> *" required>
+  <% end %>
+
+  <% if locals[:fields].include? "phone" %>
+    <input type="tel" name="phone" placeholder="<%= t("form.phone") %>">
+  <% end %>
+
+  <button type="submit">
+    <% if locals[:button_text] %>
+      <%= locals[:button_text] %>
+    <% else %>
+      <%= t("form.submit") %>
+    <% end %>
+  </button>
+</form>

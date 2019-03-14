@@ -1,0 +1,24 @@
+section.on-page-navigation {
+  padding: 1em 0;
+  text-align: center;
+
+  @include media($medium-up) {
+    padding: 0;
+  }
+
+  li {
+    @include media($medium-up) {
+      display: inline-block;
+    }
+  }
+
+  a {
+    display: block;
+    font-weight: 700;
+    padding: 0.2em 0;
+
+    @include media($medium-up) {
+      padding: 1em;
+    }
+  }
+}
