@@ -3,11 +3,11 @@ title: "Strukton Case"
 sub_title: "Der Weg zur gesichterten Compliance"
 date: 2017-09-12 11:00 CEST
 services:
-  - title: CAPP Talent Management
+  - title: CAPP Learning Management
     link: /capp-lms
   - title: CAPP Talent Management
     link: /capp-entwickeln
-  - title: Qualitätspass & Monitor
+  - title: CAPP Compliance
     link: /kwaliteitspaspoort
 lang: de
 logo_white: cases/strukton/logo-white.png

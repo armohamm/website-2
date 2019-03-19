@@ -3,11 +3,11 @@ title: "ZINN Case"
 sub_title: "Mit maßgeschneiderter Software die Pflege optimieren."
 date: 2017-09-11 10:00 CEST
 services:
-  - title: CAPP Talent Management
+  - title: CAPP Learning Management
     link: /capp-lms
   - title: CAPP Talent Management
     link: /capp-entwickeln
-  - title: Qualitätspass & Monitor
+  - title: CAPP Compliance
     link: /kwaliteitspaspoort
   - title: CAPP Agile Learning
     link: /capp-agile-learning

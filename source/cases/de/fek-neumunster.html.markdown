@@ -3,9 +3,9 @@ title: "Friedrich Ebert Krankenhaus Neumünster Case"
 sub_title: "Digitale Lernumgebung im FEK Neumünster etabliert"
 date: 2018-08-19 11:00 CEST
 services:
-- title: CAPP Talent Management
+- title: CAPP Learning Management
   link: /capp-lms
-- title: Qualitätspass & Monitor
+- title: CAPP Compliance
   link: /kwaliteitspaspoort
 - title: Consultancy
 lang: de

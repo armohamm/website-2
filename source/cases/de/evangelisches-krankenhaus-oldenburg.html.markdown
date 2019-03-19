@@ -3,11 +3,11 @@ title: "Evangelisches Krankenhaus Oldenburg Case"
 sub_title: "Evangelisches Krankenhaus Oldenburg schafft Fakten und Raum für Talent"
 date: 2017-09-10 10:00 CEST
 services:
- - title: CAPP Talent Management
+ - title: CAPP Learning Management
    link: /capp-lms
  - title: CAPP Talent Management
-   link: /capp-entwickeln
- - title: Qualitätspass & Monitor
+   link: /capp-talent-management
+ - title: CAPP Compliance
    link: /kwaliteitspaspoort
 lang: de
 logo_white: cases/evk/logo-white.png
