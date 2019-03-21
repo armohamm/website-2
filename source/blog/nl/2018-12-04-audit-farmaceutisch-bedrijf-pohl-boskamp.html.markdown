@@ -4,7 +4,7 @@ date: 2018-12-04 8:00 CEST
 tags: Defacto
 author: Lennart
 lang: nl
-featured: true
+featured: false
 image: images/blog/social/audit-social-1200x630.jpg
 featured_image: images/blog/featured/20181204-audit-featured.jpg
 header_image: moods/audit-mood.jpg
