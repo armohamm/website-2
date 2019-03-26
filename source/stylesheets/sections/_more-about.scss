@@ -1,0 +1,17 @@
+section.more-about {
+  background: $lighter-gray;
+  display: flex;
+
+  ul {
+    font-size: $base-font-size * 1.2;
+    list-style-type: none;
+  }
+
+  li {
+    padding: 0.2em 0;
+  }
+
+  a {
+    color: $pink;
+  }
+}

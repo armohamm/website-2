@@ -173,6 +173,8 @@ de:
     page-nav:
       introduction: "CAPP Learning Management"
       features: "Vorteile CAPP"
+    more-about:
+      title: "Weitere Anwendungen von CAPP"
   capp-talent-management:
     heading-contact: "Erleben Sie CAPP Talent Management live!"
     hero:
