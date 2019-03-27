@@ -19,3 +19,5 @@ kwaliteitsmonitor_productsheet:
   de: "/pdf/Productsheet_Qualitaetspass_Qualitaetsmonitor.pdf"
 migratiekit_productsheet:
   nl: "/pdf/Productsheet_Migratie.pdf"
+compliance_api_productsheet:
+  nl: "/pdf/Productsheet_Compliance_API.pdf"
