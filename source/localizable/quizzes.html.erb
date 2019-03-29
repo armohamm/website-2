@@ -1,0 +1,28 @@
+---
+title: "CAPP Quizzes"
+description: "Toetsen maken en eenvoudig aanbieden"
+lang_ignore: en, de
+robots: noindex, nofollow
+index: false
+---
+
+<div class="hero">
+  <div class="hero-inner">
+    <%= image_tag "logos/logo-quizzes.svg", alt: "Logo Quizzes", title: "Logo Quizzes" %>
+  </div>
+</div>
+
+<section>
+  <div class="row">
+      <div class="col">
+        <article>
+          <%= partial "quizzes/content" %>
+        </article>
+      </div>
+      <div class="col-img">
+        <%= image_tag "screenshots/quizzes-screenshots.png", title: "Zo werkt Quizzes in de praktijk", alt: "Zo werkt Quizzes in de praktijk" %>
+      </div>
+  </div>
+</section>
+
+<%= partial "call-to-actions/information-quizzes" if root_locale == :nl && data.downloads.quizzes_productsheet[I18n.locale] %>

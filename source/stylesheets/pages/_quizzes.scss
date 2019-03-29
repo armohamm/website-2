@@ -1,0 +1,60 @@
+body.quizzes {
+  .hero {
+    $hero-image: "../images/moods/doors.jpg";
+
+    background-attachment: scroll;
+    background-color: $orange-alt;
+    background-image: url($hero-image);
+    background-position: center;
+
+    h1 {
+      color: $white;
+    }
+  }
+
+  :not(.footer):not(.cta-bottom) {
+    .row {
+      max-width: 1260px;
+
+      @include media($medium-up) {
+        align-items: center;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+
+      .col-img {
+        align-items: right;
+        padding-left: 1em;
+      }
+
+      .col {
+        max-width: 1500px;
+
+        @include media($medium-up) {
+          padding: 0;
+        }
+
+        @include media($xlarge-up) {
+          flex: 1;
+        }
+      }
+    }
+  }
+
+  .cta-bottom .gray {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1260px;
+    padding: 0 1em;
+    position: relative;
+  }
+
+  .form {
+    display: block;
+    margin: 0 auto;
+    max-width: 800px;
+    position: relative;
+    text-align: left;
+  }
+}

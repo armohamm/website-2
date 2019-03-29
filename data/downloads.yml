@@ -21,3 +21,5 @@ migratiekit_productsheet:
   nl: "/pdf/Productsheet_Migratie.pdf"
 compliance_api_productsheet:
   nl: "/pdf/Productsheet_Compliance_API.pdf"
+quizzes_productsheet:
+  nl: "/pdf/Productsheet_Quizzes.pdf"
