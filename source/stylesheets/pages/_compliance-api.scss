@@ -50,10 +50,10 @@ body.compliance-api {
   }
 
   .form {
+    display: block;
+    margin: 0 auto;
     max-width: 800px;
-  }
-
-  .input {
-    width: 100%;
+    position: relative;
+    text-align: left;
   }
 }

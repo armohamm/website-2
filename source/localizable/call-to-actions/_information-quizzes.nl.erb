@@ -11,7 +11,7 @@
     </div>
   </div>
 
-    <form class="form" accept-charset="UTF-8" action="<%= t("urls.contact") %>" method="POST">
+  <form class="form" accept-charset="UTF-8" action="<%= t("urls.contact") %>" method="POST">
       <input type="hidden" name="utf8" value="✓">
       <input type="hidden" name="form" value="Contact - Quizzes">
       <input type="text" name="name" placeholder="<%= t("form.name") %> *" required>
@@ -20,5 +20,5 @@
       <input type="tel" name="phone" placeholder="<%= t("form.phone") %>">
       <input type="hidden" name="download" value="<%= full_url(data.downloads.quizzes_productsheet[I18n.locale]) %>">
       <button type="submit"><%= t("actions.download_productsheet") %>&nbsp;&nbsp;<span class="icon-pdf"></span></button>
-    </form>
+  </form>
 </section>
