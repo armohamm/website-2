@@ -319,28 +319,6 @@ configure :build do
 end
 
 ###
-# Deploy
-###
-
-# Deploy for staging and each locale
-activate :deploy do |deploy|
-  deploy.method = :git
-  deploy.remote =
-    if staging
-      "git@github.com:DefactoSoftware/website-staging.git"
-    else
-      case root_locale
-      when :nl
-        "git@github.com:DefactoSoftware/website.git"
-      when :de
-        "git@github.com:DefactoSoftware/website-de.git"
-      when :en
-        "git@github.com:DefactoSoftware/website-en.git"
-      end
-    end
-end
-
-###
 # Ready callback
 ###
 
