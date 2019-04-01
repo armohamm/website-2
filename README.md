@@ -4,15 +4,15 @@
 
 The source code for our websites, built with [Middleman](https://middlemanapp.com/) and deployed to [Netlify](https://www.netlify.com/):
 
-[https://www.defacto.nl](https://www.defacto.nl)
+### [https://www.defacto.nl](https://www.defacto.nl)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/76e34dcf-3a79-4b10-951c-af6bb0956126/deploy-status)](https://app.netlify.com/sites/defacto-nl/deploys)
 
-[https://www.defactolearning.de](https://www.defactolearning.de)
+### [https://www.defactolearning.de](https://www.defactolearning.de)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a15c1016-aea4-482d-ad20-218cfbb8249f/deploy-status)](https://app.netlify.com/sites/defacto-de/deploys)
 
-[https://en.defacto.nl](https://en.defacto.nl)
+### [https://en.defacto.nl](https://en.defacto.nl)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c08b69ab-87c7-4d09-bab0-564495bdd413/deploy-status)](https://app.netlify.com/sites/defacto-en/deploys)
 
@@ -24,6 +24,11 @@ More detailed information can be found at the [Wiki](https://github.com/DefactoS
 -   Bundler
 
 To install other dependencies run `bundle install` from the root of the project.
+
+## Useful Links for Debugging
+
+- http://localhost:4567/__middleman/config/
+- http://localhost:4567/__middleman/sitemap/
 
 ## Rake Commands
 
@@ -37,12 +42,9 @@ rake serve:de
 rake serve:en
 ```
 
-### Useful links for debugging
+### Build locally
 
-- http://localhost:4567/__middleman/config/
-- http://localhost:4567/__middleman/sitemap/
-
-### Build
+Build a local version of the website in the `./build` folder
 
 ```bash
 rake build:nl
@@ -50,7 +52,7 @@ rake build:de
 rake build:en
 ```
 
-### Test (and build before)
+### Test locally with html-proofer (with builds before)
 
 ```bash
 rake test:nl
@@ -80,3 +82,4 @@ rake test # Tests all builds with HTML-proofer
 - [Rubocop](https://github.com/rubocop-hq/rubocop)
 - [CircleCI](https://circleci.com/)
 - [Netlify](https://www.netlify.com/)
+- [Dependabot](https://dependabot.com/)
