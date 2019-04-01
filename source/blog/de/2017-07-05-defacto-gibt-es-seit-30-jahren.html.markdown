@@ -29,4 +29,4 @@ Defacto selbst hat auch ein neues Schild erhalten. Das neue Glasschild wurde unt
 Der Höhepunkt des Abends war die Defacto Band, die Songs wie das jetzt schon Cult Status erworbene Defacto Lied (‚Defacto arbeitet seit Jahren so’) aufführte. Aber auch Milda empfing Applaus mit ihrem politischen Lied über Litauen unter Russland. Zwischen den Liedern hindurch, blickte Hans auf 30 Jahre Defacto zurück. Die Lektionen die er gelernt hat: man kann lediglich Unternehmer sein, wenn man Privates und Arbeit nicht trennt. Und: Es ist toll Menschen zu helfen sich weiterzuentwickeln.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ExxabKjIr3M?rel=0" frameborder="0" allowfullscreen></iframe>
-[Video von BEMedia](http://www.bemedia.nl/){:target="_blank"}{:rel="noopener noreferrer"}{:title="BEMedia"}
+_Video von BEMedia_

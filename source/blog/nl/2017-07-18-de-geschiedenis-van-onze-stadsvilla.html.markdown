@@ -19,4 +19,4 @@ Tijdens het jubileumfeest overhandigde Beno een boekwerk met de complete geschie
 ![Beno Hofman](/images/blog/pand-geschiedenis2.jpg)
 ![Beno Hofman](/images/blog/pand-geschiedenis1.jpg)
 
-[Foto's gemaakt door BEMedia](http://www.bemedia.nl/){:target="_blank"}{:rel="noopener noreferrer"}{:title="BEMedia"}
+_Foto's gemaakt door BEMedia_
