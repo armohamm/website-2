@@ -1,22 +1,24 @@
 <section class="team">
-  <ol>
+  <div class="row">
+    <ol>
 
-    <% data.team.sort_by { |p| p.lastname.downcase }.each do |person| %>
+      <% data.team.sort_by { |p| p.lastname.downcase }.each do |person| %>
 
-      <li>
-        <% if href = team_avatar_url(person) %>
-          <%= image_tag href, alt: "#{person.firstname} #{full_last_name(person)}", title: "#{person.firstname} #{full_last_name(person)}", class: "avatar" %>
-        <% else %>
-          <div class="avatar no-image"></div>
-        <% end %>
-        <h5>
-          <span><%= person.firstname %></span>
-          <span><%= full_last_name(person) %></span>
-        </h5>
-      </li>
-    <% end %>
+        <li>
+          <% if href = team_avatar_url(person) %>
+            <%= image_tag href, alt: "#{person.firstname} #{full_last_name(person)}", title: "#{person.firstname} #{full_last_name(person)}", class: "avatar" %>
+          <% else %>
+            <div class="avatar no-image"></div>
+          <% end %>
+          <h5>
+            <span><%= person.firstname %></span>
+            <span><%= full_last_name(person) %></span>
+          </h5>
+        </li>
+      <% end %>
 
-    <%= partial "over-ons/you" unless current_page.url == "/jobs/" %>
+      <%= partial "over-ons/you" unless current_page.url == "/jobs/" %>
 
-  </ol>
+    </ol>
+  </div>
 </section>

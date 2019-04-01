@@ -2,6 +2,10 @@
   background-color: $light-gray-two;
   text-align: center;
 
+  .row {
+    max-width: $wide-row;
+  }
+
   li {
     display: inline-block;
     margin: 0 1em 1em;
