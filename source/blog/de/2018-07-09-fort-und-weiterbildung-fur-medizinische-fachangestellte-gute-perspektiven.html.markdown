@@ -31,9 +31,9 @@ Die MFA erhalten mehr Sicherheit in der Arbeit und ein breiteres Spektrum an spa
 
 Generell wird die Fort- und Weiterbildung für MFA durch die Ärztekammern geregelt. Entsprechende Angebote sind jedoch nicht nur bei den Ärztekammern selbst, sondern auch bei den Fachgesellschaften, beim Bildungswerk für Gesundheitsberufe e. V. und bei zahlreichen anderen Trägern zu finden.
 
-- [Verband medizinischer Fachberufe e.V.](http://www.vmf-online.de){:target="_blank"}{:rel="noopener noreferrer"}{:title="Verband medizinischer Fachberufe e.V."}
+- [Verband medizinischer Fachberufe e.V.](https://www.vmf-online.de/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Verband medizinischer Fachberufe e.V."}
 - [Seite der Bundesärztekammer über Fortbildungen für MFA](https://www.bundesaerztekammer.de/fileadmin/user_upload/downloads/pdf-Ordner/MFA/Weitere_Fortbildungsangebote_fuer_MFA_2018.pdf){:target="_blank"}{:rel="noopener noreferrer"}{:title="Seite der Bundesärztekammer über Fortbildungen für MFA"}
-- [Bildungswerk für Gesundheitsberufe e. V.](http://www.bildungswerk-gesundheitsberufe.de){:target="_blank"}{:rel="noopener noreferrer"}{:title="Bildungswerk für Gesundheitsberufe e. V."}
+- [Bildungswerk für Gesundheitsberufe e. V.](https://www.bildungswerk-gesundheit.de/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Bildungswerk für Gesundheitsberufe e. V."}
 
 ## Vorteile der Fort- und Weiterbildung mit E-Learning
 

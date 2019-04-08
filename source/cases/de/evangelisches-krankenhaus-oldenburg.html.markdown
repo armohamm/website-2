@@ -20,7 +20,7 @@ quote:
   position: "Personalentwicklung"
 facts:
   branch: Gesundheitswesen
-  url: http://www.evangelischeskrankenhaus.de
+  url: https://www.evangelischeskrankenhaus.de/
   since: 2015
   employees: 1200
 tags: "healthcare"

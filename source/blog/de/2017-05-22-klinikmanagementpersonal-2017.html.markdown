@@ -8,7 +8,7 @@ image: images/blog/social/klinikmanagementpersonal-1200x630.jpg
 featured_image: images/blog/featured/20170522-klinikmanagementpersonal.jpg
 
 ---
-__Wie wird die Digitalisierung das Gesundheitswesen verändern und welche Herausforderungen und Chancen lassen sich daraus auf die Arbeitswelt prognostizieren? Mit diesen Fragen und mehr beschäftigte sich Defacto auf dem diesjährigen [KlinikManagementPersonal Kongress](http://www.klinikmanagementpersonal.de/2017/home/){:target="_blank"} in Hannover Anfang Mai.__
+__Wie wird die Digitalisierung das Gesundheitswesen verändern und welche Herausforderungen und Chancen lassen sich daraus auf die Arbeitswelt prognostizieren? Mit diesen Fragen und mehr beschäftigte sich Defacto auf dem diesjährigen [KlinikManagementPersonal Kongress](https://www.klinikmanagementpersonal.de/2017/home/){:target="_blank"} in Hannover Anfang Mai.__
 
 In zwei spannenden Tagen rund um das Thema "Mensch 4.0 - Arbeitswelt Krankenhaus zwischen Individualisierung und Standardisierung" kamen Experten aus dem Gesundheitswesen, HR-Bereich und der IT-Branche zusammen und diskutierten angeregt über die derzeitigen digitalen Entwicklungen im Personalbereich der Krankenhäuser. Natürlich hat sich auf Defacto an dem Informationsaustausch beteiligt, wir waren mit einem Stand und einer Themeninsel vertreten.
 

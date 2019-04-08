@@ -8,7 +8,7 @@ image: images/blog/social/knowledge-transfer-1200x630.jpg
 featured_image: images/blog/featured/20151030-knowledge-transfer.jpg
 ---
 
-__Als organisaties niet oppassen gaan de medewerker met de meeste kennis straks met pensioen zonder hun kennis over te dragen. Ik sprak met [Daniel Weinzveg](http://www.dweinzveg.com/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Daniel Weinzveg"} over kennisoverdracht, de *‘boomer brain drain’* en oplossingen om het kennisgat te dichten.__
+__Als organisaties niet oppassen gaan de medewerker met de meeste kennis straks met pensioen zonder hun kennis over te dragen. Ik sprak met [Daniel Weinzveg](https://www.dweinzveg.com/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Daniel Weinzveg"} over kennisoverdracht, de *‘boomer brain drain’* en oplossingen om het kennisgat te dichten.__
 
 **D**aniel: De productiesector wordt als eerste geconfronteerd met een enorme organisatorische uitdaging. Binnenkort zijn ook andere branches aan de beurt. Nee, we hebben het niet over China, 3D-printers of handelsbeleid. Het is de talent pool, of eigenlijk het gebrek eraan. De *'Boomer Brain Drain'* (hoogopgeleide mensen uit de babyboomgeneratie die met pensioen gaan) is niet nieuw, maar er wordt weinig gedaan om het verlies van talent tegen te gaan. Zelfs nu analytici voorspellen dat organisaties van alle rangen en standen er last van gaan krijgen. Als gevolg van sociale en culturele factoren zijn de gevolgen op dit moment vooral voelbaar in de productie, maar de trend zet in rap tempo door naar alle sectoren.
 

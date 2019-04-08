@@ -8,7 +8,7 @@ image: images/blog/social/leadership-1200x630.jpg
 featured_image: images/blog/featured/20151008-leadership.jpg
 ---
 
-__Die Mitarbeiterführung kann Ihr Unternehmen stärken oder ruinieren. Die meisten Angestellten kündigen ihrem Vorgesetzten, nicht ihren Job. Um das zu verhindern, sollten wir darüber sprechen, wie starke und nützliche Führungsqualitäten erlangt werden können. Kürzlich habe ich mit__ Spencer __von [theTILLERY](http://www.thetillery.com/#cultivating-brands){:target="_blank"}{:rel="noopener noreferrer"}{:title="theTILLERY"} gesprochen und er hat seine Geheimnisse über Mitarbeiterführung ausgeplaudert.__
+__Die Mitarbeiterführung kann Ihr Unternehmen stärken oder ruinieren. Die meisten Angestellten kündigen ihrem Vorgesetzten, nicht ihren Job. Um das zu verhindern, sollten wir darüber sprechen, wie starke und nützliche Führungsqualitäten erlangt werden können. Kürzlich habe ich mit__ Spencer __von [theTILLERY](https://www.thetillery.com/#cultivating-brands-1){:target="_blank"}{:rel="noopener noreferrer"}{:title="theTILLERY"} gesprochen und er hat seine Geheimnisse über Mitarbeiterführung ausgeplaudert.__
 
 __M__ilda: Hallo Spencer, können Sie uns etwas mehr über sich selbst erzählen?
 
