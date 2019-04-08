@@ -40,7 +40,7 @@ Dit is essentieel en hoe eerder de bovenstaande vragen beantwoord zijn, hoe grot
 
 ## Ontwikkel een strategisch en meetbaar plan
 
-**D**: Zodra de vaardigheden en *kennis van een organisatie* zijn geïdentificeerd, kun je een plan maken om die vaardigheden en kennis van over te dragen. Er zijn een aantal zeer succesvolle processen voor het overdragen van expliciete en impliciete organisatorische kennis. Mijn favoriet is het [3-stappenplan van Steve Trautman](http://stevetrautman.com/3-step-solution/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Steve Trautman"}. Maar ook [Dorothy Leonard](http://www.leonardbartongroup.com/html/team/LBG_Team_Dorothy_01.html){:rel="noopener noreferrer"}{:title="Dorothy Leonard"} is een expert op dit gebied.
+**D**: Zodra de vaardigheden en *kennis van een organisatie* zijn geïdentificeerd, kun je een plan maken om die vaardigheden en kennis van over te dragen. Er zijn een aantal zeer succesvolle processen voor het overdragen van expliciete en impliciete organisatorische kennis. Mijn favoriet is het [3-stappenplan van Steve Trautman](https://stevetrautman.com/talent-risk-management/3-step-solution/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Steve Trautman"}. Maar ook [Dorothy Leonard](http://www.leonardbartongroup.com/html/team/LBG_Team_Dorothy_01.html){:rel="noopener noreferrer"}{:title="Dorothy Leonard"} is een expert op dit gebied.
 
 Welk proces je ook kiest, zorg dat het meetbaar is en je het voortdurend bijhoudt. Bepaal de meetwaarden voor het meten van de kracht van de "reservebank", vakbekwaamheid en risico. Werkplekken veranderen tegenwoordig voortdurend en het managen van mensen en kennis blijft een uitdaging.
 

@@ -8,7 +8,7 @@ lang: nl
 featured_image: images/blog/featured/20150812-prototype.jpg
 ---
 
-__Een jaar geleden heb ik een [360-graden feedback](http://360feedback.io) evaluatie gedaan met als doel te kijken waar ik op dat moment stond en in welk vakgebied ik me zou willen ontwikkelen. In deze feedback ronde werd gehint naar een functie als functioneel ontwerper of [UX](https://en.wikipedia.org/wiki/User_experience_design) (User eXperience) ontwerper.__
+__Een jaar geleden heb ik een [360-graden feedback](https://360feedback.io) evaluatie gedaan met als doel te kijken waar ik op dat moment stond en in welk vakgebied ik me zou willen ontwikkelen. In deze feedback ronde werd gehint naar een functie als functioneel ontwerper of [UX](https://en.wikipedia.org/wiki/User_experience_design) (User eXperience) ontwerper.__
 
 Een half jaar geleden heb ik er werk van gemaakt door bij [Anne Vroegop](https://twitter.com/annevroegop) een cursus te volgen op het gebied van interaction design.
 

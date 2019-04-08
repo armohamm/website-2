@@ -77,9 +77,9 @@ $('.image-color').each(function () {
 
 In this basic example we iterate over all `.image-color` elements. We create a temporary `new Image()` in memory and set its `src` attribute to the `src` attribute of the original image. When the `onload` callback is fired it means the image is loaded, and we can add the `loaded` class.
 
-**[Demo](http://codepen.io/snap/pen/avQzzG)** (with comments).
+**[Demo](https://codepen.io/snap/pen/avQzzG)** (with comments).
 
-Instead of an image tag you could also use a background image. See this **[demo](http://codepen.io/snap/pen/RWqNLw)** how this goes really well together with [Intrinsic Ratio](/blog/flexible-cover-images-using-intrinsic-ratio/).
+Instead of an image tag you could also use a background image. See this **[demo](https://codepen.io/snap/pen/RWqNLw)** how this goes really well together with [Intrinsic Ratio](/blog/flexible-cover-images-using-intrinsic-ratio/).
 
 ## Extracting the Dominant Image Color
 

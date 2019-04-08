@@ -16,7 +16,7 @@ options = {
   check_favicon: false,
   check_opengraph: true,
   http_status_ignore: [0, 999, 403, 401],
-  typhoeus: { timeout: 30 }
+  url_ignore: ["https://codepen.io/"]
 }
 
 # Run html-proofer on build directory

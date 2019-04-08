@@ -40,4 +40,4 @@ Ons inziens is hierin nog een grote stap te maken. En natuurlijk hebben wij een 
 
 Interesse in de revolutie van het LMS en het leren in organisaties? 19 april aanstaande staan wij op **[Next Learning 2016](http://www.nextlearning.nl/){:target="_blank"}** in Den Bosch om over dit thema onze ideeën te delen. Ik zie u daar uiteraard graag!
 
-[![Next Learning 2016](/images/blog/nextlearning2016.jpg)](http://www.nextlearning.nl/){:target="_blank"}
+[![Next Learning 2016](/images/blog/nextlearning2016.jpg)](https://www.nextlearning.nl/){:target="_blank"}

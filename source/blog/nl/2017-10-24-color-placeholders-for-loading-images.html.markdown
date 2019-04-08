@@ -78,13 +78,13 @@ $('.image-color').each(function () {
 
 In this basic example we iterate over all `.image-color` elements. We create a temporary `new Image()` in memory and set its `src` attribute to the `src` attribute of the original image. When the `onload` callback is fired it means the image is loaded, and we can add the `loaded` class.
 
-**[Demo](http://codepen.io/snap/pen/avQzzG)** (with comments).
+**[Demo](https://codepen.io/snap/pen/avQzzG/)** (with comments).
 
-Instead of an image tag you could also use a background image. See this **[demo](http://codepen.io/snap/pen/RWqNLw)** how this goes really well together with [Intrinsic Ratio](/blog/flexible-cover-images-using-intrinsic-ratio/).
+Instead of an image tag you could also use a background image. See this **[demo](https://codepen.io/snap/pen/RWqNLw/)** how this goes really well together with [Intrinsic Ratio](/blog/flexible-cover-images-using-intrinsic-ratio/).
 
 ## Extracting the Dominant Image Color
 
-There are several ways to extract the dominant/average color of an image. You can find a bunch of online tools that do this for you or if you have Photoshop you can select `Filter > Blur > Average`. Another option is using the [ImageMagick command-line](http://www.imagemagick.org/script/command-line-processing.php):
+There are several ways to extract the dominant/average color of an image. You can find a bunch of online tools that do this for you or if you have Photoshop you can select `Filter > Blur > Average`. Another option is using the [ImageMagick command-line](https://imagemagick.org/script/command-line-processing.php):
 
 ```bash
 convert path/or/url/to/image.png -resize 1x1 txt:-

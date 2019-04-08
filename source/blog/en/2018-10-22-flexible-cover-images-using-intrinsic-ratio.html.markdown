@@ -38,7 +38,7 @@ Now we can apply the intrinsic ratio trick:
 }
 ```
 
-[View demo](http://codepen.io/snap/full/MwqGYy/){:target="\_blank"}{:rel="noopener noreferrer"}{:title="Responsive intrinsic ratio"}
+[View demo](https://codepen.io/snap/full/MwqGYy/){:target="\_blank"}{:rel="noopener noreferrer"}{:title="Responsive intrinsic ratio"}
 
 The problem with using this aspect ratio trick is that if the element has a `max-height` declared, it will not be respected. To get around this, we applied this hack to a [pseudo-element](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements){:target="\_blank"}{:rel="noopener noreferrer"}{:title="Pseudo Elements"} instead:
 
@@ -59,7 +59,7 @@ The problem with using this aspect ratio trick is that if the element has a `max
 }
 ```
 
-[View demo](http://codepen.io/snap/full/EVPmOZ/){:target="\_blank"}{:rel="noopener noreferrer"}{:title="Responsive intrinsic ratio using pseudo-element"}
+[View demo](https://codepen.io/snap/full/EVPmOZ/){:target="\_blank"}{:rel="noopener noreferrer"}{:title="Responsive intrinsic ratio using pseudo-element"}
 
 ## Adding the image
 
@@ -82,7 +82,7 @@ So if we use a 1280x720px background image it will cover the whole available are
 }
 ```
 
-In the [demo](http://codepen.io/snap/full/NGxgLr/){:target="\_blank"}{:rel="noopener noreferrer"}{:title="Responsive intrinsic ratio w/ background image"} below I've added a CSS animation to demonstrate the effect of intrinsic ratio while resizing.
+In the [demo](https://codepen.io/snap/full/NGxgLr/){:target="\_blank"}{:rel="noopener noreferrer"}{:title="Responsive intrinsic ratio w/ background image"} below I've added a CSS animation to demonstrate the effect of intrinsic ratio while resizing.
 
 <p data-height="265" data-theme-id="0" data-slug-hash="NGxgLr" data-default-tab="css,result" data-user="snap" data-pen-title="Responsive intrinsic ratio w/ background image" class="codepen">See the Pen <a href="https://codepen.io/snap/pen/NGxgLr/">Responsive intrinsic ratio w/ background image</a> by Matthijs Kuiper (<a href="https://codepen.io/snap">@snap</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>

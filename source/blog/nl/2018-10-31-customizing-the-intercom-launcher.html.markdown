@@ -57,7 +57,7 @@ The styling is copied from the original launcher (for the most part):
 
 <script src="https://gist.github.com/2f3e3c5ba51fd8733a29fc0b4ff95a42.js?file=intercom-launcher.scss" type="text/javascript"></script>
 
-**Note:** The styling is in SCSS format. You can compile it to CSS [online](http://www.sassmeister.com){:target="_blank"}{:rel="noopener noreferrer"}{:title="SASS Meister"} or via command line: `sass --watch . --no-cache`.
+**Note:** The styling is in SCSS format. You can compile it to CSS [online](https://www.sassmeister.com){:target="_blank"}{:rel="noopener noreferrer"}{:title="SASS Meister"} or via command line: `sass --watch . --no-cache`.
 Also, I didn't include vendor prefixes so you might want to add those. Or even better, use [Autoprefixer](https://github.com/postcss/autoprefixer){:target="_blank"}{:rel="noopener noreferrer"}{:title="Autoprefixer"}.
 
 Last but not least, [turn off the Intercom Messenger launcher](https://docs.intercom.com/configure-intercom-for-your-product-or-site/customize-the-intercom-messenger/turning-off-the-intercom-messenger-launcher){:target="_blank"}{:rel="noopener noreferrer"}{:title="Turn off the Intercom launcher"}. Your newly created launcher is ready to take its place! For more information read the [docs](https://docs.intercom.com/configure-intercom-for-your-product-or-site/customize-the-intercom-messenger/customize-the-intercom-messenger-technical){:target="_blank"}{:rel="noopener noreferrer"}{:title="Customize Intercom messenger technical"}.

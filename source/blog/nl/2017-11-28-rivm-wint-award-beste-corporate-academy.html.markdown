@@ -12,7 +12,7 @@ __De beste corporate academy van Nederland. Zo mag het [Rijksinstituut voor Volk
 
 ![IVM wint award voor beste corporate academy 2017](/images/blog/rivm-wint-corporate-academie-2017.jpg)
 
-Bij het NSCU zijn tachtig academies aangesloten. Behalve de RIVM waren ook [De Nederlandsche Bank](https://www.dnb.nl/home/){:target="_blank"}{:rel="noopener noreferrer"}{:title="De Nederlandsche Bank"}, [het Neerlands Diep](http://neerlandsdiep.nl/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Neerlands Diep"} en [De Corporatie Academie](http://www.decorporatie-academie.nl/){:target="_blank"}{:rel="noopener noreferrer"}{:title="De Corporatie Academie"} genomineerd. Voor de award werden de genomineerden op vier onderdelen beoordeeld door een vakjury van het NSCU en door de deelnemers aan het jaarcongres, namelijk:
+Bij het NSCU zijn tachtig academies aangesloten. Behalve de RIVM waren ook [De Nederlandsche Bank](https://www.dnb.nl/home/){:target="_blank"}{:rel="noopener noreferrer"}{:title="De Nederlandsche Bank"}, [het Neerlands Diep](http://neerlandsdiep.nl/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Neerlands Diep"} en [De Corporatie Academie](https://www.decorporatie-academie.nl/){:target="_blank"}{:rel="noopener noreferrer"}{:title="De Corporatie Academie"} genomineerd. Voor de award werden de genomineerden op vier onderdelen beoordeeld door een vakjury van het NSCU en door de deelnemers aan het jaarcongres, namelijk:
 
 - De mate waarin de academy zich verder ontwikkelt vanuit een heldere visie
 - De mate waarin de academy aansluit op de praktijk

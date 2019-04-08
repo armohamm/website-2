@@ -8,7 +8,7 @@ image: images/blog/social/teamwork-1200x630.jpg
 featured_image: images/blog/featured/20160316-teamwork.jpg
 ---
 
-__We moeten toegeven dat het steeds moeilijker wordt om teamwork tussen verschillende generaties te verbeteren, omdat iedere generatie een andere perceptie heeft van communicatie. Toch is het juist de communicatie die essentieel is voor goed teamwork. Onlangs hadden we een gesprek met teamworkgoeroe [Anne Loehr](http://www.anneloehr.com){:target="_blank"}{:rel="noopener noreferrer"}{:title="Anne Loehr: Generational Guru, Author & Transformational Leader"}. We spraken haar over de vraag of teamwork door elke generatie opnieuw wordt gedefinieerd.__
+__We moeten toegeven dat het steeds moeilijker wordt om teamwork tussen verschillende generaties te verbeteren, omdat iedere generatie een andere perceptie heeft van communicatie. Toch is het juist de communicatie die essentieel is voor goed teamwork. Onlangs hadden we een gesprek met teamworkgoeroe [Anne Loehr](https://www.anneloehr.com/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Anne Loehr: Generational Guru, Author & Transformational Leader"}. We spraken haar over de vraag of teamwork door elke generatie opnieuw wordt gedefinieerd.__
 
 > Eenheid is macht. En als teamwerk en samenwerking plaatsvinden, kunnen er prachtige dingen gebeuren.
 

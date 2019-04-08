@@ -7,7 +7,7 @@ lang: nl
 featured_image: images/blog/featured/20150917-fc-groningen.jpg
 ---
 
-Eén van de eerste dingen die me opviel toen ik solliciteerde bij Defacto was een folder van de website van [FC Groningen](http://www.fcgroningen.nl) die op de kamer lag waar ik een gesprek had. Een website uit de mid jaren '90! Gaaf! Als Groningen supporter sprak me dat natuurlijk aan. Nu wil je niet meer met zo’n website gezien worden, maar voor die tijd was het toch best aardig (Groningse bescheidenheid). In die jaren speelde Groningen na een succesvolle periode in de onderste regionen van de PTT-Telecompetitie en was Defacto nog met, bijvoorbeeld, hardware bezig. Dat er in die jaren veel veranderd is, lijkt me duidelijk:
+Eén van de eerste dingen die me opviel toen ik solliciteerde bij Defacto was een folder van de website van [FC Groningen](https://www.fcgroningen.nl) die op de kamer lag waar ik een gesprek had. Een website uit de mid jaren '90! Gaaf! Als Groningen supporter sprak me dat natuurlijk aan. Nu wil je niet meer met zo’n website gezien worden, maar voor die tijd was het toch best aardig (Groningse bescheidenheid). In die jaren speelde Groningen na een succesvolle periode in de onderste regionen van de PTT-Telecompetitie en was Defacto nog met, bijvoorbeeld, hardware bezig. Dat er in die jaren veel veranderd is, lijkt me duidelijk:
 
 ![Oud nieuws](/images/blog/robben-selectie-oranje.jpg)
 

@@ -24,7 +24,7 @@ WebSummit is niet dé plek om gesprekken te hebben over innovatie. Nieuwe innova
 
 ## Voors
 
-Als start-up ontmoet je er veel mensen en veel investeerders in korte tijd. Voor ons is het ontmoeten van een investeerder niet aan de orde, want zoals mijn collega en productmanager Hugo eerder in het [Dagblad van het Noorden](http://www.dvhn.nl/economie/LearningSpaces-is-%E2%80%98vreemde-eend-in-de-bijt%E2%80%99-21731305.html){:target="_blank"} zei: *"Voor ons is het leuk om te zien in hoeverre we de internationale markt op kunnen gaan. We zoeken naar naamsbekendheid, partners en volgende stappen."*
+Als start-up ontmoet je er veel mensen en veel investeerders in korte tijd. Voor ons is het ontmoeten van een investeerder niet aan de orde, want zoals mijn collega en productmanager Hugo eerder in het [Dagblad van het Noorden](https://www.dvhn.nl/economie/LearningSpaces-is-%E2%80%98vreemde-eend-in-de-bijt%E2%80%99-21731305.html){:target="_blank"} zei: *"Voor ons is het leuk om te zien in hoeverre we de internationale markt op kunnen gaan. We zoeken naar naamsbekendheid, partners en volgende stappen."*
 
 Al deze dingen vind je inderdaad op WebSummit. Een korte opsomming: We hebben advies gekregen, over hoe we de internationale markt kunnen veroveren, van Johan van Mil en Stefan Bary (Peak Capital), waarvoor dank! Tijdens de standdag laten we zien wat CAPP Agile Learning is, wat het kan en hoe het wordt gebruikt. We laten zien hoe CAPP Agile Learning succesvol gebruikt wordt bij espresso franchise Doppio (met dank aan Peter van Eijl en Werner Lindeboom) en het Universitair Medisch Centrum Groningen (met dank aan Ronald van Rheenen). En er is volop oprechte aandacht voor onze visie op het delen van expertise binnen teams.
 

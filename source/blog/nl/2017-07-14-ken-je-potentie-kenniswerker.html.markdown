@@ -38,7 +38,7 @@ Stel je eens voor. Als een directeur al zijn werknemers als kenniswerkers ziet, 
 
 __Het kost meer dan je denkt__
 
-Julie Kantor, de oprichtster van Twomentor [heeft berekend](http://www.huffingtonpost.com/julie-kantor/high-turnover-costs-way-more-than-you-think_b_9197238.html){:target="_blank"}{:rel="noopener noreferrer"}{:title="High turnover costs way more than you think"} dat het verliezen van een werknemer ongeveer $15,000-$20,000 kost. Als je even snel uitrekent wat 50% van je werknemers is dat vermenigvuldigd met dit bedrag kom je op een hoop geld uit.
+Julie Kantor, de oprichtster van Twomentor [heeft berekend](https://www.huffpost.com/entry/high-turnover-costs-way-more-than-you-think_b_9197238){:target="_blank"}{:rel="noopener noreferrer"}{:title="High turnover costs way more than you think"} dat het verliezen van een werknemer ongeveer $15,000-$20,000 kost. Als je even snel uitrekent wat 50% van je werknemers is dat vermenigvuldigd met dit bedrag kom je op een hoop geld uit.
 
 Om uit te leggen waarom werknemers zo duur zijn, heeft ze de kosten opgebroken. Onder andere de training van nieuwe werknemers is heel kostbaar. De sollicitatiegesprekken, eerste werkweken, maar ook de communicatie met de nieuwe collega's heeft invloed op dit bedrag. Daarnaast zijn er natuurlijk ook nog de industriespecifieke kosten.
 
