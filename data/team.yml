@@ -42,6 +42,10 @@
   lastname: Prins
   avatar: /images/team/cathrin-prins.jpg
 
+- firstname: Christa
+  lastname: Vlaanderen
+  avatar: /images/team/christa-vlaanderen.jpg
+
 - firstname: Celine
   lastname: Kemp
   avatar: /images/team/celine-kemp.jpg
@@ -57,6 +61,11 @@
 - firstname: Ewoud
   lastname: Veenhuizen
   avatar: /images/team/ewoud-veenhuizen.jpg
+
+- firstname: Frank
+  prefix: te
+  lastname: Biesebeek
+  avatar: /images/team/frank-te-biesebeek.jpg
 
 - firstname: Frits
   lastname: Ypeij
@@ -168,10 +177,6 @@
 - firstname: Stephan
   lastname: Feifel
   avatar: /images/team/stephan-feifel.jpg
-
-- firstname: Tim
-  lastname: Bakker
-  avatar: /images/team/tim-bakker.jpg
 
 - firstname: Vincent
   prefix: van
