@@ -14,4 +14,5 @@
   text: "Next Learning was een dag vol interessante presentaties, kennissessies en informatie. We zijn dan ook druk bezig met het maken van een handige samenvatting van de dag en je kunt je via deze link inschrijven om deze te ontvangen."
   image: "news/next-learning-2019.jpg"
   link: "https://defactomarketing.nl/samenvatting-nl-2019/"
+  external_link: true
   alt: "Samenvatting van Next Learning 2019"
