@@ -14,7 +14,7 @@ body.capp-agile-learning {
     }
 
     .hero-inner {
-      padding: 3em 1em 2em;
+      padding: em($header-height) + 3em 1em 2em;
       position: relative;
 
       @include media($large-up) {
