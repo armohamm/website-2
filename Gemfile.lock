@@ -133,7 +133,6 @@ GEM
     rack (1.6.11)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
-    rails-assets-bowser (1.9.4)
     rails-assets-fitvids (1.2.0)
       rails-assets-jquery (>= 1.7.0)
     rails-assets-jquery (2.2.4)
@@ -194,7 +193,6 @@ DEPENDENCIES
   middleman-syntax
   neat (~> 1.7.2)
   nokogiri
-  rails-assets-bowser!
   rails-assets-fitvids!
   rails-assets-jquery (~> 2.2.4)!
   rails-assets-jquery-placeholder!
@@ -202,6 +200,3 @@ DEPENDENCIES
   rails-assets-js-cookie!
   rails-assets-what-input!
   rake
-
-BUNDLED WITH
-   1.16.2
