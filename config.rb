@@ -87,6 +87,7 @@ ignore "/fonts/icons/selection.json"
 # Redirects
 #
 # To prevent 404's we redirect old paths to new paths
+# Below are redirects for multiple locales
 # We define redirects per locale in data/redirects.yml
 
 unless root_locale == :de
@@ -99,8 +100,6 @@ unless root_locale == :en
            "e-learning.html"
   redirect "learningspaces.html", to:
            "capp-agile-learning.html"
-  redirect "update.html", to:
-           "upgrade.html"
 end
 
 # Get data yml per locale for redirects

@@ -14,3 +14,5 @@
   to: "klanten.html"
 - from: "blog/audit-pohl-boskamp.html"
   to: "/blog/audit-farmaceutisch-bedrijf-pohl-boskamp/"
+- from: "update.html"
+  to: "upgrade.html"
