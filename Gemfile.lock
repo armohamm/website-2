@@ -135,7 +135,7 @@ GEM
       rack (>= 1.0, < 3)
     rails-assets-fitvids (1.2.0)
       rails-assets-jquery (>= 1.7.0)
-    rails-assets-jquery (2.2.4)
+    rails-assets-jquery (3.4.0)
     rails-assets-jquery-placeholder (2.3.1)
       rails-assets-jquery (>= 1.6)
     rails-assets-jquery.scrollTo (2.1.2)
@@ -194,7 +194,7 @@ DEPENDENCIES
   neat (~> 1.7.2)
   nokogiri
   rails-assets-fitvids!
-  rails-assets-jquery (~> 2.2.4)!
+  rails-assets-jquery (~> 3.4.0)!
   rails-assets-jquery-placeholder!
   rails-assets-jquery.scrollTo!
   rails-assets-js-cookie!

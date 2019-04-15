@@ -24,7 +24,7 @@ gem "neat", "~> 1.7.2"
 # Frontend
 source "https://rails-assets.org" do
   gem "rails-assets-fitvids"
-  gem "rails-assets-jquery", "~> 2.2.4"
+  gem "rails-assets-jquery", "~> 3.4.0"
   gem "rails-assets-jquery-placeholder"
   gem "rails-assets-jquery.scrollTo"
   gem "rails-assets-js-cookie"
