@@ -12,4 +12,16 @@
     </div>
   </li>
 
+  <li class="performance-support">
+    <% link_to "/performance-support.html", class: "col left" do %>
+      <h2>
+        <%= t("solutions.pages.performance-support.name") %>
+      </h2>
+    <% end %>
+    <div class="col right">
+      <p><%= t("solutions.pages.performance-support.desc", link: link_to(t("solutions.pages.performance-support.link"), "/performance-support.html")) %></p>
+      <%= link_to t("actions.more_about.performance-support"), "/performance-support.html", class: "button pink outline" %>
+    </div>
+  </li>
+
 </ul>

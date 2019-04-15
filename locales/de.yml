@@ -96,6 +96,7 @@ de:
       hosting: "Mehr zu Hosting & Sicherheit"
       koppelingen: "Mehr zu Schnittstellen"
       healthcare: "Mehr zu Gesundheitswesen"
+      performance-support: "Mehr zu Performance Support"
     tell_me_more: "Erzähl mir mehr"
     try_for_free: "Gratis testen"
     visit_website: "Besuche die Website"
@@ -295,6 +296,7 @@ de:
     phone: "Telefon"
     submit: "Versenden"
     register: "Melden Sie sich an"
+
   jobs:
     acquisition: "Achtung: Keine Werbung auf diese Stellenanzeige verschicken."
     apply: "Bewerben &raquo;"
@@ -441,6 +443,19 @@ de:
           title: "Referenzen"
         more:
           title: "Mehr zum Gesundheitswesen"
+      performance-support:
+        name: "Performance Support"
+        desc: "Bei %{link} geht es um die Unterstützung am Arbeitsplatz durch kontextgebundene Lerneinheiten. Also Lerneinheiten oder Informationen um ihre täglichen Arbeitsabläufe effizient und bestmöglich ausführen zu können. "
+        link: "Performance Support"
+        title: "Performance Support: Leistungsunterstützung am Arbeitsplatz"
+        page-navigation:
+          general: "Performance Support"
+          advantages: "Vorteile"
+          moments: "5 Moments of Need"
+          practical: "In der Praxis"
+        form_title: "Lösungen - Performance Support"
+        form_header: "Möchten Sie mehr über Performance Support erfahren und wie dies in Ihrem Unternehmen implementiert werden kann?"
+        more_title: "Unsere Produkte"
   testimonials:
     title: "Was unsere Kunden sagen"
     more_testimonials: "Mehr Kundenstimmen"

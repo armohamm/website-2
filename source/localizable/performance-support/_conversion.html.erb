@@ -1,0 +1,15 @@
+<section class="demo-request" id="form">
+  <div class="row">
+
+    <h2>
+      <%= t("solutions.pages.performance-support.form_header") %>
+    </h2>
+
+    <%= partial "partials/form", locals: { title: t("solutions.pages.performance-support.form_title"),
+                                           fields: ["name", "email", "organisation", "phone"],
+                                           button_text: t("actions.make_appointment"),
+                                           button_class: "pink",
+                                           variant: "contact",
+                                           action_url: t("urls.contact")} %>
+  </div>
+</section>

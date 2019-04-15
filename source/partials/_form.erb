@@ -41,7 +41,7 @@ end
     <input type="tel" name="phone" placeholder="<%= t("form.phone") %>">
   <% end %>
 
-  <button type="submit">
+  <button type="submit" class="<%= locals[:button_class] %>">
     <% if locals[:button_text] %>
       <%= locals[:button_text] %>
     <% else %>
