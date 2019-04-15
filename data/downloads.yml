@@ -18,7 +18,7 @@ kwaliteitsmonitor_productsheet:
   nl: "/pdf/Productsheet_Kwaliteitsmonitor.pdf"
   de: "/pdf/Productsheet_Qualitaetspass_Qualitaetsmonitor.pdf"
 migratiekit_productsheet:
-  nl: "/pdf/Productsheet_Migratie.pdf"
+  nl: "/pdf/Infosheet_Upgrade.pdf"
 compliance_api_productsheet:
   nl: "/pdf/Productsheet_Compliance_API.pdf"
 quizzes_productsheet:

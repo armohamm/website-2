@@ -99,6 +99,8 @@ unless root_locale == :en
            "e-learning.html"
   redirect "learningspaces.html", to:
            "capp-agile-learning.html"
+  redirect "update.html", to:
+           "upgrade.html"
 end
 
 # Get data yml per locale for redirects
