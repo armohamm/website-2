@@ -1,32 +1,12 @@
 ---
 title: "CAPP Compliance API"
-description: "Realtime compliance in elk systeem"
+description: "Deel actuele compliance data met andere systemen in je organisatie"
 lang_ignore: en, de
-robots: noindex, nofollow
-index: false
 ---
 
-<div class="hero">
-  <div class="hero-inner">
-    <div class="hero-copy">
-      <h1>
-        CAPP Compliance API
-      </h1>
-    </div>
-  </div>
-</div>
-
-<section>
-  <div class="row">
-      <div class="col">
-        <article>
-          <%= partial "compliance-api/content" %>
-        </article>
-      </div>
-      <div class="col-img">
-        <%= image_tag "screenshots/compliance-api-toepassingen.png", title: "Toepassingen van de Compliance API", alt: "Toepassingen van de Compliance API" %>
-      </div>
-  </div>
-</section>
-
-<%= partial "call-to-actions/information-compliance-api" if root_locale == :nl && data.downloads.compliance_api_productsheet[I18n.locale] %>
+<%= partial "compliance-api/hero" %>
+<%= partial "compliance-api/on-page-navigation" %>
+<%= partial "compliance-api/overview" %>
+<%= partial "compliance-api/how-it-works" %>
+<%= partial "compliance-api/applications" %>
+<%= partial "compliance-api/conversion" if root_locale == :nl && data.downloads.compliance_api_productsheet[I18n.locale] %>

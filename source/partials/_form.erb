@@ -41,11 +41,18 @@ end
     <input type="tel" name="phone" placeholder="<%= t("form.phone") %>">
   <% end %>
 
+  <% if locals[:download_link] %>
+    <input type="hidden" name="download" value="<%= full_url(download_link) %>">
+  <% end %>
+
   <button type="submit" class="<%= locals[:button_class] %>">
     <% if locals[:button_text] %>
       <%= locals[:button_text] %>
     <% else %>
       <%= t("form.submit") %>
+    <% end %>
+    <% if locals[:form_type] == "download pdf" %>
+      <span class="icon-pdf"></span>
     <% end %>
   </button>
 </form>

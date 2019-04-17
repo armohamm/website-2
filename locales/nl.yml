@@ -154,6 +154,15 @@ nl:
     form:
       header: "Meer weten over het Convenant Medische Technologie?"
       text: "Wil je meer weten over het Convenant Medische Technologie en de oplossingen die wij daarvoor bieden, neem dan contact met ons op."
+  compliance-api:
+    hero:
+      title: "CAPP Compliance API"
+      sub_title: "Realtime compliance in elk systeem"
+    page-nav:
+      introduction: "Introductie"
+      how_it_works: "Hoe werkt de API?"
+      applications: "Hoe kan de API ingezet worden?"
+      more_info: "Meer informatie?"
   contact:
     heading: Aangenaam
     heading2: "We zijn er om je meer informatie te geven, vragen te beantwoorden en effectieve support te bieden."
@@ -302,6 +311,7 @@ nl:
     capp-lms: "CAPP faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant."
     kwaliteitsmonitor: "Altĳd en overal inzicht in de kwaliteit en bevoegdheid van je organisatie"
     kwaliteitspaspoort: "Real-time inzicht in bevoegd- en bekwaamheid binnen je organisatie"
+    compliance-api: "Deel actuele compliance data met andere systemen in je organisatie"
     capp-agile: "Performance support voor elke organisatie"
     threesixty: "Maak een efficiëntieslag in je HRD"
     close: "Sluiten"
