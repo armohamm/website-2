@@ -9,10 +9,10 @@
       Download ons product sheet (met handige activiteitenlijst) met alles wat je moet weten over de upgrade.
     </p>
 
-    <form class="form-inline" accept-charset="UTF-8" action="<%= t("urls.contact") %>" method="POST">
+    <form class="form-inline" accept-charset="UTF-8" action="<%= t("urls.upgrade_productsheet") %>" method="POST">
       <input type="hidden" name="utf8" value="✓">
-      <input type="hidden" name="form" value="Contact - Migratie">
       <input type="text" name="organisation" placeholder="<%= t("form.organisation") %> *" required>
+      <input type="hidden" name="form" value="Download - Upgradesheet">
       <input type="hidden" name="download" value="<%= full_url(data.downloads.migratiekit_productsheet[I18n.locale]) %>">
       <button type="submit"><%= t("actions.download_productsheet") %>&nbsp;&nbsp;<span class="icon-pdf"></span></button>
     </form>
