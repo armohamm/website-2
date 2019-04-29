@@ -48,4 +48,4 @@ Second of all, make learning more playful! The engagement of your employees will
 
 Considering all of these facts, try to unleash the power of modern learner, encourage your employees to exchange their knowledge in an informal way and it will make your business more successful. If you need any help with setting up your social learning platform contact us through [CAPP Agile Learning](/capp-agile-learning/) or maybe drop a DM or tweet us Twitter [@DefactoSoftware](https://twitter.com/defactoEN).
 
-(Some thoughts were taken from [www.langevin.com](http://www.langevin.com) and [www.gartner.com](http://www.gartner.com), thank you guys!)
+(Some thoughts were taken from Langevin and [www.gartner.com](http://www.gartner.com), thank you guys!)
