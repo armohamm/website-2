@@ -38,10 +38,6 @@
   lastname: Barelds
   avatar: /images/team/bastiaan-barelds.jpg
 
-- firstname: Cathrin
-  lastname: Prins
-  avatar: /images/team/cathrin-prins.jpg
-
 - firstname: Christa
   lastname: Vlaanderen
   avatar: /images/team/christa-vlaanderen.jpg
@@ -49,10 +45,6 @@
 - firstname: Celine
   lastname: Kemp
   avatar: /images/team/celine-kemp.jpg
-
-- firstname: Ellen
-  lastname: Westerveld
-  avatar: /images/team/ellen-westerveld.jpg
 
 - firstname: Ellie
   lastname: Kuiper
