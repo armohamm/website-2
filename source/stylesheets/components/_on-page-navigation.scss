@@ -14,7 +14,7 @@ section.on-page-navigation {
 
   a {
     display: block;
-    font-weight: 700;
+    font-weight: $font-weight-bold;
     padding: 0.2em 0;
 
     @include media($medium-up) {

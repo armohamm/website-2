@@ -37,7 +37,7 @@
   font-family: $base-font-family;
   font-size: $base-font-size;
   -webkit-font-smoothing: antialiased;
-  font-weight: 600;
+  font-weight: $font-weight-semibold;
   padding: $base-spacing / 2;
   text-decoration: none;
   user-select: none;

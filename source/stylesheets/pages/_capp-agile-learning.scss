@@ -52,7 +52,7 @@ body.capp-agile-learning {
       color: $white;
       font-family: $base-font-family;
       font-size: 1.4em;
-      font-weight: 500;
+      font-weight: $font-weight-regular;
       margin: 0 auto 1.2em;
       max-width: 800px;
     }
@@ -61,7 +61,7 @@ body.capp-agile-learning {
   h2 {
     color: $dark-gray;
     font-size: 1.6em;
-    font-weight: 300;
+    font-weight: $font-weight-small;
     margin-bottom: 1.2em;
 
     @include media($medium-up) {
@@ -129,7 +129,7 @@ body.capp-agile-learning {
     }
 
     h3 {
-      font-weight: 500;
+      font-weight: $font-weight-regular;
     }
 
     .screenshot {
@@ -227,7 +227,7 @@ body.capp-agile-learning {
       span {
         color: $white;
         font-size: 2em;
-        font-weight: 700;
+        font-weight: $font-weight-bold;
       }
     }
   }

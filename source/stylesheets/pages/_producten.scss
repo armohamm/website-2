@@ -35,7 +35,7 @@
 
       a {
         color: inherit;
-        font-weight: 700;
+        font-weight: $font-weight-bold;
       }
     }
   }
@@ -57,7 +57,7 @@
       display: table-cell;
       font-family: 'Montserrat', $base-font-family;
       font-size: $base-font-size * 1.4;
-      font-weight: 700;
+      font-weight: $font-weight-bold;
       line-height: 1.5;
       margin: 0;
       vertical-align: middle;

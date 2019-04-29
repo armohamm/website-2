@@ -10,7 +10,7 @@ article.post {
 
   body:not(.cases) & a:not(.button) {
     color: $blog-link-color;
-    font-weight: 700;
+    font-weight: $font-weight-bold;
     text-decoration: none;
     transition: color 0.1s linear;
 
@@ -60,7 +60,7 @@ article.post {
 .post-list {
   h2 {
     font-size: $base-font-size * 1.2;
-    font-weight: 700;
+    font-weight: $font-weight-bold;
     text-align: left;
 
     @include media($medium-up) {

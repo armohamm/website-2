@@ -33,7 +33,7 @@ section.news {
 
     h3 {
       font-size: $base-font-size * 1.4;
-      font-weight: 700;
+      font-weight: $font-weight-bold;
     }
 
     &:hover {

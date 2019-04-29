@@ -22,7 +22,7 @@
 
     a {
       display: block;
-      font-weight: 700;
+      font-weight: $font-weight-bold;
       padding: 0.5em 0;
 
       &.active {
@@ -33,7 +33,7 @@
     span {
       color: darken($light-gray, 15);
       display: block;
-      font-weight: 700;
+      font-weight: $font-weight-bold;
       padding: 0.5em 0;
     }
   }
