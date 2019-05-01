@@ -150,6 +150,7 @@ en:
     phone_link: "+31503144832"
   demo_request:
     title: "Request your demo"
+    sub_title: "Want to know more? Discover our products and approach through a demo by one of our experts."
     formkeep_title: "Demo request"
     form_title: "Request your Demo"
     form_text: "Leave your details and we will contact you as soon as possible."

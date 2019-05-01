@@ -187,9 +187,10 @@ nl:
     phone: "050 3144832"
     phone_link: "+31503144832"
   demo_request:
-    title: "Transformeer uw organisatie op het gebied van leren en ontwikkelen met onze learning & talent management software. Wilt u meer weten? Maak kennis met onze producten en aanpak tijdens een demo door een van onze experts."
-    form_title: "Vraag uw demo aan"
-    form_text: "Laat uw gegevens achter, dan nemen we zo spoedig mogelijk contact met u op."
+    title: "Transformeer leren en ontwikkelen in jouw organisatie"
+    sub_title: "Wil je meer weten? Maak kennis met onze producten en aanpak tijdens een demo door een van onze experts."
+    form_title: "Vraag je demo aan"
+    form_text: "Laat je gegevens achter, dan nemen we zo spoedig mogelijk contact met je op."
     formkeep_title: "Demo request"
   elearning:
     heading: "E-Learning ontwikkelen met Defacto"
