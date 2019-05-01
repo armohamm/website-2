@@ -98,7 +98,8 @@ nl:
     desc: "Performance support door 'kennis-on-demand'. Verbeter prestaties door medewerkers te voorzien van just-in-time kennis. Leg kennis simpel vast en deel handleidingen, protocollen, werkinstructies, QR-codes e.d."
     hero:
       img: screenshots/capp-agile-hero_nl.png
-      heading: "Met CAPP Agile Learning creëer je een platform gericht op de kennis die je organisatie in huis heeft. Performance support made agile: snel, effectief en specifiek voor jouw organisatie."
+      heading: "Creëer een platform voor de kennis die je organisatie in huis heeft"
+      sub_heading: "Performance support made agile: snel, effectief en specifiek voor jouw organisatie."
       action: "Vraag een demo aan"
     why:
       heading: "Waarom kiezen voor CAPP Agile Learning?"

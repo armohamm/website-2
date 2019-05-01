@@ -51,7 +51,7 @@ body.capp-agile-learning {
     h1 {
       color: $white;
       font-family: $base-font-family;
-      font-size: 1.4em;
+      font-size: 2em;
       font-weight: $font-weight-regular;
       margin: 0 auto 1.2em;
       max-width: 800px;
@@ -59,13 +59,13 @@ body.capp-agile-learning {
   }
 
   h2 {
-    color: $dark-gray;
+    color: $white;
     font-size: 1.6em;
     font-weight: $font-weight-small;
     margin-bottom: 1.2em;
 
     @include media($medium-up) {
-      font-size: 2.4em;
+      font-size: 1.6em;
     }
   }
 
