@@ -1,0 +1,15 @@
+.small-footer {
+  background: $dark-gray;
+  color: $white;
+  padding: 1.2em 0;
+  text-align: center;
+
+  a {
+    color: $white;
+    text-decoration: underline;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}

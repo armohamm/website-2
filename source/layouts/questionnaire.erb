@@ -30,25 +30,31 @@
 
     <%= feed_tag :atom, "#{blog("blog").options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
     <%= stylesheet_link_tag "main" %>
+    <%= yield_content :stylesheets %>
     <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
     <%= partial "partials/meta/google_analytics" if production %>
+    <%= javascript_include_tag "jquery" %>
+
   </head>
 
   <body class="<%= page_classes %>">
 
-    <div class="page-wrap">
-
-      <%= partial "header/header" %>
-
-      <div class="main" role="main">
-        <%= yield %>
-      </div>
-
+    <div class="main" role="main">
+      <%= yield %>
     </div>
 
-    <%= partial "footer/footer" %>
+    <%= partial "footer/small-footer" %>
+
     <%= partial "partials/privacy-notification" unless root_locale == :en -%>
-    <%= javascript_include_tag "jquery", "all" %>
+
+    <%= partial "partials/meta/organization_schema" if root_url? -%>
+
+    <%= javascript_include_tag "all" %>
+    <%= javascript_include_tag "search" if current_page.locale_root_path =~ /zoeken.html/ -%>
+    <%= yield_content :javascript %>
+
     <%= partial "partials/intercom", locals: { intercom_id: intercom_id } %>
+
   </body>
 </html>

@@ -1,0 +1,98 @@
+---
+layout: "questionnaire"
+title: Welk LMS past bij mij?
+description: Vul de vragenlijst in en krijg gratis een gedetailleerde rapportage over wat voor type LMS bij jou en je organisatie past.
+lang_ignore: en, de
+image: images/social/lms-questionnaire-1200x630.jpg
+---
+
+<section class="hero questionnaire">
+  <div class="row">
+
+    <%= inline_svg "logos/logo-defacto-big.svg", title: "Defacto Software" %>
+
+    <h1>
+      Welk LMS past bij mij?
+    </h1>
+  </div>
+</section>
+
+<section class="introduction">
+  <div class="row">
+    <div class="col">
+      <p>
+        Een <strong>Learning Management Systeem (LMS)</strong>, of een Digitale Leeromgeving, of hoe we het ook noemen, is niet meer uit ons leven weg te denken. We hebben er mee te maken in het onderwijs en natuurlijk in ons werk. Want wie wil niet gecertifieerd zijn, op de hoogte zijn van de laatste ontwikkelingen, uitzoeken hoe een apparaat werkt of zich ontwikkelen voor een nieuwe functie?
+      </p>
+      <p>
+        Er zijn vele LMS-en in vele varianten op de markt beschikbaar en het is niet altijd even gemakkelijk om daaruit een keuze te maken.
+      </p>
+      <p>
+        Met deze vragenlijst kun je bepalen welke aspecten van een LMS voor jou of jouw organisatie van belang zijn, zodat je op een gerichte manier kunt selecteren.
+      </p>
+      <p>
+        Na het invullen van de vragenlijst krijg je je resultaten terug in de vorm van het hier afgebeelde spindiagram. Hieruit is af te lezen welke domeinen voor jou of jouw organisatie van belang zijn.
+      </p>
+    </div>
+    <div class="col">
+      <%= image_tag "lms-questions-spider.png", alt: "Spindiagram" %>
+    </div>
+  </div>
+</section>
+
+<section class="question-list">
+  <div class="row">
+
+    <h2>
+      Vragenlijst
+    </h2>
+
+    <article>
+      <p>
+        Geef van onderstaande stellingen aan in hoeverre ze belangrijk zijn voor jouw organisatie. Een 1 betekent helemaal niet belangrijk, 5 betekent zeer belangrijk.
+      </p>
+    </article>
+
+    <form id="questions-form" class="form"></form>
+
+    <form id="results-form" class="form" accept-charset="UTF-8" action="https://formkeep.com/f/8312e511c5c0" method="POST">
+      <input type="hidden" name="utf8" value="✓">
+      <input type="hidden" name="form" value="Welk LMS past bij mij - Resultaat">
+      <input type="hidden" name="groups" id="results-input">
+
+      <div class="form-container">
+        <h3>
+          Vul het formulier in om toegang te krijgen tot jouw persoonlijke resultaten.
+        </h3>
+
+        <input type="text" name="name" placeholder="<%= t("form.name") %>" required>
+        <input type="text" name="company" placeholder="<%= t("form.organisation") %>" required>
+        <input type="email" name="email" placeholder="<%= t("form.email") %>" required>
+
+        <div class="form-checkbox permission-to-mail">
+          <label class="checkbox-label">Ik geef toestemming om contact met mij op te nemen
+            <input type="checkbox" name="toestemming-om-te-mailen" value="true">
+            <span class="checkmark"></span>
+          </label>
+        </div>
+
+        <div class="form-actions">
+          <button type="submit">Verstuur</button>
+        </div>
+
+        <p>
+          <em>Alle velden zijn verplicht.</em>
+        </p>
+      </div>
+
+    </form>
+  </div>
+</section>
+
+<% content_for :stylesheets do %>
+  <%= stylesheet_link_tag "questionnaire/questionnaire.min" %>
+<% end %>
+
+<% content_for :javascript do %>
+  <%= javascript_include_tag "questionnaire/questionnaire.min" %>
+  <%= javascript_include_tag "questionnaire/questions" %>
+<% end %>

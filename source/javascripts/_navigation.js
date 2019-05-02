@@ -1,3 +1,4 @@
+
 function GlobalNavDropdowns(globalNav) {
   // Get the elements
   var globalNavDropdowns = this;
@@ -242,6 +243,8 @@ GlobalNavPopup.prototype.closeAllPopups = function (event) {
 
 // Initialize on document ready
 $(document).ready(function () {
-  new GlobalNavDropdowns('.global-navigation'),
-  new GlobalNavPopup('.global-navigation .nav-section.mobile');
+  if ($('.nav-root').length) {
+    new GlobalNavDropdowns('.global-navigation'),
+    new GlobalNavPopup('.global-navigation .nav-section.mobile');
+  }
 });

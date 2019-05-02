@@ -1,0 +1,125 @@
+$hero-image: "../images/moods/defacto.jpg";
+
+.hero.questionnaire {
+  background-image: url($hero-image);
+  padding: 4em 0;
+  text-align: center;
+
+  svg {
+    display: block;
+    margin: 0 auto 2em;
+  }
+
+  h1 {
+    font-size: $base-font-size * 2.4;
+  }
+}
+
+body.welk-lms-past-bij-mij {
+  form {
+    margin: 0 auto;
+    max-width: 800px;
+  }
+
+  section {
+    padding: 2em 0;
+
+    &.introduction {
+      border-bottom: $base-border;
+      margin-bottom: 4em;
+
+      .row {
+        @include media($large-up) {
+          align-items: center;
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+        }
+      }
+    }
+
+    .col {
+      margin: 0 auto 2em;
+      max-width: 800px;
+
+      @include media($large-up) {
+        flex: 1;
+        width: 50%;
+      }
+
+      &:first-child {
+        @include media($large-up) {
+          margin-right: 2em;
+        }
+      }
+
+      img {
+        display: block;
+        margin: 0 auto;
+      }
+    }
+
+    &.question-list {
+      h2 {
+        margin: 0 auto;
+        max-width: 800px;
+      }
+
+      .group {
+        margin: 0;
+      }
+
+      .question {
+        border-bottom: $base-border;
+      }
+    }
+  }
+
+  .form-container {
+    padding: 3em 0;
+  }
+}
+
+body.welk-lms-past-bij-mij_resultaten {
+  .results {
+    max-width: 960px;
+  }
+
+  .print {
+    text-align: center;
+  }
+}
+
+@media print {
+  body.welk-lms-past-bij-mij_resultaten {
+    .hero.questionnaire {
+      background: $white;
+      padding: 1em 0;
+
+      .word-mark {
+        fill: $dark-gray;
+      }
+
+      h1 {
+        color: $dark-gray;
+      }
+    }
+  }
+
+  canvas {
+    height: 100% !important;
+    width: 100% !important;
+  }
+
+  .small-footer {
+    background: $white;
+    color: $dark-gray;
+    padding: 1.2em 0;
+    text-align: center;
+
+    a {
+      color: $dark-gray;
+      text-decoration: none;
+    }
+  }
+}

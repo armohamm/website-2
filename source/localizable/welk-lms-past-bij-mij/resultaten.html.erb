@@ -1,0 +1,87 @@
+---
+layout: "questionnaire"
+title: Resultaten - Welk LMS past bij mij?
+description: "Vul de vragenlijst in en krijg gratis een gedetailleerde rapportage over wat voor type LMS bij jou en je organisatie past."
+robots: noindex,nofollow
+index: false
+lang_ignore: en, de
+---
+
+<section class="hero questionnaire">
+  <div class="row">
+    <%= inline_svg "logos/logo-defacto-big.svg", title: "Defacto Software" %>
+    <h1>
+      Welk LMS past bij mij?
+    </h1>
+  </div>
+</section>
+
+<section>
+  <div class="row">
+    <article>
+      <h2>
+        Resultaten
+      </h2>
+      <p>
+        Bedankt voor het invullen van de vragenlijst. Hieronder zie je de uitslag op de verschillende domeinen die wij onderscheiden. In de toelichting lees je wat deze domeinen betekenen. Onderaan de pagina kun je de resultaten printen om ze op te slaan. Mocht je hierna meer informatie willen, neem dan contact met ons op.
+      </p>
+    </article>
+  </div>
+
+  <div class="row" id="results"></div>
+  <div class="row">
+    <article>
+      <h3>Toelichting</h3>
+
+      <h4>1. Online leren</h4>
+      <p>
+        Het maken, onderhouden, distribueren en aanbieden van online leeraanbod en leeromgevingen. Hierin is onder andere ruimte voor formeel, informeel en leerplek-onafhankelijk leren. De interactieve leeromgeving ondersteunt zowel moderne leerelementen als 'ouderwetse' modules voor het samenstellen van cursussen.
+      </p>
+
+      <h4>2. Curation</h4>
+      <p>
+        <em>Curation</em> zorgt ervoor dat gebruikers binnen onze software vooral relevante informatie en content aangeboden krijgen. Zo vormt het LMS voor iedereen een op maat gemaakt “leerlandschap”, en hoeven gebruikers geen grote aantallen cursussen door te spitten op zoek naar iets zinvols.
+      </p>
+
+      <h4>3. Events</h4>
+      <p>
+        Het organiseren van klassikaal & event-based leren. Cursussen, docenten- en locatieplanning, inschrijvingen, wachtrijen, accorderingen, acties en taken, (de-)annuleringen, afrondingen en communicatie.
+      </p>
+
+      <h4>4. Compliance</h4>
+      <p>
+        Het definiëren van en het behalen van Certificaten en Requirements, het rapporteren hierover en alle communicatie en insights die rond deze functionaliteit bestaat.
+      </p>
+
+      <h4>5. Personeelontwikkeling</h4>
+      <p>
+        Inzicht in benodigde kennis en kunde, medewerkers helpen zich te ontwikkelen, bij- en nascholen. Inzicht in wat er nodig is bij ambities richting een andere functie.
+      </p>
+
+      <h4>6. Kennis delen</h4>
+      <p>
+        Kennis delen, ondersteunen en medewerkers en organisaties helpen met het uitwisselen van kennis en ervaring die al aanwezig is binnen de organisatie.
+      </p>
+
+      <h4>7. Performance Support</h4>
+      <p>
+        Directe toegang tot de informatie die je nodig hebt om je werk te doen. Goed ingerichte performance support is een perfect voorbeeld van het “organiseren van leren”: zorgen dat mensen op het moment dat ze kennis of hulp nodig hebben daar direct en zonder moeite toegang toe hebben.
+      </p>
+    </article>
+  </div>
+
+  <div class="row print">
+    <button class="dont-print" onclick="window.print()">Print de resultaten</button>
+  </div>
+</section>
+
+<% content_for :stylesheets do %>
+  <%= stylesheet_link_tag "questionnaire/questionnaire.min" %>
+<% end %>
+
+<% content_for :javascript do %>
+  <%= javascript_include_tag "https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.min.js",
+                             "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js",
+                             "questionnaire/questionnaire.min",
+                             "questionnaire/results" %>
+<% end %>

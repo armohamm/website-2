@@ -75,7 +75,6 @@ input[type="search"] {
   @include appearance(none);
 }
 
-input[type="checkbox"],
 input[type="radio"] {
   display: inline;
   margin-right: $small-spacing / 2;
@@ -84,6 +83,68 @@ input[type="radio"] {
 input[type="file"] {
   padding-bottom: $small-spacing;
   width: 100%;
+}
+
+// Create checkbox label container
+.checkbox-label {
+  cursor: pointer;
+  display: block;
+  font-size: $base-font-size * 1.2;
+  font-weight: 500;
+  line-height: 32px;
+  margin-bottom: 1em;
+  padding-left: 48px;
+  position: relative;
+  user-select: none;
+
+  input[type="checkbox"] {
+    cursor: pointer;
+    height: 0;
+    opacity: 0;
+    position: absolute;
+    width: 0;
+  }
+
+  &:hover input ~ .checkmark {
+    background-color: $gray;
+  }
+
+  input:checked ~ .checkmark {
+    background-color: $orange;
+    border: 1px solid $orange;
+
+    &:hover {
+      background-color: $orange;
+      border: 1px solid $orange;
+    }
+
+    &::after {
+      display: block;
+    }
+  }
+
+  .checkmark {
+    background-color: $white;
+    border: 1px solid $light-gray;
+    height: 32px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 32px;
+
+    &::after {
+      border: solid $white;
+      border-width: 0 6px 6px 0;
+      content: "";
+      display: none;
+      height: 20px;
+      left: 9px;
+      position: absolute;
+      top: 3px;
+      transform: rotate(45deg);
+      width: 12px;
+    }
+  }
 }
 
 button[type="submit"] {
