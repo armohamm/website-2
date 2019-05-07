@@ -1,5 +1,5 @@
 ---
-title: "Defacto feliciteert Dianet: HKZ-certicering behaald met ondersteuning van CAPP LMS"
+title: "Defacto feliciteert Dianet: HKZ-certificering behaald met ondersteuning van CAPP LMS"
 date: 2019-05-07 08:00 CEST
 tags: CAPP LMS
 author: Michel
