@@ -1,0 +1,10 @@
+blockquote {
+  border-left: 3px solid $light-gray;
+  padding: $small-spacing / 3 $small-spacing;
+
+  p {
+    font-style: italic;
+    line-height: 1.8;
+    margin: $small-spacing / 2 0;
+  }
+}
