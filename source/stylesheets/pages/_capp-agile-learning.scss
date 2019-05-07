@@ -56,16 +56,21 @@ body.capp-agile-learning {
       margin: 0 auto 1.2em;
       max-width: 800px;
     }
+
+    h2 {
+      color: $white;
+      font-size: $base-font-size * 1.6;
+    }
   }
 
   h2 {
-    color: $white;
-    font-size: 1.6em;
+    color: $dark-gray;
+    font-size: $base-font-size * 1.6;
     font-weight: $font-weight-small;
     margin-bottom: 1.2em;
 
     @include media($medium-up) {
-      font-size: 1.6em;
+      font-size: $base-font-size * 2.4;
     }
   }
 
@@ -148,9 +153,11 @@ body.capp-agile-learning {
 
   .info-request {
     .row {
-      align-items: center;
-      display: flex;
-      justify-content: center;
+      @include media($medium-up) {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+      }
     }
 
     .col {
@@ -159,6 +166,14 @@ body.capp-agile-learning {
 
       @include media($medium-up) {
         width: 40%;
+      }
+
+      &:first-child {
+        margin-bottom: 2em;
+
+        @include media($medium-up) {
+          margin-bottom: 0;
+        }
       }
 
       &:last-child {

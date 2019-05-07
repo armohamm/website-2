@@ -4,9 +4,15 @@
 
       <%= image_tag "logos/logo-capp-agile-learning-white-vertical.svg", alt: "CAPP Agile Learning logo", class: "logo-capp-agile-learning" %>
 
-      <h1><%= t("capp-agile.hero.heading") %></h1>
+      <h1>
+        <%= t("capp-agile.hero.heading") %>
+      </h1>
 
-      <h2><%= t("capp-agile.hero.sub_heading") if root_locale == :nl %></h2>
+      <% if root_locale == :nl %>
+        <h2>
+          <%= t("capp-agile.hero.sub_heading") %>
+        </h2>
+      <% end %>
 
       <a class="button orange" href="#info-request" data-scroll-to-form><%= t("capp-agile.hero.action") %></a>
 
