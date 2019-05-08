@@ -2,8 +2,6 @@
   to: "capp-learning-management.html"
 - from: "capp-entwickeln.html"
   to: "capp-talent-management.html"
-- from: "events.html"
-  to: "veranstaltungskalender.html"
 - from: "jobs/consultant.html"
   to: "/jobs/e-learning-consultant/"
 - from: "jobs/projektleiter-consultant-softwareimplementierung.html"
