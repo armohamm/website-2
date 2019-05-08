@@ -4,7 +4,7 @@ date: 2019-03-22 08:00 CEST
 tags: CAPP Agile Learning
 author: Michel
 lang: nl
-featured: true
+featured: false
 image: images/blog/social/huis-voor-de-sport-860x630.jpg
 featured_image: images/blog/featured/20190322-huis-voor-de-sport.jpg
 header_image: moods/huis-voor-de-sport-mood.jpg
