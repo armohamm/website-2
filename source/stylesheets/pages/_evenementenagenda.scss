@@ -56,14 +56,13 @@ body.evenementenagenda {
   }
 }
 
+.no-planned-events {
+  text-align: center;
+}
+
 .events-list {
   margin: 0 auto;
   max-width: 800px;
-
-  .no-event {
-    text-align: center;
-    width: 100%;
-  }
 
   > li {
     border-bottom: $post-border 1px solid;

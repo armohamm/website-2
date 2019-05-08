@@ -1,7 +1,5 @@
 - from: "events.html"
   to: "evenementenagenda.html"
-- from: "events/gebruikersbijeenkomst-november-2018.html"
-  to: "/evenementenagenda/gebruikersbijeenkomst-november-2018/"
 - from: "workshop-convenant-mt.html"
   to: "convenant-medische-technologie.html"
 - from: "capp-lms-nieuw.html"

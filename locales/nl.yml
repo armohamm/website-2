@@ -208,6 +208,7 @@ nl:
   events:
     cta_title: "Nu aanmelden"
     title: "Evenementenagenda"
+    no_planned_events: "Er zijn momenteel geen geplande events."
     sub_title: "Bekijk hier de evenementen die wij organiseren of waar we aan deelnemen."
     title_closed: "De inschrijving voor dit evenement is gesloten."
     sub_title_closed: "Op de hoogte blijven van onze evenementen? Schrijf je dan in voor onze nieuwsbrief."

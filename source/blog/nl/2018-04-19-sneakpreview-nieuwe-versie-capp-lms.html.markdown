@@ -7,7 +7,6 @@ lang: nl
 featured: true
 image: images/blog/social/next-learning-2018-1200x630.png
 featured_image: images/blog/featured/20180419-next-learning-2018.png
-call_to_action: information-event
 ---
 
 __Het is bijna zo ver! Over enkele dagen gaan wij de nieuwe versie van ons CAPP LMS​ lanceren. Tijdens de Next Learning op 24 april 2018 in Den Bosch​ geven wij een sneakpreview van de nieuwe versie.__
