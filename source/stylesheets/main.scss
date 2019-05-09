@@ -23,8 +23,9 @@
 // Post specific styles
 @import "posts/*";
 
-@import "questionnaire/questionnaire.min";
-@import "questionnaire/questionnaire";
-
 // Section specific styles
 @import "sections/*";
+
+// Questionnaire specific styles
+@import "questionnaire/questionnaire.min";
+@import "questionnaire/questionnaire";
