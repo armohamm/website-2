@@ -243,8 +243,6 @@ GlobalNavPopup.prototype.closeAllPopups = function (event) {
 
 // Initialize on document ready
 $(document).ready(function () {
-  if ($('.nav-root').length) {
-    new GlobalNavDropdowns('.global-navigation'),
-    new GlobalNavPopup('.global-navigation .nav-section.mobile');
-  }
+  new GlobalNavDropdowns('.global-navigation'),
+  new GlobalNavPopup('.global-navigation .nav-section.mobile');
 });

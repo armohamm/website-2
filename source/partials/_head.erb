@@ -1,0 +1,32 @@
+<head>
+  <meta charset="utf-8">
+  <!--
+   ▄▄▄▄▄ ▄▄▄▄▄ ▄▄▄▄▄
+   █████ █████ █████
+   █████ █████ █████     ██████▄▄             ▟███▘
+   ▄▄▄▄▄ ▄▄▄▄▄ ▄▄▄▄▄     ███   ▀██           ▕██                    ██▌
+   █████ █████ █████     ███    ██  ▄██▀██▙ ██████ ▗▟████▙  ▟████▙ █████ ▟█████▙
+   ▀▀▀▀▀ ▀▀▀▀▀ ▀▀▀▀▀     ███    ██  ██▄▄▄██  ▕██     ▁▁▁██ ▕██      ██▌  ██▎ ▕██
+   █████ █████ █████     ███    ██  ██▀▔▔▔   ▕██   ██▀▀▀██ ▕██      ██▌  ██▎ ▕██
+   █████ █████ █████     ████████▀  ▀█████▛  ▕██   ▜███▛██  ▜████▛  ▜██▛ ▜█████▛
+   ▔▔▔▔▔ ▔▔▔▔▔ ▔▔▔▔▔
+
+   Hi there!
+   The *real* source of this website can be viewed at https://github.com/DefactoSoftware/website
+   Come hack with us? <%= t("urls.jobs") %>
+  -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title><%= content_for?(:page_title) ? yield_content(:page_title) : page_title(current_page) %></title>
+  <meta name="description" content="<%= h(meta_description) %>">
+  <meta name="robots" content="<%= robots %>">
+  <%= canonical -%>
+  <%= alternate_link_tags(current_page) -%>
+  <%= partial "partials/meta/open_graph" unless current_page.data.no_open_graph -%>
+  <%= feed_tag :atom, "#{blog("blog").options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
+  <%= stylesheet_link_tag "main" %>
+  <%= yield_content :stylesheets if locals[:yield_stylesheets] %>
+  <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <%= partial "partials/meta/google_analytics" if production %>
+  <%= javascript_include_tag "jquery" if locals[:include_jquery] %>
+</head>
