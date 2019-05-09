@@ -14,7 +14,10 @@
           <p>
             <%= t("footer.subscribe.text") %>
           </p>
-          <%= partial "footer/newsletter-subscribe-form" %>
+          <%= partial "partials/newsletter-signup", locals: { id: "mc-embedded-subscribe-form",
+                                                              variant: "form-subscribe",
+                                                              fields: ["email"],
+                                                              button_text: t("actions.subscribe")} %>
         </div>
 
         <div class="social-links">

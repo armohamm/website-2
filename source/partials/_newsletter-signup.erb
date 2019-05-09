@@ -1,0 +1,24 @@
+<form class="validate <%= variant %>" action="//defacto.us3.list-manage.com/subscribe/post?u=824afc560bd364b44c61499ad&amp;id=<%= t("urls.mc_newsletter") %>" method="post" id="<%= id %>" name="mc-embedded-blog-subscribe-form" target="_blank" novalidate>
+  <div class="form-subscribe-inputs">
+
+    <% if locals[:fields].include? "name" %>
+      <input type="text" name="NAME" placeholder="<%= t("form.name") %>" required>
+    <% end %>
+
+    <% if locals[:fields].include? "email" %>
+      <input type="email" name="EMAIL" placeholder="<%= t("form.email") %>" required>
+    <% end %>
+
+    <div style="position: absolute; left: -5000px;" aria-hidden="true">
+      <input type="text" name="b_824afc560bd364b44c61499ad_<%= t("urls.mc_newsletter") %>" tabindex="-1" value="">
+    </div>
+
+    <button type="submit" value="Subscribe" name="subscribe" class="<%= locals[:button_class] %>">
+      <% if locals[:button_text] %>
+        <%= locals[:button_text] %>
+      <% else %>
+        <%= t("form.submit") %>
+      <% end %>
+    </button>
+  </div>
+</form>
