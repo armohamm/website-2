@@ -50,5 +50,6 @@
     <%= partial "partials/privacy-notification" unless root_locale == :en -%>
     <%= javascript_include_tag "jquery", "all" %>
     <%= partial "partials/intercom", locals: { intercom_id: intercom_id } %>
+    <%= partial "partials/meta/organization_schema" if root_url? -%>
   </body>
 </html>
