@@ -142,7 +142,7 @@ GEM
       rails-assets-jquery (>= 1.8)
     rails-assets-js-cookie (2.2.0)
     rails-assets-what-input (5.2.1)
-    rake (11.1.2)
+    rake (12.3.2)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
