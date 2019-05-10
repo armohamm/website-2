@@ -28,7 +28,7 @@ Wir suchen jemanden mit Leidenschaft für Software und digitale Lernwelten! Füh
 - Ein gesundes Familienunternehmen mit internationalter Ausrichtung
 - Vielseitige Weiterbildungsmöglichkeiten
 
-Wir freuen uns über Deine aussagekräftige Bewerbung. Deine Ansprechpartnerin ist Isabela Wojtowicz, [isabela@defactolearning.de](mailto:isabela@defactolearning.de).
+Wir freuen uns über Deine aussagekräftige Bewerbung. Deine Ansprechpartnerin ist Isabela Wojtowicz, [i.wojtowicz@defactolearning.de](mailto:i.wojtowicz@defactolearning.de).
 
 __Defacto Software__
 [LinkedIn](https://www.linkedin.com/company/defacto/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Defacto LinkedIn Profil"}
