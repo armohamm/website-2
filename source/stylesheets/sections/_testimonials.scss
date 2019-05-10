@@ -28,7 +28,6 @@
       position: relative;
 
       &::before {
-        @include transform(rotate(45deg));
         background-color: $white;
         border: border;
         bottom: -$arrow-size / 2;
@@ -37,6 +36,7 @@
         height: $arrow-size;
         left: 60px;
         position: absolute;
+        transform: rotate(45deg);
         width: $arrow-size;
       }
 

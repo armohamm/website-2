@@ -6,10 +6,10 @@ body.x70-20-10 {
     background-position: center;
 
     .hero-inner {
-      padding: em($header-height) + 4em 1em 4em;
+      padding: calc(4em + #{$header-height}) 1em 4em;
 
       @include media($medium-up) {
-        padding: em($header-height) + 7em 1em 7em;
+        padding: calc(7em + #{$header-height}) 1em 7em;
       }
     }
 

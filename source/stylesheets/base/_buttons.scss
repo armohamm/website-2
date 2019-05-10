@@ -24,11 +24,10 @@
   }
 }
 
-#{$all-button-inputs},
+#{$all-buttons},
 .button {
-  @include appearance(none);
   @include button($action-color);
-  @include transition(all 0.15s ease-out);
+  appearance: none;
   background-color: $action-color;
   border-radius: 0;
   box-sizing: border-box;
@@ -40,6 +39,7 @@
   font-weight: $font-weight-semibold;
   padding: $base-spacing / 2;
   text-decoration: none;
+  transition: all 0.15s ease-out;
   user-select: none;
   vertical-align: baseline;
   white-space: nowrap;

@@ -2,7 +2,7 @@
   background: $orange-alt url("../images/moods/defacto.jpg") no-repeat top fixed;
   color: $white;
   padding-bottom: 6em;
-  padding-top: em($header-height) + 6em;
+  padding-top: calc(6em + #{$header-height});
   position: relative;
   text-align: center;
   width: 100%;

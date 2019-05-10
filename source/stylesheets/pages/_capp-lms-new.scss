@@ -100,7 +100,7 @@ body:not(.en).capp-lms {
     }
 
     .row {
-      padding: em($header-height) + 3em 1em 3em;
+      padding: calc(3em + #{$header-height}) 1em 3em;
     }
 
     .logo {

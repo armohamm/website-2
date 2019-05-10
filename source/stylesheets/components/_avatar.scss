@@ -1,6 +1,5 @@
 .avatar {
   @include avatar-size(60px);
-  @include user-select(none);
   background-color: $lightest-gray;
   border-radius: 50%;
   color: $no-image;
@@ -8,6 +7,7 @@
   overflow: hidden;
   position: relative;
   text-align: center;
+  user-select: none;
   vertical-align: middle;
 
   &.no-image {

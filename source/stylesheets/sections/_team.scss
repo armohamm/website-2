@@ -12,9 +12,9 @@
 
     &.you {
       .avatar {
-        @include transition(background 0.1s linear);
         background-color: $blue-alt;
         color: $white;
+        transition: background 0.1s linear;
       }
 
       a:hover .avatar {

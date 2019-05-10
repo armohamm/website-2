@@ -47,7 +47,7 @@ textarea {
     font-size: $base-font-size * 1.2;
   }
 
-  @include placeholder {
+  ::placeholder {
     color: $placeholder;
   }
 
@@ -72,7 +72,7 @@ textarea {
 }
 
 input[type="search"] {
-  @include appearance(none);
+  appearance: none;
 }
 
 input[type="radio"] {

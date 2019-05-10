@@ -14,12 +14,12 @@ body.capp-agile-learning {
     }
 
     .hero-inner {
-      padding: em($header-height) + 3em 1em 2em;
+      padding: calc(3em + #{$header-height}) 1em 2em;
       position: relative;
 
       @include media($large-up) {
         padding-bottom: 18em;
-        padding-top: em($header-height) + 2em;
+        padding-top: calc(2em + #{$header-height});
       }
 
       .button {

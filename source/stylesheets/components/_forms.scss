@@ -86,7 +86,7 @@
 
 select {
   $arrow-image: "../images/arrow.png";
-  @include appearance(none);
+  appearance: none;
   background: $white url($arrow-image) no-repeat;
   background-position: right 20px center;
   background-size: 16px;

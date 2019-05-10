@@ -14,10 +14,10 @@ body.contact {
     background-position: center;
 
     .hero-inner {
-      padding: em($header-height) + 2em 1em 2em;
+      padding: calc(2em + #{$header-height}) 1em 2em;
 
       @include media($medium-up) {
-        padding: em($header-height) + 7em 1em 7em;
+        padding: calc(7em + #{$header-height}) 1em 7em;
       }
     }
 
