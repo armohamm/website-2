@@ -1,12 +1,15 @@
 .post-header {
   background: $orange-alt url("../images/moods/defacto.jpg") no-repeat top fixed;
-  background-size: cover;
   color: $white;
   padding-bottom: 6em;
   padding-top: em($header-height) + 6em;
   position: relative;
   text-align: center;
   width: 100%;
+
+  @include media($medium-up) {
+    background-size: cover;
+  }
 
   &::before {
     @include hero-header-overlay;
