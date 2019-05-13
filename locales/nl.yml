@@ -45,7 +45,7 @@ nl:
     download_productsheet: "Download productsheet"
     make_appointment: "Maak een afspraak"
     read_more: "Lees verder"
-    read_more_2: "Lees meer"
+    read_more_2: "Ontdek CAPP LMS"
     more_about:
       70-20-10: "Meer 70:20:10"
       capp: "Meer CAPP LMS"
@@ -67,6 +67,7 @@ nl:
     request_demo: "Demo aanvragen"
     home:
       demo: "Vraag een demo aan"
+      test: "Doe de LMS-test"
   blog:
     page_title: "Blog | Pagina %{page_number} van %{num_pages} | Defacto"
     meta_description: "Nieuws over trends op het gebied van online leren en ontwikkelen. Actualiteiten op het gebied van software, onze klanten, producten en diensten. | Pagina %{page_number}/%{num_pages}."

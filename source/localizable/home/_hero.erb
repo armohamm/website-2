@@ -24,7 +24,15 @@
 
         <%= link_to t("actions.read_more_2"), "/capp-lms.html", class: "button pink" %>
 
-        <%= link_to t("actions.home.demo"), "/demo-aanvragen.html", class: "button white-pink" %>
+          <% if root_locale == :nl %>
+
+            <%= link_to t("actions.home.test"), "/welk-lms-past-bij-mij.html", class: "button white-pink" %>
+
+          <% else %>
+
+            <%= link_to t("actions.home.demo"), "/demo-aanvragen.html", class: "button white-pink" %>
+
+          <% end %>
 
       <% end %>
 
