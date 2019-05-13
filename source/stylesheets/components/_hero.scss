@@ -7,7 +7,7 @@
     @include outer-container;
     @include clearfix;
     margin: auto;
-    padding: calc(7em + #{$header-height}) + 7em 1em 7em;
+    padding: calc(7em + #{$header-height}) 1em 7em;
     text-align: center;
 
     input {
