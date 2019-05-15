@@ -14,3 +14,5 @@
   to: "/blog/audit-farmaceutisch-bedrijf-pohl-boskamp/"
 - from: "update.html"
   to: "upgrade.html"
+- from: "welk-lms-past-bij-mij.html"
+  to: "wat-voor-lms-past-bij-mij.html"

@@ -15,7 +15,7 @@ $hero-image: "../images/moods/defacto.jpg";
   }
 }
 
-body.welk-lms-past-bij-mij {
+body.wat-voor-lms-past-bij-mij {
   form {
     margin: 0 auto;
     max-width: 800px;
@@ -80,7 +80,7 @@ body.welk-lms-past-bij-mij {
   }
 }
 
-body.welk-lms-past-bij-mij_resultaten {
+body.wat-voor-lms-past-bij-mij_resultaten {
   .results {
     max-width: 960px;
   }
@@ -91,7 +91,7 @@ body.welk-lms-past-bij-mij_resultaten {
 }
 
 @media print {
-  body.welk-lms-past-bij-mij_resultaten {
+  body.wat-voor-lms-past-bij-mij_resultaten {
     .hero.questionnaire {
       background: $white;
       padding: 1em 0;

@@ -13,7 +13,7 @@
     {
       "title": "Events",
       "questions": [
-        "vindt een substantieel deel van de trainingen / scholingen via bijeenkomsten ​niet (online)​ plaats.",
+        "vindt een substantieel deel van de trainingen / scholingen niet online plaats.",
         "is de cursusadministratie een belangrijk proces.",
         "worden klassikale trainingen en scholingen intern georganiseerd.",
         "worden cursussen en trainingen aan externen aangeboden.",
@@ -23,18 +23,18 @@
     {
       "title": "Compliance",
       "questions": [
-        "moeten we kunnen aantonen dat medewerkers gecertificeerd of bekwaam zijn.",
+        "moeten we kunnen aantonen dat medewerkers gecertificeerd of aantoonbaar bekwaam zijn.",
         "worden bepaalde opleidingen door een externe partij geaccrediteerd.",
-        "is het herhaald aantonen van vakbekwaamheid op specifieke handelingen noodzakelijk.",
-        "is een deel van de trainingen en opleidingen die wij aanbieden verplicht.",
-        "is het van belang dat gegevens over bevoegdheden (certificering) beschikbaar zijn in andere systemen zoals Roostering, EPD, etc."
+        "is het herhaaldelijk aantonen van vakbekwaamheid op specifieke handelingen noodzakelijk.",
+        "is een deel van de aangeboden trainingen en opleidingen verplicht.",
+        "is het van belang dat gegevens over bevoegdheden (certificering) beschikbaar zijn in andere systemen zoals roostering, EPD, etc."
       ]
     },
     {
-      "title": "Kennis delen",
+      "title": "Kennisdelen",
       "questions": [
         "is sociaal leren belangrijk.",
-        "maken experts uit onze eigen organisatie zelf leercontent.",
+        "maken onze experts zelf leercontent.",
         "is het delen van kennis belangrijk.",
         "speelt informeel leren een steeds belangrijkere rol.",
         "werken we met een aanpak zoals 70:20:10​ en ontwerpen we leertrajecten vanuit de 5 moments of need."
@@ -43,9 +43,9 @@
     {
       "title": "Performance Support",
       "questions": [
-        "is ​performance support​ een belangrijk thema.",
+        "is ​'Performance Support​' een belangrijk thema.",
         "vindt leren vooral plaats op de werkplek en ondersteunen wij dit met digitale middelen.",
-        "wordt er precies genoeg informatie aangeboden in de vorm die nodig is om effectief te kunnen opereren in het proces.",
+        "wordt informatie precies afgestemd op de noodzaak om effectief te kunnen opereren in het proces.",
         "willen we binnen het LMS zowel formele scholing kunnen aanbieden als ondersteunende instructies die een medewerker te allen tijde kan raadplegen (werkinstructies, protocollen, instructievideo’s, etc.).",
         "is het belangrijk dat leercontent overal snel en makkelijk doorzoek- en vindbaar is (2 clicks en 10 seconden)."
       ]
@@ -56,18 +56,18 @@
         "is het belangrijk dat iedereen een op maat gemaakt leeraanbod krijgt.",
         "bieden we uitgebreide leerpaden aan.",
         "is het evalueren en reviewen van trainingen en e-learning een must.",
-        "meten we of onze trainingen het beoogde effect hebben.",
+        "willen we kunnen controleren of onze trainingen het beoogde effect hebben.",
         "hebben medewerkers een persoonlijk ontwikkelplan."
       ]
     },
     {
-      "title": "Personeelontwikkeling",
+      "title": "Personeelsontwikkeling",
       "questions": [
-        "worden coaching- of jaargesprekken ingezet.",
-        "kunnen medewerkers voor duurdere trainingen een educatie aanvraag doen.",
+        "hebben we coaching- en/of jaargesprekken.",
+        "moeten medewerkers voor kostbare scholing een aanvraag indienen.",
         "is het belangrijk dat medewerkers duurzaam inzetbaar zijn.",
         "houden we rekening met mobiliteit en interne vacatures.",
-        "hebben individuen en afdelingen een eigen leerbudget."
+        "hebben individuen en/of afdelingen een eigen leerbudget."
       ]
     }
   ];
