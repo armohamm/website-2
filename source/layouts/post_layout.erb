@@ -32,7 +32,7 @@
 
         <%= partial "blog/blog-article-meta", locals: { article: current_article } %>
 
-        <%= partial "blog/blog-article-tags", locals: { article: current_article } %>
+        <%= partial "blog/blog-article-tags", locals: { article: current_article } if current_article.data.tags %>
 
       <% end %>
 
