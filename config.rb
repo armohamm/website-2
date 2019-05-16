@@ -329,8 +329,3 @@ ready do
   # validate data/downloads.yml
   validate_downloads(data.downloads)
 end
-
-after_build do
-  # rename CNAME for gh-pages after build
-  File.rename "build/CNAME.html", "build/CNAME"
-end
