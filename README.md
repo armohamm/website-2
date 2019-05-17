@@ -83,3 +83,4 @@ rake test # Tests all builds with HTML-proofer
 - [CircleCI](https://circleci.com/)
 - [Netlify](https://www.netlify.com/)
 - [Dependabot](https://dependabot.com/)
+- [Cloudflare](https://www.cloudflare.com/)
