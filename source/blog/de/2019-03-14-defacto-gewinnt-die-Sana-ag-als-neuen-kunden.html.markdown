@@ -4,7 +4,6 @@ date: 2019-03-14 08:00 CEST
 tags: CAPP LMS, Kunden
 author: Isabela
 lang: de
-featured: true
 image: images/blog/social/sana-1200x630.jpg
 featured_image: images/blog/featured/20190314-sana.jpg
 header_image: moods/sana-mood.jpg
