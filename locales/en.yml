@@ -187,6 +187,7 @@ en:
     organisation: Company or organisation
     submit: Send
     phone: "Phone Number"
+    position: "Position"
     message: "How can we help?"
   head:
     default_description: "Defacto helps organisations with the development and certification of their employees."

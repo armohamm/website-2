@@ -1,0 +1,46 @@
+---
+title: "Informatiesessie"
+description: "We nodigen je uit om te praten over talentmanagement & personeelsontwikkeling!"
+lang_ignore: en, de
+robots: noindex, nofollow
+index: false
+---
+
+<%= partial "partials/hero", locals: { variant: "variant-normal",
+                                       background_image: "capp-12-2.jpg",
+                                       title: "Verwachtingen van een modern LMS",
+                                       sub_title: "We nodigen je uit voor de informatiesessies over talentmanagement & personeelsontwikkeling"} %>
+
+<section>
+  <div class="row">
+    <article>
+      <%= partial "informatiesessie/content" %>
+    </article>
+  </div>
+</section>
+
+<section>
+
+  <div class="row">
+
+    <div class="col">
+
+      <article>
+        <h2>
+          Inschrijfformulier
+        </h2>
+      </article>
+
+      <%= partial "partials/form", locals: { title: "Informatiesessie inschrijving",
+                                             fields: ["name", "email", "position", "organisation", "phone", "message"],
+                                             events: ["donderdag 6 juni 2019 in Hoofddorp", "dinsdag 11 juni 2019 in Eindhoven", "dinsdag 25 juni 2019 in Groningen"],
+                                             multiple_persons: true,
+                                             button_text: "Inschrijven",
+                                             variant: "contact",
+                                             action_url: "https://formkeep.com/f/bc26f14079fd"} %>
+
+    </div>
+
+  </div>
+
+</section>

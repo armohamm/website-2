@@ -15,6 +15,7 @@ nl:
     job_apply: https://formkeep.com/f/da32eaeda39e
     capp_agile: https://formkeep.com/f/0f2125be5045
     upgrade_productsheet: https://formkeep.com/f/ed6e8e1efeeb
+    information_session: https://formkeep.com/f/bc26f14079fd
     url: https://www.defacto.nl
     jobs: https://www.defacto.nl/jobs
     twitter: https://twitter.com/DefactoSoftware
@@ -231,16 +232,21 @@ nl:
       text: "Schrijf je nu in en blijf op de hoogte"
     themes: Thema's
   form:
-    email: E-mail
+    add_coworker: "Voeg een collega toe"
+    add_coworker_button: "+ Voeg een collega toe"
+    choose_event: "Kies een plaats & datum"
+    email: "E-mail"
+    first_name: "Voornaam"
     message: "Wat kunnen we voor je betekenen?"
-    name: Naam
-    first_name: Voornaam
-    sur_name: Achternaam
+    message_for_organisation: "Opmerkingen voor de organisatie"
+    name: "Naam"
     organisation: "Bedrijf of organisatie"
-    phone: Telefoon
-    submit: Verstuur
-    register: Aanmelden
     persons: "Aantal personen"
+    phone: "Telefoon"
+    position: "Functie"
+    register: "Aanmelden"
+    submit: "Verstuur"
+    sur_name: "Achternaam"
   head:
     default_description: "Defacto helpt organisaties bij het ontwikkelen en certificeren van hun medewerkers"
     default_title: Defacto
@@ -379,6 +385,7 @@ nl:
     title: "Wat anderen over ons zeggen"
     more_testimonials: "Meer testimonials"
   thanks:
+    event: "Bedankt voor het aanmelden voor onze informatiesessie op"
     heading: Bedankt!
     message: Je hoort zo snel mogelijk van ons.
     message_download: 'De download zou nu automatisch moeten starten…<br>Zo niet, klik dan <a target="_blank">hier</a>.'

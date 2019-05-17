@@ -297,9 +297,9 @@ de:
     sur_name: Nachname
     organisation: "Betrieb oder Organisation"
     phone: "Telefon"
+    position: "Rolle"
     submit: "Versenden"
     register: "Melden Sie sich an"
-
   jobs:
     acquisition: "Achtung: Keine Werbung auf diese Stellenanzeige verschicken."
     apply: "Bewerben &raquo;"

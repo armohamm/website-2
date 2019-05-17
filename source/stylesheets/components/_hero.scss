@@ -3,6 +3,34 @@
   background-size: cover;
   color: $white;
 
+  h1 {
+    font-family: 'Montserrat', $base-font-family;
+    font-size: 1.6em;
+    font-weight: $font-weight-bold;
+    margin-bottom: 1em;
+
+    @include media($large-up) {
+      font-size: 4em;
+      margin-bottom: 0.6em;
+    }
+
+    img {
+      max-width: 400px;
+    }
+  }
+
+  p {
+    font-size: 1.1em;
+    line-height: 1.4em;
+    margin: 0 auto 2em;
+    max-width: 500px;
+
+    @include media($large-up) {
+      font-size: 1.6em;
+      max-width: 720px;
+    }
+  }
+
   .hero-inner {
     @include outer-container;
     @include clearfix;
@@ -30,31 +58,26 @@
     text-align: center;
   }
 
-  h1 {
-    font-family: 'Montserrat', $base-font-family;
-    font-size: 1.6em;
-    font-weight: $font-weight-bold;
-    margin-bottom: 1em;
+  &.variant-normal {
 
-    @include media($large-up) {
-      font-size: 4em;
-      margin-bottom: 0.6em;
+    .hero-inner {
+      padding: calc(3em + #{$header-height}) 1em 3em;
     }
 
-    img {
-      max-width: 400px;
+    .title {
+      font-size: $base-font-size * 1.6;
+
+      @include media($medium-up) {
+        font-size: $base-font-size * 2.4;
+      }
     }
-  }
 
-  p {
-    font-size: 1.1em;
-    line-height: 1.4em;
-    margin: 0 auto 2em;
-    max-width: 500px;
+    .sub-title {
+      font-size: $base-font-size * 1.2;
 
-    @include media($large-up) {
-      font-size: 1.6em;
-      max-width: 720px;
+      @include media($medium-up) {
+        font-size: $base-font-size * 2;
+      }
     }
   }
 }

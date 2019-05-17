@@ -7,12 +7,6 @@ else
   form_class = "form"
 end
 
-if defined?(url)
-  action_url = locals[:action_url]
-else
-  action_url = t("urls.contact")
-end
-
 if defined?(title)
   form_title = title
 else
@@ -25,8 +19,21 @@ end
   <input type="hidden" name="utf8" value="✓">
   <input type="hidden" name="form" value="<%= form_title %>">
 
+  <% if locals[:events] %>
+    <select name="event" id="select" required>
+      <option value="" disabled selected><%= t("form.choose_event") %></option>
+      <% events.each do |event| %>
+        <option value="<%= event %>" class="selected"><%= event %></option>
+      <% end %>
+    </select>
+  <% end %>
+
   <% if locals[:fields].include? "name" %>
     <input type="text" name="name" placeholder="<%= t("form.name") %> *" required>
+  <% end %>
+
+  <% if locals[:fields].include? "position" %>
+    <input type="text" name="position" placeholder="<%= t("form.position") %> *" required>
   <% end %>
 
   <% if locals[:fields].include? "organisation" %>
@@ -39,6 +46,19 @@ end
 
   <% if locals[:fields].include? "phone" %>
     <input type="tel" name="phone" placeholder="<%= t("form.phone") %>">
+  <% end %>
+
+  <% if locals[:fields].include? "message" %>
+    <div class="form-text">
+      <textarea rows="3" name="message" placeholder="<%= t("form.message_for_organisation") %>"></textarea>
+    </div>
+  <% end %>
+
+  <% if locals[:multiple_persons] %>
+    <div class="extra-person">
+      <div class="extra-person-placeholder"></div>
+      <a class="button orange outline" id="add-button"><%= t("form.add_coworker_button") %></a>
+    </div>
   <% end %>
 
   <% if locals[:download_link] %>

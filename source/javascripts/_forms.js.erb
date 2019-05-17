@@ -14,12 +14,35 @@ $(function () {
   var $forms = $('form');
 
   // Change option color on select
-  var demoSelect = document.getElementById('select');
-  if (demoSelect) {
-    demoSelect.onchange = function () {
-      demoSelect.className = this.options[this.selectedIndex].className;
+  var select = document.getElementById('select');
+  if (select) {
+    select.onchange = function () {
+      select.className = this.options[this.selectedIndex].className;
     }
   }
+
+  // Add co-worker fields to subscribe form
+  <% if root_locale == :nl %>
+  $("#add-button").click(function(){
+    $(".extra-person-placeholder").append(
+      "<h3><%= t("form.add_coworker") %></h3>" +
+      "<input type='text' name='coworker-name' placeholder='<%= t("form.name") %>'>" +
+      "<input type='text' name='coworker-position' placeholder='<%= t("form.position") %>'>" +
+      "<input type='text' name='coworker-email' placeholder='<%= t("form.email") %>'>"
+    );
+
+    var i = 1;
+    $("input[name^='coworker-name']").attr('name', function (i) {
+      return "coworker-name" + "-" + ++i;
+    })
+    $("input[name^='coworker-position']").attr('name', function (i) {
+      return "coworker-position" + "-" + ++i;
+    })
+    $("input[name^='coworker-email']").attr('name', function (i) {
+      return "coworker-email" + "-" + ++i;
+    })
+  });
+  <% end %>
 
   // Placeholder polyfill
   $('input, textarea').placeholder();

@@ -52,6 +52,14 @@ document.addEventListener('DOMContentLoaded', function() {
     // Replace message with newsletter message if it was a newsletter action
     messageEl.innerHTML = message || '';
   }
+  <% if root_locale == :nl %>
+    else if (urlParams.event) {
+      var message = '<%= t("thanks.event") %>'
+      var event_date = urlParams.event.split('+').join(' ');
+
+      messageEl.innerHTML = (message + ' ' + '<strong>' + event_date + '</strong>' + '.') || '';
+    }
+  <% end %>
 });
 </script>
 
