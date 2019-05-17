@@ -29,7 +29,7 @@ Aus diesem Grund haben wir uns neue ehrgeizige Ziele gesteckt und setzen von nun
 
 Unser CAPP Portfolio wird somit stetig erweitert und optimiert. Der erste Grundstein wurde dabei mit der Wissenslösung [CAPP Agile Learning](/capp-agile-learning/) gelegt: Die Performance Support Software, durch welche das interne Wissen zielgerichtet geteilt werden kann, dient nicht nur als erleichterter Lernzugang für ihr Personal, es schafft eine attraktive und strukturierte Lernumgebung für Ihr Unternehmen.
 
-Des Weiteren wurde der [CAPP Qualitätspass](/qualitatspass-qualitatsmonitor/) um den Qualitätsmonitor erweitert. So gibt es nicht nur Einsichten auf Personenebene über deren Bildungsaktivitäten, Übertragung ärztlicher Tätigkeiten und Gerätepässe, auch auf Organisationsebene kann man von nun an Bereiche und Abteilungen miteinander vergleichen. So werden Compliance und Qualitätsanforderungen noch übersichtlicher dargestellt und die Planungsmöglichkeiten von Krankenhäusern und Kliniken weiter vereinfacht.
+Des Weiteren wurde der [CAPP Qualitätspass](/capp-compliance-qualifikationsmanagement/) um den Qualitätsmonitor erweitert. So gibt es nicht nur Einsichten auf Personenebene über deren Bildungsaktivitäten, Übertragung ärztlicher Tätigkeiten und Gerätepässe, auch auf Organisationsebene kann man von nun an Bereiche und Abteilungen miteinander vergleichen. So werden Compliance und Qualitätsanforderungen noch übersichtlicher dargestellt und die Planungsmöglichkeiten von Krankenhäusern und Kliniken weiter vereinfacht.
 
 ## Defacto sagt Danke und wünscht ein erfolgreiches neues Jahr!
 

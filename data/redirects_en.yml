@@ -1,8 +1,5 @@
-- from: "capp-11.html"
-  to: "capp-lms.html"
-- from: "organisatie.html"
-  to: "about-us.html"
-- from: "references.html"
-  to: "clients.html"
-- from: "blog/making-capp-agile-fit-the-ipad.html"
-  to: "/blog/making-capp-agile-learning-fit-the-ipad"
+- /capp-11 /capp-lms
+- /organisatie /about-us
+- /references /clients
+- /blog/making-capp-agile-fit-the-ipad /blog/making-capp-agile-learning-fit-the-ipad
+- /blog/tags/learningspaces /blog/tags/capp-agile-learning

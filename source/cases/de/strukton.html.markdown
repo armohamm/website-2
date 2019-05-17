@@ -6,7 +6,7 @@ services:
   - title: CAPP Learning Management
     link: /capp-lms
   - title: CAPP Talent Management
-    link: /capp-entwickeln
+    link: /capp-talent-management
   - title: CAPP Compliance
     link: /kwaliteitspaspoort
 lang: de

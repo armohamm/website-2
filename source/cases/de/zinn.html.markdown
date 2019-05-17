@@ -6,7 +6,7 @@ services:
   - title: CAPP Learning Management
     link: /capp-lms
   - title: CAPP Talent Management
-    link: /capp-entwickeln
+    link: /capp-talent-management
   - title: CAPP Compliance
     link: /kwaliteitspaspoort
   - title: CAPP Agile Learning
@@ -30,13 +30,13 @@ facts:
 __„Wir haben es uns als Ziel gesetzt bis zum Jahr 2020 unsere Altenpflege auf ein ausgezeichnetes Niveau zu bringen", so Agnes Themmen, Abteilungsleiterin Aus- und Weiterbildung der Altenpflegeeinrichtung ZINN aus Haren. „Derzeit wird unsere Pflegeleistung vom Medizinischen Dienst der Krankenversicherung (MDK) mit dem Testurteil 'sehr gut' beurteilt. Wir möchten die Qualität unserer Leistungen jedoch stetig verbessern. Aus- und Weiterbildungen sind hierbei ganz entscheidende Faktoren."__
 
 „Wir halten es für sehr wichtig, in die Schulung all unserer Mitarbeiter zu investieren,’ ergänzt die Assistentin der Abteilungsleiterin. „Und zwar nicht nur in die unserer professionellen Pflegekräfte sondern auch in die unserer ehrenamtlichen Mitarbeiter."
-Zu diesem Zweck verwendet die Altenpflegeeinrichtung das Lernmanagement System CAPP LMS. Kürzlich startete ZINN ein zweites Portal in seinem [Lernmanagement System](/capp-bilden/), speziell zu Schulungszwecken der 750 ehrenamtlichen Helfer. „Wir möchten auf diese Weise zeigen, dass die Ehrenamtlichen für unsere Organisation sehr wertvoll sind und wir gern in sie investieren."
+Zu diesem Zweck verwendet die Altenpflegeeinrichtung das Lernmanagement System CAPP LMS. Kürzlich startete ZINN ein zweites Portal in seinem [Lernmanagement System](/capp-learning-management/), speziell zu Schulungszwecken der 750 ehrenamtlichen Helfer. „Wir möchten auf diese Weise zeigen, dass die Ehrenamtlichen für unsere Organisation sehr wertvoll sind und wir gern in sie investieren."
 
 In dem neuen Portal finden Ehrenamtliche unter anderem Sicherheitsvorschriften, aber auch praktische Hinweise. Hier können sie nachlesen wie man im Bus einen Rollstuhl sichert oder wie man mit demenzkranken Bewohnern umgeht. „Diese Vorschriften und praktische Tipps werden in CAPP Agile Learning, unserer Wissensdatenbank, gesammelt. Das Portal dient zur Unterstützung, aber auch Weiterbildung unserer Ehrenamtlichen", erzählt Agnes Themmen.
 
 ## Qualifikation und Kompetenzen
 
-„Unsere professionellen Pflegekräfte müssen nachweislich fachlich qualifiziert sein, sodass eine fach- und sachgerechte Betreuung der Bewohner der Pflegeeinrichtungen erfolgen kann. Die Einführung des Qualitätspasses macht dies möglich," erklärt die Assistentin der Abteilungsleiterin. „Es ist für ZINN sehr hilfreich, schnell erkennen zu können, wo zusätzliche Schulungen erforderlich sind." Dennoch funktionierte das System für ZINN anfangs noch nicht optimal. „Wir wollten gern einen umfassenderen Einblick in verschiedene Ebenen innerhalb einer einzelnen Abteilungen erlangen, sodass diese besser funktionierten. Zu diesem Zweck entwickelte Defacto [den Qualitätsmonitor](/qualitatspass-qualitatsmonitor/) für uns. Er bietet eine zusätzliche Informationsschicht und einen gute Übersicht in die Qualifikationen und Entwicklungsstände der Mitarbeiter", erzählt die Assistentin der Abteilungsleiterin.
+„Unsere professionellen Pflegekräfte müssen nachweislich fachlich qualifiziert sein, sodass eine fach- und sachgerechte Betreuung der Bewohner der Pflegeeinrichtungen erfolgen kann. Die Einführung des Qualitätspasses macht dies möglich," erklärt die Assistentin der Abteilungsleiterin. „Es ist für ZINN sehr hilfreich, schnell erkennen zu können, wo zusätzliche Schulungen erforderlich sind." Dennoch funktionierte das System für ZINN anfangs noch nicht optimal. „Wir wollten gern einen umfassenderen Einblick in verschiedene Ebenen innerhalb einer einzelnen Abteilungen erlangen, sodass diese besser funktionierten. Zu diesem Zweck entwickelte Defacto [den Qualitätsmonitor](/capp-compliance-qualifikationsmanagement/) für uns. Er bietet eine zusätzliche Informationsschicht und einen gute Übersicht in die Qualifikationen und Entwicklungsstände der Mitarbeiter", erzählt die Assistentin der Abteilungsleiterin.
 
 ## Verwaltung und Qualität
 

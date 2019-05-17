@@ -32,7 +32,7 @@ Nachdem die Grundzüge des modernen Lernens nun kurz und knapp beschrieben wurde
 
 - __Wissensdatenbank:__ Wenn Sie das informelle und anwendungsbezogene Lernen innerhalb Ihrer Organisation stärken möchten, bieten sich sogenannte Wissensdatenbanken an. Diese unterstützen den Performance Support. Ein Beispiel ist das System CAPP Agile Learning​. Dort können Sie internes Fachwissen, Anleitungen, Handbücher oder Anwendungsbeschreibungen von beispielsweise medizinischen Geräten schnell und​ unkompliziert einbetten. [Sehen Sie hier](/blog/wissensdatenbank-die-loesung-fuer-modernes-wissensmanagement-im-gesundheitswesen/) einen Vergleich verschiedener Anwendungen des Wissensmanagements.
 
-- __Compliance:__ Learning-Management-Systeme sind nicht ausschließlich zum Lernen da, sie sollten auch Nachweise über die Qualifikationen und Zertifizierungen der Mitarbeiter abbilden können. Mit Compliance-Lösungen wie dem [Qualitätspass und Qualitätsmonitor](/qualitatspass-qualitatsmonitor/) können Sie neben Zertifizierungen auch Übertragungen ärztlicher Tätigkeiten und Gerätepässe an Mitarbeiter koppeln. Qualitätsnachweise und Anforderungen von Audits werden so zum Kinderspiel.
+- __Compliance:__ Learning-Management-Systeme sind nicht ausschließlich zum Lernen da, sie sollten auch Nachweise über die Qualifikationen und Zertifizierungen der Mitarbeiter abbilden können. Mit Compliance-Lösungen wie dem [Qualitätspass und Qualitätsmonitor](/capp-compliance-qualifikationsmanagement/) können Sie neben Zertifizierungen auch Übertragungen ärztlicher Tätigkeiten und Gerätepässe an Mitarbeiter koppeln. Qualitätsnachweise und Anforderungen von Audits werden so zum Kinderspiel.
 
 ## 3. Entwickeln
 

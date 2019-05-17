@@ -13,6 +13,6 @@ __Als zweites Haus aus dem 6-K Verbund in Schleswig-Holstein, hat sich das Klini
 
 ![Klinikum Itzehoe](/images/blog/logo-klinikum-itzehoe.png)
 
-Des Weiteren erhält das Klinikum Itzehoe mit dem [Qualitätspass](/qualitatspass/), Einsicht in die Qualifikationen und Kompetenzen ihrer Mitarbeiter und fördert sowohl die persönliche Entwicklung als auch die Eigenverantwortung der Mitarbeiter.
+Des Weiteren erhält das Klinikum Itzehoe mit dem [Qualitätspass](/capp-compliance-qualifikationsmanagement/), Einsicht in die Qualifikationen und Kompetenzen ihrer Mitarbeiter und fördert sowohl die persönliche Entwicklung als auch die Eigenverantwortung der Mitarbeiter.
 
 __Wir freuen uns das Klinikum Itzehoe als neuen Kunden begrüßen zu dürfen!__

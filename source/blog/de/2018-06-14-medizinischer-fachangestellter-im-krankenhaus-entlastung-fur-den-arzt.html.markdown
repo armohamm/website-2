@@ -36,7 +36,7 @@ Damit tragen sie deutlich zur Entlastung des Ärzteteams und zur besseren Koordi
 
 ## Unterstützung bei der Qualifizierung des Klinikpersonals
 
-Sehen Sie in Ihrem Krankenhaus auch Optimierungspotential, was die schnelle und strukturierte Entlastung Ihrer Ärzte durch MFA betrifft? Ist das alles noch Neuland in Ihrer Klinik? Gerne unterstützen wir Sie dabei, individuelle Entwicklungspläne für ihre Mitarbeiter zu erstellen. Unsere Lösungen ermöglichen Ihnen als verantwortlichem Vorgesetzten den [Überblick über die Qualifizierungsmaßnahmen](/qualitatspass-qualitatsmonitor/){:title="Überblick über die Qualifizierungsmaßnahmen"}  Ihrer Teammitglieder sowie [Einblick in die jeweiligen Lernfortschritte der Mitarbeiter](/capp-learning-management/){:title="inblick in die jeweiligen Lernfortschritte der Mitarbeiter"}.
+Sehen Sie in Ihrem Krankenhaus auch Optimierungspotential, was die schnelle und strukturierte Entlastung Ihrer Ärzte durch MFA betrifft? Ist das alles noch Neuland in Ihrer Klinik? Gerne unterstützen wir Sie dabei, individuelle Entwicklungspläne für ihre Mitarbeiter zu erstellen. Unsere Lösungen ermöglichen Ihnen als verantwortlichem Vorgesetzten den [Überblick über die Qualifizierungsmaßnahmen](/capp-compliance-qualifikationsmanagement/){:title="Überblick über die Qualifizierungsmaßnahmen"}  Ihrer Teammitglieder sowie [Einblick in die jeweiligen Lernfortschritte der Mitarbeiter](/capp-learning-management/){:title="inblick in die jeweiligen Lernfortschritte der Mitarbeiter"}.
 
 Gerne vereinbaren wir mit Ihnen einen Termin, um gemeinsam das volle Potenzial Ihres Hauses ausschöpfen zu können. Zum Wohle Ihrer Patienten und Mitarbeiter.
 

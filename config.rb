@@ -84,40 +84,6 @@ end
 # Ignore the selection file for Icomoon
 ignore "/fonts/icons/selection.json"
 
-# Redirects
-#
-# To prevent 404's we redirect old paths to new paths
-# Below are redirects for multiple locales
-# We define redirects per locale in data/redirects.yml
-
-unless root_locale == :de
-  redirect "blog/tags/learningspaces.html", to:
-           "/blog/tags/capp-agile-learning/"
-end
-
-unless root_locale == :en
-  redirect "elearning.html", to:
-           "e-learning.html"
-  redirect "learningspaces.html", to:
-           "capp-agile-learning.html"
-end
-
-# Get data yml per locale for redirects
-data_redirects =
-  case root_locale
-  when :nl
-    data.redirects_nl
-  when :de
-    data.redirects_de
-  when :en
-    data.redirects_en
-  end
-
-# Redirect each defined old to new path
-data_redirects.each do |redirect|
-  redirect redirect.from.to_s, to: redirect.to.to_s
-end
-
 # Blog content types
 
 # Activate and setup the blog content type
@@ -328,4 +294,21 @@ ready do
 
   # validate data/downloads.yml
   validate_downloads(data.downloads)
+end
+
+after_build do
+  file =
+    case root_locale
+    when :nl
+      "redirects_nl.yml"
+    when :de
+      "redirects_de.yml"
+    when :en
+      "redirects_en.yml"
+    end
+  redirects = YAML.load_file("data/" + file)
+
+  File.open("build/_redirects", "w+") do |f|
+    redirects.each { |element| f.puts(element + " 301") }
+  end
 end

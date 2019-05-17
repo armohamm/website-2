@@ -18,7 +18,7 @@ Talentmanagement kann durch bestimmte Programme unterstützt werden, vorausgeset
 
 ## „Was brauche ich, um mich weiter zu entwickeln?“
 
-Viele Mitarbeiter haben großes Interesse daran, sich weiter zu entwickeln. Aber wie reguliert man diesen Prozess effektiv und wie begleitet man seine Talente am besten? Ein erster wichtiger Schritt für mehr Mobilität ist es, die Voraussetzungen der einzelnen Profile im [Qualitätspass](/qualitatspass/) einzusehen. So kann man für jeden Mitarbeiter bestimmen, was die nächsten Entwicklungsschritte sind. Als Ergänzung hat Defacto deshalb den flexiblen Qualitätspass entwickelt. Auf Basis der Talente des Mitarbeiters werden gemeinsam mit dem Manager oder Personalleiter Ziele abgesprochen, mit denen der flexible Qualitätspass gefüllt wird.
+Viele Mitarbeiter haben großes Interesse daran, sich weiter zu entwickeln. Aber wie reguliert man diesen Prozess effektiv und wie begleitet man seine Talente am besten? Ein erster wichtiger Schritt für mehr Mobilität ist es, die Voraussetzungen der einzelnen Profile im [Qualitätspass](/capp-compliance-qualifikationsmanagement/) einzusehen. So kann man für jeden Mitarbeiter bestimmen, was die nächsten Entwicklungsschritte sind. Als Ergänzung hat Defacto deshalb den flexiblen Qualitätspass entwickelt. Auf Basis der Talente des Mitarbeiters werden gemeinsam mit dem Manager oder Personalleiter Ziele abgesprochen, mit denen der flexible Qualitätspass gefüllt wird.
 
 ## Strategische HR-Planung mit CAPP
 

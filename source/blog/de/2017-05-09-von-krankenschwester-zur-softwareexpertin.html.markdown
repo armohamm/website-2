@@ -39,7 +39,7 @@ __M:__ "Eines der Kerngedanken, die man gut ausarbeiten sollte ist die Frage nac
 
 __M:__ "Durch unsere Lösungen haben Sie als Organisation immer eine Übersicht über Ihre eigenen Daten. Tag und Nacht können Sie den aktuellen Stand der Entwicklung Ihrer Mitarbeiter abrufen. Transparenz in der Qualität der Mitarbeiter zu haben ist ein sehr hohes Gut."
 
-"Ein weiterer Grund für die Anschaffung von [CAPP](/capp-entwickeln/){:title="CAPP Enwitckeln"} und/oder [CAPP Agile Learning](/capp-agile-learning/) ist die Möglichkeit für Ihre Mitarbeiter, fortwährend zu sehen, welche Möglichkeiten sie haben um sich zu qualifizieren. Hierfür bieten wir z.B. den sogenannten Qualitätspass. Darin können Sie als Manager oder Stationsleiter alle Kernkompetenzen, die nötig sind, festlegen und die Entwicklung von Mitarbeitern verfolgen."
+"Ein weiterer Grund für die Anschaffung von [CAPP](/capp-talent-management/){:title="CAPP Entwickeln"} und/oder [CAPP Agile Learning](/capp-agile-learning/) ist die Möglichkeit für Ihre Mitarbeiter, fortwährend zu sehen, welche Möglichkeiten sie haben um sich zu qualifizieren. Hierfür bieten wir z.B. den sogenannten Qualitätspass. Darin können Sie als Manager oder Stationsleiter alle Kernkompetenzen, die nötig sind, festlegen und die Entwicklung von Mitarbeitern verfolgen."
 
 "Da Zeit vor allem im Gesundheitswesen eine knappe Resource ist, wird es Ihren Mitarbeitern entgegen kommen, wenn sie selbstständig entscheiden können wann und wo sie die E-Learning Module abspielen möchten."
 
