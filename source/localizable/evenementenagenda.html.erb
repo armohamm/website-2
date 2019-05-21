@@ -26,8 +26,12 @@ lang_ignore: en
 
 <section>
   <div class="row">
-    <p class="no-planned-events">
-      <%= t("events.no_planned_events") %>
-    </p>
+    <% if root_locale == :de %>
+      <%= partial "evenementen/events" %>
+    <% else %>
+      <p class="no-planned-events">
+        <%= t("events.no_planned_events") %>
+      </p>
+    <% end %>
   </div>
 </section>
