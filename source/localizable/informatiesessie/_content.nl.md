@@ -1,4 +1,4 @@
-Graag willen we jullie kort bijpraten over CAPP LMS. In een drietal informatiesessies willen we daarnaast van gedachten wisselen over **de inzet van een modern LMS op het gebied van talentmanagement & personeelsontwikkeling**.
+We organiseren een aantal kleinschalige informatiesessies om jullie bij te praten over de ontwikkeling van CAPP LMS. Daarnaast willen we met jullie van gedachten wisselen over **hoe je een LMS optimaal kunt inzetten om talentmanagement & personeelsontwikkeling te ondersteunen**.
 
 Deze bijeenkomsten zijn bedoeld voor **managers op strategisch niveau**, zoals HR-managers en eindverantwoordelijken rond leren en opleiden in een organisatie. Een unieke gelegenheid om gezamenlijk op strategisch niveau te kijken naar de uitdagingen en kansen die de toekomst ons brengt.  
 
