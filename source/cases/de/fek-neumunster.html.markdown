@@ -25,7 +25,7 @@ facts:
 tags: "healthcare"
 ---
 
-__Seit 2014 setzt das Friedrich-Ebert-Krankenhaus in Neumünster auf eine digitale Lernumgebung und Seminarverwaltung. Mit Erfolg. Ein großes Weiterbildungsangebot für Mitarbeiter bildet mit insgesamt über 1.100 Kurse die Grundlage für eine optimale interne Personalentwicklungsstruktur. Das Softwarepaket von Defacto bietet mit der Produktkombination aus CAPP Talent Management und dem Qualitätspass die Basis für diese moderne Unternehmenskultur sowie ideale Vorraussetzungen für die Organisation und den Nachweis von Weiter- und Fortbildungsmaßnahmen des Hauses.__
+__Seit 2014 setzt das Friedrich-Ebert-Krankenhaus in Neumünster auf eine digitale Lernumgebung und Seminarverwaltung. Mit Erfolg. Ein großes Weiterbildungsangebot für Mitarbeiter bildet mit insgesamt über 1.100 Kursen die Grundlage für eine optimale interne Personalentwicklungsstruktur. Das Softwarepaket von Defacto bietet mit der Produktkombination aus CAPP Talent Management und dem Qualitätspass die Basis für diese moderne Unternehmenskultur sowie ideale Vorraussetzungen für die Organisation und den Nachweis von Weiter- und Fortbildungsmaßnahmen des Hauses.__
 
 ## Suche nach anwenderfreundlicher Lösung
 
@@ -43,11 +43,12 @@ Ein ausschlaggebendes Merkmal von Defacto ist dabei das transparente System, wel
 
 Um eine optimale Einbettung in das vorhandene P & I Loga HR-System zu gewährleisten, wurde ein stufenhafter Entwicklungsplan aufgesetzt. Dabei konnten dank einer Schnittstelle bestehende Personaldaten des FEK und seiner rund 2000 Mitarbeiter problemlos in CAPP Talent Management un dem Qualitätspass eingelesen werden. Grundstein jedoch für einen entsprechenden Datenaustausch ist ein hohes Maß an Kommunikation und eine enge und vertrauensvolle Zusammenarbeit: "Die Kollegen von Defacto haben unseren Planungs- und Implementierungsprozess von CAPP Talent Management und dem Qualitätspass sehr verlässlich und strukturiert begleitet und uns damit eine nutzerfreundliche Lösung geschaffen, die auf unser Haus zugeschnitten ist. Der Import der Mitarbeiterdaten aus unserem HR-System ist erfolgreich abgeschlossen, die Plattform wird intern aktiv genutzt und auch Externe können sich von unserem wachsenden Bildungskatalog in Anlehnung an unser Corporate Design überzeugen." ergänzt Anne Monier.
 
-Die innerbetriebliche Fortbildung und Personalentwicklung haben sich somit zu einem wesentlichen Bestandteil der derzeitigen Unternehmenskultur entwickelt. Ihre breitgefächerten und digitalen Kursangebote sind die zentrale Schnittstelle zwischen den Erwartungen und Anforderungen der Vorgesetzten und deren Mitarbeiter.
+Die innerbetriebliche Fortbildung und Personalentwicklung haben sich somit zu einem wesentlichen Bestandteil der derzeitigen Unternehmenskultur entwickelt. Ihre breitgefächerten und digitalen Kursangebote sind die zentrale Schnittstelle zwischen den Erwartungen und Anforderungen der Vorgesetzten und deren Mitarbeitern.
 
 ## Erwartungen übertroffen
 
 Letztendlich ist nicht nur das FEK positiv von der Software überrascht, auch externe Parteien sind von CAPP Talent Management und dem inzwischen implementierten Qualitätspass überzeugt: Während Dozenten das übersichtliche Teilnahmeverfahren schätzen, profitieren interne und externe Audits von den abgebildeten Qualitätsanforderungen und dem ausgebreiteten Berichtswesen. “Mit CAPP Talent Management und dem Qualitätspass erfüllen wir nicht nur das Mindestmaß an Qualitätsanforderungen - wir sind Vorreiter auf diesem Gebiet im Gesundheitswesen.” verkündet Christof Thielecke daher stolz.
+
 Das festgelegte Ziel das FEK Neumünster, die interne Organisation transparenter und effizienter zu gestalten ist somit zur Freude aller nicht nur erreicht sondern übertroffen worden. Die Administration und innerbetriebliche Fortbildung haben eine erhebliche Arbeitserleichterung erfahren und bei inzwischen mehr als 1100 abgebildeten Kursen sind sowohl die Teilnahmen an Pflichtfortbildungen erhöht als auch die Kursauslastungen optimiert worden. "Wir sind in der Lage, signifikante Kosten einzusparen und haben durch die erhöhte Effizienz insgesamt zu einer besseren Versorgung beigetragen." berichtet Christof Thielecke.
 
 ## Der Weg zusammen geht weiter
