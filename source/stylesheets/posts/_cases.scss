@@ -15,7 +15,7 @@ section.cases-overview {
     .button {
       margin: 0;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         margin-right: 0.4em;
       }
     }
@@ -32,7 +32,7 @@ section.cases-overview {
       padding: 5px;
       width: 100%;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         width: 50%;
 
         &:nth-child(odd):last-child {
@@ -40,7 +40,7 @@ section.cases-overview {
         }
       }
 
-      @include media($large-up) {
+      @include grid-media($large-up) {
         &:nth-child(4n+1),
         &:nth-child(4n+4) {
           width: 60%;

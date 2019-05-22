@@ -16,7 +16,7 @@ body.upgrade {
     .row {
       max-width: 1260px;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         align-items: center;
         display: flex;
         flex-wrap: wrap;
@@ -30,11 +30,11 @@ body.upgrade {
       .col {
         max-width: 1500px;
 
-        @include media($medium-up) {
+        @include grid-media($medium-up) {
           padding: 0;
         }
 
-        @include media($xlarge-up) {
+        @include grid-media($xlarge-up) {
           flex: 1;
         }
       }

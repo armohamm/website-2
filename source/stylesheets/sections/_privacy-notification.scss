@@ -10,7 +10,7 @@
     visibility: hidden;
   }
 
-  @include media($medium-up) {
+  @include grid-media($medium-up) {
     bottom: 1em;
     left: 50%;
     transform: translateX(-50%);
@@ -41,7 +41,7 @@
   font-size: 15px;
   margin: 0 auto;
 
-  @include media($medium-up) {
+  @include grid-media($medium-up) {
     border-radius: $base-border-radius;
   }
 

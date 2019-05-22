@@ -1,6 +1,4 @@
 .contact-info {
-  $desktop-mode: $medium-up;
-
   border-bottom: $base-border;
   border-top: $base-border;
   clear: both;
@@ -8,19 +6,16 @@
   position: relative;
   text-align: center;
 
-  @include media($desktop-mode) {
+  @include grid-media($menu-desktop) {
     .row {
-      @include fill-parent();
-      @include row(table);
+      display: table;
+      table-layout: fixed;
+      width: 100%;
     }
 
     .col {
-      @include span-columns(4);
       border-right: $base-border;
-
-      &:last-child {
-        @include reset-display;
-      }
+      display: table-cell;
     }
   }
 
@@ -29,13 +24,14 @@
   }
 
   .col {
-    @include pad();
     border-bottom: $base-border;
-    font-size: 1.2em;
+    font-size: $base-font-size * 1.2;
+    padding: 2.35765%;
     vertical-align: middle;
 
-    @include media($desktop-mode) {
+    @include grid-media($medium-up) {
       border-bottom: 0;
+      width: 33.33333%;
     }
 
     &:last-child {
@@ -44,7 +40,7 @@
 
     [class^="icon-"],
     [class*=" icon-"] {
-      font-size: 1.6em;
+      font-size: $base-font-size * 1.6;
       margin-right: 10px;
       vertical-align: middle;
     }

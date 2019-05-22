@@ -2,12 +2,12 @@ section.on-page-navigation {
   padding: 1em 0;
   text-align: center;
 
-  @include media($medium-up) {
+  @include grid-media($medium-up) {
     padding: 0;
   }
 
   li {
-    @include media($medium-up) {
+    @include grid-media($medium-up) {
       display: inline-block;
     }
   }
@@ -17,7 +17,7 @@ section.on-page-navigation {
     font-weight: $font-weight-bold;
     padding: 0.2em 0;
 
-    @include media($medium-up) {
+    @include grid-media($medium-up) {
       padding: 1em;
     }
   }

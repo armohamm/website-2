@@ -43,7 +43,7 @@ textarea {
   vertical-align: baseline;
   width: 100%;
 
-  @include media($medium-up) {
+  @include grid-media($medium-up) {
     font-size: $base-font-size * 1.2;
   }
 
@@ -150,7 +150,7 @@ input[type="file"] {
 button[type="submit"] {
   width: 100%;
 
-  @include media($medium-up) {
+  @include grid-media($medium-up) {
     width: auto;
   }
 }

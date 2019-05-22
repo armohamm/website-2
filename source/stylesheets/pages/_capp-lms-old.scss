@@ -17,7 +17,7 @@ body.en.capp-lms {
       max-width: 900px;
       text-align: center;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         font-size: 2.4em;
       }
     }
@@ -28,7 +28,7 @@ body.en.capp-lms {
       margin-bottom: 1em;
       text-align: center;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         font-size: 2em;
         margin-bottom: 2em;
       }
@@ -44,7 +44,7 @@ body.en.capp-lms {
 
       h2,
       h3 {
-        @include media($large-up) {
+        @include grid-media($large-up) {
           text-align: left;
         }
       }
@@ -57,14 +57,14 @@ body.en.capp-lms {
     }
 
     .col {
-      @include media($large-up) {
-        @include span-columns(6);
+      @include grid-media($large-up) {
+        @include grid-column(6);
       }
     }
   }
 
   figure {
-    @include media($large-down) {
+    @include grid-media($large-down) {
       text-align: center;
     }
   }

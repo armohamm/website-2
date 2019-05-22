@@ -20,7 +20,7 @@ body {
 }
 
 .page-wrap {
-  @include media($large-up) {
+  @include grid-media($large-up) {
     margin-bottom: -524px;
     min-height: 100%;
 
@@ -35,7 +35,7 @@ body {
 section {
   padding: 3em 0;
 
-  @include media($medium-up) {
+  @include grid-media($medium-up) {
     padding: 4em 0;
   }
 
@@ -45,18 +45,18 @@ section {
 }
 
 .row {
-  @include outer-container;
+  @include container;
   padding: 0 1em;
   position: relative;
 }
 
 article {
-  @include media($medium-up) {
+  @include grid-media($medium-up) {
     margin: 0 auto;
     max-width: 800px;
 
     &.sidebar-content {
-      @include span-columns(8);
+      @include grid-column(8);
     }
   }
 

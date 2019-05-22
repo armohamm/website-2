@@ -20,7 +20,7 @@ section.news {
     transition: transform 0.2s ease;
     width: 100%;
 
-    @include media($large-up) {
+    @include grid-media($large-up) {
       margin-left: 1em;
       margin-right: 1em;
       width: 29%;

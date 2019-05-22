@@ -1,7 +1,7 @@
 .blog-article-preview {
   text-align: left;
 
-  @include media($large-up) {
+  @include grid-media($large-up) {
     display: flex;
   }
 
@@ -24,7 +24,7 @@
     font-size: $base-font-size * 1.2;
     font-weight: $font-weight-bold;
 
-    @include media($medium-up) {
+    @include grid-media($medium-up) {
       font-size: $base-font-size * 1.6;
     }
 
@@ -42,7 +42,7 @@
     &.left {
       margin-bottom: 1em;
 
-      @include media($large-up) {
+      @include grid-media($large-up) {
         margin-bottom: 0;
         margin-right: 3em;
         max-width: 310px;
@@ -59,7 +59,7 @@
     }
 
     &.right {
-      @include media($large-up) {
+      @include grid-media($large-up) {
         align-items: center;
         flex: 1;
       }
@@ -73,7 +73,7 @@
         font-size: $base-font-size;
         margin: 1.25em 0;
 
-        @include media($medium-up) {
+        @include grid-media($medium-up) {
           font-size: $base-font-size * 1.2;
         }
       }

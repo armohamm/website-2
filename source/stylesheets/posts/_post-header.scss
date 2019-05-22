@@ -7,7 +7,7 @@
   text-align: center;
   width: 100%;
 
-  @include media($medium-up) {
+  @include grid-media($medium-up) {
     background-size: cover;
   }
 
@@ -21,7 +21,7 @@
     margin: 0 auto;
     max-width: $post-max-width;
 
-    @include media($medium-up) {
+    @include grid-media($medium-up) {
       font-size: $base-font-size * 2.4;
     }
 

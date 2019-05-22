@@ -3,7 +3,7 @@ body.contact {
   h2 {
     font-size: 1.6em;
 
-    @include media($large-up) {
+    @include grid-media($large-up) {
       font-size: 2em;
     }
   }
@@ -16,7 +16,7 @@ body.contact {
     .hero-inner {
       padding: calc(2em + #{$header-height}) 1em 2em;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         padding: calc(7em + #{$header-height}) 1em 7em;
       }
     }
@@ -24,7 +24,7 @@ body.contact {
     h1 {
       font-size: 2em;
 
-      @include media($large-up) {
+      @include grid-media($large-up) {
         font-size: 3em;
       }
     }
@@ -41,8 +41,8 @@ body.contact {
       position: relative;
       width: 100%;
 
-      @include media($large-up) {
-        @include span-columns(4);
+      @include grid-media($large-up) {
+        @include grid-column(4);
         background: $white;
         height: 100%;
         margin-bottom: 0;
@@ -55,7 +55,7 @@ body.contact {
         max-width: 84px;
         width: 25%;
 
-        @include media($large-up) {
+        @include grid-media($large-up) {
           display: block;
           max-width: 100%;
           text-align: center;
@@ -69,7 +69,7 @@ body.contact {
           max-height: 48px;
           max-width: 60px;
 
-          @include media($large-up) {
+          @include grid-media($large-up) {
             float: none;
             margin: 0 auto 1em;
             max-height: 70px;
@@ -79,7 +79,7 @@ body.contact {
       }
 
       .contact-content {
-        @include media ($large-up) {
+        @include grid-media ($large-up) {
           text-align: center;
         }
 
@@ -90,11 +90,11 @@ body.contact {
           padding-left: 2em;
           transition: all 0.2s;
 
-          @include media($medium-up) {
+          @include grid-media($medium-up) {
             font-size: 1.6em;
           }
 
-          @include media($large-up) {
+          @include grid-media($large-up) {
             line-height: normal;
             padding-left: 0;
             text-align: center;
@@ -104,7 +104,7 @@ body.contact {
         p {
           display: none;
 
-          @include media($large-up) {
+          @include grid-media($large-up) {
             display: block;
             text-align: center;
           }
@@ -113,7 +113,7 @@ body.contact {
         a {
           display: none;
 
-          @include media($large-up) {
+          @include grid-media($large-up) {
             display: inline-block;
           }
         }
@@ -130,7 +130,7 @@ body.contact {
         top: 0;
         width: 100%;
 
-        @include media($large-up) {
+        @include grid-media($large-up) {
           display: none;
         }
 

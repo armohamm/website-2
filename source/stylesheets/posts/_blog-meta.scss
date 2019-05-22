@@ -15,7 +15,7 @@
   .separator {
     display: none;
 
-    @include media($medium-up) {
+    @include grid-media($medium-up) {
       display: inline-block;
       padding: 0 0.2em;
     }
@@ -25,7 +25,7 @@
     display: block;
     white-space: nowrap;
 
-    @include media($medium-up) {
+    @include grid-media($medium-up) {
       display: inline-block;
     }
   }

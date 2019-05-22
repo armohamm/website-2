@@ -11,7 +11,7 @@ body.gezondheidswezen {
       margin: 0 auto;
       max-width: 960px;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         font-size: $base-font-size * 2.4;
       }
     }
@@ -61,7 +61,7 @@ body.gezondheidswezen {
       max-width: 1380px;
       text-align: left;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         align-items: center;
         padding: 4em 0;
       }
@@ -70,7 +70,7 @@ body.gezondheidswezen {
     .col {
       padding: 0 1em;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         flex: 1;
 
         &:first-child {
@@ -86,7 +86,7 @@ body.gezondheidswezen {
         display: block;
         margin: 0 auto 1em;
 
-        @include media($medium-up) {
+        @include grid-media($medium-up) {
           margin: 0;
         }
       }
@@ -95,7 +95,7 @@ body.gezondheidswezen {
         margin-bottom: 1em;
         order: 1;
 
-        @include media($medium-up) {
+        @include grid-media($medium-up) {
           order: initial;
         }
       }
@@ -103,7 +103,7 @@ body.gezondheidswezen {
       &-text {
         order: 2;
 
-        @include media($medium-up) {
+        @include grid-media($medium-up) {
           order: initial;
         }
       }

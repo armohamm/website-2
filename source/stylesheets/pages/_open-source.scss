@@ -35,12 +35,12 @@ body.open-source {
       position: relative;
       width: 100%;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         padding: 0 1em;
         width: 50%;
       }
 
-      @include media($large-up) {
+      @include grid-media($large-up) {
         width: 33.333%;
       }
 

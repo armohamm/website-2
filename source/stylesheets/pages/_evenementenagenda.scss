@@ -7,7 +7,7 @@ body.evenementenagenda {
     h1 {
       font-size: $base-font-size * 1.4;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         font-size: $base-font-size * 2.4;
       }
     }
@@ -15,7 +15,7 @@ body.evenementenagenda {
     h2 {
       font-size: $base-font-size * 1.4;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         font-size: $base-font-size * 2;
       }
     }
@@ -23,7 +23,7 @@ body.evenementenagenda {
     .hero-inner {
       padding: calc(3em + #{$header-height}) 1em 3em;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         padding: calc(4em + #{$header-height}) 1em 4em;
       }
     }
@@ -34,7 +34,7 @@ body.evenementenagenda {
         font-size: $base-font-size * 1.2;
         margin-bottom: 1em;
 
-        @include media($medium-up) {
+        @include grid-media($medium-up) {
           font-size: $base-font-size * 1.6;
         }
       }
@@ -69,7 +69,7 @@ body.evenementenagenda {
     margin-bottom: 2em;
     padding-bottom: 2em;
 
-    @include media($medium-up) {
+    @include grid-media($medium-up) {
       display: flex;
     }
 
@@ -86,7 +86,7 @@ body.evenementenagenda {
   .badge {
     display: none;
 
-    @include media($medium-up) {
+    @include grid-media($medium-up) {
       background-image: url("../images/calendar-background.svg");
       background-repeat: no-repeat;
       background-size: cover;
@@ -115,7 +115,7 @@ body.evenementenagenda {
   }
 
   .right {
-    @include media($medium-up) {
+    @include grid-media($medium-up) {
       flex: 1;
     }
 
@@ -153,14 +153,14 @@ body.evenementenagenda {
       span {
         display: block;
 
-        @include media($medium-up) {
+        @include grid-media($medium-up) {
           display: inline-block;
         }
 
         &.divider {
           display: none;
 
-          @include media($medium-up) {
+          @include grid-media($medium-up) {
             display: inline-block;
             margin-left: 0.5em;
             margin-right: 0.5em;

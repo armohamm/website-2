@@ -29,7 +29,7 @@ body.wat-voor-lms-past-bij-mij {
       margin-bottom: 4em;
 
       .row {
-        @include media($large-up) {
+        @include grid-media($large-up) {
           align-items: center;
           display: flex;
           flex-wrap: wrap;
@@ -42,13 +42,13 @@ body.wat-voor-lms-past-bij-mij {
       margin: 0 auto 2em;
       max-width: 800px;
 
-      @include media($large-up) {
+      @include grid-media($large-up) {
         flex: 1;
         width: 50%;
       }
 
       &:first-child {
-        @include media($large-up) {
+        @include grid-media($large-up) {
           margin-right: 2em;
         }
       }

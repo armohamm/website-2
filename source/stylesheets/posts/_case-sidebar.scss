@@ -4,8 +4,8 @@
   text-align: center;
   width: 100%;
 
-  @include media($large-up) {
-    @include span-columns(4);
+  @include grid-media($large-up) {
+    @include grid-column(4);
     border-top: 0;
     padding-top: 0;
     text-align: left;

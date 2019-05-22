@@ -22,7 +22,7 @@ body.demo-aanvragen {
       margin-bottom: 2em;
       text-align: center;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         font-size: $base-font-size * 2.2;
       }
     }
@@ -47,7 +47,7 @@ body.demo-aanvragen {
       position: relative;
       text-align: center;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         padding: 3em;
       }
 
@@ -59,7 +59,7 @@ body.demo-aanvragen {
       .button {
         margin: 0 0 1.5em;
 
-        @include media($medium-up) {
+        @include grid-media($medium-up) {
           display: inline-block;
           margin: 0;
         }
@@ -89,21 +89,21 @@ body.demo-aanvragen {
 
   section.content {
     .row {
-      @include media($large-up) {
+      @include grid-media($large-up) {
         display: flex;
       }
     }
 
     .col {
       &.text {
-        @include media($large-up) {
+        @include grid-media($large-up) {
           flex: 3;
           padding-right: 2em;
         }
       }
 
       &.img {
-        @include media($large-up) {
+        @include grid-media($large-up) {
           flex: 2;
         }
       }

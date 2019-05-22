@@ -18,7 +18,7 @@
     h2 {
       font-size: 1.6em;
 
-      @include media($large-up) {
+      @include grid-media($large-up) {
         font-size: 2.4em;
       }
     }
@@ -41,8 +41,8 @@
   }
 
   &.three .col {
-    @include media($large-up) {
-      @include span-columns(4);
+    @include grid-media($large-up) {
+      @include grid-column(4);
     }
   }
 }

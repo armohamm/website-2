@@ -3,7 +3,7 @@
   line-height: 24px;
   text-align: center;
 
-  @include media($medium-up) {
+  @include grid-media($medium-up) {
     display: flex;
     justify-content: center;
   }
@@ -30,7 +30,7 @@
     margin-right: 0.2em;
     padding: 0;
 
-    @include media($medium-up) {
+    @include grid-media($medium-up) {
       margin-left: 0;
     }
   }

@@ -11,22 +11,23 @@
     background-color: $white;
     margin-bottom: 2em;
 
-    @include media($medium-up) {
-      @include fill-parent();
-      @include row(table);
+    @include grid-media($medium-up) {
+      box-sizing: border-box;
+      display: table;
       min-height: 300px;
+      width: 100%;
     }
   }
 
   .col {
-    @include pad();
+    padding: 2.35765%;
     vertical-align: middle;
 
     p {
-      font-size: 1em;
+      font-size: $base-font-size;
 
-      @include media($medium-up) {
-        font-size: 1.3em;
+      @include grid-media($medium-up) {
+        font-size: $base-font-size * 1.3;
       }
 
       &:last-child {
@@ -48,9 +49,10 @@
     text-align: center;
     width: 100%;
 
-    @include media($medium-up) {
-      @include span-columns(5);
+    @include grid-media($medium-up) {
+      display: table-cell;
       height: auto;
+      width: 41.66667%;
     }
 
     h2 {
@@ -62,7 +64,7 @@
       margin: 0;
       vertical-align: middle;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         display: inline-block;
         font-size: $base-font-size * 2;
       }
@@ -75,11 +77,12 @@
   }
 
   .right {
+
     text-align: left;
 
-    @include media($medium-up) {
-      @include span-columns(7);
-      @include reset-display;
+    @include grid-media($medium-up) {
+      display: table-cell;
+      width: 58.33333%;
     }
   }
 }

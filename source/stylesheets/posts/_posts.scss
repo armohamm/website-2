@@ -26,8 +26,8 @@ article.post {
     max-width: $post-max-width;
 
     &.sidebar-content {
-      @include media($large-up) {
-        @include span-columns(8);
+      @include grid-media($large-up) {
+        @include grid-column(8);
       }
     }
   }
@@ -35,7 +35,7 @@ article.post {
   h2 {
     font-size: $base-font-size * 1.6;
 
-    @include media($medium-up) {
+    @include grid-media($medium-up) {
       font-size: $base-font-size * 1.8;
     }
   }
@@ -43,7 +43,7 @@ article.post {
   h3 {
     font-size: $base-font-size * 1.4;
 
-    @include media($medium-up) {
+    @include grid-media($medium-up) {
       font-size: $base-font-size * 1.6;
     }
   }
@@ -63,7 +63,7 @@ article.post {
     font-weight: $font-weight-bold;
     text-align: left;
 
-    @include media($medium-up) {
+    @include grid-media($medium-up) {
       font-size: $base-font-size * 1.6;
     }
   }

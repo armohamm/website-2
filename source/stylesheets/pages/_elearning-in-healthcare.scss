@@ -10,7 +10,7 @@ body.e-learning-in-healthcare {
     .hero-inner {
       padding: calc(4em + #{$header-height}) 1em 4em;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         padding: calc(7em + #{$header-height}) 1em 7em;
       }
     }
@@ -18,7 +18,7 @@ body.e-learning-in-healthcare {
     h1 {
       font-size: 2.4em;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         font-size: 3em;
         margin: 0 auto 1em;
         max-width: 900px;
@@ -29,7 +29,7 @@ body.e-learning-in-healthcare {
       font-size: 1.6em;
       margin: 0 0 1em;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         font-size: 2.4em;
       }
     }

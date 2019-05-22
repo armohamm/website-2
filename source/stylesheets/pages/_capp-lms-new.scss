@@ -11,7 +11,7 @@ body:not(.en).capp-lms {
     .row {
       max-width: 1260px;
 
-      @include media($large-up) {
+      @include grid-media($large-up) {
         align-items: center;
         display: flex;
         flex-wrap: wrap;
@@ -19,7 +19,7 @@ body:not(.en).capp-lms {
       }
 
       .col {
-        @include media($medium-up) {
+        @include grid-media($medium-up) {
           padding: 0;
         }
       }
@@ -28,7 +28,7 @@ body:not(.en).capp-lms {
     .col {
       padding: 0 1em;
 
-      @include media($xlarge-up) {
+      @include grid-media($xlarge-up) {
         flex: 1;
 
         &:first-child {
@@ -41,7 +41,7 @@ body:not(.en).capp-lms {
         flex-basis: 480px;
         padding: 40px 30px;
 
-        @include media($medium-up) {
+        @include grid-media($medium-up) {
           padding: 40px 60px;
         }
       }
@@ -67,7 +67,7 @@ body:not(.en).capp-lms {
     position: relative;
     text-align: left;
 
-    @include media($large-up) {
+    @include grid-media($large-up) {
       margin-right: 15px;
     }
 
@@ -95,7 +95,7 @@ body:not(.en).capp-lms {
     text-align: center;
     z-index: 1;
 
-    @include media($large-up) {
+    @include grid-media($large-up) {
       text-align: left;
     }
 
@@ -107,7 +107,7 @@ body:not(.en).capp-lms {
       margin-bottom: 1.7em;
       max-width: 240px;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         margin-left: -5px;
         max-width: 260px;
       }
@@ -147,7 +147,7 @@ body:not(.en).capp-lms {
     color: $white;
 
     h3 {
-      @include media($xlarge-up) {
+      @include grid-media($xlarge-up) {
         margin-bottom: 2em;
       }
     }
@@ -162,7 +162,7 @@ body:not(.en).capp-lms {
       padding: 3em 0;
       text-align: left;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         align-items: center;
       }
     }
@@ -170,7 +170,7 @@ body:not(.en).capp-lms {
     .col {
       padding: 0 1em;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         flex: 1;
 
         &:first-child {
@@ -186,7 +186,7 @@ body:not(.en).capp-lms {
         display: block;
         margin: 0 auto 1em;
 
-        @include media($medium-up) {
+        @include grid-media($medium-up) {
           margin: 0;
         }
       }
@@ -195,7 +195,7 @@ body:not(.en).capp-lms {
         margin-bottom: 1em;
         order: 1;
 
-        @include media($medium-up) {
+        @include grid-media($medium-up) {
           order: initial;
         }
       }
@@ -203,14 +203,14 @@ body:not(.en).capp-lms {
       &-text {
         order: 2;
 
-        @include media($medium-up) {
+        @include grid-media($medium-up) {
           order: initial;
         }
       }
     }
 
     h2 {
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         font-size: $base-font-size * 3;
       }
     }

@@ -7,19 +7,16 @@ body.klanten_index {
       margin-bottom: 2em;
       vertical-align: middle;
 
-      @include media($medium-only) {
-        @include span-columns(6);
-        @include omega(2n);
+      @include grid-media($medium-only) {
+        @include grid-column(6);
       }
 
-      @include media($large-only) {
-        @include span-columns(3);
-        @include omega(4n);
+      @include grid-media($large-only) {
+        @include grid-column(3);
       }
 
-      @include media($xlarge-up) {
-        @include span-columns(2);
-        @include omega(6n);
+      @include grid-media($xlarge-up) {
+        @include grid-column(2);
       }
 
       img {

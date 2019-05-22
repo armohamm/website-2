@@ -16,7 +16,7 @@ section.clients {
     justify-content: center;
     margin-bottom: 1em;
 
-    @include media($xlarge-up) {
+    @include grid-media($xlarge-up) {
       flex-wrap: nowrap;
     }
 

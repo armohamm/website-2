@@ -39,7 +39,7 @@
     color: $avatar-color;
     margin-bottom: 8px;
 
-    @include media($medium-up) {
+    @include grid-media($medium-up) {
       @include avatar-size(80px);
     }
 
@@ -55,7 +55,7 @@
     font-size: 0.8em;
     font-weight: $font-weight-bold;
 
-    @include media($medium-up) {
+    @include grid-media($medium-up) {
       font-size: 1em;
     }
 

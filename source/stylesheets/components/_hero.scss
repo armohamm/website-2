@@ -9,7 +9,7 @@
     font-weight: $font-weight-bold;
     margin-bottom: 1em;
 
-    @include media($large-up) {
+    @include grid-media($large-up) {
       font-size: 4em;
       margin-bottom: 0.6em;
     }
@@ -25,14 +25,14 @@
     margin: 0 auto 2em;
     max-width: 500px;
 
-    @include media($large-up) {
+    @include grid-media($large-up) {
       font-size: 1.6em;
       max-width: 720px;
     }
   }
 
   .hero-inner {
-    @include outer-container;
+    @include container;
     @include clearfix;
     margin: auto;
     padding: calc(7em + #{$header-height}) 1em 7em;
@@ -47,7 +47,7 @@
     .button {
       margin: 0 0 1.5em;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         display: inline-block;
         margin: 0 0.5em 1.5em;
       }
@@ -67,7 +67,7 @@
     .title {
       font-size: $base-font-size * 1.6;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         font-size: $base-font-size * 2.4;
       }
     }
@@ -75,7 +75,7 @@
     .sub-title {
       font-size: $base-font-size * 1.2;
 
-      @include media($medium-up) {
+      @include grid-media($medium-up) {
         font-size: $base-font-size * 2;
       }
     }

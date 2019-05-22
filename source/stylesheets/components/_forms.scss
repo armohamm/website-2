@@ -2,7 +2,7 @@
   max-width: none;
   text-align: center;
 
-  @include media ($medium-up) {
+  @include grid-media ($medium-up) {
     input,
     button,
     .button {
@@ -27,7 +27,7 @@
   position: relative;
   text-align: left;
 
-  @include media ($medium-up) {
+  @include grid-media ($medium-up) {
     .form-name,
     .form-phone,
     .form-persons {
