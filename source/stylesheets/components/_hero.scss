@@ -2,6 +2,22 @@
   background: $orange-alt no-repeat center fixed;
   background-size: cover;
   color: $white;
+  position: relative;
+
+  &.overlay-darken {
+    &::before {
+      background-color: rgba($black, 0.4);
+      content: "";
+      display: flex;
+      height: 100%;
+      left: 0;
+      position: absolute;
+      top: 0;
+      transition: background 0.15s ease-in-out;
+      width: 100%;
+      z-index: 0;
+    }
+  }
 
   h1 {
     font-family: 'Montserrat', $base-font-family;

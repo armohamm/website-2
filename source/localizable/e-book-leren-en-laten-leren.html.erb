@@ -1,0 +1,23 @@
+---
+title:
+  de: "E-Book: Abenteuer E-Learning"
+description:
+  de: "Laden Sie jetzt unser E-Book herunter und erhalten Sie Tipps und Tricks beim Einsatz von E-Learning."
+lang_ignore: en, nl
+---
+
+<%= partial "partials/hero", locals: { variant: "variant-normal",
+                                       variant_overlay: "overlay-darken",
+                                       background_image: "e-book-abenteuer-e-learning.jpg",
+                                       title: t("ebook.title"),
+                                       sub_title: t("ebook.sub_title")} %>
+
+<section>
+  <div class="row">
+    <%= partial "partials/form", locals: { title: "Download e-book 'Abeunteuer E-Learning'",
+                                           fields: ["name", "email", "organisation", "phone"],
+                                           button_text: t("actions.download_ebook"),
+                                           variant: "contact",
+                                           action_url: t("urls.download_ebook")} %>
+  </div>
+</section>

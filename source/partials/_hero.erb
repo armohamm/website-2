@@ -1,4 +1,4 @@
-<div class="hero <%= variant %>" role="banner" style="background-image: url(<%= image_path("moods/" + locals[:background_image] || "moods/defacto.jpg") %>)">
+<div class="hero <%= variant %> <%= locals[:variant_overlay] %>" role="banner" style="background-image: url(<%= image_path("moods/" + locals[:background_image] || "moods/defacto.jpg") %>)">
   <div class="hero-inner">
 
     <% if locals[:title] || locals[:sub_title] %>

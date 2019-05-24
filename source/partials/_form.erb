@@ -14,7 +14,7 @@ else
 end
 %>
 
-<form class="<%= form_class %>" accept-charset="UTF-8" action="<%= action_url %>" method="POST">
+<form class="<%= form_class %>" accept-charset="UTF-8" action="<%= action_url %>" enctype="multipart/form-data" method="POST">
 
   <input type="hidden" name="utf8" value="✓">
   <input type="hidden" name="form" value="<%= form_title %>">

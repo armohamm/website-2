@@ -15,6 +15,7 @@ de:
     demo-aanvragen: "demo-anfragen"
     diensten: service
     digital-hospital: "digitalisierung-im-krankenhaus"
+    e-book-leren-en-laten-leren: "e-book-abenteuer-elearning"
     e-learning-in-healthcare: "e-learning-im-gesundheitswesen"
     gezondheidswezen: "gesundheitswesen"
     hosting-security: "hosting-sicherheit"
@@ -35,6 +36,7 @@ de:
   urls:
     appointment: https://formkeep.com/f/823938297f51
     contact: https://formkeep.com/f/bfad79e126e9
+    download_ebook: https://formkeep.com/f/7dcec5cb9938
     kwaliteitspaspoort: https://formkeep.com/f/928dfa558946
     productsheet: https://formkeep.com/f/666aa94d77c6
     km_productsheet: https://formkeep.com/f/928dfa558946
@@ -70,6 +72,7 @@ de:
     testimonials: "Kundenstimmen"
   actions:
     download: "Herunterladen"
+    download_ebook: "E-Book herunterladen"
     download_productsheet: "Produktblatt herunterladen"
     make_appointment: "Termin vereinbaren"
     read_more: "Mehr"
@@ -248,6 +251,9 @@ de:
     form:
       header: "Kontakt aufnehmen"
       text: "Möchten Sie mehr über die Möglichkeiten der Digitalisierung in Ihrem Krankenhaus erfahren? Nutzen Sie das Kontaktformular, damit unsere Berater mit Ihnen Kontakt aufnehmen können"
+  ebook:
+    title: "E-Book: Abenteuer E-Learning"
+    sub_title: "Laden Sie jetzt unser E-Book herunter und erhalten Sie Tipps und Tricks beim Einsatz von E-Learning."
   elearning:
     heading: "E-Learning mit einem zukunftsorientierten Partner"
   elearning-in-healthcare:
