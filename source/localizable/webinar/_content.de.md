@@ -1,0 +1,1 @@
+Melden Sie sich jetzt an für das Webinar 'Curated Learning- Zielorientiertes Lernen mit einer nutzerfreundlichen Lernplattform'. Alle Anmeldungen erhalten im Nachgang ein Video vom Webinar, auch wenn Sie nicht teilnehmen konnten.

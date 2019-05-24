@@ -23,16 +23,20 @@
     font-family: 'Montserrat', $base-font-family;
     font-size: 1.6em;
     font-weight: $font-weight-bold;
-    margin-bottom: 1em;
+    margin: 0 auto;
+    max-width: 800px;
 
     @include grid-media($large-up) {
       font-size: 4em;
-      margin-bottom: 0.6em;
     }
 
     img {
       max-width: 400px;
     }
+  }
+
+  h2 {
+    margin-top: 1em;
   }
 
   p {
