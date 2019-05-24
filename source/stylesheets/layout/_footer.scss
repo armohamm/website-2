@@ -32,7 +32,7 @@
   }
 
   .connect {
-    flex: 1;
+    flex: 1 1 auto;
     order: 1;
     padding-bottom: 2em;
 
@@ -82,7 +82,7 @@
   }
 
   .navigation {
-    flex: 1;
+    flex: 1 1 auto;
     order: 2;
 
     @include grid-media($large-up) {
