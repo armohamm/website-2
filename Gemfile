@@ -2,13 +2,14 @@
 # the following line to use "https"
 source "http://rubygems.org"
 
+gem "mini_racer"
+
 # Middleman
 gem "middleman", "~> 3.4.1"
 gem "middleman-blog", "~> 3.5.3"
-# gem "middleman-livereload", "~> 3.4.2"
 gem "middleman-autoprefixer"
 gem "middleman-minify-html"
-gem "middleman-search"
+gem "middleman-search", git: "https://github.com/DefactoSoftware/middleman-search"
 gem "middleman-syntax"
 
 # General
