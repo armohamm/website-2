@@ -1,0 +1,22 @@
+---
+title:
+  de: "Whitepaper - Performance Support in der Praxis"
+description:
+  de: "Laden Sie jetzt unser Whitepaper herunter und erfahren Sie mehr über den Einsatz von Performance Support."
+lang_ignore: en, nl
+---
+
+<%= partial "partials/hero", locals: { variant: "variant-normal",
+                                       background_image: "defacto.jpg",
+                                       title: t("whitepapers.performance_support.title"),
+                                       sub_title: t("whitepapers.performance_support.sub_title")} %>
+
+<section>
+  <div class="row">
+    <%= partial "partials/form", locals: { title: "Download Performance Support Whitepaper",
+                                           fields: ["name", "email", "organisation", "phone"],
+                                           button_text: t("actions.download_whitepaper"),
+                                           variant: "contact",
+                                           action_url: t("urls.download_whitepaper")} %>
+  </div>
+</section>

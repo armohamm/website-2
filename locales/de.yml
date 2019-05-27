@@ -38,6 +38,7 @@ de:
     capp_agile: https://formkeep.com/f/bfad79e126e9
     contact: https://formkeep.com/f/bfad79e126e9
     download_ebook: https://formkeep.com/f/7dcec5cb9938
+    download_whitepaper: https://formkeep.com/f/d0a4296b34e4
     ebook: https://formkeep.com/f/c7bcd3c88a4c
     job_apply: https://formkeep.com/f/6607c4bdc4cc
     jobs: https://www.defactolearning.de/jobs
@@ -75,6 +76,7 @@ de:
     download: "Herunterladen"
     download_ebook: "E-Book herunterladen"
     download_productsheet: "Produktblatt herunterladen"
+    download_whitepaper: "Whitepaper herunterladen"
     make_appointment: "Termin vereinbaren"
     read_more: "Mehr"
     read_more_2: "Mehr lesen"
@@ -506,3 +508,7 @@ de:
     name: "360° Feedback"
   webinar:
     title: "Webinar: Curated Learning Dienstag, 25.06.2019 um 10 Uhr"
+  whitepapers:
+    performance_support:
+      title: "Whitepaper - Performance Support in der Praxis"
+      sub_title: "Laden Sie jetzt unser Whitepaper herunter und erfahren Sie mehr über den Einsatz von Performance Support."
