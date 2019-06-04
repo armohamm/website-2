@@ -335,8 +335,6 @@ de:
     events: "Veranstaltungskalender"
     open-source: "Open Source"
   home:
-    news:
-      title: "Aktuelles"
     hero_capp:
       title: "Learning & Talent Management"
       text: "Vielfalt des Lernens für motivierte und qualifizierte Mitarbeiter"
