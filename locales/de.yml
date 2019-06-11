@@ -112,8 +112,6 @@ de:
     home:
       demo: "Demo anfragen"
       productsheet: "Produktblatt herunterladen"
-  albert:
-    cta_heading: "Haben Sie weitere Fragen zu dieser Ausschreibung? Nehmen Sie Kontakt mit unserem Customer Relationshop Manager Albert Dijkslag auf."
   blog:
     page_title: "Blog | Pagina %{page_number} von %{num_pages} | Defacto"
     meta_description: "Neuigkeiten über Trends rundum Bildungsmanagement und Online Learning, Aktuelles zu Software, unseren Kunden, Produkten und Diensten. | Pagina %{page_number}/%{num_pages}."

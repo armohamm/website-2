@@ -7,7 +7,6 @@ lang: de
 image: images/blog/social/bmbf-blog-1200x630.jpg
 featured_image: images/blog/featured/20180927-BMBF-blog.jpg
 header_image: moods/BMBF-blog.jpg
-call_to_action: information-albert
 ---
 
 __Das Bundesministerium für 'Bildung und Forschung' bietet derzeit die Möglichkeit an Fördermittel zu beantragen zur zeitgemäßen Einrichtung der Aus-, Fort- und Weiterbildungen in Gesundheitsberufen durch den Einsatz digitaler Medien.__
