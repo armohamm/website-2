@@ -1,6 +1,8 @@
 <div class="hero">
   <div class="row">
+
     <div class="col">
+
       <%= image_tag "logos/capp-new-version.svg", alt: "CAPP LMS", class: "logo" %>
 
       <h2>
@@ -15,9 +17,17 @@
 
     <div class="col card">
 
-      <h4><%= t("kwaliteitspaspoort.heading-contact") %></h4>
+      <h4>
+        <%= t("kwaliteitspaspoort.heading-contact") %>
+      </h4>
 
-      <%= partial "capp-lms-new/form" %>
+      <%= partial "partials/form", locals: { title: "Contact Request: CAPP Compliance und Qualifikationsmanagement",
+                                             fields: ["name", "email", "organisation", "phone"],
+                                             button_text: t("form.submit"),
+                                             button_class: "button pink",
+                                             variant: "",
+                                             action_url: t("urls.contact")} %>
+
     </div>
 
   </div>

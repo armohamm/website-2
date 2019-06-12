@@ -10,5 +10,21 @@ lang_ignore: ["nl", "en"]
 <%= partial "capp-talent-management/on-page-navigation" %>
 <%= partial "capp-talent-management/introduction" %>
 <%= partial "capp-talent-management/overview" %>
-<%= partial "call-to-actions/information-capp12" %>
+
+<section class="cta-bottom gray">
+  <div class="row">
+
+    <h3>
+      <%= t("capp-talent-management.heading-contact") %>
+    </h3>
+
+    <%= partial "partials/form", locals: { title: "Contact Request: CAPP Talent Management",
+                                           fields: ["name", "email", "organisation", "phone"],
+                                           button_text: t("form.submit"),
+                                           button_class: "button pink",
+                                           variant: "inline",
+                                           action_url: t("urls.contact")} %>
+  </div>
+</section>
+
 <%= partial "capp-talent-management/more" %>

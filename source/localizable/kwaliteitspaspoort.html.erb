@@ -10,24 +10,31 @@ description:
 ---
 
 <% if root_locale == :de %>
-
   <%= partial "kwaliteitspaspoort-new/hero" %>
   <%= partial "kwaliteitspaspoort-new/on-page-navigation" %>
   <%= partial "kwaliteitspaspoort-new/introduction" %>
   <%= partial "kwaliteitspaspoort-new/overview" %>
-  <%= partial "call-to-actions/information-capp12" %>
+
+  <section class="cta-bottom gray">
+    <div class="row">
+
+      <h3>
+        <%= t("kwaliteitspaspoort.heading-contact") %>
+      </h3>
+
+      <%= partial "partials/form", locals: { title: "Contact Request: CAPP Compliance und Qualifikationsmanagement",
+                                             fields: ["name", "email", "organisation", "phone"],
+                                             button_text: t("form.submit"),
+                                             button_class: "button pink",
+                                             variant: "inline",
+                                             action_url: t("urls.contact")} %>
+    </div>
+  </section>
+
   <%= partial "kwaliteitspaspoort-new/more" %>
-
 <% else %>
-
   <%= partial "kwaliteitspaspoort-old/hero" %>
   <%= partial "kwaliteitspaspoort-old/kwaliteitspaspoort" %>
-
-  <% if root_locale == :de && data.downloads.kwaliteitsmonitor_productsheet[I18n.locale] %>
-    <%= partial "call-to-actions/download-qualitymonitor-productsheet" %>
-  <% else %>
-    <%= partial "call-to-actions/appointment-kwaliteitspaspoort" %>
-  <% end %>
+  <%= partial "call-to-actions/appointment-kwaliteitspaspoort" %>
   <%= partial "clients/clients-section" %>
-
 <% end %>

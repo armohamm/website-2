@@ -31,7 +31,23 @@ lang_ignore: en, de
 </section>
 
 <% if data.downloads.kwaliteitsmonitor_productsheet[I18n.locale] %>
-  <%= partial "call-to-actions/download-qualitymonitor-productsheet" %>
+  <section class="cta-bottom gray">
+    <div class="row">
+
+        <h3>
+          <%= t("kwaliteitsmonitor.cta_bottom.heading_md") %>
+        </h3>
+
+        <%= partial "partials/form", locals: { title: "Download: Kwaliteitsmonitor Productsheet",
+                                               form_type: "download pdf",
+                                               download_link: data.downloads.kwaliteitsmonitor_productsheet[I18n.locale],
+                                               fields: ["name", "email", "organisation", "phone"],
+                                               button_text: t("actions.download_productsheet"),
+                                               button_class: "button orange",
+                                               variant: "inline",
+                                               action_url: t("urls.contact")} %>
+    </div>
+  </section>
 <% end %>
 
 <%= partial "clients/clients-section" %>

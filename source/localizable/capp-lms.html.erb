@@ -18,7 +18,22 @@ description:
   <%= partial "capp-lms-new/on-page-navigation" %>
   <%= partial "capp-lms-new/introduction" %>
   <%= partial "capp-lms-new/overview" %>
-  <%= partial "call-to-actions/information-capp12" %>
+
+  <section class="cta-bottom gray">
+    <div class="row">
+
+      <h3>
+        <%= t("capp-new.heading-contact") %>
+      </h3>
+
+      <%= partial "partials/form", locals: { title: "Contact Request: CAPP LMS",
+                                             fields: ["name", "email", "organisation", "phone"],
+                                             button_text: t("form.submit"),
+                                             button_class: "button pink",
+                                             variant: "inline",
+                                             action_url: t("urls.contact")} %>
+    </div>
+  </section>
 <% end %>
 
 <% if root_locale == :de %>
