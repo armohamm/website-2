@@ -10,10 +10,6 @@ ebook:
   nl: "/pdf/Handboek_Leren_en_laten_Leren.pdf"
   de: "/pdf/Handbuch_Abenteuer_E-Learning.pdf"
   en: "/pdf/Handbook_Learn_and_let_learn.pdf"
-capp_productsheet:
-  nl: "/pdf/Productsheet_CAPP.pdf"
-  de: "/pdf/Produktblatt_CAPP.pdf"
-  en: "/pdf/Productsheet_CAPP.pdf" # REPLACE_LATER!
 kwaliteitsmonitor_productsheet:
   nl: "/pdf/Productsheet_Kwaliteitsmonitor.pdf"
   de: "/pdf/Productsheet_Qualitaetspass_Qualitaetsmonitor.pdf"
