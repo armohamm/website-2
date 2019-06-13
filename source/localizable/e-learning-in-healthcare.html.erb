@@ -30,4 +30,21 @@ lang_ignore: en, nl
   </div>
 </section>
 
-<%= partial "call-to-actions/information-elearning-healthcare" %>
+<section class="cta-bottom gray" id="contact-request">
+  <div class="row">
+
+    <h2>
+      <%= t("elearning-in-healthcare.form.header") %>
+    </h2>
+
+    <%= simple_format t("elearning-in-healthcare.form.text") %>
+
+    <%= partial "partials/form", locals: { title: "Contact Request: E-Learning Healthcare",
+                                           fields: ["name", "email", "organisation", "phone"],
+                                           button_text: t("form.submit"),
+                                           button_class: "button orange",
+                                           variant: "inline",
+                                           action_url: t("urls.contact")} %>
+
+  </div>
+</section>

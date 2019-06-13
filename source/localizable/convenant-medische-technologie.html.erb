@@ -28,4 +28,23 @@ lang_ignore: en
   </div>
 </section>
 
-<%= partial "call-to-actions/information-cmt.erb" %>
+<section class="cta-bottom gray" id="contact-form">
+  <div class="row">
+
+    <h2>
+      <%= t("cmt.form.header") %>
+    </h2>
+
+    <p>
+      <%= t("cmt.form.text") %>
+    </p>
+
+    <%= partial "partials/form", locals: { title: "Contact Request: Medische Technologie",
+                                           fields: ["name", "email", "organisation", "phone"],
+                                           button_text: t("form.submit"),
+                                           button_class: "button orange",
+                                           variant: "inline",
+                                           action_url: t("urls.contact")} %>
+
+  </div>
+</section>

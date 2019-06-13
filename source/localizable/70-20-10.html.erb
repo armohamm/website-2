@@ -30,4 +30,20 @@ lang_ignore: en
   </div>
 </section>
 
-<%= partial "call-to-actions/information-70-20-10" %>
+<section class="cta-bottom gray" id="contact-request">
+  <div class="row">
+
+    <h2>
+      <%= t("70-20-10.form.header") %>
+    </h2>
+
+    <%= simple_format t("70-20-10.form.text") %>
+
+    <%= partial "partials/form", locals: { title: "Contact Request: 70-20-10",
+                                           fields: ["name", "email", "organisation", "phone"],
+                                           button_text: t("form.submit"),
+                                           button_class: "button orange",
+                                           variant: "inline",
+                                           action_url: t("urls.contact")} %>
+  </div>
+</section>
