@@ -22,7 +22,6 @@ facts:
   url: https://www.friedrich-ebert-krankenhaus.de/
   since: 2015
   employees: 2016
-tags: "healthcare"
 ---
 
 __Seit 2014 setzt das Friedrich-Ebert-Krankenhaus in Neumünster auf eine digitale Lernumgebung und Seminarverwaltung. Mit Erfolg. Ein großes Weiterbildungsangebot für Mitarbeiter bildet mit insgesamt über 1.100 Kursen die Grundlage für eine optimale interne Personalentwicklungsstruktur. Das Softwarepaket von Defacto bietet mit der Produktkombination aus CAPP Talent Management und dem Qualitätspass die Basis für diese moderne Unternehmenskultur sowie ideale Vorraussetzungen für die Organisation und den Nachweis von Weiter- und Fortbildungsmaßnahmen des Hauses.__

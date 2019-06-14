@@ -7,7 +7,6 @@ lang: de
 image: images/blog/social/kundentag-social-1200x630.jpg
 featured_image: images/blog/featured/20181122-kundentag.jpg
 header_image: moods/kundentag-mood.jpg
-call_to_action: subscribe-newsletter
 ---
 
 __Vergangene Woche war es soweit. Unser deutscher Defacto Kundentag in der Hamburger Elbphilharmonie, dem neuen Wahrzeichen der Stadt. Ein besonderer Moment, ein besonderer Ort mit besonderen Menschen. Die Elbe, den Hafen und die Hamburger Skyline im Hintergrund als unseren ständigen Begleiter an diesem Tag.__

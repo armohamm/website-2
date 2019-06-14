@@ -1,77 +1,80 @@
 <% wrap_layout :layout do %>
 
-<article class="post" role="article">
+  <article class="post" role="article">
 
-  <header class="post-header" style="background-image: url(<%= image_path(current_article.data.header_image || "moods/defacto.jpg") %>)">
+    <header class="post-header" style="background-image: url(<%= image_path(current_article.data.header_image || "moods/defacto.jpg") %>)">
 
-    <div class="row">
+      <div class="row">
 
-      <% if blog_controller.name == :jobs %>
+        <% if blog_controller.name == :jobs %>
 
-        <h1>
-          <%= t("jobs.title") %> <%= current_article.title %>
-        </h1>
+          <h1>
+            <%= t("jobs.title") %> <%= current_article.title %>
+          </h1>
 
-      <% elsif blog_controller.name == :cases %>
+        <% elsif blog_controller.name == :cases %>
 
-        <%= image_tag image_path(current_article.data.logo_white), class: "case-logo", alt: current_article.title, title: current_article.title %>
+          <%= image_tag image_path(current_article.data.logo_white), class: "case-logo",
+                                                                     alt: current_article.title,
+                                                                     title: current_article.title %>
 
-        <h1>
-          <%= current_article.title %>
-        </h1>
+          <h1>
+            <%= current_article.title %>
+          </h1>
 
-        <h2>
-          <%= current_article.data.sub_title %>
-        </h2>
+          <h2>
+            <%= current_article.data.sub_title %>
+          </h2>
 
-      <% else %>
+        <% else %>
 
-        <h1>
-          <%= current_article.title %>
-        </h1>
+          <h1>
+            <%= current_article.title %>
+          </h1>
 
-        <%= partial "blog/blog-article-meta", locals: { article: current_article } %>
+          <%= partial "blog/blog-article-meta", locals: { article: current_article } %>
 
-        <%= partial "blog/blog-article-tags", locals: { article: current_article } if current_article.data.tags %>
+          <%= partial "blog/blog-article-tags", locals: { article: current_article } if current_article.data.tags %>
 
-      <% end %>
+        <% end %>
+
+      </div>
+
+    </header>
+
+    <div class="row post-body">
+
+      <% sidebar_content = blog_controller.name == :cases ? "sidebar-content" : "" %>
+
+      <div class="col <%= sidebar_content -%>">
+        <%= yield %>
+      </div>
+
+      <%= partial "cases/case-sidebar" if blog_controller.name == :cases %>
+
+      <%= partial "jobs/apply-button" if blog_controller.name == :jobs %>
 
     </div>
 
-  </header>
+  </article>
 
-  <div class="row post-body">
+  <%= partial "partials/social-share" %>
 
-    <% sidebar_content = blog_controller.name == :cases ? "sidebar-content" : "" %>
+  <%= partial "cases/page-controls" if blog_controller.name == :cases %>
 
-    <div class="col <%= sidebar_content -%>">
-      <%= yield %>
-    </div>
+  <% if current_article.data.call_to_action.nil? %>
+    <% if blog_controller.name == :cases %>
+      <%= partial "cases/call-to-action" %>
+    <% elsif blog_controller.name == :blog %>
+      <%= partial "blog/call-to-action" %>
+    <% end %>
+  <% else %>
+    <%= partial "call-to-actions/#{current_article.data.call_to_action.to_s}" %>
+  <% end %>
 
-    <%= partial "cases/case-sidebar" if blog_controller.name == :cases -%>
-
-    <%= partial "jobs/apply-button" if blog_controller.name == :jobs -%>
-
-  </div>
-
-</article>
-
-<%= partial "partials/social-share" %>
-
-<%= partial "cases/page-controls" if blog_controller.name == :cases -%>
-
-<% unless blog_controller.name == :jobs %>
-  <%= partial "partials/call-to-action", locals: {
-    article: current_article,
-    blog: blog_controller.name.to_s
-  } -%>
-<% end %>
-
-<% unless blog_controller.name == :cases || blog.articles.count < 3 %>
-  <%= partial "partials/related-posts", locals: {
-    article: current_article,
-    blog: blog_controller.name.to_s
-  } -%>
-<% end %>
+  <% unless blog_controller.name == :cases || blog.articles.count < 3 %>
+    <%= partial "partials/related-posts", locals: { article: current_article,
+                                                    blog: blog_controller.name.to_s } %>
+  <% end %>
 
 <% end %>

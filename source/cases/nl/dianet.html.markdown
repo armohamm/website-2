@@ -24,7 +24,6 @@ facts:
   url: https://www.dianet.nl
   since: 2016
   employees: 400
-call_to_action: demo-request
 ---
 
 **Dianet geldt als expertisecentrum op het gebied van dialyse, met veel aandacht voor de kwaliteit van de zorg en voor de vakbekwaamheid van medewerkers. Net als andere zorginstellingen kent Dianet de uitdaging om de leer- en managementdoelstellingen van een leer management systeem (LMS) succesvol te combineren en behalen. Management en medewerkers hebben vaak verschillende eisen en doelen als het om een LMS gaat. In het verleden functioneerde een LMS vaak te weinig vanuit het perspectief van medewerkers. Een van de organisatie doelstellingen die Dianet met CAPP LMS wil bereiken is het effectief registreren en het realtime inzicht bieden, zoals bij voorbehouden en risicovolle behandelingen. Dianet wil met CAPP LMS echter veel meer bereiken. De overgang naar de laatste versie van CAPP LMS, waarin de focus meer ligt op het laten leren en ontwikkelen vanuit de medewerkers, kwam dan ook voor Dianet op het juiste moment.**

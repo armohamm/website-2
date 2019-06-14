@@ -23,7 +23,6 @@ facts:
   url: https://www.evangelischeskrankenhaus.de/
   since: 2015
   employees: 1200
-tags: "healthcare"
 ---
 
 __Das grenzüberschreitende Gemeinschaftsprojekt im Rahmen der Medizinerausbildung der European Medical School ist ein gutes Beispiel für eine gelungene deutsch-niederländische Kooperation des Evangelischen Krankenhauses Oldenburg (EV). Eine weitere gute Zusammenarbeit bietet sich zwischen dem EV und Defacto an: Die Lösungen “CAPP Talent Management”, “CAPP Learning Management” und der “CAPP Qualitätspass” können vor dem Hintergrund der Vision des lebenslangen Lernens den dortigen Kulturwandel gemeinsam gestalten. Das Krankenhaus verwendet bereits seit 2015 ein modernes Talentmanagement System und entwickelt eigene E-Learning Kurse.__

@@ -8,7 +8,6 @@ featured: true
 image: images/blog/social/dianet-social-1200x630.jpg
 featured_image: images/blog/featured/20190507-dianet-featured.jpg
 header_image: moods/dianet-mood.jpg
-call_to_action: subscribe-newsletter
 ---
 
 __Dianet, het expertisecentrum voor dialyse in Utrecht, Amsterdam en de Thuiszorg, heeft onlangs hun HKZ-certificering behaald, een keurmerk voor de kwaliteit en veiligheid van de geleverde zorg. Namens het team van Defacto: van harte gefeliciteerd!__

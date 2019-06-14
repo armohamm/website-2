@@ -8,7 +8,6 @@ featured: true
 image: images/blog/social/fachmagazin-sana-1200x630.jpg
 featured_image: images/blog/featured/20190509-fachmagazin-sana.jpg
 header_image: moods/fachmagazin-sana.jpg
-call_to_action: appointment-case
 ---
 
 ## Qualifizierung als Schlüssel für besseres Therapieren und Pflegen von Patienten: Die Sana-Kliniken digitalisieren ihr Bildungsmanagement.

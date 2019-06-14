@@ -7,7 +7,6 @@ lang: de
 image: images/blog/social/audit-social-1200x630.jpg
 featured_image: images/blog/featured/20181204-audit-featured.jpg
 header_image: moods/audit-mood.jpg
-call_to_action: subscribe-newsletter
 ---
 
 __G. Pohl-Boskamp GmbH & Co. KG, ein erfolgreiches Pharmaunternehmen in Deutschland, ist seit diesem Jahr einer unserer Kunden. Aufgrund der strengen Vorschriften im pharmazeutischen Sektor ist es wichtig, dass Softwarelösungen wie CAPP LMS alle relevanten Normen und Anforderungen erfüllen. Darum hat G. Pohl-Boskamp GmbH & Co. KG ein Audit bei Defacto  und dessen Software durchgeführt.__

@@ -8,7 +8,6 @@ featured: true
 image: images/blog/social/sana-1200x630.jpg
 featured_image: images/blog/featured/20190314-sana.jpg
 header_image: moods/sana-mood.jpg
-call_to_action: subscribe-newsletter
 ---
 
 __Sana Kliniken AG sluit zijn zoektocht naar de invoering van een e-learning-oplossing af met de keuze voor het leermanagementsysteem [CAPP LMS](/capp-lms/) van Defacto. De samenwerking heeft als doel de digitaliseringsstrategie op het vlak van leren en personeelsontwikkeling vorm te geven en de aantrekkelijkheid van Sana als werkgever in het kader van personeelsbehoud verder te stimuleren.__
