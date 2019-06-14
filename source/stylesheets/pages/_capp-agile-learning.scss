@@ -163,6 +163,7 @@ body.capp-agile-learning {
     .col {
       padding-left: 2em;
       padding-right: 2em;
+      text-align: left;
 
       @include grid-media($medium-up) {
         width: 40%;

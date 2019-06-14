@@ -25,32 +25,48 @@ form_title = defined?(title) ? title : "Contact"
   <% end %>
 
   <% if "name".in? locals[:fields] %>
+  <div class="form-name">
     <input type="text" name="name" placeholder="<%= t("form.name") %> *" required>
+  </div>
   <% end %>
 
   <% if "position".in? locals[:fields] %>
     <input type="text" name="position" placeholder="<%= t("form.position") %> *" required>
   <% end %>
 
-    <% if "organisation".in? locals[:fields] %>
+  <% if "organisation".in? locals[:fields] %>
+  <div class="form-company">
     <input type="text" name="organisation" placeholder="<%= t("form.organisation") %> *" required>
+  </div>
   <% end %>
 
   <% if "email".in? locals[:fields] %>
+  <div class="form-email">
     <input type="email" name="email" placeholder="<%= t("form.email") %> *" required>
+  </div>
   <% end %>
 
   <% if "phone".in? locals[:fields] %>
+  <div class="form-phone">
     <input type="tel" name="phone" placeholder="<%= t("form.phone") %>">
+  </div>
   <% end %>
 
   <% if "phone_required".in? locals[:fields] %>
+  <div class="form-phone">
     <input type="tel" name="phone" placeholder="<%= t("form.phone") %> *" required>
+  </div>
+  <% end %>
+
+  <% if "organisation_message".in? locals[:fields] %>
+    <div class="form-text">
+      <textarea rows="3" name="message" placeholder="<%= t("form.message_for_organisation") %>"></textarea>
+    </div>
   <% end %>
 
   <% if "message".in? locals[:fields] %>
     <div class="form-text">
-      <textarea rows="3" name="message" placeholder="<%= t("form.message_for_organisation") %>"></textarea>
+      <textarea rows="3" name="message" placeholder="<%= t("form.message") %>"></textarea>
     </div>
   <% end %>
 
