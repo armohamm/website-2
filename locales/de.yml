@@ -295,9 +295,9 @@ de:
     slogan: "Defacto — Developing People seit 1987"
     subscribe:
       title: "Newsletter"
-      text: "Schreibe dich ein und bleibe informiert"
+      text: "Abonnieren Sie unseren Newsletter und bleiben Sie informiert"
   form:
-    email: "E-Mail"
+    email: "E-Mail-Adresse"
     message: "Wie können wir Ihnen helfen?"
     name: "Name"
     first_name: Vorname
