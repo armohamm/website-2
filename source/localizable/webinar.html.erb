@@ -13,14 +13,14 @@ lang_ignore: en, nl
 
 <section>
   <div class="row">
+
     <article>
       <%= partial "webinar/content" %>
+      <%= partial "partials/form", locals: { title: "Signup: webinar 25.06.2019",
+                                             fields: ["name", "email", "organisation", "phone_required"],
+                                             button_text: t("actions.register"),
+                                             action_url: t("urls.register_webinar")} %>
     </article>
 
-    <%= partial "partials/form", locals: { title: "Anmeldung webinar 25.06.2019",
-                                           fields: ["name", "email", "organisation", "phone_required"],
-                                           button_text: t("actions.register"),
-                                           variant: "contact",
-                                           action_url: t("urls.register_webinar")} %>
   </div>
 </section>
