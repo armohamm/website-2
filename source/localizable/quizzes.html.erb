@@ -25,4 +25,27 @@ index: false
   </div>
 </section>
 
-<%= partial "call-to-actions/information-quizzes" if root_locale == :nl && data.downloads.quizzes_productsheet[I18n.locale] %>
+<% if root_locale == :nl %>
+  <section class="cta-bottom gray" id="contact-request">
+    <div class="row">
+
+      <div>
+        <h2>
+          Geïnteresseerd in meer informatie over Quizzes?
+        </h2>
+        <p>
+          Download ons handige productsheet met alle informatie.
+        </p>
+      </div>
+
+    </div>
+
+    <%= partial "partials/form", locals: { title: "Download: Quizzes Productsheet",
+                                           form_type: "download pdf",
+                                           download_link: data.downloads.quizzes_productsheet[I18n.locale],
+                                           fields: ["name", "email", "organisation", "phone"],
+                                           button_text: t("actions.download_productsheet"),
+                                           action_url: t("urls.contact")} %>
+
+  </section>
+<% end %>
