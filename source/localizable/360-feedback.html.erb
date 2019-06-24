@@ -20,5 +20,14 @@ description:
 </div>
 
 <%= partial "360-feedback/360feedback" %>
-<%= partial "call-to-actions/360-feedback" %>
+
+<section class="cta-bottom gray">
+  <div class="row">
+
+    <h3><%= t("threesixty.cta_bottom.heading_md") %></h3>
+    <%= link_to t("actions.try_for_free"), "https://www.360feedback.io/app/register", target: "_blank", class: "button" %>
+
+  </div>
+</section>
+
 <%= partial "clients/clients-section" %>

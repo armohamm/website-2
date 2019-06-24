@@ -6,7 +6,6 @@ author: Susan
 lang: nl
 image: images/blog/social/klantenpanel-1200x630.jpg
 featured_image: images/blog/featured/20171211-klantendag.jpg
-call_to_action: demo-request
 ---
 
 __Op donderdag 30 november werd er in Slot Doddendael bij Nijmegen het eerste van de in totaal vier klantenpanels gehouden. De focus lag op de nieuwe versie van [CAPP](/capp-lms/).__

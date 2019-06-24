@@ -7,7 +7,6 @@ lang: de
 image: images/blog/social/cme-1200x630.jpg
 featured_image: images/blog/featured/20181015-cme.jpg
 header_image: moods/cme-mood.jpg
-call_to_action: appointment-cme
 ---
 
 __Seit dem Jahr 2004 ist gesetzlich vorgeschrieben, dass sich in Deutschland zugelassene Ärzte kontinuierlich berufsbegleitend fortbilden – und zwar mit Fortbildungsmaßnahmen, die von einer Landesärztekammer freigegeben wurden. Für jede durchgeführte Maßnahme erhalten die Mediziner CME-Punkte (CME: Abkürzung für Continuing Medical Education), die zu sammeln sind. Alle fünf Jahre sind 250 Punkte fällig, sonst droht Ungemach. Das führt bei vielen Ärzten zu hektischen Suchaktionen – dabei könnte es so einfach sein.__
