@@ -29,4 +29,27 @@ index: false
   </div>
 </section>
 
-<%= partial "call-to-actions/information-migration" if root_locale == :nl && data.downloads.migratiekit_productsheet[I18n.locale] %>
+<% if root_locale == :nl %>
+  <section class="cta-bottom gray" id="contact-request">
+    <div class="row">
+
+      <h2>
+        Overtuigd of wil je meer informatie over de upgrade?
+      </h2>
+
+      <p>
+        Download ons productsheet (met handige activiteitenlijst) met alles wat je moet weten over de upgrade.
+      </p>
+
+
+      <%= partial "partials/form", locals: { title: "Download: Upgradesheet",
+                                             form_type: "download pdf",
+                                             download_link: data.downloads.migratiekit_productsheet[I18n.locale],
+                                             fields: ["name", "email", "organisation", "phone"],
+                                             button_text: t("actions.download_productsheet"),
+                                             variant: "inline",
+                                             action_url: t("urls.upgrade_productsheet")} %>
+
+    </div>
+  </section>
+<% end %>
