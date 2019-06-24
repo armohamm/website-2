@@ -1,12 +1,12 @@
 ---
 title:
-  nl: Implementaties
-  de: Implementierungen
-  en: Implementations
+  nl: "Implementaties"
+  de: "Implementierungen"
+  en: "Implementations"
 description:
-  nl: Defacto heeft eigen implementatiemethodieken ontwikkeld waarin wij samen met onze klanten strategie en uitvoering waarborgen,
-  de: Die Implementierung der Bildungsmanagement-Software von Defacto ist kein Hexenwerk. Sie gelingt problemlos, wenn Sie folgende Ratschläge beachten.
-  en: Defacto has developed its own methods through which we ensure a successful strategy and implementation while working close together with our clients.
+  nl: "Defacto heeft eigen implementatiemethodieken ontwikkeld waarin wij samen met onze klanten strategie en uitvoering waarborgen."
+  de: "Die Implementierung der Bildungsmanagement-Software von Defacto ist kein Hexenwerk. Sie gelingt problemlos, wenn Sie folgende Ratschläge beachten."
+  en: "Defacto has developed its own methods through which we ensure a successful strategy and implementation while working close together with our clients."
 ---
 
 <section class="heading-secondary">
@@ -23,6 +23,27 @@ description:
   </div>
 </section>
 
-<%= partial "call-to-actions/information-joost" if root_locale == :nl -%>
+<% if root_locale == :nl %>
+  <section class="cta-bottom gray" id="contact-request">
+    <div class="row">
+
+      <p>
+        <%= image_tag "team/joost-bakhuizen.jpg", class: "avatar", alt: "Joost Bakhuizen - Lead Consultant" %>
+      </p>
+
+      <h3>
+        <%= t("implementaties.cta_heading") %>
+      </h3>
+
+      <%= partial "partials/form", locals: { title: "Contact Request: Implementaties",
+                                             fields: ["name", "email", "organisation", "phone", "message"],
+                                             button_text: t("form.submit"),
+                                             button_class: "button orange",
+                                             variant: "inline",
+                                             action_url: t("urls.contact")} %>
+
+    </div>
+  </section>
+<% end %>
 
 <%= partial "clients/clients-section" %>
