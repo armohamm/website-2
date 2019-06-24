@@ -9,4 +9,27 @@ lang_ignore: en, de
 <%= partial "compliance-api/overview" %>
 <%= partial "compliance-api/how-it-works" %>
 <%= partial "compliance-api/applications" %>
-<%= partial "compliance-api/conversion" if root_locale == :nl && data.downloads.compliance_api_productsheet[I18n.locale] %>
+
+<% if root_locale == :nl %>
+  <section class="cta-bottom gray" id="contact-request">
+    <div class="row">
+
+      <h2>
+        Meer informatie over de inzet van de Compliance API in jouw organisatie?
+      </h2>
+
+      <p>
+        Laat je gegevens achter en download ons productsheet met daarin alle informatie.
+      </p>
+
+      <%= partial "partials/form", locals: { title: "Download: Productsheet Compliance API",
+                                             fields: ["name", "email", "organisation", "phone"],
+                                             button_text: t("actions.download_productsheet"),
+                                             variant: "contact",
+                                             action_url: t("urls.contact"),
+                                             form_type: "download pdf",
+                                             download_link: data.downloads.compliance_api_productsheet[I18n.locale] } %>
+
+    </div>
+  </section>
+<% end %>
