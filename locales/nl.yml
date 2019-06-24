@@ -177,10 +177,6 @@ nl:
         heading: "Vraag of informatie"
         info: "Heb je een vraag of wil je informatie over onze software of diensten?"
         button: "Contact opnemen"
-      demo:
-        heading: "Demo aanvraag"
-        info: "Benieuwd wat onze software voor jou kan betekenen? Vraag dan hier een demo aan."
-        button: "Demo aanvragen"
       support:
         heading: "Support"
         info: "Ben je key user en heb je een supportvraag? Chat direct met een van onze medewerkers."

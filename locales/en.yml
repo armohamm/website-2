@@ -9,7 +9,6 @@ en:
   # Path translations
   paths:
     bedankt: thanks
-    demo-aanvragen: "request-demo"
     diensten: services
     implementaties: implementations
     klanten: clients
@@ -136,10 +135,6 @@ en:
         heading: "More information"
         info: "Do you have a question or would you like to know more about our software and services?"
         button: "Request information"
-      demo:
-        heading: "Request a demo"
-        info: "Do you want to know how our software can help? Why not request a demo? We’d love to show you."
-        button: "Request a demo"
       support:
         heading: "Support"
         info: "Are you a key user and do you need help? Click here to chat directly with our support team."

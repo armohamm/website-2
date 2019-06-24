@@ -685,7 +685,7 @@ header.global-navigation {
   }
 
   .mobile-products {
-    padding: 40px 0 0;
+    padding: 20px 0 0;
 
     .mobile-nav-title {
       color: $dark-gray;
@@ -696,20 +696,9 @@ header.global-navigation {
     }
   }
 
-  .mobile-demo {
-    border-bottom: 1px solid $lighter-gray;
-    padding: 0 0 40px;
-    text-align: center;
-
-    .button {
-      margin: 0;
-      padding: 0.5em 0.75em;
-    }
-  }
-
   .mobile-secondary-nav {
     line-height: 2em;
-    padding: 1em 0.625em 0;
+    padding: 0 0.625em;
 
     a {
       color: $medium-gray;

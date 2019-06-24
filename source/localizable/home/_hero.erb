@@ -8,8 +8,6 @@
           <%= t("home.hero.title") %>
         </h1>
 
-        <%= link_to t("actions.home.demo"), "/demo-aanvragen.html", class: "button" %>
-
       <% else %>
 
         <%= image_tag "logos/capp-new-version-white.svg", alt: "CAPP LMS", class: "logo" %>
@@ -27,10 +25,6 @@
           <% if root_locale == :nl %>
 
             <%= link_to t("actions.home.test"), "/wat-voor-lms-past-bij-mij.html", class: "button white-pink" %>
-
-          <% else %>
-
-            <%= link_to t("actions.home.demo"), "/demo-aanvragen.html", class: "button white-pink" %>
 
           <% end %>
 
