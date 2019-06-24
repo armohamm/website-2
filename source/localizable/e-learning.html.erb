@@ -4,9 +4,9 @@ title:
   de: "E-Learning mit einem zukunftsorientierten Partner"
   en: "E-Learning"
 description:
-  nl: E-learning wordt een succes met Defacto als ervaren en technisch onderlegde partner
+  nl: "E-learning wordt een succes met Defacto als ervaren en technisch onderlegde partner"
   de: "E-Learning ist das Lernen mit elektronischen Mitteln außerhalb der traditionellen Präsenzschulungen. In den meisten Fällen handelt es sich, um einen Kurs oder eine Schulung, die vollständig digitalisiert und online bereitgestellt wird."
-  en: E-learning within your organisation will become a success with Defacto as an experienced and technically skilled partner
+  en: "E-learning within your organisation will become a success with Defacto as an experienced and technically skilled partner"
 ---
 
 <section class="heading-secondary">
@@ -23,5 +23,23 @@ description:
   </div>
 </section>
 
-<%= partial "call-to-actions/download-ebook" %>
+<section class="cta-bottom gray" id="ebook-download">
+  <div class="row">
+
+    <label for="ebook-email">
+      <h3><%= t("elearning_ebook.heading_html") %></h3>
+      <%= image_tag "book-#{I18n.locale.to_s}.png", alt: t("elearning_ebook.image_alt") %>
+    </label>
+
+    <%= partial "partials/form", locals: { title: "Download: E-learning E-book",
+                                           form_type: "download pdf",
+                                           download_link: data.downloads.ebook[I18n.locale],
+                                           fields: ["name", "email", "organisation", "phone"],
+                                           button_text: t("actions.download"),
+                                           button_class: "button orange",
+                                           variant: "inline",
+                                           action_url: t("urls.ebook")} %>
+  </div>
+</section>
+
 <%= partial "clients/clients-section" %>
