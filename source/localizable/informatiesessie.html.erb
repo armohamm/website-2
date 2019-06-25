@@ -29,15 +29,14 @@ index: false
         <h2>
           Inschrijfformulier
         </h2>
-      </article>
 
-      <%= partial "partials/form", locals: { title: "Informatiesessie inschrijving",
-                                             fields: ["name", "email", "position", "organisation", "phone", "organisation_message"],
-                                             events: ["dinsdag 25 juni 2019 in Groningen"],
-                                             multiple_persons: true,
-                                             button_text: "Inschrijven",
-                                             variant: "contact",
-                                             action_url: "https://formkeep.com/f/bc26f14079fd"} %>
+        <%= partial "partials/form", locals: { title: "Signup: informatiesessie",
+                                               fields: ["name", "email", "position", "organisation", "phone", "organisation_message"],
+                                               events: ["dinsdag 25 juni 2019 in Groningen"],
+                                               multiple_persons: true,
+                                               button_text: "Inschrijven",
+                                               action_url: "https://formkeep.com/f/bc26f14079fd"} %>
+      </article>
 
     </div>
 
