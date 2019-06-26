@@ -210,6 +210,8 @@ body:not(.en).capp-lms {
     }
 
     h2 {
+      text-align: center;
+
       @include grid-media($medium-up) {
         font-size: $base-font-size * 3;
       }
