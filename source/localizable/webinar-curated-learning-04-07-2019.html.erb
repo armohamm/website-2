@@ -1,22 +1,24 @@
 ---
 title:
-  de: "Webinar: Curated Learning am 26.06.2019 um 10 Uhr"
+  de: "Webinar: Curated Learning am 04.07.2019 um 10 Uhr"
 description:
-  de: "Melden Sie sich jetzt an für das Webinar 'Curated Learning- Zielorientiertes Lernen mit einer nutzerfreundlichen Lernplattform'."
+  de: "Melden Sie sich jetzt an für das Webinar 'Curated Learning: Zielorientiertes Lernen managen'."
 lang_ignore: en, nl
 ---
 
 <%= partial "partials/hero", locals: { variant: "variant-normal",
                                        variant_overlay: "overlay-darken",
                                        background_image: "webinar.jpg",
-                                       title: t("webinar.title")} %>
+                                       title: "Webinar: Curated Learning Donnerstag 04.07.2019 um 10 Uhr"} %>
 
 <section>
   <div class="row">
 
     <article>
-      <%= partial "webinar/content" %>
-      <%= partial "partials/form", locals: { title: "Signup: webinar 25.06.2019",
+      <p>
+        Melden Sie sich jetzt an für das Webinar 'Curated Learning: Zielorientiertes Lernen managen'. Alle Anmeldungen erhalten im Nachgang ein Video vom Webinar, auch wenn Sie nicht teilnehmen konnten.
+      </p>
+      <%= partial "partials/form", locals: { title: "Signup: webinar 04.07.2019",
                                              fields: ["name", "email", "organisation", "phone_required"],
                                              button_text: t("actions.register"),
                                              action_url: t("urls.register_webinar")} %>

@@ -1,0 +1,28 @@
+---
+title:
+  de: "Webinar: Compliance und Qualifikationsmanagement am 18.07.2019 um 10 Uhr"
+description:
+  de: "Melden Sie sich jetzt an für das Webinar 'Compliance und Qualifikationsmanagement'."
+lang_ignore: en, nl
+---
+
+<%= partial "partials/hero", locals: { variant: "variant-normal",
+                                       variant_overlay: "overlay-darken",
+                                       background_image: "webinar.jpg",
+                                       title: "Webinar: Compliance und Qualifikationsmanagement Donnerstag 18.07.2019 um 10 Uhr"} %>
+
+<section>
+  <div class="row">
+
+    <article>
+      <p>
+        Melden Sie sich jetzt an für das Webinar 'Compliance und Qualifikationsmanagement am 18.07.2019 um 10 Uhr'. Alle Anmeldungen erhalten im Nachgang ein Video vom Webinar, auch wenn Sie nicht teilnehmen konnten.
+      </p>
+      <%= partial "partials/form", locals: { title: "Signup: webinar 18.07.2019",
+                                             fields: ["name", "email", "organisation", "phone_required"],
+                                             button_text: t("actions.register"),
+                                             action_url: t("urls.register_webinar")} %>
+    </article>
+
+  </div>
+</section>
