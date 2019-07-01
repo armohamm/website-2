@@ -17,8 +17,8 @@
     <%= inline_svg "icons/search.svg", title: t("footer.search") %>
   <% end %>
 
-  <a class="root-link current-lang item-language has-dropdown" data-dropdown="languages">
-    <%= root_locale.upcase %>
+  <a class="root-link current-lang item-language has-dropdown" data-dropdown="languages" title="<%= t("header.select-language") %>">
+    <%= inline_svg "flags/#{root_locale}.svg" %> <%= root_locale.upcase %>
   </a>
 
 </li>

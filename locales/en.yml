@@ -196,6 +196,7 @@ en:
     services: Services
     jobs: Jobs
     open-source: "Open Source"
+    select-language: "Select Your Language"
   home:
     hero:
       text: "More than 200.000 professionals use our software to learn and develop their talents."

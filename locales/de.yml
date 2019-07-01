@@ -323,6 +323,7 @@ de:
     themes: "Themen"
     events: "Veranstaltungskalender"
     open-source: "Open Source"
+    select-language: "Wähle Ihre Sprache"
   home:
     hero_capp:
       title: "Learning & Talent Management"

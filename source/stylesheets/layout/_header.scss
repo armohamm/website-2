@@ -78,10 +78,11 @@ header.global-navigation {
       right: 0;
       top: 0;
 
-      .button {
-        border: 0;
-        color: $white;
-        margin-left: 1em;
+      .current-lang {
+        svg {
+          margin-right: 3px;
+          padding-top: 5px;
+        }
       }
     }
 
