@@ -168,7 +168,7 @@ activate :search do |search|
       r.path =~ /\.html/ &&
         r.metadata[:options][:lang] == I18n.locale &&
         !r.path.start_with?(*search.resources) &&
-        (r.data["index"] != false)
+        (r.data["search_index"] != false)
     end
 
     pages.each do |page|
@@ -190,7 +190,7 @@ activate :search do |search|
     content: { boost: 50, store: true },
     url:     { index: false, store: true },
     author:  { boost: 70 },
-    type:  { boost: 0, store: true }
+    type:    { boost: 0, store: true }
   }
 
   search.before_index = proc do |_to_index, to_store, resource|

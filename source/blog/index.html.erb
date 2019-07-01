@@ -1,12 +1,11 @@
 ---
 blog: blog
 pageable: true
-index: false
+search_index: false
 ---
 
 <% content_for :page_title, t("blog.page_title", page_number: page_number, num_pages: num_pages) %>
 <% content_for :meta_description, t("blog.meta_description", page_number: page_number, num_pages: num_pages) %>
-
 
 <section>
   <div class="row">
