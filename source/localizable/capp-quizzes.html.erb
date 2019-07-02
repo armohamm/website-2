@@ -2,7 +2,6 @@
 title: "CAPP Quizzes"
 description: "Toetsen maken en eenvoudig aanbieden"
 lang_ignore: en, de
-robots: noindex, nofollow
 ---
 
 <div class="hero">
@@ -13,27 +12,27 @@ robots: noindex, nofollow
 
 <section>
   <div class="row">
-      <div class="col">
-        <article>
-          <%= partial "quizzes/content" %>
-        </article>
-      </div>
-      <div class="col-img">
-        <%= image_tag "screenshots/quizzes-screenshots.png", title: "Zo werkt Quizzes in de praktijk", alt: "Zo werkt Quizzes in de praktijk" %>
-      </div>
+    <div class="col">
+      <article>
+        <%= partial "quizzes/content" %>
+      </article>
+    </div>
+    <div class="col-img">
+      <%= image_tag "screenshots/quizzes-screenshots.png", title: "Zo werkt Quizzes in de praktijk", alt: "Zo werkt Quizzes in de praktijk" %>
+    </div>
   </div>
 </section>
 
 <% if root_locale == :nl %>
-  <section class="cta-bottom gray" id="contact-request">
+  <section class="cta-bottom gray">
     <div class="row">
 
       <div>
         <h2>
-          Geïnteresseerd in meer informatie over Quizzes?
+          <%= t("quizzes.cta_bottom.title") %>
         </h2>
         <p>
-          Download ons handige productsheet met alle informatie.
+          <%= t("quizzes.cta_bottom.text") %>
         </p>
       </div>
 

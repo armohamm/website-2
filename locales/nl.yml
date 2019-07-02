@@ -333,6 +333,10 @@ nl:
     title: "CAPP Productsheet downloaden"
     heading: "Meer informatie over opleiden & leren met CAPP LMS?"
     formkeep_title: "CAPP download productsheet page"
+  quizzes:
+    cta_bottom:
+      title: "Geïnteresseerd in meer informatie over Quizzes?"
+      text: "Download ons handige productsheet met alle informatie."
   search:
     heading: Zoeken
     placeholder: Zoekopdracht
