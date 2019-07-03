@@ -7,35 +7,35 @@ nl:
   current_locale: "Nederlands"
 
   urls:
-    contact: https://formkeep.com/f/aff54030c202
-    kwaliteitspaspoort: https://formkeep.com/f/aff54030c202
-    productsheet: https://formkeep.com/f/eb01a315df5e
-    km_productsheet: https://formkeep.com/f/8861ffd32f0a
-    ebook: https://formkeep.com/f/15eb7434fd49
-    job_apply: https://formkeep.com/f/da32eaeda39e
-    capp_agile: https://formkeep.com/f/0f2125be5045
-    upgrade_productsheet: https://formkeep.com/f/ed6e8e1efeeb
-    information_session: https://formkeep.com/f/bc26f14079fd
-    url: https://www.defacto.nl
-    jobs: https://www.defacto.nl/jobs
-    twitter: https://twitter.com/DefactoSoftware
+    capp_agile: 'https://formkeep.com/f/0f2125be5045'
+    contact: 'https://formkeep.com/f/aff54030c202'
+    ebook: 'https://formkeep.com/f/15eb7434fd49'
+    information_session: 'https://formkeep.com/f/bc26f14079fd'
+    job_apply: 'https://formkeep.com/f/da32eaeda39e'
+    jobs: 'https://www.defacto.nl/jobs'
+    km_productsheet: 'https://formkeep.com/f/8861ffd32f0a'
+    kwaliteitspaspoort: 'https://formkeep.com/f/aff54030c202'
     mc_newsletter: 227ea150fe
+    productsheet: 'https://formkeep.com/f/eb01a315df5e'
+    twitter: 'https://twitter.com/DefactoSoftware'
+    upgrade_productsheet: 'https://formkeep.com/f/ed6e8e1efeeb'
+    url: 'https://www.defacto.nl'
   70-20-10:
-    header: "70:20:10 in de praktijk"
-    subheading: "Leren is veel meer dan het zenden van informatie"
-    action: "Neem contact op"
+    action: Neem contact op
     form:
-      header: "Meer informatie over 70:20:10 in de praktijk?"
+      header: 'Meer informatie over 70:20:10 in de praktijk?'
       text: |
         Wil je meer weten over de implementatie van 70:20:10 en Performance Support?
         Laat je e-mailadres achter, dan nemen onze specialisten zo snel mogelijk contact met je op.
+    header: '70:20:10 in de praktijk'
+    subheading: Leren is veel meer dan het zenden van informatie
   about:
     about_defacto: Over Defacto
     cases: Cases
     clients: Klanten
     contact: Contact
-    heading: "Wij zijn Defacto"
-    heading2: "Leren en ontwikkelen sinds 1987"
+    heading: Wij zijn Defacto
+    heading2: Leren en ontwikkelen sinds 1987
     jobs: Werken bij Defacto
     team:
       work_with_us: Werken bij
@@ -43,370 +43,370 @@ nl:
     testimonials: Testimonials
   actions:
     download: Download
-    download_productsheet: "Download productsheet"
-    make_appointment: "Maak een afspraak"
-    read_more: "Lees verder"
-    read_more_2: "Ontdek CAPP LMS"
-    more_about:
-      70-20-10: "Meer 70:20:10"
-      capp: "Meer CAPP LMS"
-      more_capp: "Meer over CAPP LMS"
-      clients: "Meer over onze klanten"
-      cmt: "Meer CMT"
-      quality: "Meer Kwaliteitspaspoort"
-      kwaliteitsmonitor: "Meer Kwaliteitsmonitor"
-      capp-agile: "Meer CAPP Agile Learning"
-      threesixty: "Meer 360° Feedback"
-      elearning: "Meer E-Learning"
-      implementaties: "Meer implementaties"
-      hosting: "Meer hosting"
-      koppelingen: "Meer koppelingen"
-    subscribe: "Inschrijven"
-    tell_me_more: "Vertel me meer"
-    try_for_free: "Probeer gratis"
-    visit_website: "Bezoek de website"
-    request_demo: "Demo aanvragen"
+    download_productsheet: Download productsheet
     home:
-      demo: "Vraag een demo aan"
-      test: "Doe de LMS-test"
+      demo: Vraag een demo aan
+      test: Doe de LMS-test
+    make_appointment: Maak een afspraak
+    more_about:
+      70-20-10: 'Meer 70:20:10'
+      capp: Meer CAPP LMS
+      capp-agile: Meer CAPP Agile Learning
+      clients: Meer over onze klanten
+      cmt: Meer CMT
+      elearning: Meer E-Learning
+      hosting: Meer hosting
+      implementaties: Meer implementaties
+      koppelingen: Meer koppelingen
+      kwaliteitsmonitor: Meer Kwaliteitsmonitor
+      more_capp: Meer over CAPP LMS
+      quality: Meer Kwaliteitspaspoort
+      threesixty: Meer 360° Feedback
+    read_more: Lees verder
+    read_more_2: Ontdek CAPP LMS
+    request_demo: Demo aanvragen
+    subscribe: Inschrijven
+    tell_me_more: Vertel me meer
+    try_for_free: Probeer gratis
+    visit_website: Bezoek de website
   blog:
-    page_title: "Blog | Pagina %{page_number} van %{num_pages} | Defacto"
-    meta_description: "Nieuws over trends op het gebied van online leren en ontwikkelen. Actualiteiten op het gebied van software, onze klanten, producten en diensten. | Pagina %{page_number}/%{num_pages}."
-    more_on_our_blog: "Meer blogs"
-    more_articles: "Lees ook"
-    read_more: "Lees verder"
+    meta_description: 'Nieuws over trends op het gebied van online leren en ontwikkelen. Actualiteiten op het gebied van software, onze klanten, producten en diensten. | Pagina %{page_number}/%{num_pages}.'
+    more_articles: Lees ook
+    more_on_our_blog: Meer blogs
+    page_title: 'Blog | Pagina %{page_number} van %{num_pages} | Defacto'
+    read_more: Lees verder
     reading_time:
-      title: "Leestijd"
-      min: "min."
-    title: "Blog – leren en ontwikkelen"
-    subscribe: "Schrijf je in voor onze nieuwsbrief en blijf op de hoogte."
+      min: min.
+      title: Leestijd
+    subscribe: Schrijf je in voor onze nieuwsbrief en blijf op de hoogte.
     tags:
-      page_title: "Blog | Tag: %{tagname} | Pagina %{page_number} van %{num_pages} | Defacto"
-      meta_description: "Nieuws over trends op het gebied van online leren en ontwikkelen. Actualiteiten op het gebied van software, onze klanten, producten en diensten. | Tag: %{tagname} | Pagina %{page_number}/%{num_pages}."
+      meta_description: 'Nieuws over trends op het gebied van online leren en ontwikkelen. Actualiteiten op het gebied van software, onze klanten, producten en diensten. | Tag: %{tagname} | Pagina %{page_number}/%{num_pages}.'
+      page_title: 'Blog | Tag: %{tagname} | Pagina %{page_number} van %{num_pages} | Defacto'
+    title: Blog – leren en ontwikkelen
   capp:
     cta_bottom:
-      formkeep_title: "CAPP: afspraak maken"
-      heading_md: "Meer informatie over opleiden & leren met CAPP LMS?"
-      subheading: "Download de CAPP LMS Productsheet"
-    desc: "%{link} faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant."
+      formkeep_title: 'CAPP: afspraak maken'
+      heading_md: Meer informatie over opleiden & leren met CAPP LMS?
+      subheading: Download de CAPP LMS Productsheet
+    desc: '%{link} faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant.'
     hero:
-      formkeep_title: "CAPP: download productsheet"
-      text_md: "__CAPP LMS Software__ helpt uw medewerkers of klanten op optimale wijze op te leiden en hun vakmanschap te bevorderen."
-      title: "Opleiden & Leren met CAPP LMS"
-      subtitle_1: "Kennisintensieve organisaties kunnen niet zonder goed opgeleide medewerkers."
-      subtitle_2: "Maak medewerkers aantoonbaar vakbevoegd en vakbekwaam met CAPP LMS."
+      formkeep_title: 'CAPP: download productsheet'
+      subtitle_1: Kennisintensieve organisaties kunnen niet zonder goed opgeleide medewerkers.
+      subtitle_2: Maak medewerkers aantoonbaar vakbevoegd en vakbekwaam met CAPP LMS.
+      text_md: __CAPP LMS Software__ helpt uw medewerkers of klanten op optimale wijze op te leiden en hun vakmanschap te bevorderen.
+      title: Opleiden & Leren met CAPP LMS
     name: CAPP LMS
   capp-agile:
-    name: CAPP Agile Learning
-    desc: "Performance support door 'kennis-on-demand'. Verbeter prestaties door medewerkers te voorzien van just-in-time kennis. Leg kennis simpel vast en deel handleidingen, protocollen, werkinstructies, QR-codes e.d."
-    hero:
-      img: screenshots/capp-agile-hero_nl.png
-      heading: "Creëer een platform voor de kennis die je organisatie in huis heeft"
-      sub_heading: "Performance support made agile: snel, effectief en specifiek voor jouw organisatie."
-      action: "Vraag een demo aan"
-    why:
-      heading: "Waarom kiezen voor CAPP Agile Learning?"
-      make_share:
-        heading: "Maak & deel"
-        copy: >
-          Voorzie medewerkers van werkinstructies, ondersteunende video’s of illustraties en de 'tips and tricks’ van de experts binnen je organisatie. Ons platform zorgt ervoor dat alle gedeelde kennis moeiteloos, strak en professioneel aan je medewerkers wordt gepresenteerd.
-      on_demand:
-        heading: "Leer on-demand"
-        copy: >
-          Leer van de kennis uit je organisatie, waar en wanneer je maar wilt. CAPP Agile Learning is beschikbaar op alle devices. Maak gebruik van QR-codes om 'just in time’ de juiste informatie tot je beschikking te hebben. Niet langer eindeloos zoeken in onoverzichtelijke documentsystemen.
-      performance:
-        heading: "Verbeter je prestaties"
-        copy: >
-          Verbeter de prestaties van jezelf en je organisatie. Met CAPP Agile Learning creëer je een platform specifiek gericht op de kennis die je organisatie in huis heeft. Performance Support made Agile; snel, effectief en specifiek voor je eigen organisatie.
+    desc: 'Performance support door ''kennis-on-demand''. Verbeter prestaties door medewerkers te voorzien van just-in-time kennis. Leg kennis simpel vast en deel handleidingen, protocollen, werkinstructies, QR-codes e.d.'
     form:
-      heading: "Demo aanvragen"
+      heading: Demo aanvragen
       img: screenshots/capp-agile-demo_nl.png
-      img_alt: "Vraag een demo aan"
-    testimonials_heading: "Wat onze klanten zeggen"
-  capp-new:
-    heading-contact: "Nieuwsgierig naar de uitgebreide mogelijkheden van CAPP LMS? Maak nu een afspraak!"
+      img_alt: Vraag een demo aan
     hero:
-      title: "Learning & Talent Management"
-      sub_title: "CAPP LMS faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant."
-    formkeep_title: "Afspraak maken nieuwe CAPP"
+      action: Vraag een demo aan
+      heading: Creëer een platform voor de kennis die je organisatie in huis heeft
+      img: screenshots/capp-agile-hero_nl.png
+      sub_heading: 'Performance support made agile: snel, effectief en specifiek voor jouw organisatie.'
+    name: CAPP Agile Learning
+    testimonials_heading: Wat onze klanten zeggen
+    why:
+      heading: Waarom kiezen voor CAPP Agile Learning?
+      make_share:
+        copy: |
+          Voorzie medewerkers van werkinstructies, ondersteunende video’s of illustraties en de 'tips and tricks’ van de experts binnen je organisatie. Ons platform zorgt ervoor dat alle gedeelde kennis moeiteloos, strak en professioneel aan je medewerkers wordt gepresenteerd.
+        heading: Maak & deel
+      on_demand:
+        copy: |
+          Leer van de kennis uit je organisatie, waar en wanneer je maar wilt. CAPP Agile Learning is beschikbaar op alle devices. Maak gebruik van QR-codes om 'just in time’ de juiste informatie tot je beschikking te hebben. Niet langer eindeloos zoeken in onoverzichtelijke documentsystemen.
+        heading: Leer on-demand
+      performance:
+        copy: |
+          Verbeter de prestaties van jezelf en je organisatie. Met CAPP Agile Learning creëer je een platform specifiek gericht op de kennis die je organisatie in huis heeft. Performance Support made Agile; snel, effectief en specifiek voor je eigen organisatie.
+        heading: Verbeter je prestaties
+  capp-new:
+    formkeep_title: Afspraak maken nieuwe CAPP
+    heading-contact: Nieuwsgierig naar de uitgebreide mogelijkheden van CAPP LMS? Maak nu een afspraak!
+    hero:
+      sub_title: CAPP LMS faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant.
+      title: Learning & Talent Management
     page-nav:
-      introduction: "Inleiding"
-      features: "Features"
+      features: Features
+      introduction: Inleiding
   cases:
-    next: "Volgende case"
-    previous: "Vorige case"
-    all_cases: "Alle cases"
-    contact: "Contact opnemen"
+    all_cases: Alle cases
+    contact: Contact opnemen
     cta:
-      title: "Weten wat we voor úw business case kunnen betekenen? Maak nu een afspraak!"
-    sidebar:
-      products: "Producten & Diensten"
-      facts:
-        title: "Facts & Figures"
-        branch: "Branche"
-        since: "Klant sinds"
-        employees: "Aantal medewerkers"
-        website: "Website"
+      title: Weten wat we voor úw business case kunnen betekenen? Maak nu een afspraak!
+    next: Volgende case
     overview:
-      button: "Contact opnemen"
-      contact_us: "Geïnspireerd door het lezen van onze cases? Of heb je nog meer vragen? Neem dan contact met ons op."
-      text: "Elke klant is anders en heeft andere wensen, daarom is elke implementatie een uitdaging. Hier een greep uit onze klanten, waarmee we uitstekende resultaten hebben behaald."
-      title: "Onze cases - met trots gepresenteerd"
+      button: Contact opnemen
+      contact_us: Geïnspireerd door het lezen van onze cases? Of heb je nog meer vragen? Neem dan contact met ons op.
+      text: 'Elke klant is anders en heeft andere wensen, daarom is elke implementatie een uitdaging. Hier een greep uit onze klanten, waarmee we uitstekende resultaten hebben behaald.'
+      title: Onze cases - met trots gepresenteerd
+    previous: Vorige case
+    sidebar:
+      facts:
+        branch: Branche
+        employees: Aantal medewerkers
+        since: Klant sinds
+        title: Facts & Figures
+        website: Website
+      products: Producten & Diensten
   clients:
-    title: "Onze klanten"
+    title: Onze klanten
   cmt:
-    title: "In 3 stappen geen zorgen meer rondom het Convenant Medische Technologie"
     form:
-      header: "Meer weten over het Convenant Medische Technologie?"
-      text: "Wil je meer weten over het Convenant Medische Technologie en de oplossingen die wij daarvoor bieden, neem dan contact met ons op."
+      header: Meer weten over het Convenant Medische Technologie?
+      text: 'Wil je meer weten over het Convenant Medische Technologie en de oplossingen die wij daarvoor bieden, neem dan contact met ons op.'
+    title: In 3 stappen geen zorgen meer rondom het Convenant Medische Technologie
   compliance-api:
     hero:
-      title: "CAPP Compliance API"
-      sub_title: "Realtime compliance in elk systeem"
+      sub_title: Realtime compliance in elk systeem
+      title: CAPP Compliance API
     page-nav:
-      introduction: "Introductie"
-      how_it_works: "Hoe werkt de API?"
-      applications: "Hoe kan de API ingezet worden?"
-      more_info: "Meer informatie?"
+      applications: Hoe kan de API ingezet worden?
+      how_it_works: Hoe werkt de API?
+      introduction: Introductie
+      more_info: Meer informatie?
   contact:
-    heading: Aangenaam
-    heading2: "We zijn er om je meer informatie te geven, vragen te beantwoorden en effectieve support te bieden."
-    main:
-      heading: "Wat kunnen we voor je betekenen?"
-      question:
-        heading: "Vraag of informatie"
-        info: "Heb je een vraag of wil je informatie over onze software of diensten?"
-        button: "Contact opnemen"
-      support:
-        heading: "Support"
-        info: "Ben je key user en heb je een supportvraag? Chat direct met een van onze medewerkers."
-        button: "Direct chatten"
-    form_title: "Contactformulier"
-    form_info: "Gebruik het formulier om ons een e-mail te sturen. Ouderwets bellen werkt ook, bel 050 3144832."
     email: info@defacto.nl
-    phone: "050 3144832"
-    phone_link: "+31503144832"
+    form_info: 'Gebruik het formulier om ons een e-mail te sturen. Ouderwets bellen werkt ook, bel 050 3144832.'
+    form_title: Contactformulier
+    heading: Aangenaam
+    heading2: 'We zijn er om je meer informatie te geven, vragen te beantwoorden en effectieve support te bieden.'
+    main:
+      heading: Wat kunnen we voor je betekenen?
+      question:
+        button: Contact opnemen
+        heading: Vraag of informatie
+        info: Heb je een vraag of wil je informatie over onze software of diensten?
+      support:
+        button: Direct chatten
+        heading: Support
+        info: Ben je key user en heb je een supportvraag? Chat direct met een van onze medewerkers.
+    phone: 050 3144832
+    phone_link: '+31503144832'
   demo_request:
-    title: "Transformeer leren en ontwikkelen in jouw organisatie"
-    sub_title: "Wil je meer weten? Maak kennis met onze producten en aanpak tijdens een demo door een van onze experts."
-    form_title: "Vraag je demo aan"
-    form_text: "Laat je gegevens achter, dan nemen we zo spoedig mogelijk contact met je op."
+    form_text: 'Laat je gegevens achter, dan nemen we zo spoedig mogelijk contact met je op.'
+    form_title: Vraag je demo aan
+    sub_title: Wil je meer weten? Maak kennis met onze producten en aanpak tijdens een demo door een van onze experts.
+    title: Transformeer leren en ontwikkelen in jouw organisatie
   elearning:
-    heading: "E-Learning ontwikkelen met Defacto"
+    heading: E-Learning ontwikkelen met Defacto
   elearning_ebook:
-    formkeep_title: "E-book download"
-    formkeep_title_popup: "E-book download popup"
-    heading_html: "Ontvang gratis ons <span class=\"pre\">E-Learning</span> Handboek"
-    image_alt: "E-Learning Handboek Leren & Laten Leren"
-    close_alt: "Sluiten"
+    close_alt: Sluiten
+    formkeep_title: E-book download
+    formkeep_title_popup: E-book download popup
+    heading_html: Ontvang gratis ons <span class="pre">E-Learning</span> Handboek
+    image_alt: E-Learning Handboek Leren & Laten Leren
   error:
-    heading: "Sorry, deze pagina bestaat niet."
-    text_md: "Dit betekent niet dat je iets verkeerd hebt gedaan, het kan zijn dat we de pagina hernoemd of verplaatst hebben."
-    img_alt: "Pagina niet gevonden"
+    heading: 'Sorry, deze pagina bestaat niet.'
+    img_alt: Pagina niet gevonden
+    text_md: 'Dit betekent niet dat je iets verkeerd hebt gedaan, het kan zijn dat we de pagina hernoemd of verplaatst hebben.'
   events:
-    cta_title: "Nu aanmelden"
-    title: "Evenementenagenda"
-    no_planned_events: "Er zijn momenteel geen geplande events."
-    sub_title: "Bekijk hier de evenementen die wij organiseren of waar we aan deelnemen."
-    title_closed: "De inschrijving voor dit evenement is gesloten."
-    sub_title_closed: "Op de hoogte blijven van onze evenementen? Schrijf je dan in voor onze nieuwsbrief."
+    cta_title: Nu aanmelden
+    no_planned_events: Er zijn momenteel geen geplande events.
+    sub_title: Bekijk hier de evenementen die wij organiseren of waar we aan deelnemen.
+    sub_title_closed: Op de hoogte blijven van onze evenementen? Schrijf je dan in voor onze nieuwsbrief.
+    title: Evenementenagenda
+    title_closed: De inschrijving voor dit evenement is gesloten.
   footer:
-    capp: "CAPP Learning & Talent Management"
-    contact: "Contact opnemen &raquo;"
-    country: ""
-    copyright_html: "Deze website is %{link}. © 1987 - %{year} Defacto"
+    capp: CAPP Learning & Talent Management
+    contact: Contact opnemen &raquo;
+    copyright_html: 'Deze website is %{link}. © 1987 - %{year} Defacto'
+    country: ''
     follow:
-      title: "Volg Defacto"
-      text: "Volg ons via social media"
-    hiring: "Hiring!"
-    open_source: "open source"
+      text: Volg ons via social media
+      title: Volg Defacto
+    hiring: Hiring!
+    open_source: open source
     search: Zoeken
-    slogan: "Defacto — Developing People sinds 1987"
+    slogan: Defacto — Developing People sinds 1987
     subscribe:
-      title: "Nieuwsbrief"
-      text: "Schrijf je nu in en blijf op de hoogte"
+      text: Schrijf je nu in en blijf op de hoogte
+      title: Nieuwsbrief
     themes: Thema's
   form:
-    add_coworker: "Voeg een collega toe"
-    add_coworker_button: "+ Voeg een collega toe"
-    choose_event: "Kies een plaats & datum"
-    email: "E-mail"
-    first_name: "Voornaam"
-    message: "Wat kunnen we voor je betekenen?"
-    message_for_organisation: "Opmerkingen voor de organisatie"
-    name: "Naam"
-    organisation: "Bedrijf of organisatie"
-    persons: "Aantal personen"
-    phone: "Telefoon"
-    position: "Functie"
-    register: "Aanmelden"
-    submit: "Verstuur"
-    sur_name: "Achternaam"
+    add_coworker: Voeg een collega toe
+    add_coworker_button: + Voeg een collega toe
+    choose_event: Kies een plaats & datum
+    email: E-mail
+    first_name: Voornaam
+    message: Wat kunnen we voor je betekenen?
+    message_for_organisation: Opmerkingen voor de organisatie
+    name: Naam
+    organisation: Bedrijf of organisatie
+    persons: Aantal personen
+    phone: Telefoon
+    position: Functie
+    register: Aanmelden
+    submit: Verstuur
+    sur_name: Achternaam
   head:
-    default_description: "Defacto helpt organisaties bij het ontwikkelen en certificeren van hun medewerkers"
+    default_description: Defacto helpt organisaties bij het ontwikkelen en certificeren van hun medewerkers
     default_title: Defacto
   header:
-    about: "Over ons"
+    about: Over ons
     blog: Blog
     contact: Contact
     events: Evenementenagenda
     home: Home
-    menu: Menu
-    products: Producten
-    services: Diensten
-    support: "Service & Support"
     jobs: Jobs
+    menu: Menu
+    open-source: Open Source
+    products: Producten
+    select-language: Selecteer je taal
+    services: Diensten
+    support: Service & Support
     themes: Thema's
-    open-source: "Open Source"
-    select-language: "Selecteer je taal"
   home:
     hero:
-      text: "Meer dan 200.000 professionals gebruiken onze software om te leren en hun talenten te ontwikkelen"
-      title: "Developing People"
+      text: Meer dan 200.000 professionals gebruiken onze software om te leren en hun talenten te ontwikkelen
+      title: Developing People
     hero_capp:
-      text: "CAPP LMS faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant."
-      title: "Learning & Talent Management"
+      text: CAPP LMS faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant.
+      title: Learning & Talent Management
     solutions:
       informal:
-        text_html: "Performance support door 'kennis-on-demand'. Voorzie medewerkers van _just-in-time_ kennis. Leg kennis simpel vast, deel handleidingen, werkinstructies en meer."
-        title: "CAPP Agile Learning"
+        text_html: 'Performance support door ''kennis-on-demand''. Voorzie medewerkers van _just-in-time_ kennis. Leg kennis simpel vast, deel handleidingen, werkinstructies en meer.'
+        title: CAPP Agile Learning
       learn:
-        text_html: "%{link} faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant."
+        text_html: '%{link} faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant.'
         title: CAPP LMS
       quality:
-        text_html: "Real-time inzicht in de vakbevoegdheid van jezelf, het team en de gehele organisatie. Voldoe zichtbaar aan de gestelde kwaliteitseisen."
+        text_html: 'Real-time inzicht in de vakbevoegdheid van jezelf, het team en de gehele organisatie. Voldoe zichtbaar aan de gestelde kwaliteitseisen.'
         title: CAPP Kwaliteitspaspoort
   hosting:
-    heading: "Hosting & Security"
+    heading: Hosting & Security
   implementaties:
-    cta_heading: "Wilt u meer weten? Laat hier uw gegevens achter en onze Lead Consultant Joost Bakhuizen neemt contact met u op."
-    heading: "Kennis en samenwerking als basis voor een succesvolle implementatie."
+    cta_heading: Wilt u meer weten? Laat hier uw gegevens achter en onze Lead Consultant Joost Bakhuizen neemt contact met u op.
+    heading: Kennis en samenwerking als basis voor een succesvolle implementatie.
   jobs:
-    acquisition: "Let op: acquisitie op basis van deze vacature wordt niet op prijs gesteld."
-    apply: "Solliciteer nu &raquo;"
-    header: "Defacto als jouw werkgever"
-    more: "Meer vacatures:"
-    title: "Vacature:"
-    vacancies: "Vacatures:"
+    acquisition: 'Let op: acquisitie op basis van deze vacature wordt niet op prijs gesteld.'
+    apply: Solliciteer nu &raquo;
+    header: Defacto als jouw werkgever
+    more: 'Meer vacatures:'
+    title: 'Vacature:'
+    vacancies: 'Vacatures:'
   koppelingen:
-    heading: "Gecertificeerde koppelingen"
+    heading: Gecertificeerde koppelingen
   kwaliteitsmonitor:
     cta_bottom:
-      formkeep_title: "Kwaliteitsmonitor: afspraak maken"
-      heading_md: "Download de Kwaliteitsmonitor productsheet"
-    desc: "Hoe staat het ervoor met de kwaliteit in jouw organisatie? Bekijk het real-time met %{link}."
+      formkeep_title: 'Kwaliteitsmonitor: afspraak maken'
+      heading_md: Download de Kwaliteitsmonitor productsheet
+    desc: 'Hoe staat het ervoor met de kwaliteit in jouw organisatie? Bekijk het real-time met %{link}.'
     hero:
-      text_md: "Automatiseer het vinken"
       image: screenshots/hero-kwaliteitsmonitor.png
+      text_md: Automatiseer het vinken
     logo: logos/kwaliteitsmonitor.png
     logo_white: logos/kwaliteitsmonitor-white.png
     name: Kwaliteitsmonitor
   kwaliteitspaspoort:
     cta_bottom:
-      formkeep_title: "Kwaliteitspaspoort: afspraak maken"
-      heading_md: "Nu beginnen met het behalen van je accreditaties met het CAPP Kwaliteitspaspoort?"
-    desc: "Garandeer kwaliteit binnen uw organisatie door te werken aan bevoegdheden en bekwaamheden van uw medewerkers. Maak uw organisatie toekomstbestendig met het %{link}."
+      formkeep_title: 'Kwaliteitspaspoort: afspraak maken'
+      heading_md: Nu beginnen met het behalen van je accreditaties met het CAPP Kwaliteitspaspoort?
+    desc: 'Garandeer kwaliteit binnen uw organisatie door te werken aan bevoegdheden en bekwaamheden van uw medewerkers. Maak uw organisatie toekomstbestendig met het %{link}.'
     hero:
-      formkeep_title: "Kwaliteitspaspoort: meer informatie"
-      text_md: "In één oogopslag zicht op bevoegd- en bekwaamheid"
-      title: Elke medewerker aantoonbaar bekwaam met het CAPP Kwaliteitspaspoort
+      formkeep_title: 'Kwaliteitspaspoort: meer informatie'
       image: screenshots/hero-kwaliteitspaspoort.png
+      text_md: In één oogopslag zicht op bevoegd- en bekwaamheid
+      title: Elke medewerker aantoonbaar bekwaam met het CAPP Kwaliteitspaspoort
     logo: logos/kwaliteitspaspoort-white.png
     name: Kwaliteitspaspoort
   nav:
-    capp-lms: "CAPP faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant."
-    kwaliteitsmonitor: "Altĳd en overal inzicht in de kwaliteit en bevoegdheid van je organisatie"
-    kwaliteitspaspoort: "Real-time inzicht in bevoegd- en bekwaamheid binnen je organisatie"
-    compliance-api: "Deel actuele compliance data met andere systemen in je organisatie"
-    capp-agile: "Performance support voor elke organisatie"
-    threesixty: "Maak een efficiëntieslag in je HRD"
-    close: "Sluiten"
+    capp-agile: Performance support voor elke organisatie
+    capp-lms: CAPP faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant.
+    close: Sluiten
+    compliance-api: Deel actuele compliance data met andere systemen in je organisatie
+    kwaliteitsmonitor: Altĳd en overal inzicht in de kwaliteit en bevoegdheid van je organisatie
+    kwaliteitspaspoort: Real-time inzicht in bevoegd- en bekwaamheid binnen je organisatie
+    threesixty: Maak een efficiëntieslag in je HRD
   privacy-policy:
-    name: "Privacy Policy"
-    text: "Door deze website te gebruiken stemt u in met onze %{link}"
-    link: "privacy policy"
+    link: privacy policy
+    name: Privacy Policy
+    text: 'Door deze website te gebruiken stemt u in met onze %{link}'
   products:
-    title: "Producten waar we trots op zijn"
     capp:
-      capp-lms: "CAPP LMS"
+      capp-lms: CAPP LMS
+    title: Producten waar we trots op zijn
   productsheet_download:
-    title: "CAPP Productsheet downloaden"
-    heading: "Meer informatie over opleiden & leren met CAPP LMS?"
-    formkeep_title: "CAPP download productsheet page"
+    formkeep_title: CAPP download productsheet page
+    heading: Meer informatie over opleiden & leren met CAPP LMS?
+    title: CAPP Productsheet downloaden
   quizzes:
     cta_bottom:
-      title: "Geïnteresseerd in meer informatie over Quizzes?"
-      text: "Download ons handige productsheet met alle informatie."
+      text: Download ons handige productsheet met alle informatie.
+      title: Geïnteresseerd in meer informatie over Quizzes?
   search:
+    downloading: Index downloaden
     heading: Zoeken
+    page: Pagina
     placeholder: Zoekopdracht
-    result: "resultaat"
-    results: "resultaten"
-    downloading: "Index downloaden"
-    vacancy: "Vacature"
-    page: "Pagina"
+    result: resultaat
+    results: resultaten
+    vacancy: Vacature
   service:
-    team_title: "Ons support team"
-    title: "Service & Support"
-    title_text: "De servicedesk van Defacto. Hier kunt u terecht voor al uw issues, technische vragen en onderhoudswerkzaamheden."
+    team_title: Ons support team
+    title: Service & Support
+    title_text: 'De servicedesk van Defacto. Hier kunt u terecht voor al uw issues, technische vragen en onderhoudswerkzaamheden.'
   services:
     services:
+      cmt:
+        name: Convenant Medische Technologie
       elearning:
-        desc: "Met Defacto als ervaren en technisch onderlegde partner, wordt de e-learning in jouw organisatie een succes."
+        desc: 'Met Defacto als ervaren en technisch onderlegde partner, wordt de e-learning in jouw organisatie een succes.'
         name: E-Learning
       hosting:
-        desc: "Met 25 jaar ervaring in ICT-implementaties bij grote (overheids) instanties weten wij bij uitstek dat gedegen hosting en informatiebeveiliging van essentieel belang is."
-        link: "hosting en informatiebeveiliging"
-        name: "Hosting & Security"
+        desc: Met 25 jaar ervaring in ICT-implementaties bij grote (overheids) instanties weten wij bij uitstek dat gedegen hosting en informatiebeveiliging van essentieel belang is.
+        link: hosting en informatiebeveiliging
+        name: Hosting & Security
       implementaties:
-        desc: "Defacto heeft een eigen %{link} ontwikkeld waarin onze projectleider en consultants samen met jouw managementteam de strategie en uitvoering waarborgen."
+        desc: 'Defacto heeft een eigen %{link} ontwikkeld waarin onze projectleider en consultants samen met jouw managementteam de strategie en uitvoering waarborgen.'
         link: implementatiemethodiek
         name: Implementaties
       koppelingen:
-        desc: "CAPP LMS kan naadloos %{link} worden met andere systemen zoals personeel informatiesystemen, toetsenbanken, e-learning leveranciers en nog vele andere."
+        desc: 'CAPP LMS kan naadloos %{link} worden met andere systemen zoals personeel informatiesystemen, toetsenbanken, e-learning leveranciers en nog vele andere.'
         link: geïntegreerd
         name: Koppelingen
-      cmt:
-        name: "Convenant Medische Technologie"
-    title: "Zo zorgen we voor een succesvolle implementatie van CAPP LMS"
+    title: Zo zorgen we voor een succesvolle implementatie van CAPP LMS
   sharing:
-    share_post: "Deel dit artikel:"
-    share_job: "Deel deze vacature:"
-    share_case: "Deel deze case:"
-    share_event: "Deel dit evenement:"
-    twitter: Deel op Twitter
     facebook: Deel op Facebook
     google_plus: Deel op Google+
     linkedin: Deel op LinkedIn
+    share_case: 'Deel deze case:'
+    share_event: 'Deel dit evenement:'
+    share_job: 'Deel deze vacature:'
+    share_post: 'Deel dit artikel:'
+    twitter: Deel op Twitter
     xing: Deel op Xing
   testimonials:
-    title: "Wat anderen over ons zeggen"
-    more_testimonials: "Meer testimonials"
+    more_testimonials: Meer testimonials
+    title: Wat anderen over ons zeggen
   thanks:
-    event: "Bedankt voor het aanmelden voor onze informatiesessie op"
+    back: Terug naar de vorige pagina.
+    event: Bedankt voor het aanmelden voor onze informatiesessie op
     heading: Bedankt!
+    img_alt: Bedankt!
     message: Je hoort zo snel mogelijk van ons.
     message_download: 'De download zou nu automatisch moeten starten…<br>Zo niet, klik dan <a target="_blank">hier</a>.'
     newsletter:
-      subscribed: "Om het inschrijfproces te voltooien klik je op de link in de e-mail die we net naar je hebben gestuurd."
-      confirmed: "Je inschrijving voor onze nieuwsbrief is bevestigd."
-      unsubscribed: "Je bent uitgeschreven van onze nieuwsbrief."
-    back: Terug naar de vorige pagina.
-    img_alt: "Bedankt!"
+      confirmed: Je inschrijving voor onze nieuwsbrief is bevestigd.
+      subscribed: Om het inschrijfproces te voltooien klik je op de link in de e-mail die we net naar je hebben gestuurd.
+      unsubscribed: Je bent uitgeschreven van onze nieuwsbrief.
   themes:
-    title: "Actuele thema's"
     70-20-10:
-      name: "70:20:10 in de praktijk"
-      desc: "Mensen leren continu in jouw organisatie. Het 70:20:10 leermodel kan eraan bijdragen de ontwikkelingen bij te houden, gericht op het behalen van doelen en verbeteren van prestaties."
+      desc: 'Mensen leren continu in jouw organisatie. Het 70:20:10 leermodel kan eraan bijdragen de ontwikkelingen bij te houden, gericht op het behalen van doelen en verbeteren van prestaties.'
+      name: '70:20:10 in de praktijk'
     cmt:
-      name: "Convenant Medische Technologie"
-      desc: "Ieder ziekenhuis heeft er mee te maken: aantoonbare en transparante bekwaamheid van medewerkers die gebruikmaken van medische technologie."
+      desc: 'Ieder ziekenhuis heeft er mee te maken: aantoonbare en transparante bekwaamheid van medewerkers die gebruikmaken van medische technologie.'
+      name: Convenant Medische Technologie
+    title: Actuele thema's
   threesixty:
     cta_bottom:
-      heading_md: "Kijk in de spiegel met 360° Feedback."
-    desc: "Maak een efficiëntieslag in je HRD. %{link} maakt het voor medewerkers eenvoudig hun zelfkennis te vergroten en ontwikkeldoelen op te stellen."
+      heading_md: Kijk in de spiegel met 360° Feedback.
+    desc: 'Maak een efficiëntieslag in je HRD. %{link} maakt het voor medewerkers eenvoudig hun zelfkennis te vergroten en ontwikkeldoelen op te stellen.'
     hero:
-      text_md: "Moeiteloos evaluaties uitvoeren in een gebruiksvriendelijke cloudservice."
-      title: "360° Feedback"
+      text_md: Moeiteloos evaluaties uitvoeren in een gebruiksvriendelijke cloudservice.
+      title: 360° Feedback
     logo: logos/360feedback.svg
-    name: "360° Feedback"
+    name: 360° Feedback
