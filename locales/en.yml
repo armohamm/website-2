@@ -2,37 +2,37 @@
 en:
   time:
     formats:
-      blog_date: "%e %B %Y"
+      blog_date: '%e %B %Y'
   CNAME: en.defacto.nl
-  current_locale: "English"
+  current_locale: English
 
-  # Path translations
   paths:
     bedankt: thanks
     diensten: services
     implementaties: implementations
     klanten: clients
     koppelingen: integrations
-    kwaliteitspaspoort: "quality-portfolio"
-    over-ons: "about-us"
+    kwaliteitspaspoort: quality-portfolio
+    over-ons: about-us
     producten: products
     zoeken: search
   urls:
-    contact: https://formkeep.com/f/631f058db68f
-    kwaliteitspaspoort: https://formkeep.com/f/631f058db68f
-    productsheet: https://formkeep.com/f/631f058db68f
-    ebook: https://formkeep.com/f/631f058db68f
-    capp_agile: https://formkeep.com/f/631f058db68f
-    url: https://en.defacto.nl
-    jobs: https://www.defacto.nl/jobs
-    twitter: https://twitter.com/DefactoEN
+    capp_agile: 'https://formkeep.com/f/631f058db68f'
+    contact: 'https://formkeep.com/f/631f058db68f'
+    ebook: 'https://formkeep.com/f/631f058db68f'
+    jobs: 'https://www.defacto.nl/jobs'
+    kwaliteitspaspoort: 'https://formkeep.com/f/631f058db68f'
     mc_newsletter: 76408ce116
+    productsheet: 'https://formkeep.com/f/631f058db68f'
+    twitter: 'https://twitter.com/DefactoEN'
+    url: 'https://en.defacto.nl'
+
   about:
-    about_defacto: "About Defacto"
+    about_defacto: About Defacto
     clients: Clients
     contact: Contact
-    heading: "We are Defacto"
-    heading2: "Learning and developing since 1987"
+    heading: We are Defacto
+    heading2: Learning and developing since 1987
     jobs: Jobs
     references: References
     team:
@@ -41,272 +41,272 @@ en:
     testimonials: Testimonials
   actions:
     download: Download
-    download_productsheet: "Download productsheet"
-    request_demo: "Request a demo"
+    download_productsheet: Download productsheet
     home:
-      demo: "Request a demo"
-      productsheet: "Download a productsheet"
-    make_appointment: "Make an appointment"
+      demo: Request a demo
+      productsheet: Download a productsheet
+    make_appointment: Make an appointment
     more_about:
-      capp: "More CAPP"
-      more_capp: "More about CAPP LMS"
-      quality: "More Quality Portfolio"
-      capp-agile: "More CAPP Agile Learning"
-      clients: "More about our clients"
-      threesixty: "More 360° Feedback"
-      elearning: "More E-Learning"
-      implementaties: "More implementations"
-      hosting: "More hosting & security"
-      koppelingen: "More integrations"
-    read_more: "Read More"
-    subscribe: "Subscribe"
-    tell_me_more: "Tell me more"
-    try_for_free: "Free Trial"
+      capp: More CAPP
+      capp-agile: More CAPP Agile Learning
+      clients: More about our clients
+      elearning: More E-Learning
+      hosting: More hosting & security
+      implementaties: More implementations
+      koppelingen: More integrations
+      more_capp: More about CAPP LMS
+      quality: More Quality Portfolio
+      threesixty: More 360° Feedback
+    read_more: Read More
+    request_demo: Request a demo
+    subscribe: Subscribe
+    tell_me_more: Tell me more
+    try_for_free: Free Trial
   blog:
-    page_title: "Blog | Page %{page_number} of %{num_pages} | Defacto"
-    meta_description: "Blogs about trends in online learning and development. News about our software, our customers, products and services. | Page %{page_number}/%{num_pages}."
-    more_on_our_blog: "More blogs"
-    more_articles: "More articles"
-    read_more: "Read more"
+    meta_description: 'Blogs about trends in online learning and development. News about our software, our customers, products and services. | Page %{page_number}/%{num_pages}.'
+    more_articles: More articles
+    more_on_our_blog: More blogs
+    page_title: 'Blog | Page %{page_number} of %{num_pages} | Defacto'
+    read_more: Read more
     reading_time:
-      title: "Reading time"
-      min: "min."
-    title: "Blog – Learning & Developing"
-    subscribe: "Subscribe to our newsletter and stay up to date."
+      min: min.
+      title: Reading time
+    subscribe: Subscribe to our newsletter and stay up to date.
     tags:
-      page_title: "Blog | Tag: %{tagname} | Page %{page_number} of %{num_pages} | Defacto"
-      meta_description: "Blogs about trends in online learning and development. News about our software, our customers, products and services. | Tag: %{tagname} | Page %{page_number}/%{num_pages}."
+      meta_description: 'Blogs about trends in online learning and development. News about our software, our customers, products and services. | Tag: %{tagname} | Page %{page_number}/%{num_pages}.'
+      page_title: 'Blog | Tag: %{tagname} | Page %{page_number} of %{num_pages} | Defacto'
+    title: Blog – Learning & Developing
   capp:
-    name: "CAPP Learning & Developing"
-    desc: "CAPP ensures that your employees can learn and develop their talents in a straightforward and effective manner."
     cta_bottom:
-      formkeep_title: "CAPP: make appointment"
-      heading_md: "More information on learning & development with CAPP LMS?"
-      subheading: "Download the CAPP LMS Productsheet"
+      formkeep_title: 'CAPP: make appointment'
+      heading_md: More information on learning & development with CAPP LMS?
+      subheading: Download the CAPP LMS Productsheet
+    desc: CAPP ensures that your employees can learn and develop their talents in a straightforward and effective manner.
     hero:
-      formkeep_title: "CAPP: download productsheet"
-      title: "Learning & Development with CAPP LMS"
-      subtitle_1: "Intuitive learning management system for knowledge-intensive organisations."
-      subtitle_2: "Better compliance and qualification with CAPP LMS."
+      formkeep_title: 'CAPP: download productsheet'
       image: screenshots/hero-capp-lms_en.png
+      subtitle_1: Intuitive learning management system for knowledge-intensive organisations.
+      subtitle_2: Better compliance and qualification with CAPP LMS.
+      title: Learning & Development with CAPP LMS
+    name: CAPP Learning & Developing
   capp-agile:
-    name: CAPP Agile Learning
-    desc: "CAPP Agile Learning enables you to create a platform that is dedicated to your organisation's expertise. Performance Support made Agile; quick, effective and customised to your organisation."
-    hero:
-      heading: "Performance support for every organisation."
-      action: "Contact us"
-      img: screenshots/capp-agile-hero_en.png
-      quote: >
-        It’s the daily practice that sharpens your professional skills. Usually, it’s not a course or a manual you’re after - you just want to find that one piece of information you need right then and there.
-    why:
-      heading: "Why choose CAPP Agile Learning?"
-      make_share:
-        heading: "Create & share"
-        copy: >
-          Support your staff with instructions, useful video tutorials or graphics, and tips and tricks from the experts in your organisation. Our platform is a sleek and professional medium for sharing knowledge effortlessly with your employees.
-      on_demand:
-        heading: "On-demand learning"
-        copy: >
-          Make optimal use of your organisation's expertise - wherever, whenever. CAPP Agile Learning is available for all devices. Use the QR codes to obtain the right information. No more time-consuming searches in cluttered document systems.
-      performance:
-        heading: "Improve your performance"
-        copy: >
-          Improve your and your organisation's performance. CAPP Agile Learning enables you to create a platform that is dedicated to your organisation's expertise. Performance Support made Agile; quick, effective and customised to your organisation.
+    clients_heading: Our customers
+    desc: 'CAPP Agile Learning enables you to create a platform that is dedicated to your organisation''s expertise. Performance Support made Agile; quick, effective and customised to your organisation.'
     form:
-      heading: "Contact us"
-      options:
-        heading: "I am interested in:"
-        info: "More information about CAPP Agile Learning"
-        demo: "A (live) demo"
-        trial: "A trial account"
-        inform: "Staying up to date via email"
+      heading: Contact us
       img: screenshots/capp-agile-demo_en.png
-      img_alt: "Request a demo or information"
-    testimonials_heading: "Read what our customers have to say"
-    clients_heading: "Our customers"
+      img_alt: Request a demo or information
+      options:
+        demo: A (live) demo
+        heading: 'I am interested in:'
+        info: More information about CAPP Agile Learning
+        inform: Staying up to date via email
+        trial: A trial account
+    hero:
+      action: Contact us
+      heading: Performance support for every organisation.
+      img: screenshots/capp-agile-hero_en.png
+      quote: |
+        It’s the daily practice that sharpens your professional skills. Usually, it’s not a course or a manual you’re after - you just want to find that one piece of information you need right then and there.
+    name: CAPP Agile Learning
+    testimonials_heading: Read what our customers have to say
+    why:
+      heading: Why choose CAPP Agile Learning?
+      make_share:
+        copy: |
+          Support your staff with instructions, useful video tutorials or graphics, and tips and tricks from the experts in your organisation. Our platform is a sleek and professional medium for sharing knowledge effortlessly with your employees.
+        heading: Create & share
+      on_demand:
+        copy: |
+          Make optimal use of your organisation's expertise - wherever, whenever. CAPP Agile Learning is available for all devices. Use the QR codes to obtain the right information. No more time-consuming searches in cluttered document systems.
+        heading: On-demand learning
+      performance:
+        copy: |
+          Improve your and your organisation's performance. CAPP Agile Learning enables you to create a platform that is dedicated to your organisation's expertise. Performance Support made Agile; quick, effective and customised to your organisation.
+        heading: Improve your performance
   clients:
-    title: "Our clients"
+    title: Our clients
   contact:
-    heading: "Hi, nice to meet you!"
-    heading2: "We’re here to help, provide you with more information and answer your questions."
-    main:
-      heading: "How can we help?"
-      question:
-        heading: "More information"
-        info: "Do you have a question or would you like to know more about our software and services?"
-        button: "Request information"
-      support:
-        heading: "Support"
-        info: "Are you a key user and do you need help? Click here to chat directly with our support team."
-        button: "Get support"
-    form_title: "Contact"
-    form_info: "Use our contact form to send us an email. Or you can call us at +31 50 3144 832"
     email: info@defacto.nl
-    phone: "+31 (0)50 3144832"
-    phone_link: "+31503144832"
+    form_info: Use our contact form to send us an email. Or you can call us at +31 50 3144 832
+    form_title: Contact
+    heading: 'Hi, nice to meet you!'
+    heading2: 'We’re here to help, provide you with more information and answer your questions.'
+    main:
+      heading: How can we help?
+      question:
+        button: Request information
+        heading: More information
+        info: Do you have a question or would you like to know more about our software and services?
+      support:
+        button: Get support
+        heading: Support
+        info: Are you a key user and do you need help? Click here to chat directly with our support team.
+    phone: +31 (0)50 3144832
+    phone_link: '+31503144832'
   demo_request:
-    title: "Request your demo"
-    sub_title: "Want to know more? Discover our products and approach through a demo by one of our experts."
-    formkeep_title: "Demo request"
-    form_title: "Request your Demo"
-    form_text: "Leave your details and we will contact you as soon as possible."
+    form_text: Leave your details and we will contact you as soon as possible.
+    form_title: Request your Demo
+    formkeep_title: Demo request
+    sub_title: Want to know more? Discover our products and approach through a demo by one of our experts.
+    title: Request your demo
   elearning:
     heading: Advance your employees by applying E-learning to your organisation
   elearning_ebook:
-    formkeep_title: "E-book download"
-    formkeep_title_popup: "E-book download popup"
-    heading_html: "Get our <span class=\"pre\">E-Learning</span> Handbook for free"
-    image_alt: "E-Learning Handbook Learn & Let Learn"
-    close_alt: "Close"
+    close_alt: Close
+    formkeep_title: E-book download
+    formkeep_title_popup: E-book download popup
+    heading_html: Get our <span class="pre">E-Learning</span> Handbook for free
+    image_alt: E-Learning Handbook Learn & Let Learn
   error:
-    heading: "Sorry, this page doesn't exist."
-    text_md: "This doesn’t mean you did something wrong, it’s possible that we renamed the page or relocated it."
-    img_alt: "Page not found"
+    heading: 'Sorry, this page doesn''t exist.'
+    img_alt: Page not found
+    text_md: 'This doesn’t mean you did something wrong, it’s possible that we renamed the page or relocated it.'
   footer:
-    capp: "CAPP Learning & Developing"
-    country: "(NL)"
-    copyright_html: "This website is %{link}. © 1987 - %{year} Defacto"
+    capp: CAPP Learning & Developing
+    copyright_html: 'This website is %{link}. © 1987 - %{year} Defacto'
+    country: (NL)
     follow:
-      title: "Follow Defacto"
-      text: "Follow us on social media"
-    open_source: "open source"
-    search: "Search"
-    slogan: "Defacto — Developing People since 1987"
+      text: Follow us on social media
+      title: Follow Defacto
+    open_source: open source
+    search: Search
+    slogan: Defacto — Developing People since 1987
     subscribe:
-      title: "Newsletter"
-      text: "Sign up to stay up to date"
+      text: Sign up to stay up to date
+      title: Newsletter
   form:
     email: Email
+    message: How can we help?
     name: Name
     organisation: Company or organisation
+    phone: Phone Number
+    position: Position
     submit: Send
-    phone: "Phone Number"
-    position: "Position"
-    message: "How can we help?"
   head:
-    default_description: "Defacto helps organisations with the development and certification of their employees."
+    default_description: Defacto helps organisations with the development and certification of their employees.
     default_title: Defacto
   header:
-    about: "About Us"
+    about: About Us
     blog: Blog
     contact: Contact
     home: Home
-    menu: Menu
-    products: Products
-    services: Services
     jobs: Jobs
-    open-source: "Open Source"
-    select-language: "Select Your Language"
+    menu: Menu
+    open-source: Open Source
+    products: Products
+    select-language: Select Your Language
+    services: Services
   home:
     hero:
-      text: "More than 200.000 professionals use our software to learn and develop their talents."
-      title: "Developing People"
+      text: More than 200.000 professionals use our software to learn and develop their talents.
+      title: Developing People
     home:
       news:
-        title: "What's hot"
+        title: What's hot
     solutions:
       informal:
-        text_html: "Real-time performance support. Improve employee performance by providing _on-demand_ knowledge. Keep track of the knowledge within your organisation, share protocols, manuals, instructions and more."
-        title: "CAPP Agile Learning"
+        text_html: 'Real-time performance support. Improve employee performance by providing _on-demand_ knowledge. Keep track of the knowledge within your organisation, share protocols, manuals, instructions and more.'
+        title: CAPP Agile Learning
       learn:
-        text_html: "Provide your employees with efficient tools for their professional development and a structured and accessible personal portfolio. Create professional insight with %{link}."
-        title:  CAPP Learning & Developing
+        text_html: 'Provide your employees with efficient tools for their professional development and a structured and accessible personal portfolio. Create professional insight with %{link}.'
+        title: CAPP Learning & Developing
       quality:
-        text_html: "Get real-time insight into the professional competencies, accomplishments and skills within your team and organisation. Meet permanent and visible formal quality requirements."
+        text_html: 'Get real-time insight into the professional competencies, accomplishments and skills within your team and organisation. Meet permanent and visible formal quality requirements.'
         title: CAPP Quality Portfolio
+  hosting:
+    heading: Hosting and Security
   implementaties:
     heading: Implementation doesn’t have to be complicated
   jobs:
-    acquisition: "Note: acquisition based on this vacancy is not appreciated."
-    apply: "Apply now!"
-    header: "Jobs"
-    more: "More jobs:"
-    title: "Job:"
-    vacancies: "Jobs:"
-  hosting:
-    heading: "Hosting and Security"
+    acquisition: 'Note: acquisition based on this vacancy is not appreciated.'
+    apply: Apply now!
+    header: Jobs
+    more: 'More jobs:'
+    title: 'Job:'
+    vacancies: 'Jobs:'
   koppelingen:
-    heading: "Certified integration"
-    subheading: "Our trustworthy HR importer will ensure a swift integration with our software."
+    heading: Certified integration
+    subheading: Our trustworthy HR importer will ensure a swift integration with our software.
   kwaliteitspaspoort:
     cta_bottom:
-      formkeep_title: "Kwaliteitspaspoort: make appointment"
-      heading_md: "Want to start obtaining your accreditations with CAPP Quality Portfolio right now?"
-    desc: "Guarantee quality within your organisation by working on the competencies and skills of your employees. Foster the long-term development of every individual with CAPP Quality Portfolio."
+      formkeep_title: 'Kwaliteitspaspoort: make appointment'
+      heading_md: Want to start obtaining your accreditations with CAPP Quality Portfolio right now?
+    desc: Guarantee quality within your organisation by working on the competencies and skills of your employees. Foster the long-term development of every individual with CAPP Quality Portfolio.
     hero:
-      formkeep_title: "Kwaliteitspaspoort: more information"
-      text_md: "Insight into competencies and capacities at a glance "
+      formkeep_title: 'Kwaliteitspaspoort: more information'
       image: screenshots/hero-quality-portfolio.png
+      text_md: 'Insight into competencies and capacities at a glance '
     logo: logos/qualityportfolio-white.png
     name: CAPP Quality Portfolio
   nav:
-    capp-lms: "LMS and efficiency software to advance the development of your employees"
-    capp-learn: "Intuitive learning management system for knowledge-intensive organisations"
-    kwaliteitspaspoort: "Real-time insights into competencies within your organisation"
-    capp-agile: "Performance support on demand"
-    threesixty: "Increase the efficiency and quality of your HRD"
-    close: "Close"
+    capp-agile: Performance support on demand
+    capp-learn: Intuitive learning management system for knowledge-intensive organisations
+    capp-lms: LMS and efficiency software to advance the development of your employees
+    close: Close
+    kwaliteitspaspoort: Real-time insights into competencies within your organisation
+    threesixty: Increase the efficiency and quality of your HRD
   products:
-    title: "Products that we are proud of"
     capp:
-      capp-lms: "CAPP Learning & Developing"
-      learn: "CAPP Learning & Developing"
+      capp-lms: CAPP Learning & Developing
+      learn: CAPP Learning & Developing
+    title: Products that we are proud of
   productsheet_download:
-    heading: "More information about training and learning with CAPP LMS?"
-    title: "Download CAPP Productsheet"
+    heading: More information about training and learning with CAPP LMS?
+    title: Download CAPP Productsheet
   search:
+    downloading: Downloading index...
     heading: Search
+    page: Page
     placeholder: Search our website
-    result: "result"
-    results: "results"
-    downloading: "Downloading index..."
-    vacancy: "Vacancy"
-    page: "Page"
+    result: result
+    results: results
+    vacancy: Vacancy
   services:
     services:
       elearning:
-        desc: "With Defacto as an experienced and skilled partner, e-learning will be a success in your organisation."
+        desc: 'With Defacto as an experienced and skilled partner, e-learning will be a success in your organisation.'
         name: E-Learning
       hosting:
-        desc: "Having 30 years of experience with IT implementations we know that high quality hosting and high level information security are extremely important."
-        name: "Hosting & Security"
-        link: "hosting and security"
+        desc: Having 30 years of experience with IT implementations we know that high quality hosting and high level information security are extremely important.
+        link: hosting and security
+        name: Hosting & Security
       implementaties:
-        desc: "Defacto has developed its %{link} through which we ensure a successful strategy and implementation while working closely with our clients."
+        desc: 'Defacto has developed its %{link} through which we ensure a successful strategy and implementation while working closely with our clients.'
+        link: own methods
         name: Implementations
-        link: "own methods"
       koppelingen:
-        desc: "CAPP LMS can be %{link} with other systems. For example; information systems that include HR-related data, assessment databases, e-learning suppliers and many more."
+        desc: 'CAPP LMS can be %{link} with other systems. For example; information systems that include HR-related data, assessment databases, e-learning suppliers and many more.'
+        link: integrated
         name: Integrations
-        link: "integrated"
-    title: "We ensure a successful implementation of CAPP LMS with the following services"
+    title: We ensure a successful implementation of CAPP LMS with the following services
   sharing:
-    share_post: "Share this article:"
-    share_job: "Share this job:"
-    twitter: Share on Twitter
     facebook: Share on Facebook
     google_plus: Share on Google+
     linkedin: Share on LinkedIn
+    share_job: 'Share this job:'
+    share_post: 'Share this article:'
+    twitter: Share on Twitter
     xing: Share on Xing
   testimonials:
-    title:  What others say about us
     more_testimonials: More testimonials
+    title: What others say about us
   thanks:
+    back: Back to the previous page.
     heading: Thank you!
+    img_alt: Thank you!
     message: You will hear from us as soon as possible.
     message_download: 'The download should start automatically…<br>If not, <a target="_blank">click here</a>.'
     newsletter:
-      subscribed: "To complete the sign up process, click on the link in the email we just sent you."
-      confirmed: "Your registration for our newsletter has been confirmed."
-      unsubscribed: "You have been unsubscribed from our newsletter."
-    back: Back to the previous page.
-    img_alt: "Thank you!"
+      confirmed: Your registration for our newsletter has been confirmed.
+      subscribed: 'To complete the sign up process, click on the link in the email we just sent you.'
+      unsubscribed: You have been unsubscribed from our newsletter.
   threesixty:
     cta_bottom:
-      heading_md: "Improve your professional development with 360° Feedback."
-    desc: "Make your HRD more efficient. 360° Feedback makes it easy for employees to improve their self-knowledge and formulate development goals."
+      heading_md: Improve your professional development with 360° Feedback.
+    desc: Make your HRD more efficient. 360° Feedback makes it easy for employees to improve their self-knowledge and formulate development goals.
     hero:
-      text_md: "Effortless evaluations through a user-friendly cloudservice."
-      title: "360° Feedback"
+      text_md: Effortless evaluations through a user-friendly cloudservice.
+      title: 360° Feedback
     logo: logos/360feedback.svg
-    name: "360° Feedback"
+    name: 360° Feedback
