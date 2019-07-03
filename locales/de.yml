@@ -2,498 +2,495 @@
 de:
   time:
     formats:
-      blog_date: "%e. %B %Y"
+      blog_date: '%e. %B %Y'
   CNAME: www.defactolearning.de
-  current_locale: "Deutsch"
+  current_locale: Deutsch
 
-  # Path translations
   paths:
     bedankt: danke
-    capp-lms: "capp-learning-management"
+    capp-lms: capp-learning-management
     contact: kontakt
-    convenant-medische-technologie: "medizinproduktegesetz"
+    convenant-medische-technologie: medizinproduktegesetz
     diensten: service
-    digital-hospital: "digitalisierung-im-krankenhaus"
-    e-book-leren-en-laten-leren: "e-book-abenteuer-elearning"
-    e-learning-in-healthcare: "e-learning-im-gesundheitswesen"
-    gezondheidswezen: "gesundheitswesen"
-    hosting-security: "hosting-sicherheit"
+    digital-hospital: digitalisierung-im-krankenhaus
+    e-book-leren-en-laten-leren: e-book-abenteuer-elearning
+    e-learning-in-healthcare: e-learning-im-gesundheitswesen
+    evenementenagenda: veranstaltungskalender
+    gezondheidswezen: gesundheitswesen
+    hosting-security: hosting-sicherheit
     implementaties: implementierungen
     klanten: kunden
     koppelingen: schnittstellen
-    kwaliteitspaspoort: "capp-compliance-qualifikationsmanagement"
     kwaliteitsmonitor: qualitatsmonitor
-    oplossingen: "loesungen"
-    over-ons: "uber-uns"
-    privacy-policy: "datenschutzerklarung"
+    kwaliteitspaspoort: capp-compliance-qualifikationsmanagement
+    oplossingen: loesungen
+    over-ons: uber-uns
+    privacy-policy: datenschutzerklarung
     producten: produkte
-    productsheet-downloaden: "produktblatt-herunterladen"
+    productsheet-downloaden: produktblatt-herunterladen
     testimonials: kundenstimmen
     themas: themen
     zoeken: suche
-    evenementenagenda: veranstaltungskalender
   urls:
-    appointment: https://formkeep.com/f/823938297f51
-    capp_agile: https://formkeep.com/f/bfad79e126e9
-    contact: https://formkeep.com/f/bfad79e126e9
-    download_ebook: https://formkeep.com/f/7dcec5cb9938
-    download_whitepaper: https://formkeep.com/f/d0a4296b34e4
-    ebook: https://formkeep.com/f/c7bcd3c88a4c
-    job_apply: https://formkeep.com/f/6607c4bdc4cc
-    jobs: https://www.defactolearning.de/jobs
+    appointment: 'https://formkeep.com/f/823938297f51'
+    capp_agile: 'https://formkeep.com/f/bfad79e126e9'
+    contact: 'https://formkeep.com/f/bfad79e126e9'
+    download_ebook: 'https://formkeep.com/f/7dcec5cb9938'
+    download_whitepaper: 'https://formkeep.com/f/d0a4296b34e4'
+    ebook: 'https://formkeep.com/f/c7bcd3c88a4c'
+    job_apply: 'https://formkeep.com/f/6607c4bdc4cc'
+    jobs: 'https://www.defactolearning.de/jobs'
     mc_newsletter: e21fb76d69
-    register_webinar: https://formkeep.com/f/bddf93bfc17b
-    twitter: https://twitter.com/DefactoSoftware
-    url: https://www.defactolearning.de
+    register_webinar: 'https://formkeep.com/f/bddf93bfc17b'
+    twitter: 'https://twitter.com/DefactoSoftware'
+    url: 'https://www.defactolearning.de'
   70-20-10:
-    header: "70:20:10 in der Praxis"
-    subheading: "Lernen ist viel mehr als das Versenden von Informationen"
-    action: "Kontakt aufnehmen"
-    name: "70:20:10 in der Praxis"
-    desc: "Menschen lernen täglich neu in ihren Organisationen und bilden sich weiter. Das 70:20:10-Lernmodell kann dazu beitragen, geeignete Rahmenbedingungen zu schaffen und so diese Entwicklung zu fördern."
+    action: Kontakt aufnehmen
+    desc: 'Menschen lernen täglich neu in ihren Organisationen und bilden sich weiter. Das 70:20:10-Lernmodell kann dazu beitragen, geeignete Rahmenbedingungen zu schaffen und so diese Entwicklung zu fördern.'
     form:
-      header: "Mehr Informationen?"
+      header: Mehr Informationen?
       text: |
         Möchten Sie mehr über die Implementation von 70:20:10 Lernen und Performance Support erfahren?
         Geben Sie Ihre E-mail an, damit unsere Experten so schnell wie möglich Kontakt mit Ihnen aufnehmen können.
+    header: '70:20:10 in der Praxis'
+    name: '70:20:10 in der Praxis'
+    subheading: Lernen ist viel mehr als das Versenden von Informationen
   about:
-    about_defacto: "Über Defacto"
+    about_defacto: Über Defacto
     cases: Cases
     clients: Kunden
-    contact: "Kontakt"
-    heading: "Wir sind Defacto"
-    heading2: "Bilden und Entwickeln seit 1987"
+    contact: Kontakt
+    heading: Wir sind Defacto
+    heading2: Bilden und Entwickeln seit 1987
     jobs: Arbeiten bei Defacto
     team:
-      work_with_us: "Arbeiten bei"
-      you: "Sie?"
-    testimonials: "Kundenstimmen"
+      work_with_us: Arbeiten bei
+      you: Sie?
+    testimonials: Kundenstimmen
   actions:
-    download: "Herunterladen"
-    download_ebook: "E-Book herunterladen"
-    download_productsheet: "Produktblatt herunterladen"
-    download_whitepaper: "Whitepaper herunterladen"
-    make_appointment: "Termin vereinbaren"
-    read_more: "Mehr"
-    read_more_2: "Mehr lesen"
-    register: "Anmelden"
-    contact: "Kontakt aufnehmen"
-    more_about:
-      70-20-10: "Mehr zu 70:20:10"
-      cmt: "Mehr zu Medizinproduktegesetz"
-      capp: "Zu Learning Management"
-      clients: "Mehr über unsere Kunden"
-      digital-hospital: "Mehr über Digitalisierung"
-      more_capp: "Mehr zu CAPP Learning Management"
-      capp-entwickeln: "Zu CAPP Talent Management"
-      more_capp-entwickeln: "Mehr zu CAPP Talent Management"
-      quality: "Zum Compliance Management"
-      more_quality_simple: "Mehr zu CAPP Compliance"
-      elearning: "Mehr über E-Learning"
-      capp-agile: "Zu CAPP Agile Learning"
-      more_capp-agile: "Mehr zu CAPP Agile Learning"
-      threesixty: "Mehr zu 360° Feedback"
-      elearning: "Mehr zu E-Learning"
-      implementaties: "Mehr zu Implementierungen"
-      hosting: "Mehr zu Hosting & Sicherheit"
-      koppelingen: "Mehr zu Schnittstellen"
-      healthcare: "Mehr zu Gesundheitswesen"
-      performance-support: "Mehr zu Performance Support"
-    register: "Anmelden"
-    subscribe: "Abonnieren"
-    tell_me_more: "Erzähl mir mehr"
-    try_for_free: "Gratis testen"
-    visit_website: "Besuche die Website"
-    request_demo: "Demo anfragen"
+    contact: Kontakt aufnehmen
+    download: Herunterladen
+    download_ebook: E-Book herunterladen
+    download_productsheet: Produktblatt herunterladen
+    download_whitepaper: Whitepaper herunterladen
     home:
-      demo: "Demo anfragen"
-      productsheet: "Produktblatt herunterladen"
+      demo: Demo anfragen
+      productsheet: Produktblatt herunterladen
+    make_appointment: Termin vereinbaren
+    more_about:
+      70-20-10: 'Mehr zu 70:20:10'
+      capp: Zu Learning Management
+      capp-agile: Zu CAPP Agile Learning
+      capp-entwickeln: Zu CAPP Talent Management
+      clients: Mehr über unsere Kunden
+      cmt: Mehr zu Medizinproduktegesetz
+      digital-hospital: Mehr über Digitalisierung
+      elearning: Mehr über E-Learning
+      healthcare: Mehr zu Gesundheitswesen
+      hosting: Mehr zu Hosting & Sicherheit
+      implementaties: Mehr zu Implementierungen
+      koppelingen: Mehr zu Schnittstellen
+      more_capp: Mehr zu CAPP Learning Management
+      more_capp-agile: Mehr zu CAPP Agile Learning
+      more_capp-entwickeln: Mehr zu CAPP Talent Management
+      more_quality_simple: Mehr zu CAPP Compliance
+      performance-support: Mehr zu Performance Support
+      quality: Zum Compliance Management
+      threesixty: Mehr zu 360° Feedback
+    read_more: Mehr
+    read_more_2: Mehr lesen
+    register: Anmelden
+    request_demo: Demo anfragen
+    subscribe: Abonnieren
+    tell_me_more: Erzähl mir mehr
+    try_for_free: Gratis testen
+    visit_website: Besuche die Website
   blog:
-    page_title: "Blog | Pagina %{page_number} von %{num_pages} | Defacto"
-    meta_description: "Neuigkeiten über Trends rundum Bildungsmanagement und Online Learning, Aktuelles zu Software, unseren Kunden, Produkten und Diensten. | Pagina %{page_number}/%{num_pages}."
-    more_on_our_blog: "Mehr Blogs"
-    more_articles: "Mehr Artikel"
-    read_more: "Weiter lesen"
+    meta_description: 'Neuigkeiten über Trends rundum Bildungsmanagement und Online Learning, Aktuelles zu Software, unseren Kunden, Produkten und Diensten. | Pagina %{page_number}/%{num_pages}.'
+    more_articles: Mehr Artikel
+    more_on_our_blog: Mehr Blogs
+    page_title: 'Blog | Pagina %{page_number} von %{num_pages} | Defacto'
+    read_more: Weiter lesen
     reading_time:
-      title: "Lesezeit"
-      min: "Min."
-    title: "Blog - Bilden und Entwickeln"
-    subscribe: "Abonnieren Sie unseren Newsletter und bleiben Sie informiert."
+      min: Min.
+      title: Lesezeit
+    subscribe: Abonnieren Sie unseren Newsletter und bleiben Sie informiert.
     tags:
-      page_title: "Blog | Tag: %{tagname} | Pagina %{page_number} von %{num_pages} | Defacto"
-      meta_description: "Neuigkeiten über Trends rundum Bildungsmanagement und Online Learning, Aktuelles zu Software, unseren Kunden, Produkten und Diensten. | Tag: %{tagname} | Pagina %{page_number}/%{num_pages}."
+      meta_description: 'Neuigkeiten über Trends rundum Bildungsmanagement und Online Learning, Aktuelles zu Software, unseren Kunden, Produkten und Diensten. | Tag: %{tagname} | Pagina %{page_number}/%{num_pages}.'
+      page_title: 'Blog | Tag: %{tagname} | Pagina %{page_number} von %{num_pages} | Defacto'
+    title: Blog - Bilden und Entwickeln
   capp:
     cta_bottom:
-      formkeep_title: "CAPP: afspraak maken"
-      heading_md: "Mehr Informationen über Fort- und Weiterbilden mit CAPP LMS?"
-      subheading: "Produktblatt CAPP LMS herunterladen"
-    desc: "%{link} ist die Software für ein starkes und übersichtliches Bildungsmanagement."
+      formkeep_title: 'CAPP: afspraak maken'
+      heading_md: Mehr Informationen über Fort- und Weiterbilden mit CAPP LMS?
+      subheading: Produktblatt CAPP LMS herunterladen
+    desc: '%{link} ist die Software für ein starkes und übersichtliches Bildungsmanagement.'
     hero:
-      formkeep_title: "CAPP: download productsheet"
-      text_md: "__CAPP LMS__ unterstützt Sie dabei das Können und Wissen Ihrer Mitarbeiter oder Kunden zu fördern."
-      title: "Fort- und Weiterbilden mit CAPP LMS"
-      subtitle_1: "Wissensintensive Organisationen brauchen gut ausgebildete Mitarbeiter."
-      subtitle_2: "Befähigen und qualifizieren Sie Ihre Mitarbeiter nachweislich mit CAPP LMS."
+      formkeep_title: 'CAPP: download productsheet'
       image: capp-lms-de.png
+      subtitle_1: Wissensintensive Organisationen brauchen gut ausgebildete Mitarbeiter.
+      subtitle_2: Befähigen und qualifizieren Sie Ihre Mitarbeiter nachweislich mit CAPP LMS.
+      text_md: __CAPP LMS__ unterstützt Sie dabei das Können und Wissen Ihrer Mitarbeiter oder Kunden zu fördern.
+      title: Fort- und Weiterbilden mit CAPP LMS
     name: CAPP Learning Management
-  capp-develop:
-    name: CAPP Talent Management
-    desc: Bieten Sie Ihren Mitarbeitern nachhaltige und innovative Talententwicklung mit %{link}.
-    hero:
-      title: "Ein E-Portfolio für die Personalentwicklung: CAPP Talent Management"
   capp-agile:
-    name: CAPP Agile Learning
-    desc: "Performance-Support mit CAPP Agile Learning: schnell, effektiv und genau auf Ihr Unternehmen zugeschnitten."
+    desc: 'Performance-Support mit CAPP Agile Learning: schnell, effektiv und genau auf Ihr Unternehmen zugeschnitten.'
+    form:
+      heading: Demo anfragen
+      img: screenshots/capp-agile-demo_de.png
+      img_alt: Eine (Live-) Präsentation anfragen
     hero:
-      heading: "Flexibles E-Learning mit CAPP Agile Learning"
-      action: "Demo anfragen"
+      action: Demo anfragen
+      heading: Flexibles E-Learning mit CAPP Agile Learning
       img: screenshots/capp-agile-hero_de.png
+    name: CAPP Agile Learning
+    testimonials_heading: Kundenstimmen
     why:
-      heading: "Warum CAPP Agile Learning?"
+      heading: Warum CAPP Agile Learning?
       make_share:
-        heading: "Erstellen & teilen"
-        copy: >
+        copy: |
           Stellen Sie Ihren Mitarbeiter Arbeitsanleitungen, unterstützende Videos oder Abbildungen und die ‚Tipps & Tricks‘ der Experten in Ihrem Unternehmen zur Verfügung. Auf unserer Plattform werden Ihren Mitarbeitern alle geteilten Informationen ganz einfach, direkt und professionell präsentiert.
+        heading: Erstellen & teilen
       on_demand:
-        heading: "Lernen On Demand"
-        copy: >
+        copy: |
           Lernen Sie von dem Wissen, das in Ihrem Unternehmen vorhanden ist, wann und wo Sie wollen. CAPP Agile Learning ist auf allen Geräten verfügbar. Nutzen Sie QR-Codes, um ‚just in time‘ die richtigen Informationen abrufen zu können. Jetzt brauchen Sie nicht mehr endlos in unübersichtlichen Dokumentensystemen zu suchen.
+        heading: Lernen On Demand
       performance:
-        heading: "Verbessern Sie Ihre Leistungen"
         copy: |
           Verbessern Sie Ihre eigenen Leistungen und die Ihres Unternehmens. Mit CAPP Agile Learning erstellen Sie eine Plattform, die genau an das Wissen angepasst ist, das in Ihrem Unternehmen vorhanden ist. Performance-Support mit CAPP Agile Learning&#58; schnell, effektiv und genau auf Ihr Unternehmen zugeschnitten.
-    form:
-      heading: "Demo anfragen"
-      img: screenshots/capp-agile-demo_de.png
-      img_alt: "Eine (Live-) Präsentation anfragen"
-    testimonials_heading: "Kundenstimmen"
+        heading: Verbessern Sie Ihre Leistungen
+  capp-develop:
+    desc: 'Bieten Sie Ihren Mitarbeitern nachhaltige und innovative Talententwicklung mit %{link}.'
+    hero:
+      title: 'Ein E-Portfolio für die Personalentwicklung: CAPP Talent Management'
+    name: CAPP Talent Management
   capp-new:
-    heading-contact: "Erleben Sie CAPP Learning Management live!"
+    formkeep_title: Afspraak maken nieuwe CAPP
+    heading-contact: Erleben Sie CAPP Learning Management live!
     hero:
-      title: "Learning Management"
-      sub_title: "Vielfalt des Lernens für motivierte und qualifizierte Mitarbeiter"
-    formkeep_title: "Afspraak maken nieuwe CAPP"
-    page-nav:
-      introduction: "CAPP Learning Management"
-      features: "Vorteile CAPP"
+      sub_title: Vielfalt des Lernens für motivierte und qualifizierte Mitarbeiter
+      title: Learning Management
     more-about:
-      title: "Weitere Anwendungen von CAPP"
-  capp-talent-management:
-    heading-contact: "Erleben Sie CAPP Talent Management live!"
-    hero:
-      title: "Talent Management"
-      sub_title: "Nutzen Sie das volle Potenzial Ihrer wertvollsten Ressource!"
-    formkeep_title: "Afspraak maken nieuwe CAPP"
+      title: Weitere Anwendungen von CAPP
     page-nav:
-      introduction: "CAPP Talent Management"
-      features: "Vorteile CAPP"
+      features: Vorteile CAPP
+      introduction: CAPP Learning Management
+  capp-talent-management:
+    formkeep_title: Afspraak maken nieuwe CAPP
+    heading-contact: Erleben Sie CAPP Talent Management live!
+    hero:
+      sub_title: Nutzen Sie das volle Potenzial Ihrer wertvollsten Ressource!
+      title: Talent Management
+    page-nav:
+      features: Vorteile CAPP
+      introduction: CAPP Talent Management
   cases:
-    all_cases: "Alle Cases"
-    contact: "Kontakt aufnehmen"
+    all_cases: Alle Cases
+    contact: Kontakt aufnehmen
     cta:
-      title: "Haben Sie Interesse wie dies Ihrem Business Case helfen kann? Vereinbaren Sie nun einen Termin!"
-    sidebar:
-      products: "Produkte & Dienste"
-      facts:
-        title: "Fakten & Daten"
-        branch: "Branche"
-        since: "Kunde seit"
-        employees: "Anzahl Mitarbeiter"
-        website: "Website"
+      title: Haben Sie Interesse wie dies Ihrem Business Case helfen kann? Vereinbaren Sie nun einen Termin!
+    next: Nächster case
     overview:
-      button: "Kontakt aufnehmen"
-      contact_us: "Hat Sie das Lesen unserer Kundencases inspiriert? Oder haben Sie noch weitere Fragen? Nehmen Sie Kontakt mit uns auf."
-      text: "Jeder Kunde ist unterschiedlich und besitzt andere Wünsche. Darum ist jede Implementierung einzigartig. Hier ein kleiner Überblick über unsere Kunden und warum wir gemeinsam so erfolgreiche Resultate erzielt haben."
-      title: "Cases - Mit stolz präsentieren wir"
-    next: "Nächster case"
-    previous: "Vorheriger case"
+      button: Kontakt aufnehmen
+      contact_us: Hat Sie das Lesen unserer Kundencases inspiriert? Oder haben Sie noch weitere Fragen? Nehmen Sie Kontakt mit uns auf.
+      text: Jeder Kunde ist unterschiedlich und besitzt andere Wünsche. Darum ist jede Implementierung einzigartig. Hier ein kleiner Überblick über unsere Kunden und warum wir gemeinsam so erfolgreiche Resultate erzielt haben.
+      title: Cases - Mit stolz präsentieren wir
+    previous: Vorheriger case
+    sidebar:
+      facts:
+        branch: Branche
+        employees: Anzahl Mitarbeiter
+        since: Kunde seit
+        title: Fakten & Daten
+        website: Website
+      products: Produkte & Dienste
   clients:
-    title: "Unsere Kunden"
+    title: Unsere Kunden
   cmt:
-    title: "In 3 Schritten das Medizinproduktegesetz erfüllen"
     form:
-      header: "Mehr Informationen?"
+      header: Mehr Informationen?
       text: |
         Möchten Sie mehr über das Medizinproduktegesetz und unsere Lösungen erfahren?
         Geben Sie Ihre E-mail an, damit unsere Experten so schnell wie möglich Kontakt mit Ihnen aufnehmen können.
+    title: In 3 Schritten das Medizinproduktegesetz erfüllen
   contact:
-    heading: "Wir lernen Sie gerne kennen!"
-    heading2: "Kontaktieren Sie uns für mehr Informationen, stellen Sie Ihre Fragen oder nutzen Sie unseren effektiven Support."
-    main:
-      heading: "Wie können wir Ihnen helfen?"
-      question:
-        heading: "Informationen"
-        info: "Haben Sie eine Frage oder wünschen Sie mehr Auskunft zu unserer Software?"
-        button: "Kontakt aufnehmen"
-      support:
-        heading: "Support"
-        info: "Haben Sie eine Support Frage? Chatten Sie direkt mit einem unserer Mitarbeiter."
-        button: "Direkt chatten"
-    form_title: "Kontaktformular"
-    form_info: "Mithilfe des Formulars können Sie uns eine E-Mail senden. Telefonisch können Sie uns unter 040 306988472 erreichen."
     email: info@defactolearning.de
-    phone: "040 306988472"
-    phone_link: "+4940306988472"
+    form_info: Mithilfe des Formulars können Sie uns eine E-Mail senden. Telefonisch können Sie uns unter 040 306988472 erreichen.
+    form_title: Kontaktformular
+    heading: Wir lernen Sie gerne kennen!
+    heading2: 'Kontaktieren Sie uns für mehr Informationen, stellen Sie Ihre Fragen oder nutzen Sie unseren effektiven Support.'
+    main:
+      heading: Wie können wir Ihnen helfen?
+      question:
+        button: Kontakt aufnehmen
+        heading: Informationen
+        info: Haben Sie eine Frage oder wünschen Sie mehr Auskunft zu unserer Software?
+      support:
+        button: Direkt chatten
+        heading: Support
+        info: Haben Sie eine Support Frage? Chatten Sie direkt mit einem unserer Mitarbeiter.
+    phone: 040 306988472
+    phone_link: '+4940306988472'
   demo_request:
-    title: "Verwandeln Sie das Lernen und Entwickeln in ihrer Organisation mit unserer Learning & Talent Management Software"
-    sub_title: "Möchten Sie mehr wissen? Fragen Sie eine Demo an und lernen Sie unsere Produkte kennen."
-    form_title: "Demo anfragen"
-    form_text: "Füllen Sie das Formulier aus und wir nehmen so schnell möglich Kontakt auf."
+    form_text: Füllen Sie das Formulier aus und wir nehmen so schnell möglich Kontakt auf.
+    form_title: Demo anfragen
+    sub_title: Möchten Sie mehr wissen? Fragen Sie eine Demo an und lernen Sie unsere Produkte kennen.
+    title: Verwandeln Sie das Lernen und Entwickeln in ihrer Organisation mit unserer Learning & Talent Management Software
   digital-hospital:
-    header: "Digitalisierung im Krankenhaus"
     form:
-      header: "Kontakt aufnehmen"
-      text: "Möchten Sie mehr über die Möglichkeiten der Digitalisierung in Ihrem Krankenhaus erfahren? Nutzen Sie das Kontaktformular, damit unsere Berater mit Ihnen Kontakt aufnehmen können"
+      header: Kontakt aufnehmen
+      text: 'Möchten Sie mehr über die Möglichkeiten der Digitalisierung in Ihrem Krankenhaus erfahren? Nutzen Sie das Kontaktformular, damit unsere Berater mit Ihnen Kontakt aufnehmen können'
+    header: Digitalisierung im Krankenhaus
   ebook:
-    title: "E-Book: Abenteuer E-Learning"
-    sub_title: "Laden Sie jetzt unser E-Book herunter und erhalten Sie Tipps und Tricks beim Einsatz von E-Learning."
+    sub_title: Laden Sie jetzt unser E-Book herunter und erhalten Sie Tipps und Tricks beim Einsatz von E-Learning.
+    title: 'E-Book: Abenteuer E-Learning'
   elearning:
-    heading: "E-Learning mit einem zukunftsorientierten Partner"
+    heading: E-Learning mit einem zukunftsorientierten Partner
   elearning-in-healthcare:
-    title: "Qualität im Krankenhaus sichern: E-Learning mit Defacto"
     form:
-      header: "Mehr Informationen?"
+      header: Mehr Informationen?
       text: |
         Möchten Sie mehr über die Implementation von E-Learning erfahren?
         Geben Sie Ihre E-mail an, damit unsere Experten so schnell wie möglich Kontakt mit Ihnen aufnehmen können.
+    title: 'Qualität im Krankenhaus sichern: E-Learning mit Defacto'
   elearning_ebook:
-    formkeep_title: "E-book download"
-    formkeep_title_popup: "E-book download popup"
-    heading_html: "Unser <span class=\"pre\">E-Learning</span> Buch gratis herunterladen"
-    image_alt: "Handbuch Abenteuer E-Learning"
-    close_alt: "schließen"
+    close_alt: schließen
+    formkeep_title: E-book download
+    formkeep_title_popup: E-book download popup
+    heading_html: Unser <span class="pre">E-Learning</span> Buch gratis herunterladen
+    image_alt: Handbuch Abenteuer E-Learning
   error:
-    heading: "Sorry, diese Seite existiert nicht."
-    text_md: "Dies bedeutet nicht, dass Sie einen Fehler gemacht haben. Es kann sein, dass wir die Seite umbenannt oder bewegt haben."
-    img_alt: "Seite nicht gefunden"
+    heading: 'Sorry, diese Seite existiert nicht.'
+    img_alt: Seite nicht gefunden
+    text_md: 'Dies bedeutet nicht, dass Sie einen Fehler gemacht haben. Es kann sein, dass wir die Seite umbenannt oder bewegt haben.'
   events:
-    title: "Veranstaltungskalender"
-    cta_title: "Melden Sie sich an"
-    no_planned_events: "Momentan sind keine Termine geplant."
-    sub_title: "Sehen Sie hier die Veranstaltungen, die wir organisieren oder an denen wir teilnehmen."
+    cta_title: Melden Sie sich an
+    no_planned_events: Momentan sind keine Termine geplant.
+    sub_title: 'Sehen Sie hier die Veranstaltungen, die wir organisieren oder an denen wir teilnehmen.'
+    title: Veranstaltungskalender
   footer:
     capp:
-      learn: "CAPP Learning Management"
-      develop: "CAPP Talent Management"
-    copyright_html: "Diese Webseite ist %{link}. © 1987 - %{year} Defacto"
-    country: "(NL)"
+      develop: CAPP Talent Management
+      learn: CAPP Learning Management
+    copyright_html: 'Diese Webseite ist %{link}. © 1987 - %{year} Defacto'
+    country: (NL)
     follow:
-      title: "Defacto folgen"
-      text: "Folge uns via Social Media"
-    hiring: "Hiring!"
-    jobs: "Jobs"
-    open_source: "Open Source"
+      text: Folge uns via Social Media
+      title: Defacto folgen
+    hiring: Hiring!
+    jobs: Jobs
+    open_source: Open Source
     search: Suche
-    slogan: "Defacto — Developing People seit 1987"
+    slogan: Defacto — Developing People seit 1987
     subscribe:
-      title: "Newsletter"
-      text: "Abonnieren Sie unseren Newsletter und bleiben Sie informiert"
+      text: Abonnieren Sie unseren Newsletter und bleiben Sie informiert
+      title: Newsletter
   form:
-    email: "E-Mail-Adresse"
-    message: "Wie können wir Ihnen helfen?"
-    name: "Name"
+    email: E-Mail-Adresse
     first_name: Vorname
+    message: Wie können wir Ihnen helfen?
+    name: Name
+    organisation: Betrieb oder Organisation
+    phone: Telefon
+    position: Rolle
+    register: Melden Sie sich an
+    submit: Versenden
     sur_name: Nachname
-    organisation: "Betrieb oder Organisation"
-    phone: "Telefon"
-    position: "Rolle"
-    submit: "Versenden"
-    register: "Melden Sie sich an"
-  jobs:
-    acquisition: "Achtung: Keine Werbung auf diese Stellenanzeige verschicken."
-    apply: "Bewerben &raquo;"
-    header: "Defacto als Dein Arbeitgeber​"
-    more: "Weitere Jobs:"
-    title: "Offene Stelle:"
-    vacancies: "Stellenmarkt:"
   head:
-    default_description: "Defacto hilft Unternehmen bei der Personalentwicklung und Zertifizierung von Mitarbeitern"
-    default_title: "Defacto"
+    default_description: Defacto hilft Unternehmen bei der Personalentwicklung und Zertifizierung von Mitarbeitern
+    default_title: Defacto
   header:
-    about: "Über uns"
-    blog: "Blog"
-    contact: "Kontakt"
-    home: "Home"
-    menu: "Menu"
-    products: "Produkte"
-    services: "Service"
-    solutions: "Lösungen"
-    support: "Service & Support"
-    jobs: "Jobs"
-    themes: "Themen"
-    events: "Veranstaltungskalender"
-    open-source: "Open Source"
-    select-language: "Wähle Ihre Sprache"
+    about: Über uns
+    blog: Blog
+    contact: Kontakt
+    events: Veranstaltungskalender
+    home: Home
+    jobs: Jobs
+    menu: Menu
+    open-source: Open Source
+    products: Produkte
+    select-language: Wähle Ihre Sprache
+    services: Service
+    solutions: Lösungen
+    support: Service & Support
+    themes: Themen
   home:
     hero_capp:
-      title: "Learning & Talent Management"
-      text: "Vielfalt des Lernens für motivierte und qualifizierte Mitarbeiter"
+      text: Vielfalt des Lernens für motivierte und qualifizierte Mitarbeiter
+      title: Learning & Talent Management
     solutions:
-      informal:
-        text_html: "Performance-Support mit CAPP Agile Learning: schnell, effektiv und genau auf Ihr Unternehmen zugeschnitten."
-        title: "CAPP Agile Learning"
       develop:
-        text_html: "Gutes Talentmanagement bedeutet zu wissen, was die Mitarbeiter*innen alles können, sie entsprechend zu fördern und gezielt einzusetzen."
-        title: "Talent Management"
+        text_html: 'Gutes Talentmanagement bedeutet zu wissen, was die Mitarbeiter*innen alles können, sie entsprechend zu fördern und gezielt einzusetzen.'
+        title: Talent Management
+      informal:
+        text_html: 'Performance-Support mit CAPP Agile Learning: schnell, effektiv und genau auf Ihr Unternehmen zugeschnitten.'
+        title: CAPP Agile Learning
       learn:
-        text_html: "Das CAPP Learning Management System (LMS) bedeutet für Ihr Unternehmen motivierendes und effizientes Bildungsmanagement."
-        title: "Learning Management"
+        text_html: Das CAPP Learning Management System (LMS) bedeutet für Ihr Unternehmen motivierendes und effizientes Bildungsmanagement.
+        title: Learning Management
       quality:
-        text_html: "Ein anspruchsvolles Qualifikationsmanagement sollte die permanente Fort- und Weiterbildung Ihrer Mitarbeiter auch nachweisen können."
-        title: "Compliance Management"
+        text_html: Ein anspruchsvolles Qualifikationsmanagement sollte die permanente Fort- und Weiterbildung Ihrer Mitarbeiter auch nachweisen können.
+        title: Compliance Management
   hosting:
-    heading: "Hosting und Sicherheit"
+    heading: Hosting und Sicherheit
   implementaties:
-    heading: "Erfahrung und Zusammenarbeit als Basis für eine erfolgreiche Implementierung."
+    heading: Erfahrung und Zusammenarbeit als Basis für eine erfolgreiche Implementierung.
   impressum:
-    title: "Impressum"
+    title: Impressum
+  jobs:
+    acquisition: 'Achtung: Keine Werbung auf diese Stellenanzeige verschicken.'
+    apply: Bewerben &raquo;
+    header: Defacto als Dein Arbeitgeber​
+    more: 'Weitere Jobs:'
+    title: 'Offene Stelle:'
+    vacancies: 'Stellenmarkt:'
   koppelingen:
-    heading: "Zertifizierte Schnittstellen"
+    heading: Zertifizierte Schnittstellen
   kwaliteitsmonitor:
     cta_bottom:
-      formkeep_title: "Kwaliteitsmonitor: afspraak maken"
-      heading_md: "Endlich eine Übersicht aller Qualifikationen in Ihrer Organisation?"
+      formkeep_title: 'Kwaliteitsmonitor: afspraak maken'
+      heading_md: Endlich eine Übersicht aller Qualifikationen in Ihrer Organisation?
   kwaliteitspaspoort:
-    name: "CAPP Compliance & Qualifikationsmanagement"
-    name-simple: "CAPP Compliance"
-    desc: "Qualifikationen und Kompetenzen auf Knopfdruck auswertbar"
-    heading-contact: "Erleben Sie CAPP Compliance & Qualifikationsmanagement live!"
+    desc: Qualifikationen und Kompetenzen auf Knopfdruck auswertbar
+    formkeep_title: Afspraak maken nieuwe CAPP
+    heading-contact: Erleben Sie CAPP Compliance & Qualifikationsmanagement live!
     hero:
-      title: "Compliance & Qualifikationsmanagement"
-      sub_title: "Qualifikationen und Kompetenzen auf Knopfdruck auswertbar "
-    formkeep_title: "Afspraak maken nieuwe CAPP"
+      sub_title: 'Qualifikationen und Kompetenzen auf Knopfdruck auswertbar '
+      title: Compliance & Qualifikationsmanagement
+    name: CAPP Compliance & Qualifikationsmanagement
+    name-simple: CAPP Compliance
     page-nav:
-      introduction: "CAPP Compliance & Qualifikationsmanagement"
-      features: "Vorteile CAPP"
+      features: Vorteile CAPP
+      introduction: CAPP Compliance & Qualifikationsmanagement
   nav:
-    capp-lms: "Vielfalt des Lernens für motivierte und qualifizierte Mitarbeiter"
-    capp-develop: "Nutzen Sie das volle Potenzial Ihrer wertvollsten Ressource"
-    kwaliteitspaspoort: "Qualifikationen und Kompetenzen auf Knopfdruck auswertbar"
-    capp-agile: "Performance-Support für alle Unternehmen und Organisationen"
-    threesixty: "Die Sichtweisen der anderen kennen, um sich selbst weiterzuentwickeln"
-    close: "Schließen"
+    capp-agile: Performance-Support für alle Unternehmen und Organisationen
+    capp-develop: Nutzen Sie das volle Potenzial Ihrer wertvollsten Ressource
+    capp-lms: Vielfalt des Lernens für motivierte und qualifizierte Mitarbeiter
+    close: Schließen
+    kwaliteitspaspoort: Qualifikationen und Kompetenzen auf Knopfdruck auswertbar
+    threesixty: 'Die Sichtweisen der anderen kennen, um sich selbst weiterzuentwickeln'
   privacy-policy:
-    name: "Datenschutzerklärung"
-    text: "Mit Nutzung dieser Website, geben Sie ihr Einverständnis mit unserer %{link} ab"
-    link: "Datenschutzerklärung"
+    link: Datenschutzerklärung
+    name: Datenschutzerklärung
+    text: 'Mit Nutzung dieser Website, geben Sie ihr Einverständnis mit unserer %{link} ab'
   products:
-    title: "Produkte, auf die wir stolz sind"
     capp:
-      capp-lms: "CAPP Learning Management"
-      learn: "CAPP Learning Management"
-      develop: "CAPP Talent Management"
+      capp-lms: CAPP Learning Management
+      develop: CAPP Talent Management
+      learn: CAPP Learning Management
+    title: 'Produkte, auf die wir stolz sind'
   productsheet_download:
-    title: "Mehr Informationen über Fort- und Weiterbilden mit CAPP LMS?"
-    heading: "CAPP Produktblatt herunterladen"
-    formkeep_title: "CAPP: download productsheet page"
+    formkeep_title: 'CAPP: download productsheet page'
+    heading: CAPP Produktblatt herunterladen
+    title: Mehr Informationen über Fort- und Weiterbilden mit CAPP LMS?
   search:
+    downloading: Index herunterladen
     heading: Suche
+    page: Seite
     placeholder: Sucheingabe
-    result: "Ergebnis"
-    results: "Ergebnisse"
-    downloading: "Index herunterladen"
-    vacancy: "Vacanz"
-    page: "Seite"
+    result: Ergebnis
+    results: Ergebnisse
+    vacancy: Vacanz
   service:
-    team_title: "Unser Support-Team"
-    title: "Service & Support"
-    title_text: "Service und Support von Defacto. Wir helfen Ihnen gerne weiter bei Problemen, technischen Fragen und Updates."
+    team_title: Unser Support-Team
+    title: Service & Support
+    title_text: 'Service und Support von Defacto. Wir helfen Ihnen gerne weiter bei Problemen, technischen Fragen und Updates.'
   services:
     services:
       elearning:
-        desc: "Mit Defacto als erfahrenem und technisch geschultem Partner wird %{link} in Ihrer Organisation unwiderruflich zum Erfolg."
+        desc: 'Mit Defacto als erfahrenem und technisch geschultem Partner wird %{link} in Ihrer Organisation unwiderruflich zum Erfolg.'
         name: E-Learning
       hosting:
-        desc: "Durch 25 Jahre Erfahrung mit IT-Implementierungen bei großen (behördlichen) Institutionen wissen wir ganz besonders, dass solides %{link} Grundvoraussetzungen sind."
-        link: "Hosting und Sicherheit"
-        name: "Hosting & Sicherheit"
+        desc: 'Durch 25 Jahre Erfahrung mit IT-Implementierungen bei großen (behördlichen) Institutionen wissen wir ganz besonders, dass solides %{link} Grundvoraussetzungen sind.'
+        link: Hosting und Sicherheit
+        name: Hosting & Sicherheit
       implementaties:
-        desc: "Defacto hat eine eigene %{link} entwickelt wobei unsere Projektleiter und Berater gemeinsam mit Ihrem Management Team die Strategie und Ausführung gewährleisten."
+        desc: 'Defacto hat eine eigene %{link} entwickelt wobei unsere Projektleiter und Berater gemeinsam mit Ihrem Management Team die Strategie und Ausführung gewährleisten.'
         link: Implementierungsmethodik
         name: Implementierungen
       koppelingen:
-        desc: "Unsere Software kann mit verschiedenen Systemen %{link} werden."
+        desc: 'Unsere Software kann mit verschiedenen Systemen %{link} werden.'
         link: gekoppelt
         name: Schnittstellen
-    title: "Dienstleistungen auf die wir stolz sind."
+    title: Dienstleistungen auf die wir stolz sind.
   sharing:
-    share_post: "Teil diesen Artikel:"
-    share_job: "Teil dieses Stellenangebot:"
-    share_case: "Teil diese Kundenreferenz:"
-    share_event: "Teil diese Veranstaltung:"
-    twitter: Teile auf Twitter
     facebook: Teile auf Facebook
     google_plus: Teile auf Google+
     linkedin: Teile auf LinkedIn
+    share_case: 'Teil diese Kundenreferenz:'
+    share_event: 'Teil diese Veranstaltung:'
+    share_job: 'Teil dieses Stellenangebot:'
+    share_post: 'Teil diesen Artikel:'
+    twitter: Teile auf Twitter
     xing: Teile auf Xing
   solutions:
-    title: "Lösungen"
     pages:
       healthcare:
-        name: "Gesundheitswesen"
-        desc: "E-Learning ist ein wichtiger Faktor, um die Mitarbeiter %{link} entsprechend zu schulen. Am besten können Sie Ihre Personalentwicklung mit Software von Defacto darauf abstimmen."
-        link: "im Gesundheitswesen"
-        title: "E-Learning und Personalentwicklung im Krankenhaus: mit Software von Defacto Qualität sichern"
-        page-navigation:
-          general: "Allgemein"
-          learning-platform: "Lernplattform"
-          human-resource-development: "Personalentwicklung"
-          references: "Referenzen"
         cases:
-          title: "Referenzen"
+          title: Referenzen
+        desc: 'E-Learning ist ein wichtiger Faktor, um die Mitarbeiter %{link} entsprechend zu schulen. Am besten können Sie Ihre Personalentwicklung mit Software von Defacto darauf abstimmen.'
+        link: im Gesundheitswesen
         more:
-          title: "Mehr zum Gesundheitswesen"
-      performance-support:
-        name: "Performance Support"
-        desc: "Bei %{link} geht es um die Unterstützung am Arbeitsplatz durch kontextgebundene Lerneinheiten. Also Lerneinheiten oder Informationen um ihre täglichen Arbeitsabläufe effizient und bestmöglich ausführen zu können. "
-        link: "Performance Support"
-        title: "Performance Support: Leistungsunterstützung am Arbeitsplatz"
+          title: Mehr zum Gesundheitswesen
+        name: Gesundheitswesen
         page-navigation:
-          general: "Performance Support"
-          advantages: "Vorteile"
-          moments: "5 Moments of Need"
-          practical: "In der Praxis"
-        form_title: "Contact Request: Performance Support"
-        form_header: "Möchten Sie mehr über Performance Support erfahren und wie dies in Ihrem Unternehmen implementiert werden kann?"
-        more_title: "Unsere Produkte"
+          general: Allgemein
+          human-resource-development: Personalentwicklung
+          learning-platform: Lernplattform
+          references: Referenzen
+        title: 'E-Learning und Personalentwicklung im Krankenhaus: mit Software von Defacto Qualität sichern'
+      performance-support:
+        desc: 'Bei %{link} geht es um die Unterstützung am Arbeitsplatz durch kontextgebundene Lerneinheiten. Also Lerneinheiten oder Informationen um ihre täglichen Arbeitsabläufe effizient und bestmöglich ausführen zu können. '
+        form_header: Möchten Sie mehr über Performance Support erfahren und wie dies in Ihrem Unternehmen implementiert werden kann?
+        form_title: 'Contact Request: Performance Support'
+        link: Performance Support
+        more_title: Unsere Produkte
+        name: Performance Support
+        page-navigation:
+          advantages: Vorteile
+          general: Performance Support
+          moments: 5 Moments of Need
+          practical: In der Praxis
+        title: 'Performance Support: Leistungsunterstützung am Arbeitsplatz'
+    title: Lösungen
   testimonials:
-    title: "Was unsere Kunden sagen"
-    more_testimonials: "Mehr Kundenstimmen"
+    more_testimonials: Mehr Kundenstimmen
+    title: Was unsere Kunden sagen
   thanks:
-    heading: "Vielen Dank."
-    message: "Wir melden uns so schnell wie möglich bei Ihnen."
+    back: Zurück zur vorherigen Seite.
+    heading: Vielen Dank.
+    img_alt: Vielen Dank!
+    message: Wir melden uns so schnell wie möglich bei Ihnen.
     message_download: 'Das Herunterladen sollte jetzt automatisch starten…<br>Wenn nicht, klicke <a target="_blank">hier</a>.'
     newsletter:
-      subscribed: "Um die Anmeldung abzuschließen, klicken Sie bitte auf den Link in der E-Mail, die wir Ihnen gerade gesendet haben."
-      confirmed: "Ihre Registrierung für unseren Newsletter wurde bestätigt."
-      unsubscribed: "Sie haben sich von unserem Newsletter abgemeldet."
-    back: Zurück zur vorherigen Seite.
-    thanks: "Vielen Dank."
-    img_alt: "Vielen Dank!"
+      confirmed: Ihre Registrierung für unseren Newsletter wurde bestätigt.
+      subscribed: 'Um die Anmeldung abzuschließen, klicken Sie bitte auf den Link in der E-Mail, die wir Ihnen gerade gesendet haben.'
+      unsubscribed: Sie haben sich von unserem Newsletter abgemeldet.
+    thanks: Vielen Dank.
   themes:
-    title: "Aktuelle Themen"
     70-20-10:
-      name: "70:20:10 in der Praxis"
-      desc: "Menschen lernen täglich neu in ihren Organisationen und bilden sich weiter. Das 70:20:10-Lernmodell kann dazu beitragen, geeignete Rahmenbedingungen zu schaffen und so diese Entwicklung zu fördern."
+      desc: 'Menschen lernen täglich neu in ihren Organisationen und bilden sich weiter. Das 70:20:10-Lernmodell kann dazu beitragen, geeignete Rahmenbedingungen zu schaffen und so diese Entwicklung zu fördern.'
+      name: '70:20:10 in der Praxis'
     cmt:
-      name: "Medizinproduktegesetz"
-      desc: "Jedes Krankenhaus in Deutschland ist mit dieser Herausforderung vertraut: Auf nachweisbare und transparente Weise die Fähigkeiten von Mitarbeitern bei dem Einsatz von Medizinprodukten anzeigen zu können."
+      desc: 'Jedes Krankenhaus in Deutschland ist mit dieser Herausforderung vertraut: Auf nachweisbare und transparente Weise die Fähigkeiten von Mitarbeitern bei dem Einsatz von Medizinprodukten anzeigen zu können.'
+      name: Medizinproduktegesetz
     digital-hospital:
-      name: "Digitalisierung im Krankenhaus"
-      desc: "Ob Fachkräftemangel oder neue gesetzliche Vorgaben an das Gesundheitswesen, digitale Lösungen für die Personalentwicklung von Krankenhäusern und Kliniken bietet Ihnen vielfältige Möglichkeiten."
+      desc: 'Ob Fachkräftemangel oder neue gesetzliche Vorgaben an das Gesundheitswesen, digitale Lösungen für die Personalentwicklung von Krankenhäusern und Kliniken bietet Ihnen vielfältige Möglichkeiten.'
+      name: Digitalisierung im Krankenhaus
     elearning-in-healthcare:
-      name: "E-Learning im Gesundheitswesen"
-      desc: "Die Qualität im Krankenhaus lässt sich durch E-Learning für alle Mitarbeiter nachhaltig verbessern. Defacto hilft Ihnen bei Installation und Umsetzung."
+      desc: Die Qualität im Krankenhaus lässt sich durch E-Learning für alle Mitarbeiter nachhaltig verbessern. Defacto hilft Ihnen bei Installation und Umsetzung.
+      name: E-Learning im Gesundheitswesen
+    title: Aktuelle Themen
   threesixty:
     cta_bottom:
-      heading_md: "Testen Sie 360° Feedback jetzt gratis!"
-    desc: "%{link} ist ein effizientes Tool für eine transparente Personalentwicklung und motivierte Entwicklung Ihrer Mitarbeiter."
+      heading_md: Testen Sie 360° Feedback jetzt gratis!
+    desc: '%{link} ist ein effizientes Tool für eine transparente Personalentwicklung und motivierte Entwicklung Ihrer Mitarbeiter.'
     hero:
-      text_md: "Aus dem 360°-Feedback entsteht ein individueller Entwicklungsplan für jeden Mitarbeiter"
-      title: "360° Feedback"
+      text_md: Aus dem 360°-Feedback entsteht ein individueller Entwicklungsplan für jeden Mitarbeiter
+      title: 360° Feedback
     logo: logos/360feedback.svg
-    name: "360° Feedback"
+    name: 360° Feedback
   whitepapers:
     performance_support:
-      title: "Whitepaper - Performance Support in der Praxis"
-      sub_title: "Laden Sie jetzt unser Whitepaper herunter und erfahren Sie mehr über den Einsatz von Performance Support."
+      sub_title: Laden Sie jetzt unser Whitepaper herunter und erfahren Sie mehr über den Einsatz von Performance Support.
+      title: Whitepaper - Performance Support in der Praxis
