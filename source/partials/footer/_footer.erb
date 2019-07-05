@@ -4,7 +4,7 @@
     <div class="footer-main">
 
       <div class="navigation">
-        <%= partial "footer/footer-nav" %>
+        <%= partial "partials/footer/footer-nav" %>
       </div>
 
       <div class="connect">
@@ -21,7 +21,9 @@
         </div>
 
         <div class="social-links">
-          <h3><%= t("footer.follow.title") %></h3>
+          <h3>
+            <%= t("footer.follow.title") %>
+          </h3>
           <p>
             <%= t("footer.follow.text") %>
           </p>
@@ -51,7 +53,9 @@
     <div class="footer-sub">
 
       <div class="about">
-        <h4><%= t("footer.slogan") %></h4>
+        <h4>
+          <%= t("footer.slogan") %>
+        </h4>
         <p>
           <span>Zuiderpark 3, 9724 AD, Groningen <%= t("footer.country") %></span>
           <span class="divider">|</span>
@@ -84,11 +88,11 @@
     <div class="footer-content-info" role="contentinfo">
 
       <% unless root_locale == :en %>
-        <%= link_to t("privacy-policy.name"), "/privacy-policy.html" %> |
+        <%= link_to t("navigation.footer.privacy-policy"), "/privacy-policy.html" %> |
       <% end %>
 
       <% if root_locale == :de %>
-        <%= link_to t("impressum.title"), "/impressum.html" %> |
+        <%= link_to t("navigation.footer.impressum"), "/impressum.html" %> |
       <% end %>
 
       <%= t("footer.copyright_html", { link: link_to(t("footer.open_source"), "https://github.com/DefactoSoftware/website/", target: "_blank"), year: Time.now.year }) %>

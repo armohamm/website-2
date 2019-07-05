@@ -30,22 +30,16 @@ nl:
     header: '70:20:10 in de praktijk'
     subheading: Leren is veel meer dan het zenden van informatie
   about:
-    about_defacto: Over Defacto
-    cases: Cases
-    clients: Klanten
-    contact: Contact
     heading: Wij zijn Defacto
     heading2: Leren en ontwikkelen sinds 1987
     jobs: Werken bij Defacto
     team:
       work_with_us: Werken bij
       you: jij?
-    testimonials: Testimonials
   actions:
     download: Download
     download_productsheet: Download productsheet
     home:
-      demo: Vraag een demo aan
       test: Doe de LMS-test
     make_appointment: Maak een afspraak
     more_about:
@@ -85,12 +79,10 @@ nl:
     title: Blog – leren en ontwikkelen
   capp:
     cta_bottom:
-      formkeep_title: 'CAPP: afspraak maken'
       heading_md: Meer informatie over opleiden & leren met CAPP LMS?
       subheading: Download de CAPP LMS Productsheet
     desc: '%{link} faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant.'
     hero:
-      formkeep_title: 'CAPP: download productsheet'
       subtitle_1: Kennisintensieve organisaties kunnen niet zonder goed opgeleide medewerkers.
       subtitle_2: Maak medewerkers aantoonbaar vakbevoegd en vakbekwaam met CAPP LMS.
       text_md: __CAPP LMS Software__ helpt uw medewerkers of klanten op optimale wijze op te leiden en hun vakmanschap te bevorderen.
@@ -124,7 +116,6 @@ nl:
           Verbeter de prestaties van jezelf en je organisatie. Met CAPP Agile Learning creëer je een platform specifiek gericht op de kennis die je organisatie in huis heeft. Performance Support made Agile; snel, effectief en specifiek voor je eigen organisatie.
         heading: Verbeter je prestaties
   capp-new:
-    formkeep_title: Afspraak maken nieuwe CAPP
     heading-contact: Nieuwsgierig naar de uitgebreide mogelijkheden van CAPP LMS? Maak nu een afspraak!
     hero:
       sub_title: CAPP LMS faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant.
@@ -186,17 +177,9 @@ nl:
         info: Ben je key user en heb je een supportvraag? Chat direct met een van onze medewerkers.
     phone: 050 3144832
     phone_link: '+31503144832'
-  demo_request:
-    form_text: 'Laat je gegevens achter, dan nemen we zo spoedig mogelijk contact met je op.'
-    form_title: Vraag je demo aan
-    sub_title: Wil je meer weten? Maak kennis met onze producten en aanpak tijdens een demo door een van onze experts.
-    title: Transformeer leren en ontwikkelen in jouw organisatie
   elearning:
     heading: E-Learning ontwikkelen met Defacto
   elearning_ebook:
-    close_alt: Sluiten
-    formkeep_title: E-book download
-    formkeep_title_popup: E-book download popup
     heading_html: Ontvang gratis ons <span class="pre">E-Learning</span> Handboek
     image_alt: E-Learning Handboek Leren & Laten Leren
   error:
@@ -211,16 +194,13 @@ nl:
     title: Evenementenagenda
     title_closed: De inschrijving voor dit evenement is gesloten.
   footer:
-    capp: CAPP Learning & Talent Management
     contact: Contact opnemen &raquo;
     copyright_html: 'Deze website is %{link}. © 1987 - %{year} Defacto'
     country: ''
     follow:
       text: Volg ons via social media
       title: Volg Defacto
-    hiring: Hiring!
     open_source: open source
-    search: Zoeken
     slogan: Defacto — Developing People sinds 1987
     subscribe:
       text: Schrijf je nu in en blijf op de hoogte
@@ -245,20 +225,6 @@ nl:
   head:
     default_description: Defacto helpt organisaties bij het ontwikkelen en certificeren van hun medewerkers
     default_title: Defacto
-  header:
-    about: Over ons
-    blog: Blog
-    contact: Contact
-    events: Evenementenagenda
-    home: Home
-    jobs: Jobs
-    menu: Menu
-    open-source: Open Source
-    products: Producten
-    select-language: Selecteer je taal
-    services: Diensten
-    support: Service & Support
-    themes: Thema's
   home:
     hero:
       text: Meer dan 200.000 professionals gebruiken onze software om te leren en hun talenten te ontwikkelen
@@ -292,7 +258,6 @@ nl:
     heading: Gecertificeerde koppelingen
   kwaliteitsmonitor:
     cta_bottom:
-      formkeep_title: 'Kwaliteitsmonitor: afspraak maken'
       heading_md: Download de Kwaliteitsmonitor productsheet
     desc: 'Hoe staat het ervoor met de kwaliteit in jouw organisatie? Bekijk het real-time met %{link}.'
     hero:
@@ -303,24 +268,59 @@ nl:
     name: Kwaliteitsmonitor
   kwaliteitspaspoort:
     cta_bottom:
-      formkeep_title: 'Kwaliteitspaspoort: afspraak maken'
       heading_md: Nu beginnen met het behalen van je accreditaties met het CAPP Kwaliteitspaspoort?
     desc: 'Garandeer kwaliteit binnen uw organisatie door te werken aan bevoegdheden en bekwaamheden van uw medewerkers. Maak uw organisatie toekomstbestendig met het %{link}.'
     hero:
-      formkeep_title: 'Kwaliteitspaspoort: meer informatie'
       image: screenshots/hero-kwaliteitspaspoort.png
       text_md: In één oogopslag zicht op bevoegd- en bekwaamheid
       title: Elke medewerker aantoonbaar bekwaam met het CAPP Kwaliteitspaspoort
     logo: logos/kwaliteitspaspoort-white.png
     name: Kwaliteitspaspoort
-  nav:
-    capp-agile: Performance support voor elke organisatie
-    capp-lms: CAPP faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant.
-    close: Sluiten
-    compliance-api: Deel actuele compliance data met andere systemen in je organisatie
-    kwaliteitsmonitor: Altĳd en overal inzicht in de kwaliteit en bevoegdheid van je organisatie
-    kwaliteitspaspoort: Real-time inzicht in bevoegd- en bekwaamheid binnen je organisatie
-    threesixty: Maak een efficiëntieslag in je HRD
+  navigation:
+    buttons:
+      close: Sluiten
+      menu: Menu
+      search: Zoeken
+      select-language: Selecteer je taal
+    clients:
+      cases: Cases
+      testimonials: Testimonials
+      title: Klanten
+    defacto:
+      about-us: Over Ons
+      blog: Blog
+      contact: Contact
+      events: Evenementenagenda
+      jobs: Jobs
+      open-source: Open Source
+      support: Service & Support
+      themes: Thema's
+      title: Defacto
+    footer:
+      privacy-policy: Privacy Policy
+    products:
+      capp-agile:
+        text: Performance support voor elke organisatie
+        title: CAPP Agile learning
+      capp-compliance:
+        text: Real-time inzicht in bevoegd- en bekwaamheid binnen je organisatie
+        title: Kwaliteitspaspoort
+      capp-lms:
+        text: CAPP faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant.
+        title: CAPP LMS
+      capp-monitor:
+        text: Altijd en overal inzicht in de kwaliteit en bevoegdheid van je organisatie
+        title: Kwaliteitsmonitor
+      threesixty:
+        text: Maak een efficiëntieslag in je HRD
+        title: 360° Feedback
+      title: Producten
+    services:
+      elearning: E-Learning
+      hosting: Hosting & Security
+      implementations: Implementaties
+      integrations: Koppelingen
+      title: Diensten
   privacy-policy:
     link: privacy policy
     name: Privacy Policy
@@ -330,7 +330,6 @@ nl:
       capp-lms: CAPP LMS
     title: Producten waar we trots op zijn
   productsheet_download:
-    formkeep_title: CAPP download productsheet page
     heading: Meer informatie over opleiden & leren met CAPP LMS?
     title: CAPP Productsheet downloaden
   quizzes:

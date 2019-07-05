@@ -4,7 +4,7 @@
 
     <a class="root-link item-mobile-menu">
       <span class="toggle">
-        Menu
+        <%= t("navigation.buttons.menu") %>
       </span>
     </a>
 
@@ -13,13 +13,13 @@
       <div class="popup-container">
 
         <a class="popup-close-button">
-          <%= t("nav.close") %>
+          <%= t("navigation.buttons.close") %>
         </a>
 
         <div class="mobile-products">
 
           <span class="mobile-nav-title">
-            <%= t("header.products") %>
+            <%= t("navigation.products.title") %>
           </span>
 
           <div class="mobile-products-list">
@@ -44,10 +44,10 @@
                 <li>
                   <% nav_link_to("/capp-lms.html", class: "link-container item-capp") do %>
                     <div class="product-icon">
-                      <%= image_tag "icons/learning-pink.svg", title: t("products.capp.capp-lms"), alt: t("products.capp.capp-lms") %>
+                      <%= image_tag "icons/learning-pink.svg", title: t("navigation.products.capp-lms.title"), alt: t("navigation.products.capp-lms.title") %>
                     </div>
                     <div class="product-link-content">
-                      <%= t("products.capp.capp-lms") %>
+                      <%= t("navigation.products.capp-lms.title") %>
                     </div>
                   <% end %>
                 </li>
@@ -59,10 +59,10 @@
                 <li>
                   <% nav_link_to("/capp-talent-management.html", class: "link-container item-capp") do %>
                     <div class="product-icon">
-                      <%= image_tag "icons/capp-develop-pink.svg", title: t("products.capp.develop"), alt: t("products.capp.develop") %>
+                      <%= image_tag "icons/capp-develop-pink.svg", title: t("navigation.products.capp-talent.title"), alt: t("navigation.products.capp-talent.title") %>
                     </div>
                     <div class="product-link-content">
-                      <%= t("products.capp.develop") %>
+                      <%= t("navigation.products.capp-talent.title") %>
                     </div>
                   <% end %>
                 </li>
@@ -73,10 +73,10 @@
                 <li>
                   <% nav_link_to("/kwaliteitspaspoort.html", class: "link-container item-capp") do %>
                     <div class="product-icon">
-                      <%= image_tag "icons/compliance-pink.svg", title: t("kwaliteitspaspoort.name"), alt: t("kwaliteitspaspoort.name") %>
+                      <%= image_tag "icons/compliance-pink.svg", title: t("navigation.products.capp-compliance.title"), alt: t("navigation.products.capp-compliance.title") %>
                     </div>
                     <div class="product-link-content">
-                      <%= t("kwaliteitspaspoort.name") %>
+                      <%= t("navigation.products.capp-compliance.title") %>
                     </div>
                   <% end %>
                 </li>
@@ -84,10 +84,10 @@
                 <li>
                   <% nav_link_to("/kwaliteitspaspoort.html", class: "link-container item-quality") do %>
                     <div class="product-icon">
-                      <%= image_tag "icons/quality-pass.svg", title: t("kwaliteitspaspoort.name"), alt: t("kwaliteitspaspoort.name") %>
+                      <%= image_tag "icons/quality-pass.svg", title: t("navigation.products.capp-compliance.title"), alt: t("navigation.products.capp-compliance.title") %>
                     </div>
                     <div class="product-link-content">
-                      <%= t("kwaliteitspaspoort.name") %>
+                      <%= t("navigation.products.capp-compliance.title") %>
                     </div>
                   <% end %>
                 </li>
@@ -97,10 +97,10 @@
                 <li>
                   <% nav_link_to("/kwaliteitsmonitor.html", class: "link-container item-monitor") do %>
                     <div class="product-icon">
-                      <%= image_tag "icons/quality-monitor.svg", title: t("kwaliteitsmonitor.name"), alt: t("kwaliteitsmonitor.name") %>
+                      <%= image_tag "icons/quality-monitor.svg", title: t("navigation.products.capp-monitor.title"), alt: t("kwaliteitsmonitor.name") %>
                     </div>
                     <div class="product-link-content">
-                      <%= t("kwaliteitsmonitor.name") %>
+                      <%= t("navigation.products.capp-monitor.title") %>
                     </div>
                   <% end %>
                 </li>
@@ -109,10 +109,10 @@
               <li>
                 <% nav_link_to("/capp-agile-learning.html", class: "link-container item-agile") do %>
                   <div class="product-icon">
-                    <%= image_tag "icons/capp-agile-learning.svg", title: t("capp-agile.name"), alt: t("capp-agile.name") %>
+                    <%= image_tag "icons/capp-agile-learning.svg", title: t("navigation.products.capp-agile.title"), alt: t("navigation.products.capp-agile.title") %>
                   </div>
                   <div class="product-link-content">
-                    <%= t("capp-agile.name") %>
+                    <%= t("navigation.products.capp-agile.title") %>
                   </div>
                 <% end %>
               </li>
@@ -120,10 +120,10 @@
               <li>
                 <% nav_link_to("/360-feedback.html", class: "link-container item-360") do %>
                   <div class="product-icon">
-                    <%= image_tag "icons/360-feedback.svg", title: t("threesixty.name"), alt: t("threesixty.name") %>
+                    <%= image_tag "icons/360-feedback.svg", title: t("navigation.products.threesixty.title"), alt: t("navigation.products.threesixty.title") %>
                   </div>
                   <div class="product-link-content">
-                    <%= t("threesixty.name") %>
+                    <%= t("navigation.products.threesixty.title") %>
                   </div>
                 <% end %>
               </li>
@@ -142,16 +142,16 @@
 
               <li>
                 <span class="mobile-secondary-nav-title">
-                  <%= t("header.solutions") %>
+                  <%= t("navigation.solutions.title") %>
                 </span>
               </li>
 
               <li>
-                  <%= nav_link_to t("solutions.pages.healthcare.name"), "/gezondheidswezen.html", class: "item-healthcare" %>
+                  <%= nav_link_to t("navigation.solutions.healthcare"), "/gezondheidswezen.html", class: "item-healthcare" %>
               </li>
 
               <li>
-                  <%= nav_link_to t("solutions.pages.performance-support.name"), "/performance-support.html", class: "item-performance-support" %>
+                  <%= nav_link_to t("navigation.solutions.performance-support"), "/performance-support.html", class: "item-performance-support" %>
               </li>
 
             </ul>
@@ -163,24 +163,24 @@
 
             <li>
               <span class="mobile-secondary-nav-title">
-                <%= t("header.services") %>
+                <%= t("navigation.services.title") %>
               </span>
             </li>
 
             <li>
-                <%= nav_link_to t("services.services.implementaties.name"), "/implementaties.html", class: "item-implementations" %>
+                <%= nav_link_to t("navigation.services.implementations"), "/implementaties.html", class: "item-implementations" %>
             </li>
 
             <li>
-               <%= nav_link_to t("services.services.hosting.name"), "/hosting-security.html", class: "item-security" %>
+               <%= nav_link_to t("navigation.services.hosting"), "/hosting-security.html", class: "item-security" %>
             </li>
 
             <li>
-               <%= nav_link_to t("services.services.koppelingen.name"), "/koppelingen.html", class: "item-integrations" %>
+               <%= nav_link_to t("navigation.services.integrations"), "/koppelingen.html", class: "item-integrations" %>
             </li>
 
             <li>
-               <%= nav_link_to t("services.services.elearning.name"), "/e-learning.html", class: "item-elearning" %>
+               <%= nav_link_to t("navigation.services.elearning"), "/e-learning.html", class: "item-elearning" %>
             </li>
 
           </ul>
@@ -189,18 +189,18 @@
 
             <li>
               <span class="mobile-secondary-nav-title">
-                <%= t("about.clients") %>
+                <%= t("navigation.clients.title") %>
               </span>
             </li>
 
             <% unless root_locale == :en %>
               <li>
-                <%= nav_link_to t("about.cases"), "/cases/index.html", class: "item-cases" %>
+                <%= nav_link_to t("navigation.clients.cases"), "/cases/index.html", class: "item-cases" %>
               </li>
             <% end %>
 
             <li>
-              <%= nav_link_to t("about.testimonials"), "/testimonials.html", class: "item-testimonials" %>
+              <%= nav_link_to t("navigation.clients.testimonials"), "/testimonials.html", class: "item-testimonials" %>
             </li>
 
           </ul>
@@ -209,50 +209,50 @@
 
             <li>
               <span class="mobile-secondary-nav-title">
-                Defacto
+                <%= t("navigation.defacto.title") %>
               </span>
             </li>
 
             <li>
-              <%= nav_link_to t("header.about"), "/over-ons.html", class: "item-about-us" %>
+              <%= nav_link_to t("navigation.defacto.about-us"), "/over-ons.html", class: "item-about-us" %>
             </li>
 
             <% unless root_locale == :en %>
               <li>
-                <%= nav_link_to "Service & Support", "/support.html", class: "item-service" %>
+                <%= nav_link_to t("navigation.defacto.support"), "/support.html", class: "item-service" %>
               </li>
             <% end %>
 
             <li>
-              <%= nav_link_to t("header.blog"), "/blog/index.html", class: "item-blog" %>
+              <%= nav_link_to t("navigation.defacto.blog"), "/blog/index.html", class: "item-blog" %>
             </li>
 
             <% unless root_locale == :en %>
               <li>
-                <%= nav_link_to t("header.themes"), "/themas.html", class: "item-themes" %>
+                <%= nav_link_to t("navigation.defacto.themes"), "/themas.html", class: "item-themes" %>
               </li>
             <% end %>
 
             <li>
-              <%= nav_link_to t("header.open-source"), "/open-source.html", class: "item-open-source" %>
+              <%= nav_link_to t("navigation.defacto.open-source"), "/open-source.html", class: "item-open-source" %>
             </li>
 
             <% unless root_locale == :en %>
               <li>
-                 <%= nav_link_to t("header.events"), "/evenementenagenda.html", class: "item-events" %>
+                 <%= nav_link_to t("navigation.defacto.events"), "/evenementenagenda.html", class: "item-events" %>
               </li>
 
               <li>
-                <%= nav_link_to t("header.jobs"), "/jobs/index.html", class: "item-jobs" %>
+                <%= nav_link_to t("navigation.defacto.jobs"), "/jobs/index.html", class: "item-jobs" %>
               </li>
             <% end %>
 
             <li>
-              <%= nav_link_to t("footer.search"), "/zoeken.html", class: "item-search" %>
+              <%= nav_link_to t("navigation.buttons.search"), "/zoeken.html", class: "item-search" %>
             </li>
 
             <li>
-              <%= nav_link_to t("header.contact"), "/contact.html", class: "item-contact" %>
+              <%= nav_link_to t("navigation.defacto.contact"), "/contact.html", class: "item-contact" %>
             </li>
 
           </ul>

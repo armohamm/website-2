@@ -1,0 +1,23 @@
+<li class="nav-section primary">
+  <%= nav_link_to t("navigation.products.title"), "/producten.html", class: "root-link item-products has-dropdown", "data-dropdown": "products" %>
+
+  <% if root_locale == :de %>
+    <%= nav_link_to t("navigation.solutions.title"), "/oplossingen.html", class: "root-link item-solutions has-dropdown", "data-dropdown": "solutions" %>
+  <% end %>
+
+  <%= nav_link_to t("navigation.services.title"), "/diensten.html", class: "root-link item-service has-dropdown", "data-dropdown": "service" %>
+
+  <%= nav_link_to t("navigation.clients.title"), "/klanten.html", class: "root-link item-clients has-dropdown", "data-dropdown": "clients" %>
+
+  <%= nav_link_to t("navigation.defacto.title"), "/over-ons.html", class: "root-link item-company has-dropdown", "data-dropdown": "company" %>
+</li>
+
+<li class="nav-section secondary">
+  <% locale_link_to("/zoeken.html", class: "root-link item-search") do %>
+    <%= inline_svg "icons/search.svg", title: t("navigation.buttons.search") %>
+  <% end %>
+
+  <a class="root-link current-lang item-language has-dropdown" data-dropdown="languages" title="<%= t("navigation.buttons.select-language") %>">
+    <%= inline_svg "flags/#{root_locale}.svg" %> <%= root_locale.upcase %>
+  </a>
+</li>

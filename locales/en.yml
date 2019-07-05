@@ -26,7 +26,6 @@ en:
     productsheet: 'https://formkeep.com/f/631f058db68f'
     twitter: 'https://twitter.com/DefactoEN'
     url: 'https://en.defacto.nl'
-
   about:
     about_defacto: About Defacto
     clients: Clients
@@ -38,7 +37,6 @@ en:
     team:
       work_with_us: Work at
       you: you?
-    testimonials: Testimonials
   actions:
     download: Download
     download_productsheet: Download productsheet
@@ -78,12 +76,10 @@ en:
     title: Blog – Learning & Developing
   capp:
     cta_bottom:
-      formkeep_title: 'CAPP: make appointment'
       heading_md: More information on learning & development with CAPP LMS?
       subheading: Download the CAPP LMS Productsheet
     desc: CAPP ensures that your employees can learn and develop their talents in a straightforward and effective manner.
     hero:
-      formkeep_title: 'CAPP: download productsheet'
       image: screenshots/hero-capp-lms_en.png
       subtitle_1: Intuitive learning management system for knowledge-intensive organisations.
       subtitle_2: Better compliance and qualification with CAPP LMS.
@@ -144,18 +140,9 @@ en:
         info: Are you a key user and do you need help? Click here to chat directly with our support team.
     phone: +31 (0)50 3144832
     phone_link: '+31503144832'
-  demo_request:
-    form_text: Leave your details and we will contact you as soon as possible.
-    form_title: Request your Demo
-    formkeep_title: Demo request
-    sub_title: Want to know more? Discover our products and approach through a demo by one of our experts.
-    title: Request your demo
   elearning:
     heading: Advance your employees by applying E-learning to your organisation
   elearning_ebook:
-    close_alt: Close
-    formkeep_title: E-book download
-    formkeep_title_popup: E-book download popup
     heading_html: Get our <span class="pre">E-Learning</span> Handbook for free
     image_alt: E-Learning Handbook Learn & Let Learn
   error:
@@ -163,14 +150,12 @@ en:
     img_alt: Page not found
     text_md: 'This doesn’t mean you did something wrong, it’s possible that we renamed the page or relocated it.'
   footer:
-    capp: CAPP Learning & Developing
     copyright_html: 'This website is %{link}. © 1987 - %{year} Defacto'
     country: (NL)
     follow:
       text: Follow us on social media
       title: Follow Defacto
     open_source: open source
-    search: Search
     slogan: Defacto — Developing People since 1987
     subscribe:
       text: Sign up to stay up to date
@@ -186,17 +171,6 @@ en:
   head:
     default_description: Defacto helps organisations with the development and certification of their employees.
     default_title: Defacto
-  header:
-    about: About Us
-    blog: Blog
-    contact: Contact
-    home: Home
-    jobs: Jobs
-    menu: Menu
-    open-source: Open Source
-    products: Products
-    select-language: Select Your Language
-    services: Services
   home:
     hero:
       text: More than 200.000 professionals use our software to learn and develop their talents.
@@ -230,22 +204,49 @@ en:
     subheading: Our trustworthy HR importer will ensure a swift integration with our software.
   kwaliteitspaspoort:
     cta_bottom:
-      formkeep_title: 'Kwaliteitspaspoort: make appointment'
       heading_md: Want to start obtaining your accreditations with CAPP Quality Portfolio right now?
     desc: Guarantee quality within your organisation by working on the competencies and skills of your employees. Foster the long-term development of every individual with CAPP Quality Portfolio.
     hero:
-      formkeep_title: 'Kwaliteitspaspoort: more information'
       image: screenshots/hero-quality-portfolio.png
       text_md: 'Insight into competencies and capacities at a glance '
     logo: logos/qualityportfolio-white.png
     name: CAPP Quality Portfolio
-  nav:
-    capp-agile: Performance support on demand
-    capp-learn: Intuitive learning management system for knowledge-intensive organisations
-    capp-lms: LMS and efficiency software to advance the development of your employees
-    close: Close
-    kwaliteitspaspoort: Real-time insights into competencies within your organisation
-    threesixty: Increase the efficiency and quality of your HRD
+  navigation:
+    buttons:
+      close: Close
+      menu: Menu
+      search: Search
+      select-language: Select Your Language
+    clients:
+      testimonials: Testimonials
+      title: Clients
+    defacto:
+      about-us: About Us
+      blog: Blog
+      contact: Contact
+      jobs: Jobs
+      open-source: Open Source
+      title: Defacto
+    products:
+      capp-agile:
+        text: Performance support on demand
+        title: CAPP Agile Learning
+      capp-compliance:
+        text: Real-time insights into competencies within your organisation
+        title: CAPP Quality Portfolio
+      capp-lms:
+        text: LMS and efficiency software to advance the development of your employees
+        title: CAPP LMS
+      threesixty:
+        text: Increase the efficiency and quality of your HRD
+        title: 360° Feedback
+      title: Products
+    services:
+      elearning: E-Learning
+      hosting: Hosting & Security
+      implementations: Implementations
+      integrations: Integrations
+      title: Services
   products:
     capp:
       capp-lms: CAPP Learning & Developing

@@ -57,25 +57,18 @@ de:
     subheading: Lernen ist viel mehr als das Versenden von Informationen
   about:
     about_defacto: Über Defacto
-    cases: Cases
-    clients: Kunden
-    contact: Kontakt
     heading: Wir sind Defacto
     heading2: Bilden und Entwickeln seit 1987
     jobs: Arbeiten bei Defacto
     team:
       work_with_us: Arbeiten bei
       you: Sie?
-    testimonials: Kundenstimmen
   actions:
     contact: Kontakt aufnehmen
     download: Herunterladen
     download_ebook: E-Book herunterladen
     download_productsheet: Produktblatt herunterladen
     download_whitepaper: Whitepaper herunterladen
-    home:
-      demo: Demo anfragen
-      productsheet: Produktblatt herunterladen
     make_appointment: Termin vereinbaren
     more_about:
       70-20-10: 'Mehr zu 70:20:10'
@@ -121,12 +114,10 @@ de:
     title: Blog - Bilden und Entwickeln
   capp:
     cta_bottom:
-      formkeep_title: 'CAPP: afspraak maken'
       heading_md: Mehr Informationen über Fort- und Weiterbilden mit CAPP LMS?
       subheading: Produktblatt CAPP LMS herunterladen
     desc: '%{link} ist die Software für ein starkes und übersichtliches Bildungsmanagement.'
     hero:
-      formkeep_title: 'CAPP: download productsheet'
       image: capp-lms-de.png
       subtitle_1: Wissensintensive Organisationen brauchen gut ausgebildete Mitarbeiter.
       subtitle_2: Befähigen und qualifizieren Sie Ihre Mitarbeiter nachweislich mit CAPP LMS.
@@ -165,7 +156,6 @@ de:
       title: 'Ein E-Portfolio für die Personalentwicklung: CAPP Talent Management'
     name: CAPP Talent Management
   capp-new:
-    formkeep_title: Afspraak maken nieuwe CAPP
     heading-contact: Erleben Sie CAPP Learning Management live!
     hero:
       sub_title: Vielfalt des Lernens für motivierte und qualifizierte Mitarbeiter
@@ -176,7 +166,6 @@ de:
       features: Vorteile CAPP
       introduction: CAPP Learning Management
   capp-talent-management:
-    formkeep_title: Afspraak maken nieuwe CAPP
     heading-contact: Erleben Sie CAPP Talent Management live!
     hero:
       sub_title: Nutzen Sie das volle Potenzial Ihrer wertvollsten Ressource!
@@ -231,11 +220,6 @@ de:
         info: Haben Sie eine Support Frage? Chatten Sie direkt mit einem unserer Mitarbeiter.
     phone: 040 306988472
     phone_link: '+4940306988472'
-  demo_request:
-    form_text: Füllen Sie das Formulier aus und wir nehmen so schnell möglich Kontakt auf.
-    form_title: Demo anfragen
-    sub_title: Möchten Sie mehr wissen? Fragen Sie eine Demo an und lernen Sie unsere Produkte kennen.
-    title: Verwandeln Sie das Lernen und Entwickeln in ihrer Organisation mit unserer Learning & Talent Management Software
   digital-hospital:
     form:
       header: Kontakt aufnehmen
@@ -254,9 +238,6 @@ de:
         Geben Sie Ihre E-mail an, damit unsere Experten so schnell wie möglich Kontakt mit Ihnen aufnehmen können.
     title: 'Qualität im Krankenhaus sichern: E-Learning mit Defacto'
   elearning_ebook:
-    close_alt: schließen
-    formkeep_title: E-book download
-    formkeep_title_popup: E-book download popup
     heading_html: Unser <span class="pre">E-Learning</span> Buch gratis herunterladen
     image_alt: Handbuch Abenteuer E-Learning
   error:
@@ -269,18 +250,12 @@ de:
     sub_title: 'Sehen Sie hier die Veranstaltungen, die wir organisieren oder an denen wir teilnehmen.'
     title: Veranstaltungskalender
   footer:
-    capp:
-      develop: CAPP Talent Management
-      learn: CAPP Learning Management
     copyright_html: 'Diese Webseite ist %{link}. © 1987 - %{year} Defacto'
     country: (NL)
     follow:
       text: Folge uns via Social Media
       title: Defacto folgen
-    hiring: Hiring!
-    jobs: Jobs
     open_source: Open Source
-    search: Suche
     slogan: Defacto — Developing People seit 1987
     subscribe:
       text: Abonnieren Sie unseren Newsletter und bleiben Sie informiert
@@ -299,21 +274,6 @@ de:
   head:
     default_description: Defacto hilft Unternehmen bei der Personalentwicklung und Zertifizierung von Mitarbeitern
     default_title: Defacto
-  header:
-    about: Über uns
-    blog: Blog
-    contact: Kontakt
-    events: Veranstaltungskalender
-    home: Home
-    jobs: Jobs
-    menu: Menu
-    open-source: Open Source
-    products: Produkte
-    select-language: Wähle Ihre Sprache
-    services: Service
-    solutions: Lösungen
-    support: Service & Support
-    themes: Themen
   home:
     hero_capp:
       text: Vielfalt des Lernens für motivierte und qualifizierte Mitarbeiter
@@ -322,9 +282,6 @@ de:
       develop:
         text_html: 'Gutes Talentmanagement bedeutet zu wissen, was die Mitarbeiter*innen alles können, sie entsprechend zu fördern und gezielt einzusetzen.'
         title: Talent Management
-      informal:
-        text_html: 'Performance-Support mit CAPP Agile Learning: schnell, effektiv und genau auf Ihr Unternehmen zugeschnitten.'
-        title: CAPP Agile Learning
       learn:
         text_html: Das CAPP Learning Management System (LMS) bedeutet für Ihr Unternehmen motivierendes und effizientes Bildungsmanagement.
         title: Learning Management
@@ -348,11 +305,9 @@ de:
     heading: Zertifizierte Schnittstellen
   kwaliteitsmonitor:
     cta_bottom:
-      formkeep_title: 'Kwaliteitsmonitor: afspraak maken'
       heading_md: Endlich eine Übersicht aller Qualifikationen in Ihrer Organisation?
   kwaliteitspaspoort:
     desc: Qualifikationen und Kompetenzen auf Knopfdruck auswertbar
-    formkeep_title: Afspraak maken nieuwe CAPP
     heading-contact: Erleben Sie CAPP Compliance & Qualifikationsmanagement live!
     hero:
       sub_title: 'Qualifikationen und Kompetenzen auf Knopfdruck auswertbar '
@@ -362,13 +317,56 @@ de:
     page-nav:
       features: Vorteile CAPP
       introduction: CAPP Compliance & Qualifikationsmanagement
-  nav:
-    capp-agile: Performance-Support für alle Unternehmen und Organisationen
-    capp-develop: Nutzen Sie das volle Potenzial Ihrer wertvollsten Ressource
-    capp-lms: Vielfalt des Lernens für motivierte und qualifizierte Mitarbeiter
-    close: Schließen
-    kwaliteitspaspoort: Qualifikationen und Kompetenzen auf Knopfdruck auswertbar
-    threesixty: 'Die Sichtweisen der anderen kennen, um sich selbst weiterzuentwickeln'
+  navigation:
+    buttons:
+      close: Schließen
+      menu: Menu
+      search: Suche
+      select-language: Wähle Ihre Sprache
+    clients:
+      cases: Cases
+      testimonials: Kundenstimmen
+      title: Kunden
+    defacto:
+      about-us: Über Uns
+      blog: Blog
+      contact: Kontakt
+      events: Veranstaltungskalender
+      jobs: Jobs
+      open-source: Open Source
+      support: Service & Support
+      themes: Themen
+      title: Defacto
+    footer:
+      impressum: Impressum
+      privacy-policy: Datenschutzerklärung
+    products:
+      capp-agile:
+        text: Performance-Support für alle Unternehmen und Organisationen
+        title: CAPP Agile learning
+      capp-compliance:
+        text: Qualifikationen und Kompetenzen auf Knopfdruck auswertbar
+        title: CAPP Compliance
+      capp-lms:
+        text: Vielfalt des Lernens für motivierte und qualifizierte Mitarbeiter
+        title: CAPP Learning Management
+      capp-talent:
+        text: Nutzen Sie das volle Potenzial Ihrer wertvollsten Ressource
+        title: CAPP Talent Management
+      threesixty:
+        text: 'Die Sichtweisen der anderen kennen, um sich selbst weiterzuentwickeln'
+        title: 360° Feedback
+      title: Produkte
+    services:
+      elearning: E-Learning
+      hosting: Hosting & Sicherheit
+      implementations: Implementierungen
+      integrations: Schnittstellen
+      title: Service
+    solutions:
+      healthcare: Gesundheitswesen
+      performance-support: Performance Support
+      title: Lösungen
   privacy-policy:
     link: Datenschutzerklärung
     name: Datenschutzerklärung
@@ -380,7 +378,6 @@ de:
       learn: CAPP Learning Management
     title: 'Produkte, auf die wir stolz sind'
   productsheet_download:
-    formkeep_title: 'CAPP: download productsheet page'
     heading: CAPP Produktblatt herunterladen
     title: Mehr Informationen über Fort- und Weiterbilden mit CAPP LMS?
   search:

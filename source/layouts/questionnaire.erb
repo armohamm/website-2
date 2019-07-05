@@ -9,7 +9,7 @@
       <%= yield %>
     </div>
 
-    <%= partial "footer/small-footer" %>
+    <%= partial "partials/footer/small-footer" %>
     <%= partial "partials/privacy-notification" unless root_locale == :en -%>
     <%= yield_content :javascript %>
     <%= partial "partials/intercom", locals: { intercom_id: intercom_id } %>

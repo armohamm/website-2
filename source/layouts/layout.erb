@@ -7,7 +7,7 @@
 
     <div class="page-wrap">
 
-      <%= partial "header/header" %>
+      <%= partial "partials/header/header" %>
 
       <div class="main" role="main">
         <%= yield %>
@@ -15,7 +15,7 @@
 
     </div>
 
-    <%= partial "footer/footer" %>
+    <%= partial "partials/footer/footer" %>
     <%= partial "partials/privacy-notification" unless root_locale == :en -%>
     <%= javascript_include_tag "jquery", "all" %>
     <%= partial "partials/intercom", locals: { intercom_id: intercom_id } %>
