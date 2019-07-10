@@ -23,10 +23,6 @@
 ###############################################################################
 
 - firstname: Albert
-  lastname: Dijkslag
-  avatar: /images/team/albert-dijkslag.jpg
-
-- firstname: Albert
   lastname: Thie
   avatar: /images/team/albert-thie.jpg
 
@@ -105,15 +101,6 @@
 - firstname: Koos
   lastname: Akkerman
   avatar: /images/team/koos-akkerman.jpg
-
-- firstname: Laura
-  lastname: Piël
-  avatar: /images/team/laura-piel.jpg
-
-- firstname: Lennart
-  prefix: de
-  lastname: Vries
-  avatar: /images/team/lennart-de-vries.jpg
 
 - firstname: Lidia
   lastname: Bonder
