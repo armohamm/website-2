@@ -54,14 +54,26 @@
         <%= locale_link_to t("actions.more_about.quality"), "/kwaliteitspaspoort.html", class: "button small turquoise" %>
       </div>
 
-      <div class="solution">
-        <div class="solution-icon">
-          <%= locale_link_to image_tag("icons/informal-green.svg", alt: t("home.solutions.informal.title")), "/capp-agile-learning.html" %>
+      <% if root_locale == :en %>
+        <div class="solution">
+          <div class="solution-icon">
+            <%= locale_link_to image_tag("icons/informal-green.svg", alt: t("home.solutions.informal.title")), "/capp-agile-learning.html" %>
+          </div>
+          <h3><%= locale_link_to t("home.solutions.informal.title"), "/capp-agile-learning.html" %></h3>
+          <%= markitdown t("home.solutions.informal.text_html", link: locale_link_to("CAPP Agile Learning", "/capp-agile-learning.html")) %>
+          <%= locale_link_to t("actions.more_about.capp-agile"), "/capp-agile-learning.html", class: "button small green" %>
         </div>
-        <h3><%= locale_link_to t("home.solutions.informal.title"), "/capp-agile-learning.html" %></h3>
-        <%= markitdown t("home.solutions.informal.text_html", link: locale_link_to("CAPP Agile Learning", "/capp-agile-learning.html")) %>
-        <%= locale_link_to t("actions.more_about.capp-agile"), "/capp-agile-learning.html", class: "button small green" %>
-      </div>
+      <% else %>
+        <div class="solution">
+          <div class="solution-icon">
+            <%= locale_link_to image_tag("icons/capp-agile-learning-new.svg", alt: t("home.solutions.informal.title")), "/capp-agile-learning.html" %>
+          </div>
+          <h3><%= locale_link_to t("home.solutions.informal.title"), "/capp-agile-learning.html" %></h3>
+          <%= markitdown t("home.solutions.informal.text_html", link: locale_link_to("CAPP Agile Learning", "/capp-agile-learning.html")) %>
+          <%= locale_link_to t("actions.more_about.capp-agile"), "/capp-agile-learning.html", class: "button small new-green" %>
+        </div>
+      <% end %>
+
 
     <% end %>
 

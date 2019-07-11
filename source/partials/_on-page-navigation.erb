@@ -1,0 +1,13 @@
+<section class="on-page-navigation <%= locals[:variant] %>">
+  <% if locals[:links] %>
+    <ul>
+      <% locals[:links].each do |link| %>
+        <li>
+          <a href="<%= link[:anchor] %>" data-scroll-to>
+            <%= link[:key] %>
+          </a>
+        </li>
+      <% end %>
+    </ul>
+  <% end %>
+</section>

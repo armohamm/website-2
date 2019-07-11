@@ -74,6 +74,10 @@
     @include button($green);
   }
 
+  &.new-green {
+    @include button($new-green);
+  }
+
   &.red {
     @include button($red);
   }

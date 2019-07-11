@@ -6,6 +6,14 @@ section.on-page-navigation {
     padding: 0;
   }
 
+  &.new-green {
+    background: $new-green;
+
+    a {
+      color: $white;
+    }
+  }
+
   li {
     @include grid-media($medium-up) {
       display: inline-block;

@@ -1,43 +1,86 @@
 ---
+layout: "product_layout"
 title:
   nl: "CAPP Agile Learning"
   de: "Flexibles und innovatives E-Learning: CAPP Agile Learning"
   en: "CAPP Agile Learning"
 description:
-  nl: Performance support voor elke organisatie. Vraag nu een demo aan.
+  nl: Zet kennis om in relevante informatie voor de werkvloer
   de: E-Learning ist mehr als passives Abarbeiten von Online-Lerninhalten. Mit CAPP Agile Learning von Defacto wird es zum interaktiven Austausch von Wissen.
   en: Performance support for every organisation. Request a demo now.
 header_style: white
 nav_white: true
 ---
 
-<%= partial "capp-agile-learning/hero" %>
-<%= partial "capp-agile-learning/clients" %>
-<%= partial "capp-agile-learning/content" %>
-<%= partial "capp-agile-learning/why" %>
+<% if root_locale == :nl %>
 
-<section class="info-request gray" id="info-request">
+  <%= partial "partials/hero", locals: { variant: "variant-product",
+                                         variant_overlay: "overlay-darken",
+                                         background_image: "capp-agile-learning-new.jpg",
+                                         title: t("capp-agile.h1"),
+                                         logo: "logos/new/logo-capp-agile-learning.svg",
+                                         logo_title: "CAPP Agile Learning Logo"} %>
 
-  <div class="row">
-    <h2>
-      <%= t("capp-agile.form.heading") %>
-    </h2>
-  </div>
+  <%= partial "partials/on-page-navigation", locals: { variant: "new-green",
+                                                       links: [{ anchor: "#introduction", key: t("capp-agile.on-page-navigation.introduction")},
+                                                               { anchor: "#features", key: t("capp-agile.on-page-navigation.product-overview")},
+                                                               { anchor: "#download-productsheet", key: t("capp-agile.on-page-navigation.more-info")},
+                                                               { anchor: "#testimonials", key: t("capp-agile.on-page-navigation.testimonials")}]} %>
 
-  <div class="row">
+  <%= partial "capp-agile-learning/new/introduction" %>
+  <%= partial "capp-agile-learning/new/product-overview" %>
 
-    <div class="col">
-      <%= partial "partials/form", locals: { title: "Demo Request: CAPP Agile Learning",
+  <section class="cta-bottom gray" id="download-productsheet">
+    <div class="row">
+      <div>
+        <h2>
+          <%= t("capp-agile.cta_bottom.title") %>
+        </h2>
+        <p>
+          <%= t("capp-agile.cta_bottom.text") %>
+        </p>
+      </div>
+      <%= partial "partials/form", locals: { title: "Download: CAPP Agile Learning Productsheet",
+                                             form_type: "download pdf",
+                                             download_link: data.downloads.capp_agile_productsheet[I18n.locale],
                                              fields: ["name", "email", "organisation", "phone"],
-                                             button_text: t("form.submit"),
-                                             action_url: t("urls.capp_agile")} %>
+                                             button_text: t("actions.download_productsheet"),
+                                             button_class: "new-green",
+                                             action_url: t("urls.contact")} %>
+    </div>
+  </section>
+
+<% else %>
+
+  <%= partial "capp-agile-learning/old/hero" %>
+  <%= partial "capp-agile-learning/old/clients" %>
+  <%= partial "capp-agile-learning/old/content" %>
+  <%= partial "capp-agile-learning/old/why" %>
+
+  <section class="info-request gray" id="info-request">
+
+    <div class="row">
+      <h2>
+        <%= t("capp-agile.form.heading") %>
+      </h2>
     </div>
 
-    <div class="col">
-      <%= image_tag t("capp-agile.form.img"), title: t("capp-agile.form.img_alt"), alt: t("capp-agile.form.img_alt") %>
-    </div>
+    <div class="row">
 
-  </div>
-</section>
+      <div class="col">
+        <%= partial "partials/form", locals: { title: "Demo Request: CAPP Agile Learning",
+                                               fields: ["name", "email", "organisation", "phone"],
+                                               button_text: t("form.submit"),
+                                               action_url: t("urls.capp_agile")} %>
+      </div>
+
+      <div class="col">
+        <%= image_tag t("capp-agile.form.img"), title: t("capp-agile.form.img_alt"), alt: t("capp-agile.form.img_alt") %>
+      </div>
+
+    </div>
+  </section>
+
+<% end %>
 
 <%= partial "capp-agile-learning/testimonials" %>

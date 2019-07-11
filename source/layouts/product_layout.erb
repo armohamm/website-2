@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="<%= I18n.locale.to_s %>">
+
+  <%= partial "partials/head" %>
+
+  <body class="<%= page_classes %> product-page">
+
+    <div class="page-wrap">
+
+      <%= partial "partials/header/header" %>
+
+      <div class="main" role="main">
+        <%= yield %>
+      </div>
+
+    </div>
+
+    <%= partial "partials/footer/footer" %>
+    <%= partial "partials/privacy-notification" unless root_locale == :en -%>
+    <%= javascript_include_tag "jquery", "all" %>
+    <%= partial "partials/intercom", locals: { intercom_id: intercom_id } %>
+  </body>
+</html>

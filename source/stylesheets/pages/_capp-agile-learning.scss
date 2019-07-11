@@ -1,4 +1,4 @@
-body.capp-agile-learning {
+body:not(.nl).capp-agile-learning {
   .hero {
     $hero-image: "../images/moods/capp-agile-learning.jpg";
     background: $green url($hero-image) center fixed;
@@ -140,14 +140,6 @@ body.capp-agile-learning {
     .screenshot {
       $border-color: #f1f2f1;
       border: 2px solid $border-color;
-    }
-  }
-
-  .testimonials {
-    background: $lighter-gray;
-
-    h2 {
-      text-align: center;
     }
   }
 

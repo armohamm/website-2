@@ -153,6 +153,18 @@
   }
 }
 
+.capp-agile-learning-new {
+  .left {
+    background-color: lighten($new-green, 10%);
+
+    h2 {
+      img {
+        width: 300px;
+      }
+    }
+  }
+}
+
 .threesixty {
   $color: $orange;
 

@@ -403,6 +403,11 @@ header.global-navigation {
     color: $green;
   }
 
+  .item-agile-new,
+  .item-agile-new .link-title {
+    color: $new-green;
+  }
+
   .item-360,
   .item-360 .link-title {
     color: $orange-logo;
@@ -535,6 +540,18 @@ header.global-navigation {
 
           .hover-fill-dark {
             fill: darken($green, 15%);
+          }
+        }
+      }
+
+      &.item-agile-new {
+        &:hover {
+          .link-title {
+            color: darken($new-green, 20%);
+          }
+
+          .hover-fill-dark {
+            fill: darken($new-green, 15%);
           }
         }
       }

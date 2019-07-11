@@ -106,16 +106,29 @@
                 </li>
               <% end %>
 
-              <li>
-                <% nav_link_to("/capp-agile-learning.html", class: "link-container item-agile") do %>
-                  <div class="product-icon">
-                    <%= image_tag "icons/capp-agile-learning.svg", title: t("navigation.products.capp-agile.title"), alt: t("navigation.products.capp-agile.title") %>
-                  </div>
-                  <div class="product-link-content">
-                    <%= t("navigation.products.capp-agile.title") %>
-                  </div>
-                <% end %>
-              </li>
+              <% if root_locale == :nl %>
+                <li>
+                  <% nav_link_to("/capp-agile-learning.html", class: "link-container item-agile-new") do %>
+                    <div class="product-icon">
+                      <%= image_tag "icons/capp-agile-learning-new.svg", title: t("navigation.products.capp-agile.title"), alt: t("navigation.products.capp-agile.title") %>
+                    </div>
+                    <div class="product-link-content">
+                      <%= t("navigation.products.capp-agile.title") %>
+                    </div>
+                  <% end %>
+                </li>
+              <% else %>
+                <li>
+                  <% nav_link_to("/capp-agile-learning.html", class: "link-container item-agile") do %>
+                    <div class="product-icon">
+                      <%= image_tag "icons/capp-agile-learning.svg", title: t("navigation.products.capp-agile.title"), alt: t("navigation.products.capp-agile.title") %>
+                    </div>
+                    <div class="product-link-content">
+                      <%= t("navigation.products.capp-agile.title") %>
+                    </div>
+                  <% end %>
+                </li>
+              <% end %>
 
               <li>
                 <% nav_link_to("/360-feedback.html", class: "link-container item-360") do %>

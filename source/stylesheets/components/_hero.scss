@@ -100,4 +100,14 @@
       }
     }
   }
+
+  &.variant-product {
+    .hero-inner {
+      padding: calc(3em + #{$header-height}) 0 3em;
+
+      @include grid-media($medium-up) {
+        padding: calc(6em + #{$header-height}) 1em 6em;
+      }
+    }
+  }
 }

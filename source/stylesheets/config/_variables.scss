@@ -20,6 +20,7 @@ $base-line-height: 1.5;
 $heading-line-height: 1.2;
 
 // Row widths
+$small-row: 768px;
 $normal-row: 1260px;
 $wide-row: 1500px;
 
@@ -28,7 +29,7 @@ $base-border-radius: 5px;
 $base-spacing: $base-line-height * 1em;
 $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
-$post-max-width: 768px;
+$post-max-width: $small-row;
 
 // Colors
 $blue: #79c5d6;
@@ -40,6 +41,7 @@ $orange-alt: #fad46b;
 $orange-logo: #ebb300;
 $green: #5fc474;
 $seagreendark: #95c198;
+$new-green: #79bc73;
 $red: #f47447;
 $turquoise: #40b383;
 $white: #fff;

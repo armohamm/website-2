@@ -89,32 +89,18 @@ nl:
       title: Opleiden & Leren met CAPP LMS
     name: CAPP LMS
   capp-agile:
-    desc: 'Performance support door ''kennis-on-demand''. Verbeter prestaties door medewerkers te voorzien van just-in-time kennis. Leg kennis simpel vast en deel handleidingen, protocollen, werkinstructies, QR-codes e.d.'
-    form:
-      heading: Demo aanvragen
-      img: screenshots/capp-agile-demo_nl.png
-      img_alt: Vraag een demo aan
-    hero:
-      action: Vraag een demo aan
-      heading: Creëer een platform voor de kennis die je organisatie in huis heeft
-      img: screenshots/capp-agile-hero_nl.png
-      sub_heading: 'Performance support made agile: snel, effectief en specifiek voor jouw organisatie.'
-    name: CAPP Agile Learning
-    testimonials_heading: Wat onze klanten zeggen
-    why:
-      heading: Waarom kiezen voor CAPP Agile Learning?
-      make_share:
-        copy: |
-          Voorzie medewerkers van werkinstructies, ondersteunende video’s of illustraties en de 'tips and tricks’ van de experts binnen je organisatie. Ons platform zorgt ervoor dat alle gedeelde kennis moeiteloos, strak en professioneel aan je medewerkers wordt gepresenteerd.
-        heading: Maak & deel
-      on_demand:
-        copy: |
-          Leer van de kennis uit je organisatie, waar en wanneer je maar wilt. CAPP Agile Learning is beschikbaar op alle devices. Maak gebruik van QR-codes om 'just in time’ de juiste informatie tot je beschikking te hebben. Niet langer eindeloos zoeken in onoverzichtelijke documentsystemen.
-        heading: Leer on-demand
-      performance:
-        copy: |
-          Verbeter de prestaties van jezelf en je organisatie. Met CAPP Agile Learning creëer je een platform specifiek gericht op de kennis die je organisatie in huis heeft. Performance Support made Agile; snel, effectief en specifiek voor je eigen organisatie.
-        heading: Verbeter je prestaties
+    cta_bottom:
+      text: Download ons handige productsheet met alle informatie.
+      title: Geïnteresseerd in meer informatie over CAPP Agile Learning?
+    description: Zet kennis om in relevante informatie voor de werkvloer met %{link}
+    h1: Zet kennis om in relevante informatie voor de werkvloer
+    on-page-navigation:
+      introduction: Introductie
+      more-info: Meer informatie?
+      product-overview: Productoverzicht
+      testimonials: Testimonials
+    testimonials_heading: Testimonials
+    title: CAPP Agile Learning
   capp-new:
     heading-contact: Nieuwsgierig naar de uitgebreide mogelijkheden van CAPP LMS? Maak nu een afspraak!
     hero:
@@ -300,7 +286,7 @@ nl:
       privacy-policy: Privacy Policy
     products:
       capp-agile:
-        text: Performance support voor elke organisatie
+        text: Zet kennis om in relevante informatie voor de werkvloer
         title: CAPP Agile learning
       capp-compliance:
         text: Real-time inzicht in bevoegd- en bekwaamheid binnen je organisatie
