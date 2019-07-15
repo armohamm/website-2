@@ -20,7 +20,7 @@ gem "rake"
 
 # Bourbon, Neat
 gem "bourbon", "6.0.0"
-gem "neat", "~> 3.0.1"
+gem "neat", "~> 4.0.0"
 
 # Frontend
 source "https://rails-assets.org" do
