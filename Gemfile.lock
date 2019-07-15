@@ -19,8 +19,7 @@ GEM
     addressable (2.3.8)
     autoprefixer-rails (9.5.0)
       execjs
-    bourbon (5.1.0)
-      sass (~> 3.4)
+    bourbon (6.0.0)
       thor (~> 0.19)
     builder (3.2.3)
     capybara (2.4.4)
@@ -185,7 +184,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bourbon (= 5.1.0)
+  bourbon (= 6.0.0)
   builder
   html-proofer
   middleman (~> 3.4.1)

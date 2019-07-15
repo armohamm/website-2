@@ -19,7 +19,7 @@ gem "nokogiri"
 gem "rake"
 
 # Bourbon, Neat
-gem "bourbon", "5.1.0"
+gem "bourbon", "6.0.0"
 gem "neat", "~> 3.0.1"
 
 # Frontend
