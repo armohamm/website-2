@@ -1,6 +1,10 @@
 .testimonials {
   background-color: $lighter-gray;
 
+  &.light-gray {
+    background-color: $lightest-gray;
+  }
+
   .testimonial-list {
     margin: 0 auto;
     max-width: 800px;

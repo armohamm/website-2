@@ -1,0 +1,23 @@
+<section class="info-request gray" id="info-request">
+
+  <div class="row">
+    <h2>
+      <%= t("capp-agile.form.heading") %>
+    </h2>
+  </div>
+
+  <div class="row">
+
+    <div class="col">
+      <%= partial "partials/form", locals: { title: "Demo Request: CAPP Agile Learning",
+                                             fields: ["name", "email", "organisation", "phone"],
+                                             button_text: t("form.submit"),
+                                             action_url: t("urls.capp_agile")} %>
+    </div>
+
+    <div class="col">
+      <%= image_tag t("capp-agile.form.img"), title: t("capp-agile.form.img_alt"), alt: t("capp-agile.form.img_alt") %>
+    </div>
+
+  </div>
+</section>

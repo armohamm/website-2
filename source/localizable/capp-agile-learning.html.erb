@@ -23,32 +23,14 @@ nav_white: true
 
   <%= partial "partials/on-page-navigation", locals: { variant: "new-green",
                                                        links: [{ anchor: "#introduction", key: t("capp-agile.on-page-navigation.introduction")},
+                                                               { anchor: "#testimonials", key: t("capp-agile.on-page-navigation.testimonials")},
                                                                { anchor: "#features", key: t("capp-agile.on-page-navigation.product-overview")},
-                                                               { anchor: "#download-productsheet", key: t("capp-agile.on-page-navigation.more-info")},
-                                                               { anchor: "#testimonials", key: t("capp-agile.on-page-navigation.testimonials")}]} %>
+                                                               { anchor: "#download-productsheet", key: t("capp-agile.on-page-navigation.more-info")}]} %>
 
   <%= partial "capp-agile-learning/new/introduction" %>
+  <%= partial "capp-agile-learning/testimonials", locals: { variant: "light-gray" }  %>
   <%= partial "capp-agile-learning/new/product-overview" %>
-
-  <section class="cta-bottom gray" id="download-productsheet">
-    <div class="row">
-      <div>
-        <h2>
-          <%= t("capp-agile.cta_bottom.title") %>
-        </h2>
-        <p>
-          <%= t("capp-agile.cta_bottom.text") %>
-        </p>
-      </div>
-      <%= partial "partials/form", locals: { title: "Download: CAPP Agile Learning Productsheet",
-                                             form_type: "download pdf",
-                                             download_link: data.downloads.capp_agile_productsheet[I18n.locale],
-                                             fields: ["name", "email", "organisation", "phone"],
-                                             button_text: t("actions.download_productsheet"),
-                                             button_class: "new-green",
-                                             action_url: t("urls.contact")} %>
-    </div>
-  </section>
+  <%= partial "capp-agile-learning/new/download-productsheet" %>
 
 <% else %>
 
@@ -56,31 +38,7 @@ nav_white: true
   <%= partial "capp-agile-learning/old/clients" %>
   <%= partial "capp-agile-learning/old/content" %>
   <%= partial "capp-agile-learning/old/why" %>
-
-  <section class="info-request gray" id="info-request">
-
-    <div class="row">
-      <h2>
-        <%= t("capp-agile.form.heading") %>
-      </h2>
-    </div>
-
-    <div class="row">
-
-      <div class="col">
-        <%= partial "partials/form", locals: { title: "Demo Request: CAPP Agile Learning",
-                                               fields: ["name", "email", "organisation", "phone"],
-                                               button_text: t("form.submit"),
-                                               action_url: t("urls.capp_agile")} %>
-      </div>
-
-      <div class="col">
-        <%= image_tag t("capp-agile.form.img"), title: t("capp-agile.form.img_alt"), alt: t("capp-agile.form.img_alt") %>
-      </div>
-
-    </div>
-  </section>
+  <%= partial "capp-agile-learning/old/info-request" %>
+  <%= partial "capp-agile-learning/testimonials", locals: { variant: "gray" } %>
 
 <% end %>
-
-<%= partial "capp-agile-learning/testimonials" %>
