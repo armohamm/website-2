@@ -32,6 +32,11 @@ article.post {
     }
   }
 
+  .avatar {
+    @include avatar-size(160px);
+    padding: 0;
+  }
+
   h2 {
     font-size: $base-font-size * 1.6;
 
