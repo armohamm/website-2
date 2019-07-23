@@ -1,7 +1,7 @@
 body.bedankt {
   .gray {
-    background-color: #fbfbfb;
-    background-image: radial-gradient(#fbfbfb, #dfdfdf);
+    background-color: $lightest-gray;
+    background-image: radial-gradient($lightest-gray, $light-gray);
     padding-top: calc(4em + #{$header-height});
   }
 
