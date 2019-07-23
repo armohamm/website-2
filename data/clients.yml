@@ -79,12 +79,6 @@
 - client: "Doppio Espresso"
   logo: "references/doppio-espresso.png"
 
-- client: "DPA Benkis"
-  logo: "references/dpa-benkis.png"
-
-- client: "Kaldi"
-  logo: "references/kaldi.png"
-
 - client: "Sana Kliniken"
   logo: "references/sana-kliniken.png"
 
@@ -157,14 +151,8 @@
 - client: "Beweging 3.0"
   logo: "references/b3.png"
 
-- client: "Stichting Thuiszorg & Maatschappelijk werk Rivierenland"
-  logo: "references/stmr.png"
-
 - client: "Kwintes"
   logo: "references/kwintes.png"
-
-- client: "Zuidzorg"
-  logo: "references/zuidzorg.png"
 
 - client: "Amarant"
   logo: "references/amarant.png"
@@ -178,11 +166,8 @@
 - client: "Heliomare onderwijs"
   logo: "references/heliomare.png"
 
-- client: "Dienst Uitvoerend Onderwijs, Ministerie van Onderwijs, Cultuur en Wetenschap"
+- client: "Dienst Uitvoering Onderwijs, Ministerie van Onderwijs, Cultuur en Wetenschap"
   logo: "references/duo-ocw.png"
-
-- client: "Kamer van Koophandel"
-  logo: "references/kvk.png"
 
 - client: "Phoenix Opleidingen"
   logo: "references/phoenix.jpg"
