@@ -47,4 +47,10 @@ module Navigation
     args[options_index] = options
     locale_link_to(*args, &block)
   end
+
+  # Get navigation links
+  def navigation_items
+    all_navigation_items = data["navigations_" + I18n.locale.to_s]
+    all_navigation_items.clone
+  end
 end

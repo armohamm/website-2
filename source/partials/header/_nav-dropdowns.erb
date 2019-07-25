@@ -1,370 +1,64 @@
 <div class="dropdown-root">
 
-  <div class="dropdown-background" style="transform: translateX(452px) scaleX(0.707692) scaleY(1.1075);">
-  </div>
+  <div class="dropdown-background"></div>
 
-  <div class="dropdown-arrow" style="transform: translateX(636px) rotate(45deg);"></div>
+  <div class="dropdown-arrow"></div>
 
-  <div class="dropdown-container" style="transform: translateX(452px); width: 68px; height: 443px;">
+  <div class="dropdown-container">
 
-    <div class="dropdown-section left" data-dropdown="products">
-
-      <div class="dropdown-content">
-
-        <div class="products-group">
-
-          <ul>
-
-            <% if root_locale == :en %>
-              <li>
-                <% nav_link_to("/capp-lms.html", class: "link-container item-capp-lms") do %>
-                  <div class="product-icon">
-                    <%= inline_svg "icons/capp11.svg", title: t("products.capp.learn") %>
-                  </div>
-                  <div class="product-link-content">
-                    <span class="link-title">
-                      <%= t("navigation.products.capp-lms.title") %>
-                    </span>
-                    <p class="link-sub">
-                      <%= t("navigation.products.capp-lms.text") %>
-                    </p>
-                  </div>
-                <% end %>
-              </li>
-            <% else %>
-              <li>
-                <% nav_link_to("/capp-lms.html", class: "link-container item-capp") do %>
-                  <div class="product-icon">
-                    <%= inline_svg "icons/learning-pink.svg", title: t("navigation.products.capp-lms.title") %>
-                  </div>
-                  <div class="product-link-content">
-                    <span class="link-title">
-                      <%= t("navigation.products.capp-lms.title") %>
-                    </span>
-                    <p class="link-sub">
-                      <%= t("navigation.products.capp-lms.text") %>
-                    </p>
-                  </div>
-                <% end %>
-              </li>
-            <% end %>
-
-            <% if root_locale == :de %>
-              <li>
-                <% nav_link_to("/capp-talent-management.html", class: "link-container item-capp") do %>
-                  <div class="product-icon">
-                    <%= inline_svg "icons/capp-develop-pink.svg", title: t("navigation.products.capp-talent.title") %>
-                  </div>
-                  <div class="product-link-content">
-                    <span class="link-title">
-                      <%= t("navigation.products.capp-talent.title") %>
-                    </span>
-                    <p class="link-sub">
-                      <%= t("navigation.products.capp-talent.text") %>
-                    </p>
-                  </div>
-                <% end %>
-              </li>
-            <% end %>
-
-            <% if root_locale == :de %>
-              <li>
-                <% nav_link_to("/kwaliteitspaspoort.html", class: "link-container item-capp") do %>
-                  <div class="product-icon">
-                    <%= inline_svg "icons/compliance-pink.svg", title: t("navigation.products.capp-compliance.title") %>
-                  </div>
-                  <div class="product-link-content">
-                    <span class="link-title">
-                      <%= t("navigation.products.capp-compliance.title") %>
-                    </span>
-                    <p class="link-sub">
-                      <%= t("navigation.products.capp-compliance.text") %>
-                    </p>
-                  </div>
-                <% end %>
-              </li>
-            <% else %>
-              <li>
-                <% nav_link_to("/kwaliteitspaspoort.html", class: "link-container item-quality") do %>
-                  <div class="product-icon">
-                    <%= inline_svg "icons/quality-pass.svg", title: t("navigation.products.capp-compliance.title") %>
-                  </div>
-                  <div class="product-link-content">
-                    <span class="link-title">
-                      <%= t("navigation.products.capp-compliance.title") %>
-                    </span>
-                    <p class="link-sub">
-                      <%= t("navigation.products.capp-compliance.text") %>
-                    </p>
-                  </div>
-                <% end %>
-              </li>
-            <% end %>
-
-
-            <% if root_locale == :nl %>
-              <li>
-                <% nav_link_to("/kwaliteitsmonitor.html", class: "link-container item-monitor") do %>
-                  <div class="product-icon">
-                    <%= inline_svg "icons/quality-monitor.svg", title: t("kwaliteitsmonitor.name") %>
-                  </div>
-                  <div class="product-link-content">
-                    <span class="link-title">
-                      <%= t("navigation.products.capp-monitor.title") %>
-                    </span>
-                    <p class="link-sub">
-                      <%= t("navigation.products.capp-monitor.text") %>
-                    </p>
-                  </div>
-                <% end %>
-              </li>
-            <% end %>
-
-            <% if root_locale == :nl %>
-              <li>
-                <% nav_link_to("/capp-agile-learning.html", class: "link-container item-agile-new") do %>
-                  <div class="product-icon">
-                    <%= inline_svg "icons/capp-agile-learning-new.svg", title: t("capp-agile.title") %>
-                  </div>
-                  <div class="product-link-content">
-                    <span class="link-title">
-                      <%= t("navigation.products.capp-agile.title") %>
-                    </span>
-                    <p class="link-sub">
-                      <%= t("navigation.products.capp-agile.text") %>
-                    </p>
-                  </div>
-                <% end %>
-              </li>
-            <% else %>
-              <li>
-                <% nav_link_to("/capp-agile-learning.html", class: "link-container item-agile") do %>
-                  <div class="product-icon">
-                    <%= inline_svg "icons/capp-agile-learning.svg", title: t("capp-agile.name") %>
-                  </div>
-                  <div class="product-link-content">
-                    <span class="link-title">
-                      <%= t("navigation.products.capp-agile.title") %>
-                    </span>
-                    <p class="link-sub">
-                      <%= t("navigation.products.capp-agile.text") %>
-                    </p>
-                  </div>
-                <% end %>
-              </li>
-            <% end %>
-
-            <li>
-              <% nav_link_to("/360-feedback.html", class: "link-container item-360") do %>
-                <div class="product-icon">
-                  <%= inline_svg "icons/360-feedback.svg", title: t("threesixty.name") %>
-                </div>
-                <div class="product-link-content">
-                  <span class="link-title">
-                    <%= t("navigation.products.threesixty.title") %>
-                  </span>
-                  <p class="link-sub">
-                    <%= t("navigation.products.threesixty.text") %>
-                  </p>
-                </div>
-              <% end %>
-            </li>
-
-          </ul>
-
-        </div>
-
-      </div>
-
-    </div>
-
-    <% if root_locale == :de %>
-
-      <div class="dropdown-section left" data-dropdown="solutions">
-
+    <% navigation_items.each do |item | %>
+      <div class="dropdown-section left" data-dropdown="<%= item.dropdown %>">
         <div class="dropdown-content">
+          <div class="<%= item.type %>">
 
-          <div class="link-group">
+              <% if item.type == "products-group" %>
 
-            <% nav_link_to("/gezondheidswezen.html", class: "link-container with-icon") do %>
-              <span class="link-title link-icon">
-                <%= inline_svg "icons/healthcare.svg", title: t("solutions.pages.healthcare.name") -%>
-                <%= t("navigation.solutions.healthcare") %>
-              </span>
-            <% end %>
+                <ul>
 
-            <% nav_link_to("/performance-support.html", class: "link-container with-icon") do %>
-              <span class="link-title link-icon">
-                <%= inline_svg "icons/performance-support.svg", title: t("navigation.solutions.performance-support") -%>
-                <%= t("navigation.solutions.performance-support") %>
-              </span>
-            <% end %>
+                  <% item.links.each do |product| %>
+
+                    <li>
+                      <% nav_link_to(product.url, class: "link-container #{product[:class]}") do %>
+
+                        <div class="product-icon">
+                          <%= inline_svg product.icon, title: product.title %>
+                        </div>
+                        <div class="product-link-content">
+                          <span class="link-title">
+                            <%= product.title %>
+                          </span>
+                          <span class="link-sub">
+                            <%= product.text %>
+                          </span>
+                        </div>
+                      <% end %>
+                    </li>
+
+                  <% end %>
+
+                </ul>
+
+              <% elsif item.type == "links-group" %>
+
+                <div class="link-group">
+
+                  <% item.links.each do |link| %>
+                    <% nav_link_to(link.url, class: "link-container with-icon") do %>
+                      <span class="link-title link-icon">
+                        <%= inline_svg link.icon, title: link.title %>
+                        <%= link.title %>
+                      </span>
+                    <% end %>
+                  <% end %>
+
+                </div>
+
+              <% end %>
 
           </div>
-
         </div>
-
       </div>
-
     <% end %>
-
-    <div class="dropdown-section left" data-dropdown="service">
-
-      <div class="dropdown-content">
-
-        <div class="link-group">
-
-          <% nav_link_to("/implementaties.html", class: "link-container with-icon") do %>
-            <span class="link-title link-icon">
-              <%= inline_svg "icons/implementations.svg", title: t("navigation.services.implementations") -%>
-              <%= t("navigation.services.implementations") %>
-            </span>
-          <% end %>
-
-          <% nav_link_to("/hosting-security.html", class: "link-container with-icon") do %>
-            <span class="link-title link-icon">
-              <%= inline_svg "icons/hosting-security.svg", title: t("navigation.services.hosting") -%>
-              <%= t("navigation.services.hosting") %>
-            </span>
-          <% end %>
-
-          <% nav_link_to("/koppelingen.html", class: "link-container with-icon") do %>
-            <span class="link-title link-icon">
-              <%= inline_svg "icons/integrations.svg", title: t("navigation.services.integrations") -%>
-              <%= t("navigation.services.integrations") %>
-            </span>
-          <% end %>
-
-          <% nav_link_to("/e-learning.html", class: "link-container with-icon") do %>
-            <span class="link-title link-icon">
-              <%= inline_svg "icons/elearning.svg", title: t("navigation.services.elearning") -%>
-              <%= t("navigation.services.elearning") %>
-            </span>
-          <% end %>
-
-        </div>
-
-      </div>
-
-    </div>
-
-    <div class="dropdown-section left" data-dropdown="clients">
-
-      <div class="dropdown-content">
-
-        <div class="link-group">
-
-          <% unless root_locale == :en %>
-            <% nav_link_to("/cases/index.html", class: "link-container with-icon") do %>
-              <span class="link-title link-icon">
-                <%= inline_svg "icons/cases.svg", title: t("navigation.clients.cases") -%>
-                <%= t("navigation.clients.cases") %>
-              </span>
-            <% end %>
-          <% end %>
-
-          <% nav_link_to("/testimonials.html", class: "link-container with-icon") do %>
-            <span class="link-title link-icon">
-              <%= inline_svg "icons/testimonials.svg", title: t("navigation.clients.testimonials") -%>
-              <%= t("navigation.clients.testimonials") %>
-            </span>
-          <% end %>
-
-        </div>
-
-      </div>
-
-    </div>
-
-    <div class="dropdown-section left" data-dropdown="company">
-
-      <div class="dropdown-content">
-
-        <ul class="link-group link-list">
-
-          <li>
-            <% nav_link_to("/over-ons.html", class: "link-container with-icon") do %>
-              <span class="link-title link-icon">
-                <%= inline_svg "icons/about-us.svg", title: t("navigation.defacto.about-us") -%>
-                <%= t("navigation.defacto.about-us") %>
-              </span>
-            <% end %>
-          </li>
-
-          <% unless root_locale == :en %>
-            <li>
-              <% nav_link_to("/support.html", class: "link-container with-icon") do %>
-                <span class="link-title link-icon">
-                  <%= inline_svg "icons/support.svg", title: t("navigation.defacto.support") -%>
-                  <%= t("navigation.defacto.support") %>
-                </span>
-              <% end %>
-            </li>
-          <% end %>
-
-          <li>
-            <% nav_link_to("/blog/index.html", class: "link-container with-icon") do %>
-              <span class="link-title link-icon">
-                <%= inline_svg "icons/blog.svg", title: t("navigation.defacto.blog") -%>
-                <%= t("navigation.defacto.blog") %>
-              </span>
-            <% end %>
-          </li>
-
-          <% unless root_locale == :en %>
-            <li>
-              <% nav_link_to("/themas.html", class: "link-container with-icon") do %>
-                <span class="link-title link-icon">
-                  <%= inline_svg "icons/themes.svg", title: t("navigation.defacto.themes") -%>
-                  <%= t("navigation.defacto.themes") %>
-                </span>
-              <% end %>
-            </li>
-          <% end %>
-
-          <li>
-            <% nav_link_to("/open-source.html", class: "link-container with-icon") do %>
-              <span class="link-title link-icon">
-                <%= inline_svg "icons/open-source.svg", title: t("navigation.defacto.open-source") -%>
-                <%= t("navigation.defacto.open-source") %>
-              </span>
-            <% end %>
-          </li>
-
-          <% unless root_locale == :en %>
-            <li>
-               <% nav_link_to("/evenementenagenda.html", class: "link-container with-icon") do %>
-                <span class="link-title link-icon">
-                  <%= inline_svg "icons/events.svg", title: t("navigation.defacto.events") -%>
-                  <%= t("navigation.defacto.events") %>
-                </span>
-              <% end %>
-            </li>
-
-            <li>
-              <% nav_link_to("/jobs/index.html", class: "link-container with-icon") do %>
-                <span class="link-title link-icon">
-                  <%= inline_svg "icons/jobs.svg", title: t("navigation.defacto.jobs") -%>
-                  <%= t("navigation.defacto.jobs") %>
-                </span>
-              <% end %>
-            </li>
-          <% end %>
-
-          <li>
-            <% nav_link_to("/contact.html", class: "link-container with-icon") do %>
-              <span class="link-title link-icon">
-                <%= inline_svg "icons/contact.svg", title: t("navigation.defacto.contact") -%>
-                <%= t("navigation.defacto.contact") %>
-              </span>
-            <% end %>
-          </li>
-
-        </ul>
-
-      </div>
-
-    </div>
 
     <div class="dropdown-section right" data-dropdown="languages">
 

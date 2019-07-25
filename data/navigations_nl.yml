@@ -1,0 +1,87 @@
+- title: Producten
+  type: products-group
+  dropdown: products
+  url: /producten.html
+  links:
+    - title: CAPP LMS
+      text: CAPP faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant.
+      class: item-capp
+      url: /capp-lms.html
+      icon: icons/learning-pink.svg
+    - title: Kwaliteitspaspoort
+      text: Real-time inzicht in bevoegd- en bekwaamheid binnen je organisatie
+      class: item-quality
+      url: /kwaliteitspaspoort.html
+      icon: icons/quality-pass.svg
+    - title: Kwaliteitsmonitor
+      text: Altijd en overal inzicht in de kwaliteit en bevoegdheid van je organisatie
+      class: item-monitor
+      url: /kwaliteitsmonitor.html
+      icon: icons/quality-monitor.svg
+    - title: CAPP Agile Learning
+      text: Performance support voor elke organisatie
+      class: item-agile
+      url: /capp-agile-learning.html
+      icon: icons/capp-agile-learning.svg
+    - title: 360° Feedback
+      text: Maak een efficiëntieslag in je HRD
+      class: item-360
+      url: /360-feedback.html
+      icon: icons/360-feedback.svg
+- title: Diensten
+  type: links-group
+  dropdown: service
+  url: /diensten.html
+  links:
+    - title: Implementaties
+      url: /implementaties.html
+      icon: icons/implementations.svg
+    - title: Hosting & Security
+      url: /hosting-security.html
+      icon: icons/hosting-security.svg
+    - title: Koppelingen
+      url: /koppelingen.html
+      icon: icons/integrations.svg
+    - title: E-Learning
+      url: /e-learning.html
+      icon: icons/elearning.svg
+- title: Klanten
+  type: links-group
+  dropdown: clients
+  url: /klanten.html
+  links:
+    - title: Cases
+      url: /cases/index.html
+      icon: icons/cases.svg
+    - title: Testimonials
+      url: /testimonials.html
+      icon: icons/testimonials.svg
+- title: Defacto
+  type: links-group
+  dropdown: company
+  url: /over-ons.html
+  links:
+    - title: Over Ons
+      url: /over-ons.html
+      icon: icons/about-us.svg
+    - title: Service & Support
+      url: /support.html
+      icon: icons/support.svg
+    - title: Blog
+      url: /blog/index.html
+      icon: icons/blog.svg
+    - title: Thema's
+      url: /themas.html
+      icon: icons/themes.svg
+    - title: Open Source
+      url: /open-source.html
+      icon: icons/open-source.svg
+    - title: Evenementenagenda
+      url: /evenementenagenda.html
+      icon: icons/events.svg
+    - title: Werken bij Defacto
+      url: /jobs/index.html
+      icon: icons/jobs.svg
+    - title: Contact
+      url: /contact.html
+      icon: icons/contact.svg

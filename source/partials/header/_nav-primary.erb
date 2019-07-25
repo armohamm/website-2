@@ -1,16 +1,10 @@
-<li class="nav-section primary">
-  <%= nav_link_to t("navigation.products.title"), "/producten.html", class: "root-link item-products has-dropdown", "data-dropdown": "products" %>
-
-  <% if root_locale == :de %>
-    <%= nav_link_to t("navigation.solutions.title"), "/oplossingen.html", class: "root-link item-solutions has-dropdown", "data-dropdown": "solutions" %>
-  <% end %>
-
-  <%= nav_link_to t("navigation.services.title"), "/diensten.html", class: "root-link item-service has-dropdown", "data-dropdown": "service" %>
-
-  <%= nav_link_to t("navigation.clients.title"), "/klanten.html", class: "root-link item-clients has-dropdown", "data-dropdown": "clients" %>
-
-  <%= nav_link_to t("navigation.defacto.title"), "/over-ons.html", class: "root-link item-company has-dropdown", "data-dropdown": "company" %>
-</li>
+<% if navigation_items %>
+  <li class="nav-section primary">
+    <% navigation_items.each do | item | %>
+      <%= nav_link_to item.title, item.url, class: "root-link has-dropdown item-#{item.dropdown}", "data-dropdown": item.dropdown %>
+    <% end %>
+  </li>
+<% end %>
 
 <li class="nav-section secondary">
   <% locale_link_to("/zoeken.html", class: "root-link item-search") do %>

@@ -1,0 +1,67 @@
+- title: Products
+  type: products-group
+  dropdown: products
+  url: /producten.html
+  links:
+    - title: CAPP LMS
+      text: LMS and efficiency software to advance the development of your employees
+      class: item-capp-lms
+      url: /capp-lms.html
+      icon: icons/capp11.svg
+    - title: CAPP Quality Portfolio
+      text: Real-time insights into competencies within your organisation
+      class: item-quality
+      url: /kwaliteitspaspoort.html
+      icon: icons/quality-pass.svg
+    - title: CAPP Agile Learning
+      text: Performance support on demand
+      class: item-agile
+      url: /capp-agile-learning.html
+      icon: icons/capp-agile-learning.svg
+    - title: 360° Feedback
+      text: Increase the efficiency and quality of your HRD
+      class: item-360
+      url: /360-feedback.html
+      icon: icons/360-feedback.svg
+- title: Services
+  type: links-group
+  dropdown: service
+  url: /diensten.html
+  links:
+    - title: Implementations
+      url: /implementaties.html
+      icon: icons/implementations.svg
+    - title: Hosting & Security
+      url: /hosting-security.html
+      icon: icons/hosting-security.svg
+    - title: Integrations
+      url: /koppelingen.html
+      icon: icons/integrations.svg
+    - title: E-Learning
+      url: /e-learning.html
+      icon: icons/elearning.svg
+- title: Clients
+  type: links-group
+  dropdown: clients
+  url: /klanten.html
+  links:
+    - title: Testimonials
+      url: /testimonials.html
+      icon: icons/testimonials.svg
+- title: Defacto
+  type: links-group
+  dropdown: company
+  url: /over-ons.html
+  links:
+    - title: About Us
+      url: /over-ons.html
+      icon: icons/about-us.svg
+    - title: Blog
+      url: /blog/index.html
+      icon: icons/blog.svg
+    - title: Open Source
+      url: /open-source.html
+      icon: icons/open-source.svg
+    - title: Contact
+      url: /contact.html
+      icon: icons/contact.svg

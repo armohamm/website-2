@@ -16,261 +16,56 @@
           <%= t("navigation.buttons.close") %>
         </a>
 
-        <div class="mobile-products">
+        <% if navigation_items %>
 
-          <span class="mobile-nav-title">
-            <%= t("navigation.products.title") %>
-          </span>
+          <div class="mobile-nav-wrapper">
 
-          <div class="mobile-products-list">
+            <% navigation_items.each do |item | %>
 
-            <ul>
+              <div class="mobile-nav-group mobile-<%= item.type %>">
 
-              <% if root_locale == :en %>
+                <%= nav_link_to item.title, item.url, class: "mobile-nav-title" %>
 
-                <li>
-                  <% nav_link_to("/capp-lms.html", class: "link-container item-capp-lms") do %>
-                    <div class="product-icon">
-                      <%= image_tag "icons/capp11.svg", title: t("products.capp.learn"), alt: t("products.capp.learn")  %>
-                    </div>
-                    <div class="product-link-content">
-                      <%= t("products.capp.learn") %>
-                    </div>
-                  <% end %>
-                </li>
+                <% if item.type == "products-group" %>
 
-              <% else %>
+                  <div class="mobile-products-list">
 
-                <li>
-                  <% nav_link_to("/capp-lms.html", class: "link-container item-capp") do %>
-                    <div class="product-icon">
-                      <%= image_tag "icons/learning-pink.svg", title: t("navigation.products.capp-lms.title"), alt: t("navigation.products.capp-lms.title") %>
-                    </div>
-                    <div class="product-link-content">
-                      <%= t("navigation.products.capp-lms.title") %>
-                    </div>
-                  <% end %>
-                </li>
+                    <ul>
+                      <% item.links.each do |product| %>
+                        <li>
+                          <% nav_link_to(product.url, class: "link-container #{product[:class]}") do %>
+                            <div class="product-icon">
+                              <%= image_tag product.icon, alt: product.title %>
+                            </div>
+                            <div class="product-link-content">
+                              <%= product.title %>
+                            </div>
+                          <% end %>
+                        </li>
+                      <% end %>
+                    </ul>
 
-              <% end %>
-
-              <% if root_locale == :de %>
-
-                <li>
-                  <% nav_link_to("/capp-talent-management.html", class: "link-container item-capp") do %>
-                    <div class="product-icon">
-                      <%= image_tag "icons/capp-develop-pink.svg", title: t("navigation.products.capp-talent.title"), alt: t("navigation.products.capp-talent.title") %>
-                    </div>
-                    <div class="product-link-content">
-                      <%= t("navigation.products.capp-talent.title") %>
-                    </div>
-                  <% end %>
-                </li>
-
-              <% end %>
-
-              <% if root_locale == :de %>
-                <li>
-                  <% nav_link_to("/kwaliteitspaspoort.html", class: "link-container item-capp") do %>
-                    <div class="product-icon">
-                      <%= image_tag "icons/compliance-pink.svg", title: t("navigation.products.capp-compliance.title"), alt: t("navigation.products.capp-compliance.title") %>
-                    </div>
-                    <div class="product-link-content">
-                      <%= t("navigation.products.capp-compliance.title") %>
-                    </div>
-                  <% end %>
-                </li>
-              <% else %>
-                <li>
-                  <% nav_link_to("/kwaliteitspaspoort.html", class: "link-container item-quality") do %>
-                    <div class="product-icon">
-                      <%= image_tag "icons/quality-pass.svg", title: t("navigation.products.capp-compliance.title"), alt: t("navigation.products.capp-compliance.title") %>
-                    </div>
-                    <div class="product-link-content">
-                      <%= t("navigation.products.capp-compliance.title") %>
-                    </div>
-                  <% end %>
-                </li>
-              <% end %>
-
-              <% if root_locale == :nl %>
-                <li>
-                  <% nav_link_to("/kwaliteitsmonitor.html", class: "link-container item-monitor") do %>
-                    <div class="product-icon">
-                      <%= image_tag "icons/quality-monitor.svg", title: t("navigation.products.capp-monitor.title"), alt: t("kwaliteitsmonitor.name") %>
-                    </div>
-                    <div class="product-link-content">
-                      <%= t("navigation.products.capp-monitor.title") %>
-                    </div>
-                  <% end %>
-                </li>
-              <% end %>
-
-              <% if root_locale == :nl %>
-                <li>
-                  <% nav_link_to("/capp-agile-learning.html", class: "link-container item-agile-new") do %>
-                    <div class="product-icon">
-                      <%= image_tag "icons/capp-agile-learning-new.svg", title: t("navigation.products.capp-agile.title"), alt: t("navigation.products.capp-agile.title") %>
-                    </div>
-                    <div class="product-link-content">
-                      <%= t("navigation.products.capp-agile.title") %>
-                    </div>
-                  <% end %>
-                </li>
-              <% else %>
-                <li>
-                  <% nav_link_to("/capp-agile-learning.html", class: "link-container item-agile") do %>
-                    <div class="product-icon">
-                      <%= image_tag "icons/capp-agile-learning.svg", title: t("navigation.products.capp-agile.title"), alt: t("navigation.products.capp-agile.title") %>
-                    </div>
-                    <div class="product-link-content">
-                      <%= t("navigation.products.capp-agile.title") %>
-                    </div>
-                  <% end %>
-                </li>
-              <% end %>
-
-              <li>
-                <% nav_link_to("/360-feedback.html", class: "link-container item-360") do %>
-                  <div class="product-icon">
-                    <%= image_tag "icons/360-feedback.svg", title: t("navigation.products.threesixty.title"), alt: t("navigation.products.threesixty.title") %>
                   </div>
-                  <div class="product-link-content">
-                    <%= t("navigation.products.threesixty.title") %>
+
+                <% elsif item.type == "links-group" %>
+
+                  <div class="mobile-links-list">
+                    <ul>
+                      <% item.links.each do |link| %>
+                      <li>
+                        <%= nav_link_to link.title, link.url, class: "item-#{link[:class]}" %>
+                      </li>
+                      <% end %>
+                    </ul>
                   </div>
                 <% end %>
-              </li>
 
-            </ul>
+              </div>
+            <% end %>
 
           </div>
 
-        </div>
-
-        <div class="mobile-secondary-nav">
-
-          <% if root_locale == :de %>
-
-            <ul>
-
-              <li>
-                <span class="mobile-secondary-nav-title">
-                  <%= t("navigation.solutions.title") %>
-                </span>
-              </li>
-
-              <li>
-                  <%= nav_link_to t("navigation.solutions.healthcare"), "/gezondheidswezen.html", class: "item-healthcare" %>
-              </li>
-
-              <li>
-                  <%= nav_link_to t("navigation.solutions.performance-support"), "/performance-support.html", class: "item-performance-support" %>
-              </li>
-
-            </ul>
-
-          <% end %>
-
-
-          <ul>
-
-            <li>
-              <span class="mobile-secondary-nav-title">
-                <%= t("navigation.services.title") %>
-              </span>
-            </li>
-
-            <li>
-                <%= nav_link_to t("navigation.services.implementations"), "/implementaties.html", class: "item-implementations" %>
-            </li>
-
-            <li>
-               <%= nav_link_to t("navigation.services.hosting"), "/hosting-security.html", class: "item-security" %>
-            </li>
-
-            <li>
-               <%= nav_link_to t("navigation.services.integrations"), "/koppelingen.html", class: "item-integrations" %>
-            </li>
-
-            <li>
-               <%= nav_link_to t("navigation.services.elearning"), "/e-learning.html", class: "item-elearning" %>
-            </li>
-
-          </ul>
-
-          <ul>
-
-            <li>
-              <span class="mobile-secondary-nav-title">
-                <%= t("navigation.clients.title") %>
-              </span>
-            </li>
-
-            <% unless root_locale == :en %>
-              <li>
-                <%= nav_link_to t("navigation.clients.cases"), "/cases/index.html", class: "item-cases" %>
-              </li>
-            <% end %>
-
-            <li>
-              <%= nav_link_to t("navigation.clients.testimonials"), "/testimonials.html", class: "item-testimonials" %>
-            </li>
-
-          </ul>
-
-          <ul>
-
-            <li>
-              <span class="mobile-secondary-nav-title">
-                <%= t("navigation.defacto.title") %>
-              </span>
-            </li>
-
-            <li>
-              <%= nav_link_to t("navigation.defacto.about-us"), "/over-ons.html", class: "item-about-us" %>
-            </li>
-
-            <% unless root_locale == :en %>
-              <li>
-                <%= nav_link_to t("navigation.defacto.support"), "/support.html", class: "item-service" %>
-              </li>
-            <% end %>
-
-            <li>
-              <%= nav_link_to t("navigation.defacto.blog"), "/blog/index.html", class: "item-blog" %>
-            </li>
-
-            <% unless root_locale == :en %>
-              <li>
-                <%= nav_link_to t("navigation.defacto.themes"), "/themas.html", class: "item-themes" %>
-              </li>
-            <% end %>
-
-            <li>
-              <%= nav_link_to t("navigation.defacto.open-source"), "/open-source.html", class: "item-open-source" %>
-            </li>
-
-            <% unless root_locale == :en %>
-              <li>
-                 <%= nav_link_to t("navigation.defacto.events"), "/evenementenagenda.html", class: "item-events" %>
-              </li>
-
-              <li>
-                <%= nav_link_to t("navigation.defacto.jobs"), "/jobs/index.html", class: "item-jobs" %>
-              </li>
-            <% end %>
-
-            <li>
-              <%= nav_link_to t("navigation.buttons.search"), "/zoeken.html", class: "item-search" %>
-            </li>
-
-            <li>
-              <%= nav_link_to t("navigation.defacto.contact"), "/contact.html", class: "item-contact" %>
-            </li>
-
-          </ul>
-
-        </div>
+        <% end %>
 
         <div class="mobile-language-switcher">
 

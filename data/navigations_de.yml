@@ -1,0 +1,98 @@
+- title: Produkte
+  type: products-group
+  dropdown: products
+  url: /producten.html
+  links:
+    - title: CAPP Learning Management
+      text: Vielfalt des Lernens für motivierte und qualifizierte Mitarbeiter
+      class: item-capp
+      url: /capp-lms.html
+      icon: icons/learning-pink.svg
+    - title: CAPP Talent Management
+      text: Nutzen Sie das volle Potenzial Ihrer wertvollsten Ressource
+      class: item-capp
+      url: /capp-talent-management.html
+      icon: icons/capp-develop-pink.svg
+    - title: CAPP Compliance
+      text: Qualifikationen und Kompetenzen auf Knopfdruck auswertbar
+      class: item-capp
+      url: /kwaliteitspaspoort.html
+      icon: icons/compliance-pink.svg
+    - title: CAPP Agile Learning
+      text: Performance-Support für alle Unternehmen und Organisationen
+      class: item-agile
+      url: /capp-agile-learning.html
+      icon: icons/capp-agile-learning.svg
+    - title: 360° Feedback
+      text: Maak een efficiëntieslag in je HRD
+      class: item-360
+      url: /360-feedback.html
+      icon: icons/360-feedback.svg
+- title: Lösungen
+  type: links-group
+  dropdown: solutions
+  url: /oplossingen.html
+  links:
+    - title: Gesundheitswesen
+      url: /gezondheidswezen.html
+      icon: icons/healthcare.svg
+    - title: Performance Support
+      url: /performance-support.html
+      icon: icons/performance-support.svg
+- title: Service
+  type: links-group
+  dropdown: service
+  url: /diensten.html
+  links:
+    - title: Implementierungen
+      url: /implementaties.html
+      icon: icons/implementations.svg
+    - title: Hosting & Sicherheit
+      url: /hosting-security.html
+      icon: icons/hosting-security.svg
+    - title: Schnittstellen
+      url: /koppelingen.html
+      icon: icons/integrations.svg
+    - title: E-Learning
+      url: /e-learning.html
+      icon: icons/elearning.svg
+- title: Kunden
+  type: links-group
+  dropdown: clients
+  url: /klanten.html
+  links:
+    - title: Cases
+      url: /cases/index.html
+      icon: icons/cases.svg
+    - title: Testimonials
+      url: /testimonials.html
+      icon: icons/testimonials.svg
+- title: Defacto
+  type: links-group
+  dropdown: company
+  url: /over-ons.html
+  links:
+    - title: Über Uns
+      url: /over-ons.html
+      icon: icons/about-us.svg
+    - title: Service & Support
+      url: /support.html
+      icon: icons/support.svg
+    - title: Blog
+      url: /blog/index.html
+      icon: icons/blog.svg
+    - title: Themen
+      url: /themas.html
+      icon: icons/themes.svg
+    - title: Open Source
+      url: /open-source.html
+      icon: icons/open-source.svg
+    - title: Veranstaltungskalender
+      url: /evenementenagenda.html
+      icon: icons/events.svg
+    - title: Jobs
+      url: /jobs/index.html
+      icon: icons/jobs.svg
+    - title: Kontakt
+      url: /contact.html
+      icon: icons/contact.svg

@@ -268,45 +268,8 @@ nl:
       menu: Menu
       search: Zoeken
       select-language: Selecteer je taal
-    clients:
-      cases: Cases
-      testimonials: Testimonials
-      title: Klanten
-    defacto:
-      about-us: Over Ons
-      blog: Blog
-      contact: Contact
-      events: Evenementenagenda
-      jobs: Jobs
-      open-source: Open Source
-      support: Service & Support
-      themes: Thema's
-      title: Defacto
     footer:
       privacy-policy: Privacy Policy
-    products:
-      capp-agile:
-        text: Zet kennis om in relevante informatie voor de werkvloer
-        title: CAPP Agile learning
-      capp-compliance:
-        text: Real-time inzicht in bevoegd- en bekwaamheid binnen je organisatie
-        title: Kwaliteitspaspoort
-      capp-lms:
-        text: CAPP faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant.
-        title: CAPP LMS
-      capp-monitor:
-        text: Altijd en overal inzicht in de kwaliteit en bevoegdheid van je organisatie
-        title: Kwaliteitsmonitor
-      threesixty:
-        text: Maak een efficiëntieslag in je HRD
-        title: 360° Feedback
-      title: Producten
-    services:
-      elearning: E-Learning
-      hosting: Hosting & Security
-      implementations: Implementaties
-      integrations: Koppelingen
-      title: Diensten
   privacy-policy:
     link: privacy policy
     name: Privacy Policy

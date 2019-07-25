@@ -217,36 +217,6 @@ en:
       menu: Menu
       search: Search
       select-language: Select Your Language
-    clients:
-      testimonials: Testimonials
-      title: Clients
-    defacto:
-      about-us: About Us
-      blog: Blog
-      contact: Contact
-      jobs: Jobs
-      open-source: Open Source
-      title: Defacto
-    products:
-      capp-agile:
-        text: Performance support on demand
-        title: CAPP Agile Learning
-      capp-compliance:
-        text: Real-time insights into competencies within your organisation
-        title: CAPP Quality Portfolio
-      capp-lms:
-        text: LMS and efficiency software to advance the development of your employees
-        title: CAPP LMS
-      threesixty:
-        text: Increase the efficiency and quality of your HRD
-        title: 360° Feedback
-      title: Products
-    services:
-      elearning: E-Learning
-      hosting: Hosting & Security
-      implementations: Implementations
-      integrations: Integrations
-      title: Services
   products:
     capp:
       capp-lms: CAPP Learning & Developing

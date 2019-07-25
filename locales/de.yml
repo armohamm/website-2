@@ -323,50 +323,9 @@ de:
       menu: Menu
       search: Suche
       select-language: Wähle Ihre Sprache
-    clients:
-      cases: Cases
-      testimonials: Kundenstimmen
-      title: Kunden
-    defacto:
-      about-us: Über Uns
-      blog: Blog
-      contact: Kontakt
-      events: Veranstaltungskalender
-      jobs: Jobs
-      open-source: Open Source
-      support: Service & Support
-      themes: Themen
-      title: Defacto
     footer:
       impressum: Impressum
       privacy-policy: Datenschutzerklärung
-    products:
-      capp-agile:
-        text: Performance-Support für alle Unternehmen und Organisationen
-        title: CAPP Agile learning
-      capp-compliance:
-        text: Qualifikationen und Kompetenzen auf Knopfdruck auswertbar
-        title: CAPP Compliance
-      capp-lms:
-        text: Vielfalt des Lernens für motivierte und qualifizierte Mitarbeiter
-        title: CAPP Learning Management
-      capp-talent:
-        text: Nutzen Sie das volle Potenzial Ihrer wertvollsten Ressource
-        title: CAPP Talent Management
-      threesixty:
-        text: 'Die Sichtweisen der anderen kennen, um sich selbst weiterzuentwickeln'
-        title: 360° Feedback
-      title: Produkte
-    services:
-      elearning: E-Learning
-      hosting: Hosting & Sicherheit
-      implementations: Implementierungen
-      integrations: Schnittstellen
-      title: Service
-    solutions:
-      healthcare: Gesundheitswesen
-      performance-support: Performance Support
-      title: Lösungen
   privacy-policy:
     link: Datenschutzerklärung
     name: Datenschutzerklärung
