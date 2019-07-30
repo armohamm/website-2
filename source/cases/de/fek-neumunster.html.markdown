@@ -6,7 +6,7 @@ services:
 - title: CAPP Learning Management
   link: /capp-lms
 - title: CAPP Compliance
-  link: /kwaliteitspaspoort
+  link: /capp-compliance
 - title: Consultancy
 lang: de
 logo_white: cases/fek/logo-white.png

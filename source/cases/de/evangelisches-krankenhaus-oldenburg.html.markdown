@@ -8,7 +8,7 @@ services:
  - title: CAPP Talent Management
    link: /capp-talent-management
  - title: CAPP Compliance
-   link: /kwaliteitspaspoort
+   link: /capp-compliance
 lang: de
 logo_white: cases/evk/logo-white.png
 description: "Evangelisches Krankenhaus Oldenburg schafft Fakten und Raum für Talent"

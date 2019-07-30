@@ -8,7 +8,7 @@ services:
   - title: CAPP Talent Management
     link: /capp-talent-management
   - title: CAPP Compliance
-    link: /kwaliteitspaspoort
+    link: /capp-compliance
 lang: de
 logo_white: cases/strukton/logo-white.png
 description: "Der Weg zur gesichterten Compliance"

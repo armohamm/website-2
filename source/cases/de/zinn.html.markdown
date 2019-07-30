@@ -8,7 +8,7 @@ services:
   - title: CAPP Talent Management
     link: /capp-talent-management
   - title: CAPP Compliance
-    link: /kwaliteitspaspoort
+    link: /capp-compliance
   - title: CAPP Agile Learning
     link: /capp-agile-learning
 lang: de

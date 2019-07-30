@@ -8,7 +8,7 @@ services:
   - title: CAPP Talent Management
     link: /capp-talent-management
   - title: CAPP Compliance
-    link: /kwaliteitspaspoort
+    link: /capp-compliance
   - title: Consultancy
 lang: de
 logo_white: cases/mumc/logo-white.png
