@@ -8,12 +8,12 @@
 
 capp_agile_productsheet:
   nl: "/pdf/Productsheet-CAPP-Agile-Learning.pdf"
+capp_compliance_productsheet:
+  nl: "/pdf/Productsheet-CAPP-Compliance.pdf"
 ebook:
   nl: "/pdf/Handboek_Leren_en_laten_Leren.pdf"
   de: "/pdf/Handbuch_Abenteuer_E-Learning.pdf"
   en: "/pdf/Handbook_Learn_and_let_learn.pdf"
-kwaliteitsmonitor_productsheet:
-  nl: "/pdf/Productsheet_Kwaliteitsmonitor.pdf"
 migratiekit_productsheet:
   nl: "/pdf/Infosheet_Upgrade.pdf"
 compliance_api_productsheet:

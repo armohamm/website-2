@@ -5,8 +5,8 @@ date: 2017-09-10 11:00 CEST
 services:
   - title: CAPP LMS
     link: /capp-lms
-  - title: Kwaliteitspaspoort
-    link: /kwaliteitspaspoort
+  - title: CAPP Compliance
+    link: /capp-compliance
 lang: nl
 logo_white: cases/strukton/logo-white.png
 description: "Defacto heeft Strukton geholpen met het borgen van de compliance binnen de organisatie. In deze case leggen we uit hoe we dat samen hebben gedaan."

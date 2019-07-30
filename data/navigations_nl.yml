@@ -8,18 +8,13 @@
       class: item-capp
       url: /capp-lms.html
       icon: icons/learning-pink.svg
-    - title: Kwaliteitspaspoort
-      text: Real-time inzicht in bevoegd- en bekwaamheid binnen je organisatie
-      class: item-quality
-      url: /kwaliteitspaspoort.html
-      icon: icons/quality-pass.svg
-    - title: Kwaliteitsmonitor
-      text: Altijd en overal inzicht in de kwaliteit en bevoegdheid van je organisatie
-      class: item-monitor
-      url: /kwaliteitsmonitor.html
-      icon: icons/quality-monitor.svg
+    - title: CAPP Compliance
+      text: Met CAPP maakt u compliance eenvoudig inzichtelijk en meetbaar voor uw organisatie
+      class: item-compliance
+      url: /capp-compliance.html
+      icon: icons/capp-compliance-new.svg
     - title: CAPP Agile Learning
-      text: Performance support voor elke organisatie
+      text: Zet kennis om in relevante informatie voor de werkvloer
       class: item-agile
       url: /capp-agile-learning.html
       icon: icons/capp-agile-learning-new.svg

@@ -1,0 +1,15 @@
+<section class="cta-bottom gray">
+  <div class="row">
+
+    <h3>
+      <%= t("kwaliteitspaspoort.heading-contact") %>
+    </h3>
+
+    <%= partial "partials/form", locals: { title: "Contact Request: CAPP Compliance und Qualifikationsmanagement",
+                                           fields: ["name", "email", "organisation", "phone"],
+                                           button_text: t("form.submit"),
+                                           button_class: "button pink",
+                                           variant: "inline",
+                                           action_url: t("urls.contact")} %>
+  </div>
+</section>

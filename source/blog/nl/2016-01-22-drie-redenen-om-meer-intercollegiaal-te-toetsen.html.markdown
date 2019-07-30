@@ -43,7 +43,7 @@ Het zal natuurlijk niet altijd zo gaan, maar het lijkt me overduidelijk dat het 
 
 ## 3. Intercollegiale toetsing is praktischer en financieel aantrekkelijker dan een e-toets
 
-Misschien een wat minder inhoudelijk argument, maar laten we ook eens praktisch kijken. Hier zie je een greep uit een verpleegkundig profiel van ons [CAPP Kwaliteitspaspoort](/kwaliteitspaspoort/) van een willekeurig verpleegkundig profiel.
+Misschien een wat minder inhoudelijk argument, maar laten we ook eens praktisch kijken. Hier zie je een greep uit een verpleegkundig profiel van ons [CAPP Kwaliteitspaspoort](/capp-compliance/) van een willekeurig verpleegkundig profiel.
 
 ![Oud nieuws](/images/blog/capp-kwaliteitspaspoort-zorg.png)
 

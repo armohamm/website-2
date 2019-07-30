@@ -5,10 +5,8 @@ date: 2017-09-10 8:00 CEST
 services:
   - title: CAPP LMS
     link: /capp-lms
-  - title: Kwaliteitspaspoort
-    link: /kwaliteitspaspoort
-  - title: Kwaliteitsmonitor
-    link: /kwaliteitsmonitor
+  - title: CAPP Compliance
+    link: /capp-compliance
   - title: CAPP Agile learning
     link: /capp-agile-learning
   - title: Consultancy
@@ -34,7 +32,7 @@ facts:
 
 ## Bevoegd en bekwaam
 
-‘Onze medewerkers moeten kunnen aantonen dat ze bevoegd en bekwaam zijn. De lancering van het Kwaliteitspaspoort zorgt daarvoor,’ aldus de Managementassistent. ‘Daarnaast is het nu goed inzichtelijk waar extra scholing nodig is. Dat is iets waar ZINN dankbaar gebruikt van maakt.’ Toch is het systeem nog niet optimaal voor ZINN. ‘We willen graag nóg beter inzichtelijk hebben wat er per afdeling en op elk niveau gebeurt. Dit geeft ons weer mogelijkheden om te bewerkstelligen dat de afdelingen nog beter gaan functioneren. Daarvoor ontwikkelde Defacto [de Kwaliteitsmonitor](/kwaliteitsmonitor/). Dit zorgt voor een extra informatielaag die dit mogelijk maakt.’
+‘Onze medewerkers moeten kunnen aantonen dat ze bevoegd en bekwaam zijn. De lancering van het Kwaliteitspaspoort zorgt daarvoor,’ aldus de Managementassistent. ‘Daarnaast is het nu goed inzichtelijk waar extra scholing nodig is. Dat is iets waar ZINN dankbaar gebruikt van maakt.’ Toch is het systeem nog niet optimaal voor ZINN. ‘We willen graag nóg beter inzichtelijk hebben wat er per afdeling en op elk niveau gebeurt. Dit geeft ons weer mogelijkheden om te bewerkstelligen dat de afdelingen nog beter gaan functioneren. Daarvoor ontwikkelde Defacto [de Kwaliteitsmonitor](/capp-compliance/). Dit zorgt voor een extra informatielaag die dit mogelijk maakt.’
 
 ## Administratie en kwaliteit
 

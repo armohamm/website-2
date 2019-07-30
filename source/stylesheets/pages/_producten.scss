@@ -126,18 +126,6 @@
   }
 }
 
-.kwaliteitsmonitor {
-  .left {
-    background: $blue;
-
-    h2 {
-      img {
-        width: 230px;
-      }
-    }
-  }
-}
-
 .capp-agile-learning {
   .left {
     background-color: $green;
@@ -160,6 +148,18 @@
     h2 {
       img {
         width: 300px;
+      }
+    }
+  }
+}
+
+.capp-compliance {
+  .left {
+    background-color: darken($light-gray, 10%);
+
+    h2 {
+      img {
+        width: 260px;
       }
     }
   }

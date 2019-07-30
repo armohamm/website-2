@@ -8,6 +8,7 @@ de:
 
   paths:
     bedankt: danke
+    capp-compliance: capp-compliance-qualifikationsmanagement
     capp-lms: capp-learning-management
     contact: kontakt
     convenant-medische-technologie: medizinproduktegesetz
@@ -21,8 +22,6 @@ de:
     implementaties: implementierungen
     klanten: kunden
     koppelingen: schnittstellen
-    kwaliteitsmonitor: qualitatsmonitor
-    kwaliteitspaspoort: capp-compliance-qualifikationsmanagement
     oplossingen: loesungen
     over-ons: uber-uns
     privacy-policy: datenschutzerklarung

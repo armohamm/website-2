@@ -21,7 +21,7 @@ Deze aanbeveling vormde een goede brug naar de laatste plenaire presentatie van 
 
 ![Joep Lenglet in gesprek met klanten](/images/blog/klantendag-009.jpg)
 
-Na de pauze waren er twee workshopsessies, elk met keuze uit drie onderwerpen, die door onze consultants werden gegeven. De workshops gingen over: autorisatiestructuur, het gebruik van ons [Kwaliteitspaspoort](/kwaliteitspaspoort/){:title="Kwaliteitspaspoort"} en vernieuwde e-learning en cursusmogelijkheden met CAPP LMS. Aan de hand van praktijkvoorbeelden kreeg men inzicht in de nieuwe en verbeterde features bij CAPP LMS.
+Na de pauze waren er twee workshopsessies, elk met keuze uit drie onderwerpen, die door onze consultants werden gegeven. De workshops gingen over: autorisatiestructuur, het gebruik van ons [Kwaliteitspaspoort](/capp-compliance/){:title="Kwaliteitspaspoort"} en vernieuwde e-learning en cursusmogelijkheden met CAPP LMS. Aan de hand van praktijkvoorbeelden kreeg men inzicht in de nieuwe en verbeterde features bij CAPP LMS.
 
 Tot slot was er de gelegenheid om gezamenlijk nog na te praten onder het genot van een borrel. Met dank aan de uitstekende catering van het AVL kon iedereen genieten van lekkere hapjes en drankjes. Onze consultants, account managers en een aantal developers waren druk in gesprek over CAPP LMS, ideeën voor de toekomst en een scala aan andere onderwerpen.
 

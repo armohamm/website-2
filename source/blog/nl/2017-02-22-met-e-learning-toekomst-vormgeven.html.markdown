@@ -36,4 +36,4 @@ In iedere organisatie is veel kennis bij medewerkers aanwezig. Vaak blijft deze 
 
 Bovendien ontwikkelen collega’s zich in hun vrije tijd en dat kan bijdragen aan verbetering van processen of verbreden van kennis binnen organisaties. Het hebben van een Kwaliteitspaspoort voor medewerkers waarin zij kunnen aantonen wat hun kwalificaties en competenties zijn is daarom een zeer handig hulpmiddel.
 
-[Het Kwaliteitspaspoort](/kwaliteitspaspoort/) is een centrale plek waarin elke medewerker de mogelijkheid heeft zijn of haar eigen e-portfolio te beheren en te optimaliseren, onafhankelijk van tijd en plaats. De aanschaf van een dergelijk systeem zal uiteraard moeten passen bij de visie op opleiden binnen de organisatie.
+[Het Kwaliteitspaspoort](/capp-compliance/) is een centrale plek waarin elke medewerker de mogelijkheid heeft zijn of haar eigen e-portfolio te beheren en te optimaliseren, onafhankelijk van tijd en plaats. De aanschaf van een dergelijk systeem zal uiteraard moeten passen bij de visie op opleiden binnen de organisatie.

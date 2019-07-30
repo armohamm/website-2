@@ -1,0 +1,16 @@
+<section class="cta-bottom gray">
+  <div class="row">
+
+    <h3>
+      <%= t("kwaliteitspaspoort.cta_bottom.heading_md") %>
+    </h3>
+
+    <%= partial "partials/form", locals: { title: "Contact Request: Kwaliteitspaspoort",
+                                           fields: ["name", "email", "organisation", "phone"],
+                                           button_text: t("actions.make_appointment"),
+                                           button_class: "button orange",
+                                           variant: "inline",
+                                           action_url: t("urls.contact")} %>
+
+  </div>
+</section>

@@ -1,3 +1,11 @@
+<%
+if root_locale == :en
+  color = "blue"
+else
+  color = "pink"
+end
+%>
+
 <section class="solutions">
 
   <div class="headline">
@@ -5,14 +13,6 @@
   </div>
 
   <div class="row">
-
-    <%
-    if root_locale == :en
-      color = "blue"
-    else
-      color = "pink"
-    end
-    %>
 
     <div class="solution">
       <div class="solution-icon">
@@ -36,45 +36,52 @@
 
       <div class="solution">
         <div class="solution-icon">
-          <%= locale_link_to image_tag("icons/compliance-pink.svg", alt: t("home.solutions.quality.title")), "/kwaliteitspaspoort.html" %>
+          <%= locale_link_to image_tag("icons/compliance-pink.svg", alt: t("home.solutions.quality.title")), "/capp-compliance.html" %>
         </div>
-        <h3><%= locale_link_to t("home.solutions.quality.title"), "/kwaliteitspaspoort.html" %></h3>
+        <h3><%= locale_link_to t("home.solutions.quality.title"), "/capp-compliance.html" %></h3>
         <%= markitdown t("home.solutions.quality.text_html") %>
-        <%= locale_link_to t("actions.more_about.quality"), "/kwaliteitspaspoort.html", class: "button small pink" %>
+        <%= locale_link_to t("actions.more_about.quality"), "/capp-compliance.html", class: "button small pink" %>
       </div>
 
-    <% else %>
+    <% elsif root_locale == :en %>
 
       <div class="solution">
         <div class="solution-icon">
-          <%= locale_link_to image_tag("icons/compliance-turquoise.svg", alt: t("home.solutions.quality.title")), "/kwaliteitspaspoort.html" %>
+          <%= locale_link_to image_tag("icons/compliance-turquoise.svg", alt: t("home.solutions.quality.title")), "/capp-compliance.html" %>
         </div>
-        <h3><%= locale_link_to t("home.solutions.quality.title"), "/kwaliteitspaspoort.html" %></h3>
+        <h3><%= locale_link_to t("home.solutions.quality.title"), "/capp-compliance.html" %></h3>
         <%= markitdown t("home.solutions.quality.text_html") %>
-        <%= locale_link_to t("actions.more_about.quality"), "/kwaliteitspaspoort.html", class: "button small turquoise" %>
+        <%= locale_link_to t("actions.more_about.quality"), "/capp-compliance.html", class: "button small turquoise" %>
       </div>
 
-      <% if root_locale == :en %>
-        <div class="solution">
-          <div class="solution-icon">
-            <%= locale_link_to image_tag("icons/informal-green.svg", alt: t("home.solutions.informal.title")), "/capp-agile-learning.html" %>
-          </div>
-          <h3><%= locale_link_to t("home.solutions.informal.title"), "/capp-agile-learning.html" %></h3>
-          <%= markitdown t("home.solutions.informal.text_html", link: locale_link_to("CAPP Agile Learning", "/capp-agile-learning.html")) %>
-          <%= locale_link_to t("actions.more_about.capp-agile"), "/capp-agile-learning.html", class: "button small green" %>
+      <div class="solution">
+        <div class="solution-icon">
+          <%= locale_link_to image_tag("icons/informal-green.svg", alt: t("home.solutions.informal.title")), "/capp-agile-learning.html" %>
         </div>
-      <% else %>
-        <div class="solution">
-          <div class="solution-icon">
-            <%= locale_link_to image_tag("icons/capp-agile-learning-new.svg", alt: t("home.solutions.informal.title")), "/capp-agile-learning.html" %>
-          </div>
-          <h3><%= locale_link_to t("home.solutions.informal.title"), "/capp-agile-learning.html" %></h3>
-          <%= markitdown t("home.solutions.informal.text_html", link: locale_link_to("CAPP Agile Learning", "/capp-agile-learning.html")) %>
-          <%= locale_link_to t("actions.more_about.capp-agile"), "/capp-agile-learning.html", class: "button small new-green" %>
+        <h3><%= locale_link_to t("home.solutions.informal.title"), "/capp-agile-learning.html" %></h3>
+        <%= markitdown t("home.solutions.informal.text_html", link: locale_link_to("CAPP Agile Learning", "/capp-agile-learning.html")) %>
+        <%= locale_link_to t("actions.more_about.capp-agile"), "/capp-agile-learning.html", class: "button small green" %>
+      </div>
+
+    <% elsif root_locale == :nl %>
+
+      <div class="solution">
+        <div class="solution-icon">
+          <%= locale_link_to image_tag("icons/capp-compliance-new.svg", alt: t("home.solutions.capp-compliance.title")), "/capp-compliance.html" %>
         </div>
-      <% end %>
+        <h3><%= locale_link_to t("home.solutions.capp-compliance.title"), "/capp-compliance.html" %></h3>
+        <%= markitdown t("home.solutions.capp-compliance.text_html") %>
+        <%= locale_link_to t("actions.more_about.capp-compliance"), "/capp-compliance.html", class: "button small persian-green" %>
+      </div>
 
-
+      <div class="solution">
+        <div class="solution-icon">
+          <%= locale_link_to image_tag("icons/capp-agile-learning-new.svg", alt: t("home.solutions.informal.title")), "/capp-agile-learning.html" %>
+        </div>
+        <h3><%= locale_link_to t("home.solutions.informal.title"), "/capp-agile-learning.html" %></h3>
+        <%= markitdown t("home.solutions.informal.text_html", link: locale_link_to("CAPP Agile Learning", "/capp-agile-learning.html")) %>
+        <%= locale_link_to t("actions.more_about.capp-agile"), "/capp-agile-learning.html", class: "button small new-green" %>
+      </div>
     <% end %>
 
   </div>

@@ -1,0 +1,50 @@
+---
+layout: "product_layout"
+title:
+  nl: CAPP Compliance
+  de: CAPP Compliance und Qualifikationsmanagement
+  en: CAPP Quality Portfolio
+description:
+  nl: Met CAPP maakt u compliance eenvoudig inzichtelijk en meetbaar voor uw organisatie.
+  de: Der Qualitätspass und Qualitätsmonitor von Defacto ist die Basis für den individuellen Entwicklungsplan der Mitarbeiter und damit für gezieltes Talentmanagement.
+  en: Get insight into the competencies and skills within your organisation at a glance with Defacto’s CAPP Quality  Portfolio.
+---
+
+<% if root_locale == :en %>
+
+  <%= partial "capp-compliance/en/hero" %>
+  <%= partial "capp-compliance/en/kwaliteitspaspoort" %>
+  <%= partial "capp-compliance/en/appointment" %>
+  <%= partial "clients/clients-section" %>
+
+<% elsif root_locale == :de %>
+
+  <%= partial "capp-compliance/de/hero" %>
+  <%= partial "capp-compliance/de/on-page-navigation" %>
+  <%= partial "capp-compliance/de/introduction" %>
+  <%= partial "capp-compliance/de/overview" %>
+  <%= partial "capp-compliance/de/appointment" %>
+  <%= partial "capp-compliance/de/more" %>
+
+<% elsif root_locale == :nl %>
+
+  <%= partial "partials/hero", locals: { variant: "variant-product",
+                                         variant_overlay: "overlay-darken",
+                                         background_image: "capp-compliance-new.jpg",
+                                         title: t("capp-compliance.h1"),
+                                         logo: "logos/new/logo-capp-compliance.svg",
+                                         logo_title: "CAPP Compliance Logo"} %>
+
+  <%= partial "partials/on-page-navigation", locals: { variant: "persian-green",
+                                                       links: [{ anchor: "#introduction", key: t("capp-compliance.on-page-navigation.introduction")},
+                                                               { anchor: "#testimonials", key: t("capp-compliance.on-page-navigation.testimonials")},
+                                                               { anchor: "#features", key: t("capp-compliance.on-page-navigation.product-overview")},
+                                                               { anchor: "#compliance-api", key: t("capp-compliance.on-page-navigation.compliance-api")},
+                                                               { anchor: "#download-productsheet", key: t("capp-compliance.on-page-navigation.more-info")}]} %>
+
+  <%= partial "capp-compliance/nl/introduction" %>
+  <%= partial "capp-compliance/nl/testimonials", locals: { variant: "light-gray" } %>
+  <%= partial "capp-compliance/nl/product-overview" %>
+  <%= partial "capp-compliance/nl/download-productsheet" %>
+
+<% end %>

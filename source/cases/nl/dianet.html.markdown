@@ -5,10 +5,8 @@ date: 2018-09-25 8:00 CEST
 services:
   - title: CAPP LMS
     link: /capp-lms
-  - title: Kwaliteitspaspoort
-    link: /kwaliteitspaspoort
-  - title: Kwaliteitsmonitor
-    link: /kwaliteitsmonitor
+  - title: CAPP Compliance
+    link: /capp-compliance
   - title: Consultancy
 lang: nl
 logo_white: cases/dianet/logo-dianet-white.png
@@ -30,7 +28,7 @@ facts:
 
 ## Van managementsysteem naar LMS
 
-Opleidingsadviseur Hanke Mensink: "De nadruk op het registreren maakte dat medewerkers dit zagen als een opdracht en daarmee niet als eigen verantwoordelijkheid. We willen niet dat een medewerker het nemen van verantwoordelijkheid als verplichting ziet, maar dit als natuurlijk onderdeel van de functie ervaart en er zelf initiatief in neemt. Alleen dan ontstaat een intrinsieke motivatie om ook werkelijk te gaan leren. Met [CAPP LMS](/capp-lms/) gaan medewerkers deze zelfregie ervaren, bijvoorbeeld dankzij het [Kwaliteitspaspoort](/kwaliteitspaspoort/) dat onze medewerkers een gepersonaliseerd dashboard toont."
+Opleidingsadviseur Hanke Mensink: "De nadruk op het registreren maakte dat medewerkers dit zagen als een opdracht en daarmee niet als eigen verantwoordelijkheid. We willen niet dat een medewerker het nemen van verantwoordelijkheid als verplichting ziet, maar dit als natuurlijk onderdeel van de functie ervaart en er zelf initiatief in neemt. Alleen dan ontstaat een intrinsieke motivatie om ook werkelijk te gaan leren. Met [CAPP LMS](/capp-lms/) gaan medewerkers deze zelfregie ervaren, bijvoorbeeld dankzij het [Kwaliteitspaspoort](/capp-compliance/) dat onze medewerkers een gepersonaliseerd dashboard toont."
 
 Medewerkers kunnen op elk moment hun voortgang bekijken en hun bekwaamheden controleren, bijvoorbeeld door een self-assessment, of door een collega een assessment te laten doen. Hiermee wil Dianet de zorgprofessional motiveren om zelf te zeggen: ‘Ik voel me bekwaam en zo niet dan kan ik zelf de regie nemen en kiezen op welke wijze ik mijn vaardigheden, bekwaamheden en kennis ga ontwikkelen.’ Doordat CAPP LMS alle vormen van online leren ondersteunt, kunnen de wensen en behoeften van medewerkers beter vertaald worden naar passende leeroplossingen. Hiermee wordt het leren niet alleen veel aantrekkelijker maar ook efficiënter.
 

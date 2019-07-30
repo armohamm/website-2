@@ -19,7 +19,7 @@ De opbrengst voor de klant is dat ze de gelegenheid krijgt om kennis en ervaring
 
 ## Gezamenlijke ontwikkelagenda
 
-Uit de eerder genoemde gebruikersoverleggen is een gezamenlijke ontwikkelagenda ontstaan, die ons en onze klanten in staat stelt gewenste aanvullingen in het systeem binnen een acceptabele investering en het gestelde tijdspad te realiseren. Een voorbeeld hiervan is het verder verfijnen van het [Kwaliteitspaspoort](/kwaliteitspaspoort/). Door deze samenwerking ontstaat een betere samenwerking die de voorwaarde vormt voor een duurzame relatie.
+Uit de eerder genoemde gebruikersoverleggen is een gezamenlijke ontwikkelagenda ontstaan, die ons en onze klanten in staat stelt gewenste aanvullingen in het systeem binnen een acceptabele investering en het gestelde tijdspad te realiseren. Een voorbeeld hiervan is het verder verfijnen van het [Kwaliteitspaspoort](/capp-compliance/). Door deze samenwerking ontstaat een betere samenwerking die de voorwaarde vormt voor een duurzame relatie.
 
 ## Gebruikersoverleg Ministerie van Sociale Zaken en Werkgelegenheid
 

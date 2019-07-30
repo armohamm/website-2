@@ -12,25 +12,15 @@
     </div>
   </li>
 
-  <li class="kwaliteitspaspoort">
-    <% link_to "/kwaliteitspaspoort.html", class: "col left" do %>
+  <li class="capp-compliance">
+    <% link_to "/capp-compliance.html", class: "col left" do %>
       <h2>
-        <%= image_tag "logos/logo-kwaliteitspaspoort-white-vertical.svg", alt: t("kwaliteitspaspoort.name"), title: t("kwaliteitspaspoort.name") %>
+        <%= image_tag "logos/new/logo-capp-compliance.svg", alt: t("capp-compliance.name"), title: t("capp-compliance") %>
       </h2>
     <% end %>
     <div class="col right">
-      <p><%= t("kwaliteitspaspoort.desc", link: link_to(t("kwaliteitspaspoort.name"), "/kwaliteitspaspoort.html")) %></p>
-      <%= link_to t("actions.more_about.quality"), "/kwaliteitspaspoort.html", class: "button turquoise outline" %>
-    </div>
-  </li>
-
-  <li class="kwaliteitsmonitor">
-    <% link_to "/kwaliteitsmonitor.html", class: "col left" do %>
-      <h2><%= image_tag "logos/logo-kwaliteitsmonitor-white-vertical.svg", alt: t("kwaliteitsmonitor.name"), title: t("kwaliteitsmonitor.name") %></h2>
-    <% end %>
-    <div class="col right">
-      <p><%= t("kwaliteitsmonitor.desc", link: link_to(t("kwaliteitsmonitor.name"), "/kwaliteitsmonitor.html")) %></p>
-      <%= link_to t("actions.more_about.kwaliteitsmonitor"), "/kwaliteitsmonitor.html", class: "button blue outline" %>
+      <p><%= t("capp-compliance.description", link: link_to(t("capp-compliance.link"), "/capp-compliance.html")) %></p>
+      <%= link_to t("actions.more_about.capp-compliance"), "/capp-compliance.html", class: "button persian-green outline" %>
     </div>
   </li>
 

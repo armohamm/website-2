@@ -20,7 +20,7 @@ Zelfsturing betekent niet dat er geen sturing is. Uit ervaring blijkt dat zelfst
 
 ## Wat draagt het Kwaliteitspaspoort van Defacto hier aan bij?
 
-Defacto heeft met een aantal zorginstellingen het [CAPP Kwaliteitspaspoort](/kwaliteitspaspoort/) ontwikkeld die de benodigde real time data genereert op het gebied van vakbekwaam- en -bevoegdheid. Het inzetten van het Kwaliteitspaspoort geeft de organisatie, het team en de individu de noodzakelijke sturingsinformatie.
+Defacto heeft met een aantal zorginstellingen het [CAPP Kwaliteitspaspoort](/capp-compliance/) ontwikkeld die de benodigde real time data genereert op het gebied van vakbekwaam- en -bevoegdheid. Het inzetten van het Kwaliteitspaspoort geeft de organisatie, het team en de individu de noodzakelijke sturingsinformatie.
 
 Door de gezamenlijke verantwoordelijkheden en de overlap van taken kunnen teamleden functievervaging ervaren. Waar ze voorheen een duidelijke verantwoordelijkheid hadden, krijgen ze nu meer te maken met operationele taken en randzaken die ook binnen het zelfsturende team uitgevoerd moeten worden. Door inzicht in competenties, vakbekwaam- en bevoegdheden in het Kwaliteitspaspoort kan het team er zelf in sturen.
 

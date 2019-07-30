@@ -17,7 +17,7 @@ Rivierenland en LUMC hebben hun oplossing, het zogenoemde **3 stappen plan**, ti
 
 ### 1. Definiëren van profielen
 
-Met behulp van [het Kwaliteitspaspoort van Defacto](/kwaliteitspaspoort/) kan van alle functies aangegeven worden met welke medische apparatuur de medewerkers werken en waarvoor deze medewerkers dus gecertificeerd moeten zijn.
+Met behulp van [CAPP Compliance van Defacto](/capp-compliance/) kan van alle functies aangegeven worden met welke medische apparatuur de medewerkers werken en waarvoor deze medewerkers dus gecertificeerd moeten zijn.
 
 ### 2. Monitoren van de profielen
 

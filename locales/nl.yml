@@ -46,13 +46,13 @@ nl:
       70-20-10: 'Meer 70:20:10'
       capp: Meer CAPP LMS
       capp-agile: Meer CAPP Agile Learning
+      capp-compliance: Meer CAPP Compliance
       clients: Meer over onze klanten
       cmt: Meer CMT
       elearning: Meer E-Learning
       hosting: Meer hosting
       implementaties: Meer implementaties
       koppelingen: Meer koppelingen
-      kwaliteitsmonitor: Meer Kwaliteitsmonitor
       more_capp: Meer over CAPP LMS
       quality: Meer Kwaliteitspaspoort
       threesixty: Meer 360° Feedback
@@ -101,6 +101,20 @@ nl:
       testimonials: Testimonials
     testimonials_heading: Testimonials
     title: CAPP Agile Learning
+  capp-compliance:
+    cta_bottom:
+      text: Download ons handige productsheet met alle informatie.
+      title: Wilt u ook compliance in uw organisatie gemakkelijk beheersbaar maken?
+    description: Wilt u ook compliance in uw organisatie gemakkelijk beheersbaar maken? Met %{link} maakt u compliance eenvoudig inzichtelijk en meetbaar voor uw organisatie
+    h1: Met CAPP maakt u compliance eenvoudig inzichtelijk en meetbaar voor uw organisatie
+    link: CAPP
+    name: CAPP Compliance
+    on-page-navigation:
+      compliance-api: Compliance API
+      introduction: Introductie
+      more-info: Meer informatie?
+      product-overview: Productoverzicht
+      testimonials: Testimonials
   capp-new:
     heading-contact: Nieuwsgierig naar de uitgebreide mogelijkheden van CAPP LMS? Maak nu een afspraak!
     hero:
@@ -212,6 +226,7 @@ nl:
     default_description: Defacto helpt organisaties bij het ontwikkelen en certificeren van hun medewerkers
     default_title: Defacto
   home:
+
     hero:
       text: Meer dan 200.000 professionals gebruiken onze software om te leren en hun talenten te ontwikkelen
       title: Developing People
@@ -219,15 +234,15 @@ nl:
       text: CAPP LMS faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant.
       title: Learning & Talent Management
     solutions:
+      capp-compliance:
+        title: CAPP Compliance
+        text_html: Met CAPP maakt u compliance eenvoudig inzichtelijk en meetbaar voor uw organisatie
       informal:
         text_html: 'Performance support door ''kennis-on-demand''. Voorzie medewerkers van _just-in-time_ kennis. Leg kennis simpel vast, deel handleidingen, werkinstructies en meer.'
         title: CAPP Agile Learning
       learn:
         text_html: '%{link} faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant.'
         title: CAPP LMS
-      quality:
-        text_html: 'Real-time inzicht in de vakbevoegdheid van jezelf, het team en de gehele organisatie. Voldoe zichtbaar aan de gestelde kwaliteitseisen.'
-        title: CAPP Kwaliteitspaspoort
   hosting:
     heading: Hosting & Security
   implementaties:
@@ -242,26 +257,6 @@ nl:
     vacancies: 'Vacatures:'
   koppelingen:
     heading: Gecertificeerde koppelingen
-  kwaliteitsmonitor:
-    cta_bottom:
-      heading_md: Download de Kwaliteitsmonitor productsheet
-    desc: 'Hoe staat het ervoor met de kwaliteit in jouw organisatie? Bekijk het real-time met %{link}.'
-    hero:
-      image: screenshots/hero-kwaliteitsmonitor.png
-      text_md: Automatiseer het vinken
-    logo: logos/kwaliteitsmonitor.png
-    logo_white: logos/kwaliteitsmonitor-white.png
-    name: Kwaliteitsmonitor
-  kwaliteitspaspoort:
-    cta_bottom:
-      heading_md: Nu beginnen met het behalen van je accreditaties met het CAPP Kwaliteitspaspoort?
-    desc: 'Garandeer kwaliteit binnen uw organisatie door te werken aan bevoegdheden en bekwaamheden van uw medewerkers. Maak uw organisatie toekomstbestendig met het %{link}.'
-    hero:
-      image: screenshots/hero-kwaliteitspaspoort.png
-      text_md: In één oogopslag zicht op bevoegd- en bekwaamheid
-      title: Elke medewerker aantoonbaar bekwaam met het CAPP Kwaliteitspaspoort
-    logo: logos/kwaliteitspaspoort-white.png
-    name: Kwaliteitspaspoort
   navigation:
     buttons:
       close: Sluiten

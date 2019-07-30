@@ -73,6 +73,10 @@ body.product-page {
           &:last-child {
             margin-left: 2em;
           }
+
+          &:first-child:last-child {
+            max-width: $medium-row;
+          }
         }
 
         img {

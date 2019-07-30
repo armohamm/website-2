@@ -5,10 +5,8 @@ date: 2017-10-10 8:00 CEST
 services:
   - title: CAPP LMS
     link: /capp-lms
-  - title: Kwaliteitspaspoort
-    link: /kwaliteitspaspoort
-  - title: Kwaliteitsmonitor
-    link: /kwaliteitsmonitor
+  - title: CAPP Compliance
+    link: /capp-compliance
   - title: CAPP Agile learning
     link: /capp-agile-learning
   - title: Consultancy
@@ -34,7 +32,7 @@ facts:
 
 Klinisch redeneren is de werknaam voor het werkplek-leren binnen MUMC+ academie. Door middel van werkplek-assessment wil het MUMC+ de cognitieve vermogens van medewerkers verder ontwikkelen. Gerjan Willems, ontwikkelaar en projectleider werkplekleren legt uit: ‘Werkplek-leren is effectief en ontwikkelingsgericht omdat het assessment plaatsvindt in de meest authentieke situatie die er is: de relatie patiënt-medewerker. Van de andere kant kunnen de verletkosten dalen doordat de medewerker niet van de werkplek af hoeft om zich verder in het vak te ontwikkelen.’ Tijdens dagelijkse bezigheden wordt een medewerker gevolgd door een speciaal getrainde collega, een zogenaamde “assessor”. Tijdens het assessment worden zoveel mogelijk open vragen gesteld om de medewerker aan het redeneren te krijgen. De patiënt wordt dan ook integraal betrokken bij zijn eigen assessment. Er worden geen gesloten vragen gesteld omdat de medewerker dan niet vanuit de patiënt gaat redeneren en analyseren. In de evaluatie van het assessment wordt geen waardeoordeel gegeven, er wordt uitsluitend cognitieve feedback gegeven waarna zowel de medewerker als de assessor reflecteren op de *bedside performance*. Ook de patiënt evalueert zijn eigen assessment.
 
-De scenario's die hiervoor gebruikt worden, gaan hand in hand met de eisen in [het Kwaliteitspaspoort](/kwaliteitspaspoort/). Door middel van de assessments in de praktijk, wordt de medewerker bekwaam verklaard in zijn kwaliteitspaspoort. Het werkplek gerichte curriculum “klinisch redeneren” is onderdeel van een allesomvattende visie op werkplekleren. Deze visie beschrijft:
+De scenario's die hiervoor gebruikt worden, gaan hand in hand met de eisen in [het Kwaliteitspaspoort](/capp-compliance/). Door middel van de assessments in de praktijk, wordt de medewerker bekwaam verklaard in zijn kwaliteitspaspoort. Het werkplek gerichte curriculum “klinisch redeneren” is onderdeel van een allesomvattende visie op werkplekleren. Deze visie beschrijft:
 
 - Leren reflecteren op (eigen) handelen waarbij een beroep wordt gedaan op het eigen professioneel handelen;
 - De contextrijke werkomgeving optimaliseren voor leren;

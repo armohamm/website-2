@@ -78,6 +78,10 @@
     @include button($new-green);
   }
 
+  &.persian-green {
+    @include button($persian-green);
+  }
+
   &.red {
     @include button($red);
   }

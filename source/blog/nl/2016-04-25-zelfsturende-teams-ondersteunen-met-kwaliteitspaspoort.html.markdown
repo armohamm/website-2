@@ -36,7 +36,7 @@ Een lijnmanager kan niet van alle 100 medewerkers bijhouden wie in welk team zit
 
 ## Hoe het Kwaliteitspaspoort teams ondersteunt
 
-[CAPP Kwaliteitspaspoort](/kwaliteitspaspoort/) voorziet teamleden om zelf te bepalen wie inzicht heeft in zijn of haar bekwaamheden. En we gaan daarin nog een stap verder: wie zijn of haar teamleider is en daardoor ook aanpassingen kan doen in de status van bevoegd- en bekwaamheden.
+[CAPP Kwaliteitspaspoort](/capp-compliance/) voorziet teamleden om zelf te bepalen wie inzicht heeft in zijn of haar bekwaamheden. En we gaan daarin nog een stap verder: wie zijn of haar teamleider is en daardoor ook aanpassingen kan doen in de status van bevoegd- en bekwaamheden.
 
 Denk bijvoorbeeld aan bekwaamheden die 6 personen in een team onder de knie moeten hebben en daardoor voor de overige teamleden niet van toepassing zijn. Hier heeft het team zelf controle over.
 

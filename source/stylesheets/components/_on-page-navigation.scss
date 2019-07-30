@@ -8,10 +8,10 @@ section.on-page-navigation {
 
   &.new-green {
     background: $new-green;
+  }
 
-    a {
-      color: $white;
-    }
+  &.persian-green {
+    background: $persian-green;
   }
 
   li {
@@ -21,6 +21,7 @@ section.on-page-navigation {
   }
 
   a {
+    color: $white;
     display: block;
     font-weight: $font-weight-bold;
     padding: 0.2em 0;
