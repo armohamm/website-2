@@ -13,6 +13,11 @@
       class: item-compliance
       url: /capp-compliance.html
       icon: icons/capp-compliance-new.svg
+    - title: CAPP Quizzes
+      text: Gemakkelijk toetsen maken en aanbieden
+      class: item-quizzes
+      url: /capp-quizzes.html
+      icon: icons/capp-quizzes.svg
     - title: CAPP Agile Learning
       text: Zet kennis om in relevante informatie voor de werkvloer
       class: item-agile

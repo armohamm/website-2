@@ -405,6 +405,11 @@ header.global-navigation {
     color: $blue;
   }
 
+  .item-quizzes,
+  .item-quizzes .link-title {
+    color: $dodger-blue;
+  }
+
   .item-agile,
   .item-agile .link-title {
     color: $green;
@@ -547,6 +552,18 @@ header.global-navigation {
 
           .hover-fill-dark {
             fill: darken($blue, 10%);
+          }
+        }
+      }
+
+      &.item-quizzes {
+        &:hover {
+          .link-title {
+            color: darken($dodger-blue, 10%);
+          }
+
+          .hover-fill-dark {
+            fill: darken($dodger-blue, 10%);
           }
         }
       }
