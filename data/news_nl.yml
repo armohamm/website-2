@@ -1,17 +1,16 @@
+- title: "Dit vinden onze klanten van het nieuwe CAPP LMS"
+  text: "In de eerste helft van 2019 hebben verschillende klanten de overstap naar CAPP LMS gemaakt. Op ons blog leest u een greep uit hun reacties op de nieuwe software."
+  image: "news/capp-lms-news.jpg"
+  link: "/blog/klanten-over-capp-lms/"
+  alt: "Dit vinden onze klanten van CAPP LMS"
+
+- title: "'Curation biedt gebruikers meer orde en keuze in het LMS'"
+  text: "Met Mijn lijst, een nieuwe feature in CAPP LMS, zetten we nieuwe stappen op het gebied van curation. Productmanager Hugo en consultant Bastiaan vertellen wat dit betekent voor uw organisatie en uw medewerkers."
+  image: "news/curation-news.png"
+  link: "/blog/curation-mijn-lijst-persoonlijke-ontwikkeling-capp-lms/"
+
 - title: "Defacto feliciteert Dianet met succesvolle HKZ-certificering"
   text: "Dianet, het expertisecentrum voor dialyse, is de eerste klant die met de overzichten en inzichten in CAPP LMS de aantoonbare vakbevoegdheid en vakbekwaamheid van haar medewerkers heeft kunnen aantonen."
   image: "news/dianet-news.jpg"
   link: "/blog/defacto-feliciteert-dianet-hkz-certificering-capp-lms/"
   alt: "Defacto feliciteert Dianet met succesvolle HKZ-certificering"
-
-- title: "Toetsen maken en aanbieden was nog nooit zo gemakkelijk"
-  text: "CAPP Quizzes is een nieuwe applicatie van Defacto voor het maken en aanbieden van toetsen. Combineer toetsing en feedback in een gebruiksvriendelijke webapplicatie en verkrijg inzicht in de prestaties van gebruikers door relevante statistieken."
-  image: "news/quizzes-news.jpg"
-  link: "/capp-quizzes/"
-  alt: "CAPP Quizzes"
-
-- title: "Deel actuele compliance data met andere systemen"
-  text: "De CAPP Compliance API deelt op een eenvoudige manier de status van certificering en bevoegdheid (compliance) van medewerkers uit CAPP LMS realtime met andere applicaties in een organisatie."
-  image: "news/compliance-api-news.jpg"
-  link: "/compliance-api/"
-  alt: "CAPP Compliance API"
