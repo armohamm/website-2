@@ -1,49 +1,17 @@
 ---
+layout: "product_layout"
 title: "CAPP Quizzes"
 description: "Toetsen maken en eenvoudig aanbieden"
 lang_ignore: en, de
 ---
 
-<div class="hero">
-  <div class="hero-inner">
-    <%= image_tag "logos/logo-quizzes.svg", alt: "Logo Quizzes", title: "Logo Quizzes" %>
-  </div>
-</div>
+<%= partial "partials/hero", locals: { variant: "variant-product",
+                                       background_image: "doors.jpg",
+                                       logo: "logos/logo-quizzes.svg",
+                                       logo_title: "Quizzes Logo"} %>
 
-<section>
-  <div class="row">
-    <div class="col">
-      <article>
-        <%= partial "quizzes/content" %>
-      </article>
-    </div>
-    <div class="col-img">
-      <%= image_tag "screenshots/quizzes-screenshots.png", title: "Zo werkt Quizzes in de praktijk", alt: "Zo werkt Quizzes in de praktijk" %>
-    </div>
-  </div>
-</section>
-
-<% if root_locale == :nl %>
-  <section class="cta-bottom gray">
-    <div class="row">
-
-      <div>
-        <h2>
-          <%= t("quizzes.cta_bottom.title") %>
-        </h2>
-        <p>
-          <%= t("quizzes.cta_bottom.text") %>
-        </p>
-      </div>
-
-    </div>
-
-    <%= partial "partials/form", locals: { title: "Download: Quizzes Productsheet",
-                                           form_type: "download pdf",
-                                           download_link: data.downloads.quizzes_productsheet[I18n.locale],
-                                           fields: ["name", "email", "organisation", "phone"],
-                                           button_text: t("actions.download_productsheet"),
-                                           action_url: t("urls.contact")} %>
-
-  </section>
-<% end %>
+<%= partial "partials/on-page-navigation", locals: { variant: "dodger-blue",
+                                                    links: [{ anchor: "#features", key: t("capp-quizzes.on-page-navigation.product-overview")},
+                                                            { anchor: "#download-productsheet", key: t("capp-quizzes.on-page-navigation.more-info")}]} %>
+<%= partial "capp-quizzes/product-overview" %>
+<%= partial "capp-quizzes/download-productsheet" %>

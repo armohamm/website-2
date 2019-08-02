@@ -1,0 +1,21 @@
+<section class="cta-bottom gray" id="download-productsheet">
+  <div class="row">
+
+    <div>
+      <h2>
+        <%= t("capp-quizzes.cta_bottom.title") %>
+      </h2>
+      <p>
+        <%= t("capp-quizzes.cta_bottom.text") %>
+      </p>
+    </div>
+
+    <%= partial "partials/form", locals: { title: "Download: Quizzes Productsheet",
+                                           form_type: "download pdf",
+                                           download_link: data.downloads.quizzes_productsheet[I18n.locale],
+                                           fields: ["name", "email", "organisation", "phone"],
+                                           button_text: t("actions.download_productsheet"),
+                                           button_class: "dodger-blue",
+                                           action_url: t("urls.contact")} %>
+  </div>
+</section>

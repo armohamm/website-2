@@ -14,6 +14,10 @@ section.on-page-navigation {
     background: $persian-green;
   }
 
+  &.dodger-blue {
+    background: $dodger-blue;
+  }
+
   li {
     @include grid-media($medium-up) {
       display: inline-block;

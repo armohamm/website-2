@@ -94,6 +94,10 @@
     @include button($turquoise);
   }
 
+  &.dodger-blue {
+    @include button($dodger-blue);
+  }
+
   &.white {
     @include button($white);
     color: lighten($base-font-color, 15);

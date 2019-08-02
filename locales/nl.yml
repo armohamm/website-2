@@ -123,6 +123,13 @@ nl:
     page-nav:
       features: Features
       introduction: Inleiding
+  capp-quizzes:
+    cta_bottom:
+      text: Download ons handige productsheet met alle informatie.
+      title: Geïnteresseerd in meer informatie over Quizzes?
+    on-page-navigation:
+      more-info: Meer informatie?
+      product-overview: Productoverzicht
   cases:
     all_cases: Alle cases
     contact: Contact opnemen
