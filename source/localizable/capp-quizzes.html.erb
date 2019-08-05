@@ -8,10 +8,14 @@ lang_ignore: en, de
 <%= partial "partials/hero", locals: { variant: "variant-product",
                                        background_image: "doors.jpg",
                                        logo: "logos/logo-quizzes.svg",
-                                       logo_title: "Quizzes Logo"} %>
+                                       logo_title: "Quizzes Logo",
+                                       title: t("capp-quizzes.h1")
+                                      } %>
 
 <%= partial "partials/on-page-navigation", locals: { variant: "dodger-blue",
-                                                    links: [{ anchor: "#features", key: t("capp-quizzes.on-page-navigation.product-overview")},
+                                                    links: [{ anchor: "#introducton", key: t("capp-quizzes.on-page-navigation.introduction")},
+                                                            { anchor: "#features", key: t("capp-quizzes.on-page-navigation.product-overview")},
                                                             { anchor: "#download-productsheet", key: t("capp-quizzes.on-page-navigation.more-info")}]} %>
+<%= partial "capp-quizzes/introduction" %>
 <%= partial "capp-quizzes/product-overview" %>
 <%= partial "capp-quizzes/download-productsheet" %>

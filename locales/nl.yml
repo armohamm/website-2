@@ -142,10 +142,12 @@ nl:
     cta_bottom:
       text: Download ons handige productsheet met alle informatie.
       title: Geïnteresseerd in meer informatie over Quizzes?
+    h1: "Gemakkelijk toetsen maken en aanbieden"
     description: Met %{link} kunt u gemakkelijk toetsen maken en aanbieden.
     link: CAPP Quizzes
     name: CAPP Quizzes
     on-page-navigation:
+      introduction: "Introductie"
       more-info: Meer informatie?
       product-overview: Productoverzicht
   cases:
