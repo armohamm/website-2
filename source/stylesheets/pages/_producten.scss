@@ -147,7 +147,7 @@
 
     h2 {
       img {
-        width: 210px;
+        width: 208px;
       }
     }
   }
@@ -172,6 +172,18 @@
     h2 {
       img {
         width: 260px;
+      }
+    }
+  }
+}
+
+.capp-compliance-api {
+  .left {
+    background-color: darken($orange-golden, 10%);
+
+    h2 {
+      img {
+        width: 330px;
       }
     }
   }

@@ -47,6 +47,7 @@ nl:
       capp: Meer CAPP LMS
       capp-agile: Meer CAPP Agile Learning
       capp-compliance: Meer CAPP Compliance
+      capp-compliance-api: Meer CAPP Compliance API
       capp-quizzes: Meer CAPP Quizzes
       clients: Meer over onze klanten
       cmt: Meer CMT
@@ -120,10 +121,10 @@ nl:
     cta_bottom:
       text: Laat uw gegevens achter en download ons productsheet met daarin alle informatie.
       title: Meer informatie over de inzet van de Compliance API in jouw organisatie?
+    description: De %{link} deelt de status van certificering en compliance van medewerkers realtime met andere applicaties binnen een organisatie.
     h1: Deel actuele compliance data met andere systemen
-    hero:
-      sub_title: Realtime compliance in elk systeem
-      title: CAPP Compliance API
+    link: CAPP Compliance API
+    name: CAPP Compliance API
     on-page-navigation:
       introduction: Introductie
       how-it-works: Hoe werkt de API?

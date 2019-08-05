@@ -15,7 +15,7 @@
   <li class="capp-compliance">
     <% link_to "/capp-compliance.html", class: "col left" do %>
       <h2>
-        <%= image_tag "logos/new/logo-capp-compliance.svg", alt: t("capp-compliance.name"), title: t("capp-compliance") %>
+        <%= image_tag "logos/new/logo-capp-compliance.svg", alt: t("capp-compliance.name"), title: t("capp-compliance.name") %>
       </h2>
     <% end %>
     <div class="col right">
@@ -24,10 +24,22 @@
     </div>
   </li>
 
+  <li class="capp-compliance-api">
+    <% link_to "/capp-compliance-api.html", class: "col left" do %>
+      <h2>
+        <%= image_tag "logos/logo-capp-compliance-api.svg", alt: t("capp-compliance-api.name"), title: t("capp-compliance-api.name") %>
+      </h2>
+    <% end %>
+    <div class="col right">
+      <p><%= t("capp-compliance-api.description", link: link_to(t("capp-compliance-api.link"), "/capp-compliance-api.html")) %></p>
+      <%= link_to t("actions.more_about.capp-compliance-api"), "/capp-compliance-api.html", class: "button orange-golden outline" %>
+    </div>
+  </li>
+
   <li class="capp-quizzes">
     <% link_to "/capp-quizzes.html", class: "col left" do %>
       <h2>
-        <%= image_tag "logos/logo-quizzes.svg", alt: t("capp-quizzes.name"), title: t("capp-quizzes") %>
+        <%= image_tag "logos/logo-quizzes.svg", alt: t("capp-quizzes.name"), title: t("capp-quizzes.name") %>
       </h2>
     <% end %>
     <div class="col right">
