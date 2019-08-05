@@ -24,6 +24,18 @@
     </div>
   </li>
 
+  <li class="capp-quizzes">
+    <% link_to "/capp-quizzes.html", class: "col left" do %>
+      <h2>
+        <%= image_tag "logos/logo-quizzes.svg", alt: t("capp-quizzes.name"), title: t("capp-quizzes") %>
+      </h2>
+    <% end %>
+    <div class="col right">
+      <p><%= t("capp-quizzes.description", link: link_to(t("capp-quizzes.link"), "/capp-quizzes.html")) %></p>
+      <%= link_to t("actions.more_about.capp-quizzes"), "/capp-quizzes.html", class: "button dodger-blue outline" %>
+    </div>
+  </li>
+
   <li class="capp-agile-learning-new">
     <% link_to "/capp-agile-learning.html", class: "col left" do %>
       <h2>

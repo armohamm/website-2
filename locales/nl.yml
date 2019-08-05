@@ -47,6 +47,7 @@ nl:
       capp: Meer CAPP LMS
       capp-agile: Meer CAPP Agile Learning
       capp-compliance: Meer CAPP Compliance
+      capp-quizzes: Meer CAPP Quizzes
       clients: Meer over onze klanten
       cmt: Meer CMT
       elearning: Meer E-Learning
@@ -107,7 +108,7 @@ nl:
       title: Wilt u ook compliance in uw organisatie gemakkelijk beheersbaar maken?
     description: Wilt u ook compliance in uw organisatie gemakkelijk beheersbaar maken? Met %{link} maakt u compliance eenvoudig inzichtelijk en meetbaar voor uw organisatie
     h1: Met CAPP maakt u compliance eenvoudig inzichtelijk en meetbaar voor uw organisatie
-    link: CAPP
+    link: CAPP Compliance
     name: CAPP Compliance
     on-page-navigation:
       compliance-api: Compliance API
@@ -127,6 +128,9 @@ nl:
     cta_bottom:
       text: Download ons handige productsheet met alle informatie.
       title: Geïnteresseerd in meer informatie over Quizzes?
+    description: Met %{link} kunt u gemakkelijk toetsen maken en aanbieden.
+    link: CAPP Quizzes
+    name: CAPP Quizzes
     on-page-navigation:
       more-info: Meer informatie?
       product-overview: Productoverzicht

@@ -141,9 +141,21 @@
   }
 }
 
+.capp-quizzes {
+  .left {
+    background-color: darken($dodger-blue, 20%);
+
+    h2 {
+      img {
+        width: 210px;
+      }
+    }
+  }
+}
+
 .capp-agile-learning-new {
   .left {
-    background-color: lighten($new-green, 10%);
+    background-color: darken($new-green, 20%);
 
     h2 {
       img {
@@ -155,7 +167,7 @@
 
 .capp-compliance {
   .left {
-    background-color: darken($light-gray, 10%);
+    background-color: darken($persian-green, 20%);
 
     h2 {
       img {
