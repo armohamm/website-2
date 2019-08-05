@@ -4,15 +4,20 @@
   url: /producten.html
   links:
     - title: CAPP LMS
-      text: CAPP faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant.
+      text: CAPP faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant
       class: item-capp
       url: /capp-lms.html
       icon: icons/capp-lms-new.svg
     - title: CAPP Compliance
-      text: Met CAPP maakt u compliance eenvoudig inzichtelijk en meetbaar voor uw organisatie
+      text: Met CAPP Compliance maakt u compliance eenvoudig inzichtelijk en meetbaar voor uw organisatie
       class: item-compliance
       url: /capp-compliance.html
       icon: icons/capp-compliance-new.svg
+    - title: CAPP Compliance API
+      text: Deel actuele compliance data met andere systemen
+      class: item-compliance-api
+      url: /capp-compliance-api.html
+      icon: icons/capp-compliance-api.svg
     - title: CAPP Quizzes
       text: Gemakkelijk toetsen maken en aanbieden
       class: item-quizzes

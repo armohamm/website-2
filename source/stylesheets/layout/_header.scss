@@ -400,6 +400,11 @@ header.global-navigation {
     color: $persian-green;
   }
 
+  .item-compliance-api,
+  .item-compliance-api .link-title {
+    color: $orange-golden;
+  }
+
   .item-monitor,
   .item-monitor .link-title {
     color: $blue;
@@ -540,6 +545,18 @@ header.global-navigation {
 
           .hover-fill-dark {
             fill: darken($persian-green, 5%);
+          }
+        }
+      }
+
+      &.item-compliance-api {
+        &:hover {
+          .link-title {
+            color: darken($orange-golden, 10%);
+          }
+
+          .hover-fill-dark {
+            fill: darken($orange-golden, 5%);
           }
         }
       }
