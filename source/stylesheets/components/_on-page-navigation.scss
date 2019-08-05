@@ -18,6 +18,10 @@ section.on-page-navigation {
     background: $dodger-blue;
   }
 
+  &.orange-golden {
+    background: $orange-golden;
+  }
+
   li {
     @include grid-media($medium-up) {
       display: inline-block;

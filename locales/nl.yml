@@ -116,6 +116,19 @@ nl:
       more-info: Meer informatie?
       product-overview: Productoverzicht
       testimonials: Testimonials
+  capp-compliance-api:
+    cta_bottom:
+      text: Laat uw gegevens achter en download ons productsheet met daarin alle informatie.
+      title: Meer informatie over de inzet van de Compliance API in jouw organisatie?
+    h1: Deel actuele compliance data met andere systemen
+    hero:
+      sub_title: Realtime compliance in elk systeem
+      title: CAPP Compliance API
+    on-page-navigation:
+      introduction: Introductie
+      how-it-works: Hoe werkt de API?
+      applications: Hoe kan de API ingezet worden?
+      more-info: Download productsheet
   capp-new:
     heading-contact: Nieuwsgierig naar de uitgebreide mogelijkheden van CAPP LMS? Maak nu een afspraak!
     hero:
@@ -161,15 +174,6 @@ nl:
       header: Meer weten over het Convenant Medische Technologie?
       text: 'Wil je meer weten over het Convenant Medische Technologie en de oplossingen die wij daarvoor bieden, neem dan contact met ons op.'
     title: In 3 stappen geen zorgen meer rondom het Convenant Medische Technologie
-  compliance-api:
-    hero:
-      sub_title: Realtime compliance in elk systeem
-      title: CAPP Compliance API
-    page-nav:
-      applications: Hoe kan de API ingezet worden?
-      how_it_works: Hoe werkt de API?
-      introduction: Introductie
-      more_info: Meer informatie?
   contact:
     email: info@defacto.nl
     form_info: 'Gebruik het formulier om ons een e-mail te sturen. Ouderwets bellen werkt ook, bel 050 3144832.'

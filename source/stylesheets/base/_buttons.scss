@@ -98,6 +98,10 @@
     @include button($dodger-blue);
   }
 
+  &.orange-golden {
+    @include button($orange-golden);
+  }
+
   &.white {
     @include button($white);
     color: lighten($base-font-color, 15);

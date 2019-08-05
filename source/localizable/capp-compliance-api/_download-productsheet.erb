@@ -1,0 +1,19 @@
+<section class="cta-bottom gray" id="download-productsheet">
+  <div class="row">
+    <div>
+      <h2>
+        <%= t("capp-compliance-api.cta_bottom.title") %>
+      </h2>
+      <p>
+        <%= t("capp-compliance-api.cta_bottom.text") %>
+      </p>
+    </div>
+    <%= partial "partials/form", locals: { title: "Download: CAPP Compliance Productsheet",
+                                           form_type: "download pdf",
+                                           download_link: data.downloads.compliance_api_productsheet[I18n.locale],
+                                           fields: ["name", "email", "organisation", "phone"],
+                                           button_text: t("actions.download_productsheet"),
+                                           button_class: "orange-golden",
+                                           action_url: t("urls.contact")} %>
+  </div>
+</section>

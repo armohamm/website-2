@@ -31,6 +31,22 @@ body.product-page {
       }
     }
 
+    section.light-gradient-background {
+      background-color: $lighter-gray;
+      background-image: radial-gradient($lightest-gray, $lighter-gray);
+    }
+
+    section.dark-background {
+      $background-image: "../images/moods/home.svg";
+
+      background-color: $capp-dark-blue;
+      background-image: url($background-image);
+      background-position: top 0 right -150px;
+      background-repeat: no-repeat;
+      background-size: 800px auto;
+      color: $white;
+    }
+
     section.product-introduction {
       padding: 1em 0;
 
@@ -109,6 +125,37 @@ body.product-page {
           align-items: center;
           display: flex;
           justify-content: center;
+        }
+      }
+    }
+
+    section.product-explanation {
+      text-align: center;
+
+      .item {
+        margin-bottom: 3em;
+
+        img {
+          height: 120px;
+          margin: 0 0 1em;
+
+          @include grid-media($medium-up) {
+            display: inline-block;
+            height: 60px;
+            line-height: 60px;
+            margin: 0 1em 0 0;
+            vertical-align: middle;
+          }
+        }
+
+        h3 {
+          @include grid-media($medium-up) {
+            display: inline-block;
+            height: 60px;
+            line-height: 60px;
+            margin: 0;
+            vertical-align: middle;
+          }
         }
       }
     }
