@@ -1,4 +1,5 @@
 ---
+layout: "product_layout"
 title:
   nl: "360° Feedback"
   de: "Individueller Entwicklungsplan für Mitarbeiter: 360° Feedback"
@@ -9,15 +10,16 @@ description:
   en: Carry out evaluations effortlessly in a user-friendly cloudservice. Look into the mirror with 360° Feedback.
 ---
 
-<div class="hero">
-  <div class="hero-inner">
-    <div class="hero-copy">
-      <h1><%= t("threesixty.hero.title") %></h1>
-      <%= markitdown t("threesixty.hero.text_md") %>
-    </div>
-    <a href="https://www.360feedback.io/app/register" target="_blank" class="button"><%= t("actions.try_for_free") %></a>
-  </div>
-</div>
+<%= partial "partials/hero", locals: { variant: "variant-product",
+                                       variant_overlay: "overlay-darken",
+                                       background_image: "360-feedback.jpg",
+                                       title: t("threesixty.hero.title"),
+                                       sub_title: t("threesixty.hero.text_md"),
+                                       button_link: "https://www.360feedback.io/app/register",
+                                       button_text: t("actions.try_for_free"),
+                                       button_variant: "button orange",
+                                       button_target: "_blank"} %>
+
 
 <%= partial "360-feedback/360feedback" %>
 

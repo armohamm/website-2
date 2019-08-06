@@ -7,15 +7,23 @@
       </div>
     <% end %>
 
-    <% if locals[:title] || locals[:sub_title] %>
+    <% if locals[:title] || locals[:sub_title] || (locals[:button_link] && locals[:button_text]) %>
 
       <div class="row">
 
         <% if locals[:title] %>
           <%= content_tag title_tag ||= :h1, class: "title" do title end %>
         <% end %>
+
         <% if locals[:sub_title] %>
           <%= content_tag :h2, class: "sub-title" do sub_title end %>
+        <% end %>
+
+        <% if locals[:button_link] && locals[:button_text] %>
+          <%= partial "partials/button", locals: { to: button_link,
+                                                   text: button_text,
+                                                   variant: button_variant,
+                                                   target: button_target} %>
         <% end %>
 
       </div>
