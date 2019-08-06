@@ -1,8 +1,12 @@
 .hero {
-  background: $orange-alt no-repeat center fixed;
+  background: $orange-alt no-repeat center center;
   background-size: cover;
   color: $white;
   position: relative;
+
+  @include grid-media($medium-up) {
+    background-attachment: fixed;
+  }
 
   &.overlay-darken {
     &::before {
