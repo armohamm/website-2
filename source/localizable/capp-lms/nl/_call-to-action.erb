@@ -1,0 +1,14 @@
+<section class="cta-bottom gray" id="appointment">
+  <div class="row">
+    <div>
+      <h2>
+        <%= t("capp-lms.cta_bottom.title") %>
+      </h2>
+    </div>
+    <%= partial "partials/form", locals: { title: "Contact Request: CAPP LMS",
+                                           fields: ["name", "email", "organisation", "phone"],
+                                           button_text: t("form.submit"),
+                                           button_class: "button amaranth",
+                                           action_url: t("urls.contact")} %>
+  </div>
+</section>

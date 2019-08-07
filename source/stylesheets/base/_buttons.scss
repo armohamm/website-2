@@ -102,6 +102,10 @@
     @include button($orange-golden);
   }
 
+  &.amaranth {
+    @include button($amaranth);
+  }
+
   &.white {
     @include button($white);
     color: lighten($base-font-color, 15);

@@ -22,6 +22,10 @@ section.on-page-navigation {
     background: $orange-golden;
   }
 
+  &.amaranth {
+    background: $amaranth;
+  }
+
   li {
     @include grid-media($medium-up) {
       display: inline-block;

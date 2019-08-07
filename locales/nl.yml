@@ -79,17 +79,6 @@ nl:
       meta_description: 'Nieuws over trends op het gebied van online leren en ontwikkelen. Actualiteiten op het gebied van software, onze klanten, producten en diensten. | Tag: %{tagname} | Pagina %{page_number}/%{num_pages}.'
       page_title: 'Blog | Tag: %{tagname} | Pagina %{page_number} van %{num_pages} | Defacto'
     title: Blog – leren en ontwikkelen
-  capp:
-    cta_bottom:
-      heading_md: Meer informatie over opleiden & leren met CAPP LMS?
-      subheading: Download de CAPP LMS Productsheet
-    desc: '%{link} faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant.'
-    hero:
-      subtitle_1: Kennisintensieve organisaties kunnen niet zonder goed opgeleide medewerkers.
-      subtitle_2: Maak medewerkers aantoonbaar vakbevoegd en vakbekwaam met CAPP LMS.
-      text_md: __CAPP LMS Software__ helpt uw medewerkers of klanten op optimale wijze op te leiden en hun vakmanschap te bevorderen.
-      title: Opleiden & Leren met CAPP LMS
-    name: CAPP LMS
   capp-agile:
     cta_bottom:
       text: Download ons handige productsheet met alle informatie.
@@ -130,20 +119,24 @@ nl:
       how-it-works: Hoe werkt de API?
       applications: Hoe kan de API ingezet worden?
       more-info: Download productsheet
-  capp-new:
-    heading-contact: Nieuwsgierig naar de uitgebreide mogelijkheden van CAPP LMS? Maak nu een afspraak!
-    hero:
-      sub_title: CAPP LMS faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant.
-      title: Learning & Talent Management
-    page-nav:
-      features: Features
-      introduction: Inleiding
+  capp-lms:
+    cta_bottom:
+      title: Nieuwsgierig naar de uitgebreide mogelijkheden van CAPP LMS? Maak nu een afspraak!
+    description: "%{link} faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant."
+    h1: Learning & Talent Management
+    h2: CAPP LMS faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant.
+    link: CAPP LMS
+    name: CAPP LMS
+    on-page-navigation:
+      introduction: Introductie
+      product-overview: Wat doet CAPP LMS?
+      more-info: Meer informatie?
   capp-quizzes:
     cta_bottom:
       text: Download ons handige productsheet met alle informatie.
       title: Geïnteresseerd in meer informatie over Quizzes?
-    h1: "Gemakkelijk toetsen maken en aanbieden"
     description: Met %{link} kunt u gemakkelijk toetsen maken en aanbieden.
+    h1: Gemakkelijk toetsen maken en aanbieden
     link: CAPP Quizzes
     name: CAPP Quizzes
     on-page-navigation:

@@ -1,4 +1,5 @@
 ---
+layout: "product_layout"
 title:
   nl: "CAPP LMS: Learning & Talent Management"
   de: "CAPP Learning Management"
@@ -9,33 +10,38 @@ description:
   en: "Ensure that your employees’ qualifications and certifications are demonstrable with the help of CAPP LMS."
 ---
 
-<% if root_locale == :en %>
-  <%= partial "capp-lms-old/capp-hero" %>
-  <%= partial "capp-lms-old/capp-lms" %>
+<% if root_locale == :nl %>
+
+  <%= partial "partials/hero", locals: { variant: "variant-product",
+                                         variant_overlay: "overlay-darken",
+                                         background_image: "capp-12.jpg",
+                                         title: t("capp-lms.h1"),
+                                         sub_title: t("capp-lms.h2"),
+                                         logo: "logos/new/logo-capp-lms.svg",
+                                         logo_title: "CAPP LMS Logo"} %>
+
+  <%= partial "partials/on-page-navigation", locals: { variant: "amaranth",
+                                                      links: [{ anchor: "#introduction", key: t("capp-lms.on-page-navigation.introduction")},
+                                                              { anchor: "#features", key: t("capp-lms.on-page-navigation.product-overview")},
+                                                              { anchor: "#appointment", key: t("capp-lms.on-page-navigation.more-info")}]} %>
+
+  <%= partial "capp-lms/nl/introduction" %>
+  <%= partial "capp-lms/nl/product-overview" %>
+  <%= partial "capp-lms/nl/call-to-action" %>
+
+<% elsif root_locale == :en %>
+
+  <%= partial "capp-lms/en/hero" %>
+  <%= partial "capp-lms/en/content" %>
   <%= partial "clients/clients-section" %>
-<% else %>
-  <%= partial "capp-lms-new/hero" %>
-  <%= partial "capp-lms-new/on-page-navigation" %>
-  <%= partial "capp-lms-new/introduction" %>
-  <%= partial "capp-lms-new/overview" %>
 
-  <section class="cta-bottom gray">
-    <div class="row">
+<% elsif root_locale == :de %>
 
-      <h3>
-        <%= t("capp-new.heading-contact") %>
-      </h3>
+  <%= partial "capp-lms/de/hero" %>
+  <%= partial "capp-lms/de/on-page-navigation" %>
+  <%= partial "capp-lms/de/introduction" %>
+  <%= partial "capp-lms/de/overview" %>
+  <%= partial "capp-lms/de/call-to-action" %>
+  <%= partial "capp-lms/de/more" %>
 
-      <%= partial "partials/form", locals: { title: "Contact Request: CAPP LMS",
-                                             fields: ["name", "email", "organisation", "phone"],
-                                             button_text: t("form.submit"),
-                                             button_class: "button pink",
-                                             variant: "inline",
-                                             action_url: t("urls.contact")} %>
-    </div>
-  </section>
-<% end %>
-
-<% if root_locale == :de %>
-  <%= partial "capp-lms-new/more" %>
 <% end %>
