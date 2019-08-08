@@ -144,7 +144,7 @@ GEM
       rails-assets-jquery (>= 1.6)
     rails-assets-jquery.scrollTo (2.1.2)
       rails-assets-jquery (>= 1.8)
-    rails-assets-js-cookie (2.2.0)
+    rails-assets-js-cookie (2.2.1)
     rails-assets-what-input (5.2.1)
     rainbow (3.0.0)
     rake (12.3.3)
