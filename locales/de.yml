@@ -382,7 +382,7 @@ de:
     pages:
       healthcare:
         cases:
-          title: Referenzen
+          title: Cases
         desc: 'E-Learning ist ein wichtiger Faktor, um die Mitarbeiter %{link} entsprechend zu schulen. Am besten können Sie Ihre Personalentwicklung mit Software von Defacto darauf abstimmen.'
         link: im Gesundheitswesen
         more:
