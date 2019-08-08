@@ -1,12 +1,14 @@
 <%
 if root_locale == :en
   color = "blue"
-else
+elsif root_locale == :nl
+  color = "amaranth"
+elsif root_locale == :de
   color = "pink"
 end
 
 if root_locale == :nl
-  icon = "capp-lms-new.svg"
+  icon = "capp-lms.svg"
 else
   icon = "learning-#{color}.svg"
 end

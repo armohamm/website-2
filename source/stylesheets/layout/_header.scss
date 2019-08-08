@@ -385,6 +385,11 @@ header.global-navigation {
     color: $pink;
   }
 
+  .item-capp-new,
+  .item-capp-new .link-title {
+    color: $amaranth;
+  }
+
   .item-capp-lms,
   .item-capp-lms .link-title {
     color: $blue;
@@ -509,6 +514,18 @@ header.global-navigation {
 
           .hover-fill-dark {
             fill: darken($pink, 10%);
+          }
+        }
+      }
+
+      &.item-capp-new {
+        &:hover {
+          .link-title {
+            color: darken($amaranth, 15%);
+          }
+
+          .hover-fill-dark {
+            fill: darken($amaranth, 10%);
           }
         }
       }

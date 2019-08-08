@@ -108,6 +108,18 @@
   }
 }
 
+.capp-lms-new {
+  .left {
+    background-color: darken($amaranth, 20%);
+
+    h2 {
+      img {
+        width: 150px;
+      }
+    }
+  }
+}
+
 .kwaliteitspaspoort {
   $color: lighten($turquoise, 5);
 
