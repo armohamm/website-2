@@ -482,19 +482,31 @@ header.global-navigation {
     margin: -5px -10px;
     max-width: calc(100vw - 85px);
     padding: 20px 35px;
-    width: 470px;
+    width: $small-row;
 
     // Styling for aria current = page
     // https://github.com/thoughtbot/middleman-aria_current
     a[aria-current]:not([aria-current="false"]) {
-      background: lighten($gray, 5%);
+      background: $lighter-gray;
       font-weight: $font-weight-regular;
     }
 
-    .link-container {
+    ul {
+      display: flex;
       flex: 1;
+      flex-direction: row;
+      flex-wrap: wrap;
+
+      li {
+        align-items: center;
+        flex: 1 50%;
+        flex-direction: column;
+        justify-content: center;
+      }
+    }
+
+    .link-container {
       padding: 15px 10px 20px;
-      width: 400px;
 
       &:hover {
         .link-sub {
