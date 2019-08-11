@@ -5,22 +5,22 @@
   links:
     - title: CAPP LMS
       text: LMS and efficiency software to advance the development of your employees
-      class: item-capp-lms
+      item_class: item-capp-lms
       url: /capp-lms.html
       icon: icons/capp11.svg
     - title: CAPP Quality Portfolio
       text: Real-time insights into competencies within your organisation
-      class: item-quality
+      item_class: item-quality
       url: /capp-compliance.html
       icon: icons/quality-pass.svg
     - title: CAPP Agile Learning
       text: Performance support on demand
-      class: item-agile
+      item_class: item-agile
       url: /capp-agile-learning.html
       icon: icons/capp-agile-learning.svg
     - title: 360° Feedback
       text: Increase the efficiency and quality of your HRD
-      class: item-360
+      item_class: item-360
       url: /360-feedback.html
       icon: icons/360-feedback.svg
 - title: Services

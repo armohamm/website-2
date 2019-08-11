@@ -5,27 +5,27 @@
   links:
     - title: CAPP Learning Management
       text: Vielfalt des Lernens für motivierte und qualifizierte Mitarbeiter
-      class: item-capp
+      item_class: item-capp
       url: /capp-lms.html
       icon: icons/learning-pink.svg
     - title: CAPP Talent Management
       text: Nutzen Sie das volle Potenzial Ihrer wertvollsten Ressource
-      class: item-capp
+      item_class: item-capp
       url: /capp-talent-management.html
       icon: icons/capp-develop-pink.svg
     - title: CAPP Compliance
       text: Qualifikationen und Kompetenzen auf Knopfdruck auswertbar
-      class: item-capp
+      item_class: item-capp
       url: /capp-compliance.html
       icon: icons/compliance-pink.svg
     - title: CAPP Agile Learning
       text: Performance-Support für alle Unternehmen und Organisationen
-      class: item-agile
+      item_class: item-agile
       url: /capp-agile-learning.html
       icon: icons/capp-agile-learning.svg
     - title: 360° Feedback
       text: Maak een efficiëntieslag in je HRD
-      class: item-360
+      item_class: item-360
       url: /360-feedback.html
       icon: icons/360-feedback.svg
 - title: Lösungen

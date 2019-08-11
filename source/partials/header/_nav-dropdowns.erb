@@ -18,7 +18,7 @@
                   <% item.links.each do |product| %>
 
                     <li>
-                      <% nav_link_to(product.url, class: "link-container #{product[:class]}") do %>
+                      <% nav_link_to(product.url, class: "link-container #{product[:item_class]}") do %>
 
                         <div class="product-icon">
                           <%= inline_svg product.icon, title: product.title %>

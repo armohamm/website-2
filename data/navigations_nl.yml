@@ -5,32 +5,32 @@
   links:
     - title: CAPP LMS
       text: CAPP faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant
-      class: item-capp-new
+      item_class: item-capp-new
       url: /capp-lms.html
       icon: icons/capp-lms.svg
     - title: CAPP Compliance
       text: Met CAPP Compliance maakt u compliance eenvoudig inzichtelijk en meetbaar voor uw organisatie
-      class: item-compliance
+      item_class: item-compliance
       url: /capp-compliance.html
       icon: icons/capp-compliance-new.svg
     - title: CAPP Compliance API
       text: Deel actuele compliance data met andere systemen
-      class: item-compliance-api
+      item_class: item-compliance-api
       url: /capp-compliance-api.html
       icon: icons/capp-compliance-api.svg
     - title: CAPP Quizzes
       text: Gemakkelijk toetsen maken en aanbieden
-      class: item-quizzes
+      item_class: item-quizzes
       url: /capp-quizzes.html
       icon: icons/capp-quizzes.svg
     - title: CAPP Agile Learning
       text: Zet kennis om in relevante informatie voor de werkvloer
-      class: item-agile
+      item_class: item-agile
       url: /capp-agile-learning.html
       icon: icons/capp-agile-learning-new.svg
     - title: 360° Feedback
       text: Maak een efficiëntieslag in je HRD
-      class: item-360
+      item_class: item-360
       url: /360-feedback.html
       icon: icons/360-feedback.svg
 - title: Diensten

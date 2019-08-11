@@ -33,7 +33,7 @@
                     <ul>
                       <% item.links.each do |product| %>
                         <li>
-                          <% nav_link_to(product.url, class: "link-container #{product[:class]}") do %>
+                          <% nav_link_to(product.url, class: "link-container #{product[:item_class]}") do %>
                             <div class="product-icon">
                               <%= image_tag product.icon, alt: product.title %>
                             </div>
@@ -53,7 +53,7 @@
                     <ul>
                       <% item.links.each do |link| %>
                       <li>
-                        <%= nav_link_to link.title, link.url, class: "item-#{link[:class]}" %>
+                        <%= nav_link_to link.title, link.url, class: "item-#{link[:item_class]}" %>
                       </li>
                       <% end %>
                     </ul>
