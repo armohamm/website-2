@@ -11,7 +11,7 @@ header_image: moods/art.jpg
 
 __We've been using [Intercom](https://www.intercom.com/){:target="_blank"}{:rel="noopener noreferrer"}{:title="Intercom App"} in CAPP Agile Learning for well over a year now, and like we said back then, it has really improved our support and in-app communication with users.__
 
-A few weeks ago Intercom introduced their [new messenger](https://docs.intercom.com/a-guide-to-the-new-intercom-messenger/the-new-intercom-messenger){:target="_blank"}{:rel="noopener noreferrer"}{:title="The New Intercom Messenger"}, where they've added some new features and did an impressive redesign.
+A few weeks ago Intercom introduced their [new messenger](https://www.intercom.com/blog/new-intercom-messenger/){:target="_blank"}{:rel="noopener noreferrer"}{:title="The New Intercom Messenger"}, where they've added some new features and did an impressive redesign.
 
 Before the update we applied a bit of styling to change the size of the launcher (the default is too big for our taste). But after the update this doesn't work anymore due to the fact that __Intercom renders everything inside an iframe__. I was hoping for a little bit more control over the size through the [App settings](https://docs.intercom.com/configure-intercom-for-your-product-or-site/customize-the-intercom-messenger/customize-the-intercom-messenger-basics){:target="_blank"}{:rel="noopener noreferrer"}{:title="Customize Intercom messenger basics"}, but this is limited to selecting a custom color.
 
