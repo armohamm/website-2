@@ -29,12 +29,7 @@ module Links
 
   # Get full current url
   def full_env_url(url, locale = I18n.locale)
-    base =
-      if staging
-        "https://staging.defacto.nl"
-      else
-        "https://#{I18n.t('CNAME', locale: locale)}"
-      end
+    base = "https://#{I18n.t('CNAME', locale: locale)}"
     URI.join(base, url).to_s
   end
 

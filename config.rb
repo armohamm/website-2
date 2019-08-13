@@ -11,10 +11,6 @@ activate :i18n, mount_at_root: root_locale, langs: %i[nl de en]
 # Set Google Analytics id
 set :ga_code, "UA-6700447-1"
 
-# Set target environments
-staging = ENV["STAGING"] == "true"
-set :staging, staging
-
 production = ENV["PRODUCTION"] == "true"
 set :production, production
 
@@ -23,17 +19,13 @@ Time.zone = "CET"
 
 # Set a CNAME per target environment
 set :cname,
-    if staging
-      "staging.defacto.nl"
-    else
-      case root_locale
-      when :nl
-        "www.defacto.nl"
-      when :de
-        "www.defactolearning.de"
-      when :en
-        "en.defacto.nl"
-      end
+    case root_locale
+    when :nl
+      "www.defacto.nl"
+    when :de
+      "www.defactolearning.de"
+    when :en
+      "en.defacto.nl"
     end
 
 ###
@@ -186,11 +178,11 @@ activate :search do |search|
   end
 
   search.fields = {
-    title:   { boost: 100, store: true, required: true },
+    title: { boost: 100, store: true, required: true },
     content: { boost: 50, store: true },
-    url:     { index: false, store: true },
-    author:  { boost: 70 },
-    type:    { boost: 0, store: true }
+    url: { index: false, store: true },
+    author: { boost: 70 },
+    type: { boost: 0, store: true }
   }
 
   search.before_index = proc do |_to_index, to_store, resource|
@@ -221,25 +213,23 @@ activate :autoprefixer do |config|
 end
 
 # Activate and setup minify_html
-unless staging
-  activate :minify_html do |html|
-    html.remove_multi_spaces        = true
-    html.remove_comments            = true
-    html.remove_intertag_spaces     = false
-    html.remove_quotes              = true
-    html.simple_doctype             = false
-    html.remove_script_attributes   = true
-    html.remove_style_attributes    = true
-    html.remove_link_attributes     = true
-    html.remove_form_attributes     = false
-    html.remove_input_attributes    = true
-    html.remove_javascript_protocol = true
-    html.remove_http_protocol       = false
-    html.remove_https_protocol      = false
-    html.preserve_line_breaks       = false
-    html.simple_boolean_attributes  = true
-    html.preserve_patterns          = nil
-  end
+activate :minify_html do |html|
+  html.remove_multi_spaces        = true
+  html.remove_comments            = true
+  html.remove_intertag_spaces     = false
+  html.remove_quotes              = true
+  html.simple_doctype             = false
+  html.remove_script_attributes   = true
+  html.remove_style_attributes    = true
+  html.remove_link_attributes     = true
+  html.remove_form_attributes     = false
+  html.remove_input_attributes    = true
+  html.remove_javascript_protocol = true
+  html.remove_http_protocol       = false
+  html.remove_https_protocol      = false
+  html.preserve_line_breaks       = false
+  html.simple_boolean_attributes  = true
+  html.preserve_patterns          = nil
 end
 
 # Set relative_links to true

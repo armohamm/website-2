@@ -57,7 +57,6 @@ module Meta
 
   # Use frontmatter for meta robots or use default
   def robots(page = current_page)
-    return "noindex,nofollow" if staging
     return page.data.robots if page.data.robots
     "noydir,noodp,index,follow"
   end
