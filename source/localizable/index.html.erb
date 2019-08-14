@@ -52,5 +52,5 @@ header_style: invert
 <% end %>
 
 <%= partial "partials/featured-testimonial" %>
-<%= partial "home/featured-blog" %>
+<%= partial "home/featured-blog" if root_locale == :en %>
 <%= partial "clients/clients-section" %>
