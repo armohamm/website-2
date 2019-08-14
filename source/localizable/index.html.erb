@@ -47,10 +47,6 @@ header_style: invert
   <%= partial "clients/clients-cases-overview", locals: { count: 2 } %>
 <% end %>
 
-<% if root_locale == :nl %>
-  <%= partial "partials/social-proof" %>
-<% end %>
-
 <%= partial "partials/featured-testimonial" %>
 <%= partial "home/featured-blog" if root_locale == :en %>
 <%= partial "clients/clients-section" %>
