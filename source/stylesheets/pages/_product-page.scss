@@ -2,29 +2,6 @@ body.product-page {
 
   // Scoped to NL for now!
   &.nl {
-    div.hero {
-      h1 {
-        font-size: $base-font-size * 1.6;
-        text-align: center;
-
-        @include grid-media($medium-up) {
-          font-size: $base-font-size * 3;
-        }
-      }
-
-      .row {
-        padding: 0 1em;
-
-        @include grid-media($medium-up) {
-          padding: 1em;
-        }
-      }
-
-      .product-logo {
-        margin-bottom: 2em;
-      }
-    }
-
     section.single-col {
       .row {
         max-width: $medium-row;

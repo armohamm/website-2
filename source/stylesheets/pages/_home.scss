@@ -1,28 +1,30 @@
-.index {
-  .hero {
-    h1 {
-      font-size: 1.6em;
-      font-weight: $font-weight-small;
-      margin: 0 auto 1em;
-      max-width: 900px;
+body.index {
+  &:not(.nl) {
+    .hero {
+      h1 {
+        font-size: 1.6em;
+        font-weight: $font-weight-small;
+        margin: 0 auto 1em;
+        max-width: 900px;
 
-      @include grid-media($large-up) {
-        font-size: 2.8em;
+        @include grid-media($large-up) {
+          font-size: 2.8em;
+        }
       }
-    }
 
-    h2 {
-      font-size: 1.6em;
-      margin: 0 auto 1.4em;
-      max-width: 860px;
+      h2 {
+        font-size: 1.6em;
+        margin: 0 auto 1.4em;
+        max-width: 860px;
 
-      @include grid-media($large-up) {
-        font-size: 2.2em;
+        @include grid-media($large-up) {
+          font-size: 2.2em;
+        }
       }
     }
   }
 
-  &:not(.en) {
+  &.de {
     .hero {
       $background-image: "../images/moods/home.svg";
 

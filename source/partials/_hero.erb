@@ -19,11 +19,14 @@
           <%= content_tag :h2, class: "sub-title" do sub_title end %>
         <% end %>
 
-        <% if locals[:button_link] && locals[:button_text] %>
-          <%= partial "partials/button", locals: { to: button_link,
-                                                   text: button_text,
-                                                   variant: button_variant,
-                                                   target: button_target} %>
+        <% if locals[:buttons] %>
+          <% locals[:buttons].each do |button| %>
+
+            <%= partial "partials/button", locals: { link: button[:link],
+                                                     text: button[:text],
+                                                     variant: button[:variant],
+                                                     target: button[:target]} %>
+          <% end %>
         <% end %>
 
       </div>

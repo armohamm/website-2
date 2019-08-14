@@ -112,6 +112,33 @@
       @include grid-media($medium-up) {
         padding: calc(6em + #{$header-height}) 1em 6em;
       }
+
+      h1 {
+        font-size: $base-font-size * 1.6;
+        max-width: $medium-row;
+        text-align: center;
+
+        @include grid-media($medium-up) {
+          font-size: $base-font-size * 3;
+        }
+      }
+
+      h2 {
+        margin: 0.75em auto;
+        max-width: $medium-row;
+      }
+
+      .row {
+        padding: 0 1em;
+
+        @include grid-media($medium-up) {
+          padding: 1em;
+        }
+      }
+
+      .product-logo {
+        margin-bottom: 2em;
+      }
     }
   }
 }

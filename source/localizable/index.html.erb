@@ -15,7 +15,29 @@ sitemap_priority: 1
 header_style: invert
 ---
 
-<%= partial "home/hero" %>
+<% if root_locale == :nl %>
+
+  <%= partial "partials/hero", locals: { variant: "variant-product light",
+                                         variant_overlay: "overlay-darken",
+                                         background_image: "capp-12.jpg",
+                                         title: t("capp-lms.h1"),
+                                         sub_title: t("capp-lms.h2"),
+                                         logo: "logos/capp-new-version-white.svg",
+                                         logo_title: "CAPP LMS Logo",
+                                         buttons: [{ link: "/capp-lms.html",
+                                                     text: t("actions.read_more_2"),
+                                                     variant: "button pink"
+                                                  },
+                                                  {  link: "/wat-voor-lms-past-bij-mij.html",
+                                                     text: t("actions.home.test"),
+                                                     variant: "button white-pink",
+                                                  }]} %>
+
+<% else %>
+
+  <%= partial "home/hero" %>
+
+<% end %>
 
 <% unless root_locale == :en %>
   <%= partial "home/news" %>

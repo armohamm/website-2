@@ -15,10 +15,11 @@ description:
                                        background_image: "360-feedback.jpg",
                                        title: t("threesixty.hero.title"),
                                        sub_title: t("threesixty.hero.text_md"),
-                                       button_link: "https://www.360feedback.io/app/register",
-                                       button_text: t("actions.try_for_free"),
-                                       button_variant: "button orange",
-                                       button_target: "_blank"} %>
+                                       buttons: [{ link: "https://www.360feedback.io/app/register",
+                                                   target: "_blank",
+                                                   text: t("actions.try_for_free"),
+                                                   variant: "button orange",
+                                                }]} %>
 
 
 <%= partial "360-feedback/360feedback" %>
