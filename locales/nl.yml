@@ -39,6 +39,7 @@ nl:
   actions:
     download: Download
     download_productsheet: Download productsheet
+    download_whitepaper: Download whitepaper
     home:
       test: Doe de LMS-test
     make_appointment: Maak een afspraak
@@ -237,7 +238,6 @@ nl:
     default_description: Defacto helpt organisaties bij het ontwikkelen en certificeren van hun medewerkers
     default_title: Defacto
   home:
-
     hero:
       text: Meer dan 200.000 professionals gebruiken onze software om te leren en hun talenten te ontwikkelen
       title: Developing People
@@ -256,6 +256,9 @@ nl:
         title: CAPP LMS
   hosting:
     heading: Hosting & Security
+    cta_bottom:
+      text: Laat uw gegevens achter en download ons whitepaper met daarin alle informatie.
+      title: Meer weten over de voordelen van Software-as-a-Service?
   implementaties:
     cta_heading: Wilt u meer weten? Laat hier uw gegevens achter en onze Lead Consultant Joost Bakhuizen neemt contact met u op.
     heading: Kennis en samenwerking als basis voor een succesvolle implementatie.

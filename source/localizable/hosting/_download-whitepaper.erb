@@ -1,0 +1,19 @@
+<section class="cta-bottom gray" id="download-whitepaper">
+  <div class="row">
+    <div>
+      <h2>
+        <%= t("hosting.cta_bottom.title") %>
+      </h2>
+      <p>
+        <%= t("hosting.cta_bottom.text") %>
+      </p>
+    </div>
+    <%= partial "partials/form", locals: { title: "Download: SaaS whitepaper",
+                                           form_type: "download pdf",
+                                           download_link: data.downloads.whitepaper_saas[I18n.locale],
+                                           fields: ["name", "email", "organisation", "phone"],
+                                           button_text: t("actions.download_whitepaper"),
+                                           button_class: "orange",
+                                           action_url: t("urls.contact")} %>
+  </div>
+</section>

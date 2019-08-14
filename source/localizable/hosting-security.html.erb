@@ -1,7 +1,8 @@
 ---
+layout: product_layout
 title:
   nl: Hosting en Security
-  de: Hosting
+  de: Hosting und Sicherheit
   en: Hosting and Security
 description:
   nl: Defacto host CAPP LMS veilig en met betrouwbare security. Updates worden door Defacto geïnstalleerd en bijgewerkt.
@@ -9,11 +10,13 @@ description:
   en: Defacto hosts CAPP LMS safely with reliable security. Updates will be installed and reviewed by Defacto.
 ---
 
-<section class="heading-secondary">
-  <div class="row">
-    <h1><%= t("hosting.heading") %></h1>
-  </div>
-</section>
+<% if root_locale == :nl %>
+  <%= partial "partials/hero", locals: { variant: "variant-product",
+                                         background_image: "defacto.jpg",
+                                         title: t("hosting.heading")} %>
+<% else %>
+  <%= partial "hosting/hero" %>
+<% end %>
 
 <section>
   <div class="row">
@@ -23,4 +26,8 @@ description:
   </div>
 </section>
 
-<%= partial "clients/clients-section" %>
+<% if root_locale == :nl %>
+  <%= partial "hosting/download-whitepaper" %>
+<% else %>
+  <%= partial "clients/clients-section" %>
+<% end %>
