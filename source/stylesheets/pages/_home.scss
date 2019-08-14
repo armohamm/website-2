@@ -54,31 +54,4 @@
       background-image: url($hero-image);
     }
   }
-
-  .home-copy {
-    .col {
-      @include grid-media($large-up) {
-        @include grid-column(6);
-      }
-    }
-
-    ul {
-      list-style: disc;
-      padding-left: 2em;
-    }
-
-    a {
-      font-weight: $font-weight-bold;
-    }
-
-    h2 {
-      font-size: 1.4em;
-      font-weight: $font-weight-bold;
-    }
-
-    p {
-      margin: 0;
-      margin-bottom: 1.5em;
-    }
-  }
 }
