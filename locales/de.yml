@@ -325,6 +325,9 @@ de:
     footer:
       impressum: Impressum
       privacy-policy: Datenschutzerklärung
+  news:
+    all-articles: Alle Artikel
+    h2: Die neuesten Nachrichten
   privacy-policy:
     link: Datenschutzerklärung
     name: Datenschutzerklärung

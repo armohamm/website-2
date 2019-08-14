@@ -2,7 +2,9 @@
   <% if locals[:icon_left] %>
     <%= inline_svg icon_left, class: "inline-svg left" %>
   <% end %>
-  <%= locals[:text] %>
+  <span>
+    <%= locals[:text] %>
+  </span>
   <% if locals[:icon_right] %>
     <%= inline_svg icon_right, class: "inline-svg right" %>
   <% end %>

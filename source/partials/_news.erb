@@ -1,0 +1,36 @@
+<%
+all_news_items = data["news_" + I18n.locale.to_s]
+news_items = all_news_items.clone
+%>
+
+<section class="news">
+  <div class="row">
+
+    <h2>
+      <%= t("news.h2") %>
+    </h2>
+
+  </div>
+  <div class="row news-wrapper">
+    <% news_items.each do |news_item| %>
+
+      <% link_to news_item.link, title: news_item.title, class: "news-item" do %>
+        <div class="image">
+          <%= image_tag news_item.image, alt: news_item.title, title: news_item.title %>
+        </div>
+        <div class="text">
+          <h3>
+            <%= news_item.title %>
+          </h3>
+        </div>
+      <% end %>
+
+    <% end %>
+  </div>
+  <div class="row news-button">
+    <%= partial "partials/button", locals: { variant: "button orange outline",
+                                             link: "/blog/index.html",
+                                             text: t("news.all-articles"),
+                                             icon_left: "icons/blog.svg"} %>
+  </div>
+</section>

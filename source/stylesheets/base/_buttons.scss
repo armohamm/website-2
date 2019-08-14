@@ -197,4 +197,15 @@
       display: inline-block;
     }
   }
+
+  span {
+    display: inline-block;
+  }
+
+  .inline-svg {
+    display: inline-block;
+    height: 24px;
+    vertical-align: middle;
+    width: 24px;
+  }
 }

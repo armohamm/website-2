@@ -276,6 +276,9 @@ nl:
       select-language: Selecteer je taal
     footer:
       privacy-policy: Privacy Policy
+  news:
+    all-articles: Alle artikelen
+    h2: Het laatste nieuws
   privacy-policy:
     link: privacy policy
     name: Privacy Policy

@@ -1,6 +1,15 @@
 section.news {
   background: $lighter-gray;
 
+  .row {
+    padding: 1em;
+    text-align: center;
+  }
+
+  h2 {
+    text-align: center;
+  }
+
   .news-wrapper {
     align-items: stretch;
     display: flex;
@@ -10,9 +19,12 @@ section.news {
 
   .news-item {
     background: $white;
+    border-radius: $base-border-radius;
     margin-bottom: 2em;
     margin-left: 0.5em;
     margin-right: 0.5em;
+    overflow: hidden;
+    text-align: left;
     transition: transform 0.2s ease;
     width: 100%;
 
@@ -29,7 +41,7 @@ section.news {
     }
 
     h3 {
-      font-size: $base-font-size * 1.2;
+      font-size: $base-font-size * 1.1;
       font-weight: $font-weight-bold;
     }
 
