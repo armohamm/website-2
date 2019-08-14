@@ -36,11 +36,17 @@ description:
                                          logo_title: "CAPP Compliance Logo"} %>
 
   <%= partial "partials/on-page-navigation", locals: { variant: "persian-green",
-                                                       links: [{ anchor: "#introduction", key: t("capp-compliance.on-page-navigation.introduction")},
-                                                               { anchor: "#testimonials", key: t("capp-compliance.on-page-navigation.testimonials")},
-                                                               { anchor: "#features", key: t("capp-compliance.on-page-navigation.product-overview")},
-                                                               { anchor: "#compliance-api", key: t("capp-compliance.on-page-navigation.compliance-api")},
-                                                               { anchor: "#download-productsheet", key: t("capp-compliance.on-page-navigation.more-info")}]} %>
+                                                       links: [{ anchor: "#introduction",
+                                                                 key: t("capp-compliance.on-page-navigation.introduction")},
+                                                               { anchor: "#testimonials",
+                                                                 key: t("capp-compliance.on-page-navigation.testimonials")},
+                                                               { anchor: "#features",
+                                                                 key: t("capp-compliance.on-page-navigation.product-overview")},
+                                                               { anchor: "#compliance-api",
+                                                                 key: t("capp-compliance.on-page-navigation.compliance-api")},
+                                                               { anchor: "#download-productsheet",
+                                                                 key: t("capp-compliance.on-page-navigation.more-info")}
+                                                              ]} %>
 
   <%= partial "capp-compliance/nl/introduction" %>
   <%= partial "capp-compliance/nl/testimonials", locals: { variant: "light-gray" } %>

@@ -13,10 +13,15 @@ lang_ignore: en, de
                                        logo_title: "CAPP Compliance API Logo"} %>
 
 <%= partial "partials/on-page-navigation", locals: { variant: "orange-golden",
-                                                     links: [{ anchor: "#introduction", key: t("capp-compliance-api.on-page-navigation.introduction")},
-                                                             { anchor: "#how-it-works", key: t("capp-compliance-api.on-page-navigation.how-it-works")},
-                                                             { anchor: "#applications", key: t("capp-compliance-api.on-page-navigation.applications")},
-                                                             { anchor: "#download-productsheet", key: t("capp-compliance-api.on-page-navigation.more-info")}]} %>
+                                                     links: [{ anchor: "#introduction",
+                                                               key: t("capp-compliance-api.on-page-navigation.introduction")},
+                                                             { anchor: "#how-it-works",
+                                                               key: t("capp-compliance-api.on-page-navigation.how-it-works")},
+                                                             { anchor: "#applications",
+                                                               key: t("capp-compliance-api.on-page-navigation.applications")},
+                                                             { anchor: "#download-productsheet",
+                                                               key: t("capp-compliance-api.on-page-navigation.more-info")}
+                                                            ]} %>
 
 <%= partial "capp-compliance-api/introduction" %>
 <%= partial "capp-compliance-api/how-it-works" %>

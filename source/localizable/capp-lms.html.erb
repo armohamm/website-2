@@ -21,9 +21,13 @@ description:
                                          logo_title: "CAPP LMS Logo"} %>
 
   <%= partial "partials/on-page-navigation", locals: { variant: "amaranth",
-                                                      links: [{ anchor: "#introduction", key: t("capp-lms.on-page-navigation.introduction")},
-                                                              { anchor: "#features", key: t("capp-lms.on-page-navigation.product-overview")},
-                                                              { anchor: "#appointment", key: t("capp-lms.on-page-navigation.more-info")}]} %>
+                                                       links: [{ anchor: "#introduction",
+                                                                 key: t("capp-lms.on-page-navigation.introduction")},
+                                                               { anchor: "#features",
+                                                                 key: t("capp-lms.on-page-navigation.product-overview")},
+                                                               { anchor: "#appointment",
+                                                                 key: t("capp-lms.on-page-navigation.more-info")}
+                                                              ]} %>
 
   <%= partial "capp-lms/nl/introduction" %>
   <%= partial "capp-lms/nl/product-overview" %>

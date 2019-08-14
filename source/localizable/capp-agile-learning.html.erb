@@ -22,10 +22,15 @@ nav_white: true
                                          logo_title: "CAPP Agile Learning Logo"} %>
 
   <%= partial "partials/on-page-navigation", locals: { variant: "new-green",
-                                                       links: [{ anchor: "#introduction", key: t("capp-agile.on-page-navigation.introduction")},
-                                                               { anchor: "#testimonials", key: t("capp-agile.on-page-navigation.testimonials")},
-                                                               { anchor: "#features", key: t("capp-agile.on-page-navigation.product-overview")},
-                                                               { anchor: "#download-productsheet", key: t("capp-agile.on-page-navigation.more-info")}]} %>
+                                                       links: [{ anchor: "#introduction",
+                                                                 key: t("capp-agile.on-page-navigation.introduction")},
+                                                               { anchor: "#testimonials",
+                                                                 key: t("capp-agile.on-page-navigation.testimonials")},
+                                                               { anchor: "#features",
+                                                                 key: t("capp-agile.on-page-navigation.product-overview")},
+                                                               { anchor: "#download-productsheet",
+                                                                 key: t("capp-agile.on-page-navigation.more-info")}
+                                                              ]} %>
 
   <%= partial "capp-agile-learning/new/introduction" %>
   <%= partial "capp-agile-learning/testimonials", locals: { variant: "light-gray" }  %>
