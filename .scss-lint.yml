@@ -4,6 +4,9 @@ scss_files: "**/*.scss"
 
 severity: warning
 
+exclude:
+  "source/stylesheets/_normalize.scss"
+
 linters:
   BangFormat:
     enabled: true
