@@ -18,7 +18,7 @@ Het programma van de dag is als volgt:
 11.00 uur - Opening
 11.15 uur - Uitleg over nieuwe features CAPP LMS
 12.15 uur - Gezamenlijke lunch
-13.30 uur - Presentaties best practices en beantwoording ingezonden vragen
+13.30 uur - Presentaties praktijkvoorbeelden en beantwoording ingezonden vragen
 15.30 uur - Afsluiting en eventueel overgebleven vragen
 16.00 uur - Borrel
 
