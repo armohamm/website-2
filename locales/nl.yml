@@ -226,6 +226,7 @@ nl:
     first_name: Voornaam
     message: Wat kunnen we voor je betekenen?
     message_for_organisation: Opmerkingen voor de organisatie
+    message_questions_diet: Vragen die je wilt bespreken (vermeld hier ook eventuele dieetwensen)
     name: Naam
     organisation: Bedrijf of organisatie
     persons: Aantal personen
