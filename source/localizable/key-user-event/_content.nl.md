@@ -4,7 +4,7 @@ Een groot deel van jullie werkt nu met ons nieuwe CAPP LMS. Vanuit Defacto wille
 
 ### Locatie
 
-Hey Key User Event vindt plaats op **donderdag 3 oktober 2019** op ons kantoor in Groningen, dat ook goed bereikbaar is met het openbaar vervoer:
+Het Key User Event vindt plaats op **donderdag 3 oktober 2019** op ons kantoor in Groningen, dat ook goed bereikbaar is met het openbaar vervoer:
 
 Defacto
 Zuiderpark 3
