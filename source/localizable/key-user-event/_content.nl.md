@@ -1,4 +1,4 @@
-Een groot deel van jullie werkt nu met ons nieuwe CAPP LMS. Vanuit Defacto willen we met jullie graag de nieuwste ontwikkelingen bespreken en eventuele vragen beantwoorden. Enkele gebruikers van CAPP LMS zullen daarnaast enkele interessante praktijkvoorbeelden delen.
+Een groot deel van jullie werkt nu met ons nieuwe CAPP LMS. Vanuit Defacto willen we met jullie graag de nieuwste ontwikkelingen bespreken en eventuele vragen beantwoorden. Enkele gebruikers van CAPP LMS zullen daarnaast interessante praktijkvoorbeelden delen.
 
 **Graag horen we of je specifieke vragen hebt over het gebruik van CAPP LMS, die we tijdens de bijeenkomst kunnen bespreken. Deze kun je insturen via het aanmeldformulier.**
 
