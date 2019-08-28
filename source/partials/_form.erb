@@ -64,6 +64,12 @@ form_title = defined?(title) ? title : "Contact"
     </div>
   <% end %>
 
+  <% if "organisation_message_alt".in? locals[:fields] %>
+    <div class="form-text">
+      <textarea rows="3" name="message" placeholder="<%= t("form.message_questions_diet") %>"></textarea>
+    </div>
+  <% end %>
+
   <% if "message".in? locals[:fields] %>
     <div class="form-text">
       <textarea rows="3" name="message" placeholder="<%= t("form.message") %>"></textarea>
