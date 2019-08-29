@@ -35,6 +35,22 @@ section.news {
       width: 29%;
     }
 
+    .news-image {
+      position: relative;
+    }
+
+    .news-tag {
+      background: $white;
+      border-radius: $base-border-radius;
+      color: $dark-gray;
+      display: block;
+      font-size: $base-font-size * 0.8;
+      left: 1.2em;
+      padding: 0.2em 1em;
+      position: absolute;
+      top: 1.2em;
+    }
+
     h3,
     p {
       color: $base-font-color;

@@ -1,11 +1,14 @@
 - title: "Dit vinden onze klanten van het nieuwe CAPP LMS"
   image: "news/capp-lms-news.jpg"
   link: "/blog/klanten-over-capp-lms/"
+  tag: "Blog"
 
 - title: "'Curation biedt gebruikers meer orde en keuze in het LMS'"
   image: "news/curation-news.png"
   link: "/blog/curation-mijn-lijst-persoonlijke-ontwikkeling-capp-lms/"
+  tag: "Insight"
 
 - title: "Defacto feliciteert Dianet met succesvolle HKZ-certificering"
   image: "news/dianet-news.jpg"
   link: "/blog/defacto-feliciteert-dianet-hkz-certificering-capp-lms/"
+  tag: "Nieuws"

@@ -15,7 +15,12 @@ news_items = all_news_items.clone
     <% news_items.each do |news_item| %>
 
       <% link_to news_item.link, title: news_item.title, class: "news-item" do %>
-        <div class="image">
+        <div class="news-image">
+          <% if news_item.tag %>
+            <span class="news-tag">
+              <%= news_item.tag %>
+            </span>
+          <% end %>
           <%= image_tag news_item.image, alt: news_item.title, title: news_item.title %>
         </div>
         <div class="text">
