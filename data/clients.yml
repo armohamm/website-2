@@ -25,6 +25,9 @@
 - client: "Albert Schweitzer ziekenhuis"
   logo: "references/albertschweitzerziekenhuis.png"
 
+- client: "Laurentius Ziekenhuis Roermond"
+  logo: "references/lzr.png"
+
 - client: "Rivas"
   logo: "references/rivas.png"
 
