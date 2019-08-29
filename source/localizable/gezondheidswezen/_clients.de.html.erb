@@ -8,10 +8,17 @@
     <div class="case-wrapper">
       <% blog("cases").articles.select{ |a| a.tags.include?("healthcare") }.each do |article| %>
         <div class="flex-item">
-          <% link_to(article.url, class: "case", title: article.title, style: "background-image: url(#{image_path(article.data.header_image)})") do %>
+
+          <% link_to(article.url,
+            class: "case",
+            title: article.title,
+            style: "background-image: url(#{image_path(article.data.header_image)})") do %>
             <div class="case-content">
 
-              <%= image_tag image_path(article.data.logo_white), class: "case-logo", alt: article.title, title: article.title %>
+              <%= image_tag image_path(article.data.logo_white),
+                class: "case-logo",
+                alt: article.title,
+                title: article.title %>
 
               <% if article.data.sub_title %>
                 <p class="case-description">
@@ -21,6 +28,7 @@
 
             </div>
           <% end %>
+
         </div>
       <% end %>
     </div>

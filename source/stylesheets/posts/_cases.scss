@@ -14,10 +14,6 @@ section.cases-overview {
 
     .button {
       margin: 0;
-
-      @include grid-media($medium-up) {
-        margin-right: 0.4em;
-      }
     }
   }
 
@@ -29,7 +25,9 @@ section.cases-overview {
     margin: -5px;
 
     .flex-item {
-      padding: 5px;
+      border-radius: $base-border-radius;
+      overflow: hidden;
+      padding: 1em;
       width: 100%;
 
       @include grid-media($medium-up) {
@@ -40,16 +38,9 @@ section.cases-overview {
         }
       }
 
-      @include grid-media($large-up) {
-        &:nth-child(4n+1),
-        &:nth-child(4n+4) {
-          width: 60%;
-        }
-
-        &:nth-child(4n+2),
-        &:nth-child(4n+3) {
-          width: 40%;
-        }
+      a {
+        border-radius: $base-border-radius;
+        overflow: hidden;
       }
     }
 
@@ -63,10 +54,15 @@ section.cases-overview {
       padding: 3em;
       position: relative;
       text-shadow: 0 0.25em 0.5em rgba($black, 0.25);
+      transition: transform 0.2s ease;
 
       &::before {
         @include hero-header-overlay;
         transition: background 0.15s ease-in-out;
+      }
+
+      &:hover {
+        transform: scale(1.02);
       }
 
       &:hover::before {

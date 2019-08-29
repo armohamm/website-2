@@ -174,13 +174,11 @@ de:
       introduction: CAPP Talent Management
   cases:
     all_cases: Alle Cases
-    contact: Kontakt aufnehmen
     cta:
       title: Haben Sie Interesse wie dies Ihrem Business Case helfen kann? Vereinbaren Sie nun einen Termin!
     next: Nächster case
     overview:
       button: Kontakt aufnehmen
-      contact_us: Hat Sie das Lesen unserer Kundencases inspiriert? Oder haben Sie noch weitere Fragen? Nehmen Sie Kontakt mit uns auf.
       text: Jeder Kunde ist unterschiedlich und besitzt andere Wünsche. Darum ist jede Implementierung einzigartig. Hier ein kleiner Überblick über unsere Kunden und warum wir gemeinsam so erfolgreiche Resultate erzielt haben.
       title: Cases - Mit stolz präsentieren wir
     previous: Vorheriger case
@@ -385,7 +383,7 @@ de:
     pages:
       healthcare:
         cases:
-          title: Cases
+          title: Cases aus dem Gesundheitswesen
         desc: 'E-Learning ist ein wichtiger Faktor, um die Mitarbeiter %{link} entsprechend zu schulen. Am besten können Sie Ihre Personalentwicklung mit Software von Defacto darauf abstimmen.'
         link: im Gesundheitswesen
         more:

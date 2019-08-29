@@ -44,7 +44,7 @@ header_style: invert
 <%= partial "partials/news" unless root_locale == :en %>
 
 <% unless root_locale == :en %>
-  <%= partial "clients/clients-cases-overview", locals: { count: 2 } %>
+  <%= partial "partials/cases-overview", locals: { count: 2 } %>
 <% end %>
 
 <%= partial "partials/featured-testimonial" %>

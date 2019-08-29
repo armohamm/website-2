@@ -1,3 +1,11 @@
+<%
+articles = blog("cases").local_articles
+
+if defined?(count) && count.is_a?(Integer)
+  articles = articles.take(count)
+end
+%>
+
 <section class="cases-overview  <%= heading if defined?(heading) -%>">
 
   <div class="row">
@@ -23,14 +31,6 @@
     </div>
 
     <div class="case-wrapper">
-
-      <%
-      articles = blog("cases").local_articles
-
-      if defined?(count) && count.is_a?(Integer)
-        articles = articles.take(count)
-      end
-      %>
 
       <% articles.each do |article| %>
 
@@ -58,19 +58,18 @@
 
     </div>
 
-    <div class="cases-overview-context">
+    <% unless current_page.url == "/cases/" %>
 
-      <p>
-        <%= t("cases.overview.contact_us") %>
-      </p>
+      <div class="cases-overview-context">
 
-      <% unless current_page.url == "/cases/" %>
-        <%= link_to t("cases.all_cases"), "/cases/", class: "button orange outline" %>
-      <% end %>
+        <%= partial "partials/button", locals: { variant: "button orange outline",
+                                                 link: "/cases/index.html",
+                                                 text: t("cases.all_cases"),
+                                                 icon_left: "icons/cases.svg"} %>
 
-      <%= locale_link_to t("cases.contact"), "/contact.html#contact-form", class: "button orange" %>
+      </div>
 
-    </div>
+    <% end %>
 
   </div>
 
