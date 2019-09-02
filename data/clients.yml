@@ -55,6 +55,9 @@
 - client: "Maxima Medisch Centrum"
   logo: "references/mmc.png"
 
+- client: "Leviaan"
+  logo: "references/leviaan.png"
+  
 - client: "ZINN"
   logo: "references/zinn.png"
 
