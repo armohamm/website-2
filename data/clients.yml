@@ -43,6 +43,9 @@
 - client: "Ambulancezorg Groningen"
   logo: "references/ambulancezorg-groningen.png"
 
+- client: "RAV Brabant Midden-West-Noord"
+  logo: "references/rav-brabant-mwn.png"
+
 - client: "Stichting Bedrijfs Apotheken"
   logo: "references/sba.png"
 
@@ -57,7 +60,7 @@
 
 - client: "Leviaan"
   logo: "references/leviaan.png"
-  
+
 - client: "ZINN"
   logo: "references/zinn.png"
 
