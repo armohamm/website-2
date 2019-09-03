@@ -40,6 +40,9 @@
 - client: "Wilhemina Ziekenhuis Assen"
   logo: "references/wilhelminaziekenhuisassen.png"
 
+- client: "De Jong & Laan"
+  logo: "references/jong-en-laan.svg"
+
 - client: "Viecuri"
   logo: "references/viecuri.png"
 
