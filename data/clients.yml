@@ -112,6 +112,9 @@
 - client: "Sint Franciscus Gasthuis"
   logo: "references/sfg.png"
 
+- client: "Jeugdhulp Friesland"
+  logo: "references/jeugdhulp-friesland.png"
+
 - client: "Roessingh Centrum voor Revalidatie"
   logo: "references/roessingh.png"
 
