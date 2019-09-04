@@ -115,6 +115,9 @@
 - client: "Roessingh Centrum voor Revalidatie"
   logo: "references/roessingh.png"
 
+- client: "Lunet zorg"
+  logo: "references/lunet-zorg.png"
+
 - client: "Luchtvaart Community Schiphol"
   logo: "references/luchtvaart-community-schiphol.png"
 
@@ -132,6 +135,9 @@
 
 - client: "Ministerie van Sociale Zaken en Werkgelegenheid"
   logo: "references/ministerie-szw.png"
+
+- client: "Dienst Uitvoering Onderwijs, Ministerie van Onderwijs, Cultuur en Wetenschap"
+  logo: "references/duo-ocw.png"
 
 - client: "RIVM"
   logo: "references/rivm.png"
@@ -183,9 +189,6 @@
 
 - client: "Heliomare onderwijs"
   logo: "references/heliomare.png"
-
-- client: "Dienst Uitvoering Onderwijs, Ministerie van Onderwijs, Cultuur en Wetenschap"
-  logo: "references/duo-ocw.png"
 
 - client: "Phoenix Opleidingen"
   logo: "references/phoenix.jpg"
