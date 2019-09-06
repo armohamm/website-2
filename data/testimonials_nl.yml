@@ -25,11 +25,25 @@
 # } %>
 #
 #####################################################################################################
+- name: Desiree Hintzen
+  company: "Teamleider HRD, Laurentius Ziekenhuis Roermond"
+  avatar: testimonials/desiree-hintzen.jpg
+  featured: true
+  quote: |
+    In 2019 hebben wij de overstap gemaakt naar CAPP LMS van Defacto. Dit was een heftige periode, omdat het contract met onze huidige leverancier afliep en wij tijdig aan de slag moesten met het nieuwe LMS. Dankzij de inzet van onze eigen mensen en de deskundige ondersteuning van Defacto hebben wij naadloos de overstap kunnen maken.
+
+    Wij gebruiken het LMS in combinatie met het Kwaliteitspaspoort om de kwaliteit van zorg te borgen en de vakbekwaamheid van onze medewerkers aan te tonen. Alle verplichte scholingsactiviteiten zijn opgenomen in het Kwaliteitspaspoort, zodat iedere individuele medewerker kan zien wat hij of zij moet doen. Het is heel prettig dat zowel medewerkers als leidinggevenden in één oogopslag de status kunnen zien en dat we dit ook eenvoudig op alle niveaus aan accrediterende instanties kunnen aantonen.
+
+    Een belangrijke reden waarom we voor CAPP LMS hebben gekozen is de eigen verantwoordelijkheid van medewerkers. Dit is wel een cultuuromslag, omdat het medewerkers op een andere manier naar hun scholingsverplichtingen laat kijken. Doordat medewerkers zelf de regie kunnen nemen over hun ontwikkeling, biedt het voor ons een oplossing voor verschillende uitdagingen, zoals duurzame inzetbaarheid maar ook het behoud van personeel.
+
+    CAPP LMS ziet er modern en aantrekkelijk uit en werkt intuïtief, zoals je verwacht van hedendaagse SaaS-software. Voor de gebruiker is CAPP LMS een enorme verbetering. Je vindt, mede dankzij de goede zoekfuncties, gemakkelijk en snel waar je naar op zoek bent. Ook is het erg fijn dat we vanuit de software rechtstreeks met de Service & Support van Defacto kunnen chatten. Door deze korte lijnen kunnen vragen snel afgehandeld worden.
+
+  summary: |
+    CAPP LMS is een leer management systeem van deze tijd. Het sluit goed aan bij onze doelstellingen op het gebied van leren en de persoonlijke ontwikkeling van medewerkers. Daarnaast maken we met het Kwaliteitspaspoort in één oogopslag de kwaliteit van medewerkers inzichtelijk, zodat we de voortgang ook goed kunnen verantwoorden aan inspectie en accrediterende instanties. Dankzij de deskundige ondersteuning van Defacto en de inzet van onze eigen mensen hebben we naadloos de overstap van ons oude LMS naar CAPP LMS kunnen maken.
 
 - name: Isabel Juliana
   company: "Afdelingshoofd (Centraal Bureau) Leerhuis, Albert Schweitzer Ziekenhuis"
   avatar: testimonials/isabel-juliana.jpg
-  featured: true
   quote: |
     Aan het begin van 2016 zijn wij ons DLO implementatietraject gestart en hiermee ook onze samenwerking met Defacto. In november 2016 zijn we gestart met de ingebruikname van het Kwaliteitspaspoort voor verpleegkundigen. De afgelopen periode hebben we ervaren als een zeer intensieve maar leerzame periode waarbij wij door de goede samenwerking met Defacto mooie stappen hebben kunnen maken. De behulpzaamheid, het meedenken en de kundigheid van de consultants heeft ertoe geleid dat er vanuit ons een  visie op leren is ontstaan.
 
