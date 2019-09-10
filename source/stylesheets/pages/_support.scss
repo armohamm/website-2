@@ -29,7 +29,7 @@ body.support {
     }
 
     .row {
-      max-width: 800px;
+      max-width: $small-row;
     }
   }
 
@@ -37,22 +37,14 @@ body.support {
     align-items: center;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 
     .support-team-item {
       padding: 0 1em;
       text-align: center;
-      width: 100%;
-
-      @include grid-media($medium-up) {
-        width: 50%;
-      }
-
-      @include grid-media($large-up) {
-        width: 20%;
-      }
 
       img {
-        @include avatar-size(100px);
+        @include avatar-size(120px);
         margin-bottom: 0.2em;
       }
 
