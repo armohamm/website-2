@@ -53,6 +53,9 @@
     - title: Schnittstellen
       url: /koppelingen.html
       icon: icons/integrations.svg
+    - title: Service & Support
+      url: /support.html
+      icon: icons/support.svg
     - title: E-Learning
       url: /e-learning.html
       icon: icons/elearning.svg
@@ -75,9 +78,6 @@
     - title: Über Uns
       url: /over-ons.html
       icon: icons/about-us.svg
-    - title: Service & Support
-      url: /support.html
-      icon: icons/support.svg
     - title: Blog
       url: /blog/index.html
       icon: icons/blog.svg
