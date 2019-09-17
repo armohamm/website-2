@@ -123,9 +123,9 @@ nl:
   capp-lms:
     cta_bottom:
       title: Nieuwsgierig naar de uitgebreide mogelijkheden van CAPP LMS? Maak nu een afspraak!
-    description: "%{link} faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant."
+    description: "%{link} faciliteert elke vorm van leren en houdt ruim 250.000 medewerkers up-to-date en compliant."
     h1: Learning & Talent Management
-    h2: CAPP LMS faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant.
+    h2: CAPP LMS faciliteert elke vorm van leren en houdt ruim 250.000 medewerkers up-to-date en compliant.
     link: CAPP LMS
     name: CAPP LMS
     on-page-navigation:
@@ -241,7 +241,7 @@ nl:
       text: Meer dan 200.000 professionals gebruiken onze software om te leren en hun talenten te ontwikkelen
       title: Developing People
     hero_capp:
-      text: CAPP LMS faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant.
+      text: CAPP LMS faciliteert elke vorm van leren en houdt ruim 250.000 medewerkers up-to-date en compliant.
       title: Learning & Talent Management
     solutions:
       capp-compliance:
@@ -251,7 +251,7 @@ nl:
         text_html: 'Performance support door ''kennis-on-demand''. Voorzie medewerkers van _just-in-time_ kennis. Leg kennis simpel vast, deel handleidingen, werkinstructies en meer.'
         title: CAPP Agile Learning
       learn:
-        text_html: '%{link} faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant.'
+        text_html: '%{link} faciliteert elke vorm van leren en houdt ruim 250.000 medewerkers up-to-date en compliant.'
         title: CAPP LMS
   hosting:
     heading: Hosting & Security
