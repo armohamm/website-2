@@ -81,6 +81,7 @@
     - title: Blog
       url: /blog/index.html
       icon: icons/blog.svg
+      main: false
     - title: Themen
       url: /themas.html
       icon: icons/themes.svg
@@ -93,6 +94,11 @@
     - title: Jobs
       url: /jobs/index.html
       icon: icons/jobs.svg
+      main: false
     - title: Kontakt
       url: /contact.html
       icon: icons/contact.svg
+- title: Blog
+  url: /blog/index.html
+- title: Jobs
+  url: /jobs/index.html

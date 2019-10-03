@@ -1,19 +1,25 @@
 <% if navigation_items %>
 
   <% navigation_items.each do |item| %>
-    <div class="navigation-list">
-      <h6>
-        <%= link_to item.title, item.url %>
-      </h6>
 
-      <ul>
-        <% item.links.each do |link| %>
-          <li>
-            <%= link_to link.title, link.url %>
-          </li>
-        <% end %>
-      </ul>
+    <% if item.links %>
+      <div class="navigation-list">
 
-    </div>
+        <h6>
+          <%= link_to item.title, item.url %>
+        </h6>
+
+        <ul>
+          <% item.links.each do |link| %>
+            <li>
+              <%= link_to link.title, link.url %>
+            </li>
+          <% end %>
+        </ul>
+
+      </div>
+
+    <% end %>
+
   <% end %>
 <% end %>

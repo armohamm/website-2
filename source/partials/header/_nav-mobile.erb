@@ -22,45 +22,51 @@
 
             <% navigation_items.each do |item | %>
 
-              <div class="mobile-nav-group mobile-<%= item.type %>">
+              <% if item.links %>
 
-                <%= nav_link_to item.title, item.url, class: "mobile-nav-title" %>
+                <div class="mobile-nav-group mobile-<%= item.type %>">
 
-                <% if item.type == "products-group" %>
+                  <%= nav_link_to item.title, item.url, class: "mobile-nav-title" %>
 
-                  <div class="mobile-products-list">
+                  <% if item.type == "products-group" %>
 
-                    <ul>
-                      <% item.links.each do |product| %>
+                    <div class="mobile-products-list">
+
+                      <ul>
+                        <% item.links.each do |product| %>
+                          <li>
+                            <% nav_link_to(product.url, class: "link-container #{product[:item_class]}") do %>
+                              <div class="product-icon">
+                                <%= image_tag product.icon, alt: product.title %>
+                              </div>
+                              <div class="product-link-content">
+                                <%= product.title %>
+                              </div>
+                            <% end %>
+                          </li>
+                        <% end %>
+                      </ul>
+
+                    </div>
+
+                  <% elsif item.type == "links-group" %>
+
+
+                    <div class="mobile-links-list">
+                      <ul>
+                        <% item.links.each do |link| %>
                         <li>
-                          <% nav_link_to(product.url, class: "link-container #{product[:item_class]}") do %>
-                            <div class="product-icon">
-                              <%= image_tag product.icon, alt: product.title %>
-                            </div>
-                            <div class="product-link-content">
-                              <%= product.title %>
-                            </div>
-                          <% end %>
+                          <%= nav_link_to link.title, link.url, class: "item-#{link[:item_class]}" %>
                         </li>
-                      <% end %>
-                    </ul>
+                        <% end %>
+                      </ul>
+                    </div>
 
-                  </div>
+                  <% end %>
 
-                <% elsif item.type == "links-group" %>
+                </div>
+              <% end %>
 
-                  <div class="mobile-links-list">
-                    <ul>
-                      <% item.links.each do |link| %>
-                      <li>
-                        <%= nav_link_to link.title, link.url, class: "item-#{link[:item_class]}" %>
-                      </li>
-                      <% end %>
-                    </ul>
-                  </div>
-                <% end %>
-
-              </div>
             <% end %>
 
           </div>

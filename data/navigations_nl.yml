@@ -75,18 +75,24 @@
     - title: Blog
       url: /blog/index.html
       icon: icons/blog.svg
+      main: false
     - title: Thema's
       url: /themas.html
       icon: icons/themes.svg
     - title: Open Source
       url: /open-source.html
       icon: icons/open-source.svg
-    - title: Evenementenagenda
+    - title: Events
       url: /evenementenagenda.html
       icon: icons/events.svg
-    - title: Werken bij Defacto
+    - title: Vacatures
       url: /jobs/index.html
       icon: icons/jobs.svg
+      main: false
     - title: Contact
       url: /contact.html
       icon: icons/contact.svg
+- title: Blog
+  url: /blog/index.html
+- title: Vacatures
+  url: /jobs/index.html

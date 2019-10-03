@@ -59,6 +59,7 @@
     - title: Blog
       url: /blog/index.html
       icon: icons/blog.svg
+      main: false
     - title: Open Source
       url: /open-source.html
       icon: icons/open-source.svg

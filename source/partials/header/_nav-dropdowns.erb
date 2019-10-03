@@ -43,11 +43,13 @@
                 <div class="link-group">
 
                   <% item.links.each do |link| %>
-                    <% nav_link_to(link.url, class: "link-container with-icon") do %>
-                      <span class="link-title link-icon">
-                        <%= inline_svg link.icon, title: link.title %>
-                        <%= link.title %>
-                      </span>
+                    <% unless link.main == false %>
+                      <% nav_link_to(link.url, class: "link-container with-icon") do %>
+                        <span class="link-title link-icon">
+                          <%= inline_svg link.icon, title: link.title %>
+                          <%= link.title %>
+                        </span>
+                      <% end %>
                     <% end %>
                   <% end %>
 

@@ -1,7 +1,18 @@
 <% if navigation_items %>
   <li class="nav-section primary">
     <% navigation_items.each do | item | %>
-      <%= nav_link_to item.title, item.url, class: "root-link has-dropdown item-#{item.dropdown}", "data-dropdown": item.dropdown %>
+
+      <% if item.dropdown %>
+        <%= nav_link_to item.title,
+                        item.url,
+                        class: "root-link has-dropdown item-#{item.dropdown}",
+                        "data-dropdown": item.dropdown %>
+      <% else %>
+        <%= nav_link_to item.title,
+                        item.url,
+                        class: "root-link" %>
+      <% end %>
+
     <% end %>
   </li>
 <% end %>
