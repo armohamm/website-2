@@ -10,6 +10,8 @@ capp_agile_productsheet:
   nl: "/pdf/Productsheet-CAPP-Agile-Learning.pdf"
 capp_compliance_productsheet:
   nl: "/pdf/Productsheet-CAPP-Compliance.pdf"
+capp_open_courses_productsheet:
+  nl: "/pdf/Productsheet-Open-Courses.pdf"
 ebook:
   nl: "/pdf/Handboek_Leren_en_laten_Leren.pdf"
   de: "/pdf/Handbuch_Abenteuer_E-Learning.pdf"

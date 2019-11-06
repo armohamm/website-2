@@ -91,3 +91,18 @@ article.post {
     width: 100%;
   }
 }
+
+.blog-article {
+  section.cta-bottom {
+    .row {
+      max-width: $medium-row;
+      text-align: center;
+    }
+
+    .form {
+      margin: 0 auto;
+      max-width: $small-row;
+      text-align: left;
+    }
+  }
+}
