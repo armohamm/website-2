@@ -12,7 +12,7 @@ body.upgrade {
     }
   }
 
-  :not(.footer):not(.cta-bottom) {
+  .content {
     .row {
       max-width: 1260px;
 
@@ -39,12 +39,5 @@ body.upgrade {
         }
       }
     }
-  }
-
-  .cta-bottom .gray {
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0 1em;
-    position: relative;
   }
 }
