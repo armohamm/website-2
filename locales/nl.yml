@@ -74,6 +74,9 @@ nl:
       open_courses:
           title: "Meer informatie over de mogelijkheden van Open Courses?"
           text: "Laat uw gegevens achter en download ons productsheet met daarin alle informatie."
+      learning_2019:
+          title: "Nieuwsgierig geworden hoe CAPP LMS bij de nieuwste trends aansluit?"
+          text: "Laat uw gegevens achter en wij nemen op korte termijn contact met u op."
     meta_description: 'Nieuws over trends op het gebied van online leren en ontwikkelen. Actualiteiten op het gebied van software, onze klanten, producten en diensten. | Pagina %{page_number}/%{num_pages}.'
     more_articles: Lees ook
     more_on_our_blog: Meer blogs
