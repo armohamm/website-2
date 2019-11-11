@@ -68,6 +68,9 @@ nl:
     visit_website: Bezoek de website
   blog:
     cta_bottom:
+      capp-lms:
+          title: "Interesse in hoe het nieuwe CAPP LMS een boost aan leren & compliance binnen uw organisatie kan geven?"
+          text: "Laat uw gegevens achter en wij nemen contact met u op."
       open_courses:
           title: "Meer informatie over de mogelijkheden van Open Courses?"
           text: "Laat uw gegevens achter en download ons productsheet met daarin alle informatie."
