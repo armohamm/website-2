@@ -1,0 +1,17 @@
+<section class="cta-bottom gray" id="appointment">
+  <div class="row">
+    <div>
+      <h2>
+        <%= t("blog.cta_bottom.microleren.title") %>
+      </h2>
+      <p>
+        <%= t("blog.cta_bottom.microleren.text") %>
+      </p>
+    </div>
+    <%= partial "partials/form", locals: { title: "Contact Request: Blog - van SCORM naar microleren",
+                                           fields: ["name", "email", "organisation", "phone"],
+                                           button_text: t("form.submit"),
+                                           button_class: "orange-golden",
+                                           action_url: t("urls.contact")} %>
+  </div>
+</section>
