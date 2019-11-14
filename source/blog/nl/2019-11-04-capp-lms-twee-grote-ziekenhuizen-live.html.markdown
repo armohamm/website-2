@@ -11,7 +11,7 @@ header_image: moods/cme-mood.jpg
 call_to_action: contact
 ---
 
-__November is de maand van onze ziekenhuisklanten. Zowel het Maastricht Universitair Medisch Centrum (MUMC+) als het Spaarne Gasthuis gaan deze maand live met de nieuwste versie van [CAPP LMS](/capp-lms).__
+__November is de maand van onze ziekenhuisklanten. Zowel het Maastricht Universitair Medisch Centrum (MUMC+) als het Spaarne Gasthuis zijn deze maand live gegaan met de nieuwste versie van [CAPP LMS](/capp-lms).__
 
 ## Volledig gepersonaliseerde omgeving
 Het MUMC heeft op 1 november de knop omgezet. Met de livegang van CAPP LMS hebben zij niet alleen hun huidige omgeving volledig gemigreerd, zodat iedere medewerker op 1 november meteen verder kon werken in zijn [Kwaliteitspaspoort](/capp-compliance), maar hebben zij tevens hun vervolgonderwijs een plek gegeven binnen het LMS. In combinatie met [CAPP Agile Learning](/capp-agile-learning) krijgt nu iedere student in opleiding tot specialistische verpleegkundige een volledig gepersonaliseerde leeromgeving, waarbinnen de student zelf inzicht heeft in zijn voortgang binnen de opleiding.
