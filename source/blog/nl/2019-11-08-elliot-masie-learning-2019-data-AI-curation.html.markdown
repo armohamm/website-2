@@ -1,5 +1,5 @@
 ---
-title: "Nieuws en trends van Elliot Masie's Learning 2019"
+title: "Nieuws en trends van Elliott Masie's Learning 2019"
 date: 2019-11-08 08:00
 tags: Defacto
 author: Arnoud
@@ -11,12 +11,12 @@ header_image: moods/learning-2019-mood.jpg
 call_to_action: capp-lms-trends
 ---
 
-__Net als vorig jaar was ik namens Defacto mee met de Nederlandse delegatie naar de Learning 2019 in Orlando. Dit leerevent wordt jaarlijks georganiseerd door Elliot Masie, waarbij zo’n 1.500 tot 2.000 L&D-professionals in drie dagen vele workshops bezoeken om de laatste trends van leren en opleiden te volgen.__
+__Net als vorig jaar was ik namens Defacto mee met de Nederlandse delegatie naar de Learning 2019 in Orlando. Dit leerevent wordt jaarlijks georganiseerd door Elliott Masie, waarbij zo’n 1.500 tot 2.000 L&D-professionals in drie dagen vele workshops bezoeken om de laatste trends van leren en opleiden te volgen.__
 
-Aangezien de Nederlandse delegatie met 45 deelnemers de grootste buitenlandse groep is, hadden we het genoegen om op zondagmorgen al een “privésessie” van een uur van __Elliot Masie__ te mogen bijwonen. Hij is zoals altijd gepassioneerd en het was wederom inspirerend om hierbij aanwezig te zijn.
+Aangezien de Nederlandse delegatie met 45 deelnemers de grootste buitenlandse groep is, hadden we het genoegen om op zondagmorgen al een “privésessie” van een uur van __Elliott Masie__ te mogen bijwonen. Hij is zoals altijd gepassioneerd en het was wederom inspirerend om hierbij aanwezig te zijn.
 
 ## 'Rammelend leren'
-“Een leven lang leren is het doel, elke dag leren is het middel om dit te realiseren”, aldus Elliot.
+“Een leven lang leren is het doel, elke dag leren is het middel om dit te realiseren”, aldus Elliott.
 Hij had zijn voordracht naar het Nederlands vertaald als “rammelend leren”. In zijn verhaal legde hij uit dat de L&D-afdelingen overal kleiner worden. Dit komt mede doordat we steeds meer informeel leren en het daarnaast steeds eenvoudiger wordt om het leren te faciliteren. Daarbij wordt er bovendien anders geleerd:
 -   Je kijkt meer dan je leest
 -   Je zoekt meer dan je volgt
@@ -24,7 +24,7 @@ Hij had zijn voordracht naar het Nederlands vertaald als “rammelend leren”. 
 
 >“Een leven lang leren is het doel, elke dag leren is het middel om dit te realiseren”
 
-Elliot presenteerde vervolgens één slide met de belangrijkste items voor 2020 en liet de groep de onderwerpen op de slide kiezen, waarna hij er iets over vertelde. Met name data en _data analytics_ gaan een steeds grotere rol spelen bij het afstemmen van leren en opleiden.
+Elliott presenteerde vervolgens één slide met de belangrijkste items voor 2020 en liet de groep de onderwerpen op de slide kiezen, waarna hij er iets over vertelde. Met name data en _data analytics_ gaan een steeds grotere rol spelen bij het afstemmen van leren en opleiden.
 
 ![De belangrijkste items voor L&D-professionals in 2020](/images/blog/masie-learning-shifts-2020.jpg)
 
@@ -64,7 +64,7 @@ De volgende mogelijk interessante onderwerpen wil ik hier nog graag vermelden:
 In de __PWC-workshop__ werd duidelijk gemaakt dat de technische vaardigheden voor L&D-professionals steeds belangrijker worden. Men moet van meer leerelementen verstand hebben, zoals het schrijven van een goed artikel of het maken van een video, het opzetten van een quiz, om zo medewerkers door middel van _curation_ te laten leren en hiermee goede leerpaden te maken.
 
 ## Direct nieuwsgierigheid creëeren
-In een __centrale sessie van Elliot Masie__ onderstreepte hij nogmaals dat leren gebaseerd moet zijn op het direct creëren van nieuwsgierigheid. Ons kortetermijngeheugen heeft daarbij inmiddels geleerd om veel direct te vergeten, iets waar we rekening mee moeten houden als we anderen iets permanent willen bijbrengen. Elliot gaf vervolgens een mooi voorbeeld uit de luchtvaart:
+In een __centrale sessie van Elliott Masie__ onderstreepte hij nogmaals dat leren gebaseerd moet zijn op het direct creëren van nieuwsgierigheid. Ons kortetermijngeheugen heeft daarbij inmiddels geleerd om veel direct te vergeten, iets waar we rekening mee moeten houden als we anderen iets permanent willen bijbrengen. Elliott gaf vervolgens een mooi voorbeeld uit de luchtvaart:
 
 >“In een vliegtuig is het leren nooit veranderd. Natuurlijk is het belangrijk hoe je je riem vast moet maken, maar misschien is het belangrijker je buren even in twee minuten te leren kennen, aangezien zij tussen jou en de nooduitgang zitten in geval van een crash.”
 
@@ -74,7 +74,7 @@ Daarnaast werd in de centrale sessie het toppunt van A.I. (artificial intelligen
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JMLsHI8aV0g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Maximale digitale ondersteuning
-Rob Lauder, de __Chief Learning Officer (CLO) van McDonald’s__, vertelde ons dat data voor hen ook steeds belangrijker wordt. De klant staat centraal in zijn orderproces en dit wordt digitaal maximaal ondersteund. Door de klant zelf de bestelling te laten invoeren, kunnen medewerkers deze tijd gebruiken om het eten aan tafel uit te serveren. McDonald’s heeft twee databedrijven gekocht die zich bezighouden met A.I. Doel is om nog beter te weten welk product wanneer geconsumeerd wordt en door wie. Dankzij bijvoorbeeld kentekenherkenning krijg je meteen de bestelling die je meestal kiest als suggestie aangereikt, wat leidt tot kortere wachttijden in de McDrive. Over UX zegt hij nog: “Bij een app krijg je nooit een training, kijk zo ook naar je software met betrekking tot de UX”.
+Rob Lauber, de __Chief Learning Officer (CLO) van McDonald’s__, vertelde ons dat data voor hen ook steeds belangrijker wordt. De klant staat centraal in zijn orderproces en dit wordt digitaal maximaal ondersteund. Door de klant zelf de bestelling te laten invoeren, kunnen medewerkers deze tijd gebruiken om het eten aan tafel uit te serveren. McDonald’s heeft twee databedrijven gekocht die zich bezighouden met A.I. Doel is om nog beter te weten welk product wanneer geconsumeerd wordt en door wie. Dankzij bijvoorbeeld kentekenherkenning krijg je meteen de bestelling die je meestal kiest als suggestie aangereikt, wat leidt tot kortere wachttijden in de McDrive. Over UX zegt hij nog: “Bij een app krijg je nooit een training, kijk zo ook naar je software met betrekking tot de UX”.
 
 ## Leer je gebruikers kennen
 __Richard Cullen__ gaf nog een mooie workshop over UX en evaluaties. Zijn tips om je gebruikers te leren kennen:
