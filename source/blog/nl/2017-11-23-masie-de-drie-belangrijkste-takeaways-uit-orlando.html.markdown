@@ -12,7 +12,7 @@ featured_image: images/blog/featured/20171120-masie-learning-2017.jpg
 __Het is inmiddels alweer twee weken geleden dat ik [het Learning2017 congres van Eliott Masie in Orlando bezocht](/blog/masie-over-masie-learning-2017/). Nog steeds duizelt het me van alle indrukken en inspiratie die dit congres opgeleverd heeft. Voordat ik in een serie van blogs dieper op specifieke zaken in ga, wil ik graag mijn belangrijkste takeaways van het congres met jullie delen.__
 
 ![Julian Stodd & Eliott Maise](/images/blog/masie-learning-2017-julian-stodd.jpg)
-<p class="caption">Julian Stodd & Eliott Maise</p>
+<p class="caption">Julian Stodd & Eliott Masie</p>
 
 ## 1 Falen is goed
 
@@ -51,8 +51,8 @@ Bovenstaande betekent niet alleen dat wij uit verschillende hoeken onze data goe
 Leren en performance komen steeds dichter bij elkaar te liggen. Aan ons de uitdaging om ons gehele ecosysteem van leren aan elkaar te verbinden in de komende jaren. Het geheel is dan werkelijk meer dan de som van de delen.
 
 ## En verder leuk om te weten….
-- Michelle Obama is een fantastische spreker, en kan heel goed en heel subtiel Trump onderuit halen.
-- De show van John Litgow op Broadway is zeer de moeite waard om te bezoeken.
-- De buttons van Learning 2017 waren ook heel erg leuk dit jaar
+-   Michelle Obama is een fantastische spreker, en kan heel goed en heel subtiel Trump onderuit halen.
+-   De show van John Litgow op Broadway is zeer de moeite waard om te bezoeken.
+-   De buttons van Learning 2017 waren ook heel erg leuk dit jaar
 
 <iframe src="https://player.vimeo.com/video/243773500" width="640" height="360" frameborder="0" allowfullscreen allowscriptaccess="never"></iframe>

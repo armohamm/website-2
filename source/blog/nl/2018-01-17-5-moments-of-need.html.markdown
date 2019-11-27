@@ -26,20 +26,20 @@ In het ‘5 moments of need’ framework wordt gewerkt met het uitgangspunt dat 
 Vijf momenten van leren. _Five moments of need_.
 _Aan deze verschillende momenten van leren zijn specifieke leerbehoeftes gekoppeld._
 
-- **Nieuwe kennis** - Als je iets voor het eerst leert
-_**New** - When people learning to do something for the first time_
+-   __Nieuwe kennis__ - Als je iets voor het eerst leert
+__New__ - When people learning to do something for the first time_
 
-- **Meer diepgang** - Als je meer wilt weten over een onderwerp
-_**More** - When people are expanding the breadth and depth of what they have learned_
+-   __Meer diepgang__ - Als je meer wilt weten over een onderwerp
+__More__ - When people are expanding the breadth and depth of what they have learned_
 
-- **Toepassen** - Als je de opgedane kennis wilt toepassen in de praktijk
-_**Apply** - When they need to act upon what they have learned, which includes planning what they will do, remembering what they have forgotten, or adapting their performance to a unique situation_
+-   __Toepassen__ - Als je de opgedane kennis wilt toepassen in de praktijk
+__Apply__ - When they need to act upon what they have learned, which includes planning what they will do, remembering what they have forgotten, or adapting their performance to a unique situation_
 
-- **Oplossen** - Als zich problemen voordoen bij het toepassen van kennis of het onverwacht anders verloopt
-_**Solve** - When problems arise, or things break or don’t work the way they were intended_
+-   __Oplossen__ - Als zich problemen voordoen bij het toepassen van kennis of het onverwacht anders verloopt
+__Solve__ - When problems arise, or things break or don’t work the way they were intended_
 
-- **Veranderen** - Als je moet leren om iets op een andere manier te doen en daarvoor bestaande routines moet afleren
-_**Change** - When people need to learn a new way of doing something, which requires them to change skills that are deeply ingrained in their performance practices_
+-   __Veranderen__ - Als je moet leren om iets op een andere manier te doen en daarvoor bestaande routines moet afleren
+__Change__ - When people need to learn a new way of doing something, which requires them to change skills that are deeply ingrained in their performance practices_
 
 Mosher & Gottfredson, 2012
 
@@ -52,13 +52,13 @@ De vraag is of dit beste manier van leren is. Mogelijk kan de medewerker op basi
 
 Door iemand vanaf het begin alleen een stappenplan te geven leert hij niet waarom hij iets doet, welke opties hij verder heeft en wanneer welke functionaliteiten van het programma het beste gebruikt kunnen worden. Hij leert een trucje, maar zal op deze manier niet excelleren.
 
-Hetzelfde geldt eigenlijk ook voor het tweede moment van leren **(more)**. De persoon is dan op zoek naar meer en/of diepere kennis over een onderwerp. De leerinterventie die hiervoor wordt aangeboden zou hier op afgestemd moeten zijn.
+Hetzelfde geldt eigenlijk ook voor het tweede moment van leren __(more)__. De persoon is dan op zoek naar meer en/of diepere kennis over een onderwerp. De leerinterventie die hiervoor wordt aangeboden zou hier op afgestemd moeten zijn.
 
 ## (Apply) en (Solve)
 
-Wanneer een medewerker eenmaal de basis van Excel onder de knie heeft en de context waarbinnen hij Excel dient te gebruiken goed kent, kan er een leervraag blijven bestaan. We weten allemaal dat veel van wat we initieel leren, op den duur ook weer vergeten wordt. Op zich is dit niet erg en is deze informatie heel makkelijk ook weer naar boven te halen als we een steuntje in de rug krijgen. Op dit soort momenten, als de persoon bijvoorbeeld een draaitabel moet gaan maken in Excel, maar dit al bijna een jaar niet meer heeft gedaan, is de eerder genoemde instructiekaart opeens wel ruim voldoende **(apply)**. De persoon heeft immers al geleerd hoe het maken van een draaitabel werkt en is in het algemeen bekwaam in het gebruik van Excel. Dat hij in dit geval tijdelijk vergeten was waar het maken van een draaitabel ook al weer staat, kan dus snel worden opgezocht op de instructiekaart. De verloren tijd is minimaal en de persoon wordt niet gedwongen een volledige handleiding te doorzoeken of weer een training te volgen. De leerinterventie is afgestemd op de behoefte.
+Wanneer een medewerker eenmaal de basis van Excel onder de knie heeft en de context waarbinnen hij Excel dient te gebruiken goed kent, kan er een leervraag blijven bestaan. We weten allemaal dat veel van wat we initieel leren, op den duur ook weer vergeten wordt. Op zich is dit niet erg en is deze informatie heel makkelijk ook weer naar boven te halen als we een steuntje in de rug krijgen. Op dit soort momenten, als de persoon bijvoorbeeld een draaitabel moet gaan maken in Excel, maar dit al bijna een jaar niet meer heeft gedaan, is de eerder genoemde instructiekaart opeens wel ruim voldoende __(apply)__. De persoon heeft immers al geleerd hoe het maken van een draaitabel werkt en is in het algemeen bekwaam in het gebruik van Excel. Dat hij in dit geval tijdelijk vergeten was waar het maken van een draaitabel ook al weer staat, kan dus snel worden opgezocht op de instructiekaart. De verloren tijd is minimaal en de persoon wordt niet gedwongen een volledige handleiding te doorzoeken of weer een training te volgen. De leerinterventie is afgestemd op de behoefte.
 
-Wanneer dingen niet gaan zoals gepland **(solve)**, heeft een getrainde gebruiker vaak voldoende aan een klein stukje extra informatie. Een factsheet met de meest voorkomende fouten en hoe deze snel op te lossen zijn zou een oplossing kunnen zijn, om vervolgens terug te keren naar de 'gewone' situatie.
+Wanneer dingen niet gaan zoals gepland __(solve)__, heeft een getrainde gebruiker vaak voldoende aan een klein stukje extra informatie. Een factsheet met de meest voorkomende fouten en hoe deze snel op te lossen zijn zou een oplossing kunnen zijn, om vervolgens terug te keren naar de 'gewone' situatie.
 
 ## (Change)
 

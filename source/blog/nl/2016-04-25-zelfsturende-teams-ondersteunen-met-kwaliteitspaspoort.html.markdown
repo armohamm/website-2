@@ -12,9 +12,9 @@ __Mijn collega Marian schreef recent over [zelfsturende teams in de zorg](/blog/
 
 De grote uitdaging daarvan is om een oplossing te vinden die:
 
-- werkt voor alle lagen in een organisatie;
-- de verantwoordelijkheid bij de teams zelf neerlegt;
-- inzicht geeft voor de leidinggevende.
+-   werkt voor alle lagen in een organisatie;
+-   de verantwoordelijkheid bij de teams zelf neerlegt;
+-   inzicht geeft voor de leidinggevende.
 
 Hoe zorg je dat je de samenstelling van teams bijhoudt en dat de juiste mensen inzicht hebben in sturingsinformatie van het gehele team? Vragen waar wij als softwareleverancier een goed, maar eenvoudig te hanteren, antwoord op willen geven.
 

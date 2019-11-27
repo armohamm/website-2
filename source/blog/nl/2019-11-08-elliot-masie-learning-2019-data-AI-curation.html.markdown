@@ -11,7 +11,7 @@ header_image: moods/learning-2019-mood.jpg
 call_to_action: capp-lms-trends
 ---
 
-__Net als vorig jaar was ik namens Defacto mee met de Nederlandse delegatie naar de Learning 2019 in Orlando. Dit leerevent wordt jaarlijks georganiseerd door Elliott Masie, waarbij zo’n 1.500 tot 2.000 L&D-professionals in drie dagen vele workshops bezoeken om de laatste trends van leren en opleiden te volgen.__
+__Net als vorig jaar was ik namens Defacto mee met de Nederlandse delegatie naar de Learning 2019 in Orlando. Dit leerevent wordt jaarlijks georganiseerd door Elliott Masie, waarbij zo’n 1.500 tot 2.000 Learning en Development-professionals in drie dagen vele workshops bezoeken om de laatste trends van leren en opleiden te volgen.__
 
 Aangezien de Nederlandse delegatie met 45 deelnemers de grootste buitenlandse groep is, hadden we het genoegen om op zondagmorgen al een “privésessie” van een uur van __Elliott Masie__ te mogen bijwonen. Hij is zoals altijd gepassioneerd en het was wederom inspirerend om hierbij aanwezig te zijn.
 

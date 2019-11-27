@@ -18,12 +18,12 @@ Belangrijk onderdeel van deze positieve beoordeling is onder andere de betrouwba
 
 Een belangrijk aspect van onze diensten is een robuuste server infrastructuur, hierbij is gekozen voor Heroku. Dit is een internationaal erkend Platform as a Service (PaaS). Bij de audit is met name gekeken naar de certificaten die Heroku heeft, hoe het gesteld is met back-up recovery en de bewaring van gegevens. Heroku heeft de volgende relevante certificeringen:
 
-- PCI DSS Level 1 (Service provider)
-- HIPAA (Protected Health Information)
-- ISO 27001 (Security Management Controls)
-- ISO 27017 (Cloud Specific Controls)
-- ISO 27018 (Personal Data Protection)
-- TÜV Rheinland (Certified Cloud Service)
+-   PCI DSS Level 1 (Service provider)
+-   HIPAA (Protected Health Information)
+-   ISO 27001 (Security Management Controls)
+-   ISO 27017 (Cloud Specific Controls)
+-   ISO 27018 (Personal Data Protection)
+-   TÜV Rheinland (Certified Cloud Service)
 
 Wat erg positief uit de audit komt is het bereik van de back-up recovery, dat er op verzoek snapshots van de gegevens gemaakt kunnen worden en in geval van extreme noodsituaties het van korte duur is voordat alle diensten weer volledig operationeel zijn.
 

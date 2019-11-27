@@ -17,11 +17,11 @@ Blended leren staat niet meer voor een mix van klassikale bijeenkomsten en e-lea
 ## De user verandert
 Volgens Elliot Masie gaat deze verandering zelfs sneller dan we kunnen bijhouden. De laatste trends op het gebied van onze users:
 
-- Ze kijken liever een (korte) video dan dat ze een stuk moeten lezen;
-- Ze werken en leren in een optimaliserende manier: wat moet ik NU weten;
-- Ze zijn ook kritisch: welk stuk kan ik vertrouwen, welke content is accuraat?
-- Ze willen graag een vorm van feedback op hun prestaties;
-- Ze willen niet terug naar school, ze willen juist vooruit in hun werk en in hun ambities.
+-   Ze kijken liever een (korte) video dan dat ze een stuk moeten lezen;
+-   Ze werken en leren in een optimaliserende manier: wat moet ik NU weten;
+-   Ze zijn ook kritisch: welk stuk kan ik vertrouwen, welke content is accuraat?
+-   Ze willen graag een vorm van feedback op hun prestaties;
+-   Ze willen niet terug naar school, ze willen juist vooruit in hun werk en in hun ambities.
 
 
 ## De plaats van het leren in de organisatie verandert

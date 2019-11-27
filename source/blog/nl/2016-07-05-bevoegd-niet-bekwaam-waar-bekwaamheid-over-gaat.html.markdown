@@ -14,13 +14,13 @@ __Aantoonbaar maken dat je personeel bekwaam is. Dat is de eis die vanuit accred
 
 Als in de zorg gesproken wordt over registratie van opleiden en professionaliteit van medewerkers komen twee termen veelvuldig, door elkaar gebruikt, naar voren: bevoegdheid en bekwaamheid van medewerkers.
 
-**Bevoegdheid** betekent eigenlijk hetzelfde als het hebben van de juiste papieren. Met je diploma verpleegkunde ben je bevoegd tot het werken als verpleegkundige, net zoals je een auto mag besturen wanneer je in het bezit bent van een geldig rijbewijs. Bevoegdheid zegt niets over het niveau waarop iemand de handeling, waarvoor hij bevoegd is, uitvoert. We kennen allemaal de maniakken op de snelweg waarvan we eigenlijk vinden dat ze nooit een rijbewijs hadden mogen krijgen en toch mogen ze die auto besturen...
+__Bevoegdheid__ betekent eigenlijk hetzelfde als het hebben van de juiste papieren. Met je diploma verpleegkunde ben je bevoegd tot het werken als verpleegkundige, net zoals je een auto mag besturen wanneer je in het bezit bent van een geldig rijbewijs. Bevoegdheid zegt niets over het niveau waarop iemand de handeling, waarvoor hij bevoegd is, uitvoert. We kennen allemaal de maniakken op de snelweg waarvan we eigenlijk vinden dat ze nooit een rijbewijs hadden mogen krijgen en toch mogen ze die auto besturen...
 
-**Bekwaamheid** gaat over het niveau van competentie waarop je een handeling uitvoert. Een bekwaam persoon voert de handelingen waarvoor hij bevoegd is op een dusdanige manier uit dat deze structureel leiden tot een goed resultaat. Met andere woorden, je bent goed in de zaken die je mag doen.
+__Bekwaamheid__ gaat over het niveau van competentie waarop je een handeling uitvoert. Een bekwaam persoon voert de handelingen waarvoor hij bevoegd is op een dusdanige manier uit dat deze structureel leiden tot een goed resultaat. Met andere woorden, je bent goed in de zaken die je mag doen.
 
 ## Bevoegd en bekwaam: hoe we het aantoonbaar maken
 
-Om te werken in een zorginstelling dient iemand dus bevoegd én bekwaam te zijn. Het aantonen van bevoegdheid is de uitdaging niet. Zorg dat de juiste papieren op een makkelijk toegankelijke plek worden bewaard en klaar is Kees. De meeste organisaties doen dat tegenwoordig in **[hun LMS](/capp-lms/){:title="Opleiden & Leren met CAPP LMS"}**.
+Om te werken in een zorginstelling dient iemand dus bevoegd én bekwaam te zijn. Het aantonen van bevoegdheid is de uitdaging niet. Zorg dat de juiste papieren op een makkelijk toegankelijke plek worden bewaard en klaar is Kees. De meeste organisaties doen dat tegenwoordig in __[hun LMS](/capp-lms/){:title="Opleiden & Leren met CAPP LMS"}__.
 
 Bekwaamheid is lastiger. Wanneer is iemand eigenlijk goed in wat hij doet? En hoe toets je dat? Toetsen kost tijd en dus geld. Om hier zoveel mogelijk op te besparen is het een lange tijd de trend geweest om voor elke handeling een e-learning toets beschikbaar te stellen. Het goed kunnen beantwoorden van een kennistoets werd gezien als het aantonen van je bekwaamheid. De vraag is of dit wel zo 1-op-1 gesteld kan worden.
 
@@ -50,7 +50,7 @@ Een toets is een momentopname. Dat weten we allemaal. Voor een toets leren we. V
 
 Daarvoor moet de informatie wel beschikbaar zijn. Bedenk dus dat het hebben van aantoonbaar bekwame medewerkers niet alleen betekent dat een toetsingscyclus nodig is, maar ook dat je informatieverstrekking op orde is.
 
-Concreet betekent dit: zorg dat de juiste informatie op het juiste moment beschikbaar is. De systemen om iets dergelijks op te zetten vallen onder de noemer **performance support**. Wij ondersteunen performance support met [CAPP Agile Learning](/capp-agile-learning/){:title="Performance support met CAPP Agile Learning"}.
+Concreet betekent dit: zorg dat de juiste informatie op het juiste moment beschikbaar is. De systemen om iets dergelijks op te zetten vallen onder de noemer __performance support__. Wij ondersteunen performance support met [CAPP Agile Learning](/capp-agile-learning/){:title="Performance support met CAPP Agile Learning"}.
 
 ---
 
