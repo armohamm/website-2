@@ -77,6 +77,9 @@ nl:
       microleren:
           title: "Meer weten over dit stappenplan en hoe onze consultants ook u kunnen ondersteunen bij het omzetten van SCORM-content?"
           text: "Laat uw gegevens achter en wij nemen contact met u op."
+      onboarding:
+          title: "Meer weten over onboarding in CAPP LMS?"
+          text: "Laat uw gegevens achter en wij nemen contact met u op."
       open_courses:
           title: "Meer informatie over de mogelijkheden van Open Courses?"
           text: "Laat uw gegevens achter en download ons productsheet met daarin alle informatie."
