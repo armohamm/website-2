@@ -8,13 +8,13 @@ image: images/blog/social/leadership-1200x630.jpg
 featured_image: images/blog/featured/20151008-leadership.jpg
 ---
 
-__Leadership can make or break your company. Most people quit their _manager_, not their job. To prevent this, let's talk about how awesome and useful leadership skills can be obtained. Recently I had a chat with __Spencer__ from [theTILLERY](http://www.thetillery.com/#cultivating-brands), and he shared his secret about the leadership.__
+__Leadership can make or break your company. Most people quit their _manager_, not their job. To prevent this, let's talk about how awesome and useful leadership skills can be obtained. Recently I had a chat with __Spencer__ from theTILLERY, and he shared his secret about the leadership.__
 
 __M__ilda: Hey Spencer, could you tell us a bit more about yourself?
 
-__S__pencer: I am a student of the ever-changing landscape of marketing & technology. I have worked in the digital marketing field for all of my professional career. I don't see that changing anytime soon. I have worked as a trusted consultant from a client list that includes large fortune 500 companies and small non-profits.  
+__S__pencer: I am a student of the ever-changing landscape of marketing & technology. I have worked in the digital marketing field for all of my professional career. I don't see that changing anytime soon. I have worked as a trusted consultant from a client list that includes large fortune 500 companies and small non-profits.
 
-Over the past few years, I joined the content marketing advocates.  It's hard to argue with the success content can bring to a company.  I recently took a leap of faith and started my own company that helps businesses navigate through the world of digital marketing and technology.  
+Over the past few years, I joined the content marketing advocates.  It's hard to argue with the success content can bring to a company.  I recently took a leap of faith and started my own company that helps businesses navigate through the world of digital marketing and technology.
 
 __M:__ I know that you worked with several big corporations, probably you noticed and learned a lot. What did you appreciate most in the leaders?
 
@@ -26,7 +26,7 @@ __S__: I have had a lot of people in my life who have called themselves leaders 
 
 __M__: What kind of leadership styles did you observe?
 
-__S__: Depending on where you work and how many people you work with, you can come across a variety of leadership styles.  Some of the leadership styles I’ve dealt with are addressed in the other questions in this interview.  
+__S__: Depending on where you work and how many people you work with, you can come across a variety of leadership styles.  Some of the leadership styles I’ve dealt with are addressed in the other questions in this interview.
 
 __M__: How does the working environment differ according to leadership style?
 
@@ -44,7 +44,7 @@ I think I am still figuring out what kind of leader I want to be.  I’ve met a 
 
 __M__: What kind of leadership changes should we expect in the next year? Why?
 
-__S__: I think there is a continued pressure on businesses and organizations to have great leadership in key position.  My hope is that we see dynamic leaders at every level of the organisation.  
+__S__: I think there is a continued pressure on businesses and organizations to have great leadership in key position.  My hope is that we see dynamic leaders at every level of the organisation.
 
 __M__: Any words of wisdom for the leaders of a future?
 
@@ -56,4 +56,4 @@ __S__: I do have some words of wisdom:
 
 3.  Great Leaders Cast vision.  When leading people, let them know where they are headed. Set goals and have milestones in place to motivate them with what the organisation is collectively working towards.
 
-I want to thank Spencer for sharing his thoughts with the [CAPP Agile Learning](/capp-agile-learning/) crew. In the end __leadership__ is all about all round investment while not forgetting to invest in your self-development!  
+I want to thank Spencer for sharing his thoughts with the [CAPP Agile Learning](/capp-agile-learning/) crew. In the end __leadership__ is all about all round investment while not forgetting to invest in your self-development!
