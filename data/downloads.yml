@@ -24,3 +24,5 @@ quizzes_productsheet:
   nl: "/pdf/Productsheet_Quizzes.pdf"
 whitepaper_saas:
   nl: "/pdf/Whitepaper-SaaS-CAPP.pdf"
+whitepaper_scorm:
+  nl: "/pdf/Whitepaper-SCORM-LTI.pdf"

@@ -1,0 +1,19 @@
+<section class="cta-bottom gray" id="download-whitepaper">
+  <div class="row">
+    <div>
+      <h2>
+        <%= t("blog.cta_bottom.scorm_blog.title") %>
+      </h2>
+      <p>
+        <%= t("blog.cta_bottom.scorm_blog.text") %>
+      </p>
+    </div>
+    <%= partial "partials/form", locals: { title: "Download: SCORM / LTI Whitepaper",
+                                           form_type: "download pdf",
+                                           download_link: data.downloads.whitepaper_scorm[I18n.locale],
+                                           fields: ["name", "email", "organisation", "phone"],
+                                           button_text: t("actions.download_whitepaper"),
+                                           button_class: "orange-golden",
+                                           action_url: t("urls.contact")} %>
+  </div>
+</section>
