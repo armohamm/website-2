@@ -47,9 +47,6 @@
     - title: Koppelingen
       url: /koppelingen.html
       icon: icons/integrations.svg
-    - title: Service & Support
-      url: /support.html
-      icon: icons/support.svg
     - title: E-Learning
       url: /e-learning.html
       icon: icons/elearning.svg
