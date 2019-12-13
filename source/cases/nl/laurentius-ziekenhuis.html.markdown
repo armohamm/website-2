@@ -40,4 +40,4 @@ Naast het persoonlijke Kwaliteitspaspoort met voorbehouden en risicovolle handel
 
 ## 'Moderne software en korte lijnen via de chat-support'
 
-“CAPP LMS ziet er modern en aantrekkelijk uit en werkt intuïtief, zoals je verwacht van hedendaagse SaaS-software. Voor de gebruiker is CAPP LMS een enorme verbetering. Je vindt, mede dankzij de goede zoekfuncties, gemakkelijk en snel waar je naar op zoek bent. Ook is het erg fijn dat we vanuit de software rechtstreeks met de [Service & Support](/support/) van Defacto kunnen chatten. Door deze korte lijnen kunnen vragen snel afgehandeld worden”, aldus Hintzen.
+“CAPP LMS ziet er modern en aantrekkelijk uit en werkt intuïtief, zoals je verwacht van hedendaagse SaaS-software. Voor de gebruiker is CAPP LMS een enorme verbetering. Je vindt, mede dankzij de goede zoekfuncties, gemakkelijk en snel waar je naar op zoek bent. Ook is het erg fijn dat we vanuit de software rechtstreeks met de Service & Support van Defacto kunnen chatten. Door deze korte lijnen kunnen vragen snel afgehandeld worden”, aldus Hintzen.
