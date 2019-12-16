@@ -83,6 +83,9 @@ nl:
       open_courses:
           title: "Meer informatie over de mogelijkheden van Open Courses?"
           text: "Laat uw gegevens achter en download ons productsheet met daarin alle informatie."
+      product_update_dec:
+          title: "Meer weten over de voordelen van Software-as-a-Service?"
+          text: "Laat uw gegevens achter en download ons whitepaper met daarin alle informatie."
       scorm_blog:
           title: "Meer informatie over de voordelen van LTI ten opzichte van SCORM?"
           text: "Laat uw gegevens achter en download ons whitepaper met daarin alle informatie."
