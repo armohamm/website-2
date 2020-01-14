@@ -17,14 +17,14 @@
 // Basic layout stuff
 @import "layout/*";
 
+// Section specific styles
+@import "sections/*";
+
 // Page specific styles
 @import "pages/*";
 
 // Post specific styles
 @import "posts/*";
-
-// Section specific styles
-@import "sections/*";
 
 // Questionnaire specific styles
 @import "questionnaire/questionnaire.min";

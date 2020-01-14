@@ -43,6 +43,7 @@ nl:
     home:
       test: Doe de LMS-test
     make_appointment: Maak een afspraak
+    contact: Neem contact met mij op
     more_about:
       70-20-10: 'Meer 70:20:10'
       capp: Meer CAPP LMS
@@ -119,16 +120,21 @@ nl:
     cta_bottom:
       text: Download ons handige productsheet met alle informatie.
       title: Wilt u ook compliance in uw organisatie gemakkelijk beheersbaar maken?
-    description: Wilt u ook compliance in uw organisatie gemakkelijk beheersbaar maken? Met %{link} maakt u compliance eenvoudig inzichtelijk en meetbaar voor uw organisatie
-    h1: Met CAPP maakt u compliance eenvoudig inzichtelijk en meetbaar voor uw organisatie
+    description: Wilt u ook compliance in uw organisatie gemakkelijk beheersbaar maken? Met %{link} maakt u compliance eenvoudig, inzichtelijk en meetbaar voor uw organisatie
+    h1: Met CAPP maakt u compliance eenvoudig, inzichtelijk en meetbaar voor uw organisatie
     link: CAPP Compliance
     name: CAPP Compliance
     on-page-navigation:
+      clients: "Onze klanten"
       compliance-api: Compliance API
+      contact: Neem contact op
       introduction: Introductie
-      more-info: Meer informatie?
       product-overview: Productoverzicht
       testimonials: Testimonials
+    testimonials_heading: Wat onze klanten vinden
+    clients:
+      title: "Een greep uit onze klanten"
+      button: "Meer klanten"
   capp-compliance-api:
     cta_bottom:
       text: Laat uw gegevens achter en download ons productsheet met daarin alle informatie.
@@ -268,7 +274,7 @@ nl:
     solutions:
       capp-compliance:
         title: CAPP Compliance
-        text_html: Met CAPP maakt u compliance eenvoudig inzichtelijk en meetbaar voor uw organisatie
+        text_html: Met CAPP maakt u compliance eenvoudig, inzichtelijk en meetbaar voor uw organisatie
       informal:
         text_html: 'Performance support door ''kennis-on-demand''. Voorzie medewerkers van _just-in-time_ kennis. Leg kennis simpel vast, deel handleidingen, werkinstructies en meer.'
         title: CAPP Agile Learning

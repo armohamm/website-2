@@ -160,6 +160,18 @@
     }
   }
 
+  &.white-persian-green {
+    @include button($white);
+    color: $persian-green;
+
+    &:hover,
+    &:focus {
+      background-color: $white;
+      border-color: $white;
+      color: $base-font-color;
+    }
+  }
+
   &.white-pink {
     @include button($white);
     color: $pink;

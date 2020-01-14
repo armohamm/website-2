@@ -9,7 +9,7 @@
       url: /capp-lms.html
       icon: icons/capp-lms.svg
     - title: CAPP Compliance
-      text: Met CAPP Compliance maakt u compliance eenvoudig inzichtelijk en meetbaar voor uw organisatie
+      text: Met CAPP Compliance maakt u compliance eenvoudig, inzichtelijk en meetbaar voor uw organisatie
       item_class: item-compliance
       url: /capp-compliance.html
       icon: icons/capp-compliance-new.svg

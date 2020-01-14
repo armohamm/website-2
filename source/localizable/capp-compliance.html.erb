@@ -5,7 +5,7 @@ title:
   de: CAPP Compliance und Qualifikationsmanagement
   en: CAPP Quality Portfolio
 description:
-  nl: Met CAPP maakt u compliance eenvoudig inzichtelijk en meetbaar voor uw organisatie.
+  nl: Met CAPP maakt u compliance eenvoudig, inzichtelijk en meetbaar voor uw organisatie.
   de: Der Qualitätspass und Qualitätsmonitor von Defacto ist die Basis für den individuellen Entwicklungsplan der Mitarbeiter und damit für gezieltes Talentmanagement.
   en: Get insight into the competencies and skills within your organisation at a glance with Defacto’s CAPP Quality  Portfolio.
 ---
@@ -44,13 +44,15 @@ description:
                                                                  key: t("capp-compliance.on-page-navigation.product-overview")},
                                                                { anchor: "#compliance-api",
                                                                  key: t("capp-compliance.on-page-navigation.compliance-api")},
-                                                               { anchor: "#download-productsheet",
-                                                                 key: t("capp-compliance.on-page-navigation.more-info")}
+                                                               { anchor: "#appointment",
+                                                                 key: t("capp-compliance.on-page-navigation.contact")}
                                                               ]} %>
 
   <%= partial "capp-compliance/nl/introduction" %>
-  <%= partial "capp-compliance/nl/testimonials", locals: { variant: "light-gray" } %>
+  <%= partial "capp-compliance/nl/usp" %>
+  <%= partial "capp-compliance/nl/testimonials", locals: { variant: "persian-green" } %>
   <%= partial "capp-compliance/nl/product-overview" %>
-  <%= partial "capp-compliance/nl/download-productsheet" %>
+  <%= partial "capp-compliance/nl/contact" %>
+  <%= partial "capp-compliance/nl/clients" %>
 
 <% end %>
