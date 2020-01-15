@@ -151,7 +151,7 @@ nl:
       how-it-works: Hoe werkt de API?
       applications: Hoe kan de API ingezet worden?
       more-info: Download productsheet
-  capp-lms:
+  capp-learning:
     cta_bottom:
       title: Nieuwsgierig naar de uitgebreide mogelijkheden van CAPP Learning? Maak nu een afspraak!
     description: "%{link} faciliteert elke vorm van leren en houdt ruim 250.000 medewerkers up-to-date en compliant."
@@ -164,6 +164,7 @@ nl:
       product-overview: Productoverzicht
       testimonials: Testimonials
       more-info: Maak een afspraak
+    testimonials_heading: "Wat onze klanten vinden"
     clients:
       title: "Een greep uit onze klanten"
   capp-quizzes:
