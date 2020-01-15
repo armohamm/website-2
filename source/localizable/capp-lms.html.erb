@@ -1,11 +1,11 @@
 ---
 layout: "product_layout"
 title:
-  nl: "CAPP LMS: Learning & Talent Management"
+  nl: "CAPP Learning"
   de: "CAPP Learning Management"
   en: "Training, learning and developing with CAPP LMS"
 description:
-  nl: "Faciliteert elke vorm van leren en houdt de medewerkers up-to-date en compliant."
+  nl: "Bied uw medewerkers een persoonlijk en inspirerend leerplatform."
   de: "Die Kursverwaltung für die Mitarbeiter-Fortbildung ist mit CAPP Learning Management ein Leichtes – und zwar für Online- wie auch für Präsenzseminare."
   en: "Ensure that your employees’ qualifications and certifications are demonstrable with the help of CAPP LMS."
 ---
@@ -14,15 +14,16 @@ description:
 
   <%= partial "partials/hero", locals: { variant: "variant-product",
                                          variant_overlay: "overlay-darken",
-                                         background_image: "capp-12.jpg",
+                                         background_image: "capp-learning.jpg",
                                          title: t("capp-lms.h1"),
-                                         sub_title: t("capp-lms.h2"),
-                                         logo: "logos/new/logo-capp-lms.svg",
-                                         logo_title: "CAPP LMS Logo"} %>
+                                         logo: "logos/new/logo-capp-learning.svg",
+                                         logo_title: "CAPP Learning Logo"} %>
 
   <%= partial "partials/on-page-navigation", locals: { variant: "amaranth",
                                                        links: [{ anchor: "#introduction",
                                                                  key: t("capp-lms.on-page-navigation.introduction")},
+                                                               { anchor: "#testimonials",
+                                                                 key: t("capp-lms.on-page-navigation.testimonials")},
                                                                { anchor: "#features",
                                                                  key: t("capp-lms.on-page-navigation.product-overview")},
                                                                { anchor: "#appointment",
@@ -30,8 +31,11 @@ description:
                                                               ]} %>
 
   <%= partial "capp-lms/nl/introduction" %>
+  <%= partial "capp-lms/nl/usp" %>
+  <%= partial "capp-lms/nl/testimonials" %>
   <%= partial "capp-lms/nl/product-overview" %>
   <%= partial "capp-lms/nl/call-to-action" %>
+  <%= partial "capp-lms/nl/clients" %>
 
 <% elsif root_locale == :en %>
 
