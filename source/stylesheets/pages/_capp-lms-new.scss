@@ -1,3 +1,124 @@
+body.nl.capp-lms {
+
+  section.usp-overview {
+
+    .row {
+      margin: 0 auto;
+      max-width: 1260px;
+      padding: 0 1em;
+      position: relative;
+    }
+
+    .usp-list {
+
+      margin-bottom: 1em;
+
+      @include grid-media($large-up) {
+        display: flex;
+        justify-content: center;
+        max-width: 1200px;
+
+        li {
+          flex: 1;
+          margin-bottom: 2em;
+          margin-left: 1em;
+          margin-right: 1em;
+          max-width: 800px;
+
+          @include grid-media($medium-up) {
+            margin-bottom: 0;
+          }
+        }
+      }
+
+      @media screen and (min-width: 640px){
+
+        img {
+          height: 60px;
+          line-height: 60px;
+        }
+
+        .icon {
+          margin: 0.75em;
+        }
+
+        h3 {
+          font-weight: 400;
+        }
+      }
+    }
+  }
+
+  section.product-overview.amaranth {
+
+    .row {
+      padding: 3em 0;
+
+      &:first-of-type {
+        padding-top: 2em;
+      }
+    }
+
+    @media screen and (min-width: 640px){
+
+      .row {
+
+        p {
+          font-size: 1.3em;
+        }
+
+        h2 {
+          padding: 0;
+          text-align: left;
+        }
+      }
+
+      a.button.outline.amaranth {
+        font-size: 1em;
+      }
+    }
+  }
+
+  section.testimonials {
+
+    background-color: $amaranth;
+
+    h2 {
+      color: $white;
+      text-align: center;
+    }
+
+    .testimonial-list .author {
+
+      .name {
+        color: $white;
+      }
+
+      .company {
+        color: $white;
+      }
+    }
+  }
+
+  section.cta-bottom.amaranth {
+
+    background-color: $amaranth;
+
+    h2 {
+      color: $white;
+    }
+  }
+
+  section.clients {
+
+    .logos .client img {
+      opacity: 1;
+    }
+
+  }
+
+}
+
 body.de.capp-lms {
   color: $capp-color;
 

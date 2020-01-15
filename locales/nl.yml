@@ -153,16 +153,19 @@ nl:
       more-info: Download productsheet
   capp-lms:
     cta_bottom:
-      title: Nieuwsgierig naar de uitgebreide mogelijkheden van CAPP LMS? Maak nu een afspraak!
+      title: Nieuwsgierig naar de uitgebreide mogelijkheden van CAPP Learning? Maak nu een afspraak!
     description: "%{link} faciliteert elke vorm van leren en houdt ruim 250.000 medewerkers up-to-date en compliant."
-    h1: Learning & Talent Management
+    h1: Bied uw medewerkers een persoonlijk en inspirerend leerplatform
     h2: CAPP LMS faciliteert elke vorm van leren en houdt ruim 250.000 medewerkers up-to-date en compliant.
     link: CAPP LMS
     name: CAPP LMS
     on-page-navigation:
       introduction: Introductie
-      product-overview: Wat doet CAPP LMS?
-      more-info: Meer informatie?
+      product-overview: Productoverzicht
+      testimonials: Testimonials
+      more-info: Maak een afspraak
+    clients:
+      title: "Een greep uit onze klanten"
   capp-quizzes:
     cta_bottom:
       text: Download ons handige productsheet met alle informatie.
