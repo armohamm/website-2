@@ -22,10 +22,6 @@
 #
 ###############################################################################
 
-- firstname: Albert
-  lastname: Thie
-  avatar: /images/team/albert-thie.jpg
-
 - firstname: Arnoud
   lastname: Knoeff
   avatar: /images/team/arnoud-knoeff.jpg
@@ -90,10 +86,6 @@
   lastname: Bakhuizen
   avatar: /images/team/joost-bakhuizen.jpg
 
-- firstname: Kira
-  lastname: Steffens
-  avatar: /images/team/kira-steffens.jpg
-
 - firstname: Koos
   lastname: Akkerman
   avatar: /images/team/koos-akkerman.jpg
@@ -113,10 +105,6 @@
 - firstname: Marcel
   lastname: Horlings
   avatar: /images/team/marcel-horlings.jpg
-
-- firstname: Martha
-  lastname: Jorna
-  avatar: /images/team/martha-jorna.jpg
 
 - firstname: Marleen
   lastname: Renshoff
