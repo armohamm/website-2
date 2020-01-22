@@ -1,4 +1,3 @@
-
 // ------------------------------------------------------------
 // Layout
 // ------------------------------------------------------------
@@ -61,19 +60,11 @@ article {
   }
 
   ul {
-    margin: $base-spacing 0 $base-spacing (2 * $base-spacing);
+    @extend %default-ul;
   }
 
-  li {
-    list-style-type: disc;
-
-    ul {
-      margin: 0 $base-spacing;
-
-      li {
-        list-style-type: circle;
-      }
-    }
+  ol {
+    @extend %default-ol;
   }
 }
 
