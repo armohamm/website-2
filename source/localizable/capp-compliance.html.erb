@@ -1,5 +1,4 @@
 ---
-layout: "product_layout"
 title:
   nl: CAPP Compliance
   de: CAPP Compliance und Qualifikationsmanagement
@@ -28,12 +27,7 @@ description:
 
 <% elsif root_locale == :nl %>
 
-  <%= partial "partials/hero", locals: { variant: "variant-product",
-                                         variant_overlay: "overlay-darken",
-                                         background_image: "capp-compliance-new.jpg",
-                                         title: t("capp-compliance.h1"),
-                                         logo: "logos/new/logo-capp-compliance.svg",
-                                         logo_title: "CAPP Compliance Logo"} %>
+  <%= partial "capp-compliance/nl/hero" %>
 
   <%= partial "partials/on-page-navigation", locals: { variant: "persian-green",
                                                        links: [{ anchor: "#introduction",

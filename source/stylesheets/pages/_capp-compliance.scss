@@ -1,4 +1,4 @@
-body.en {
+body.en.capp-compliance {
   .kpp-logo {
     margin-bottom: 1em;
     max-width: 240px;
@@ -20,7 +20,7 @@ body.en {
     $color: lighten($turquoise, 5);
 
     h1 {
-      font-family: 'Montserrat', $base-font-family;
+      font-family: "Montserrat", $base-font-family;
       font-size: $base-font-size * 2;
       font-weight: $font-weight-regular;
       margin-bottom: 1em;
@@ -54,40 +54,49 @@ body.en {
 }
 
 body.nl.capp-compliance {
+  section.product-introduction {
+    padding: 1em 0;
+
+    @include grid-media($medium-up) {
+      font-size: $base-font-size * 1.3;
+      padding: 2em 0;
+    }
+
+    .row {
+      max-width: $medium-row;
+    }
+
+    h1 {
+      font-size: $base-font-size * 2;
+      text-align: center;
+    }
+  }
 
   section.usp-overview {
+    background-color: $lightest-gray;
+    text-align: center;
 
     .row {
       margin: 0 auto;
-      max-width: 1260px;
-      padding: 0 1em;
-      position: relative;
+      max-width: $max-width;
     }
 
     .usp-list {
-
       margin-bottom: 1em;
 
       @include grid-media($large-up) {
         display: flex;
         justify-content: center;
-        max-width: 1200px;
 
         li {
           flex: 1;
-          margin-bottom: 2em;
-          margin-left: 1em;
-          margin-right: 1em;
-          max-width: 800px;
-
-          @include grid-media($medium-up) {
-            margin-bottom: 0;
-          }
+          margin-bottom: 0;
+          padding-left: 1em;
+          padding-right: 1em;
         }
       }
 
-      @media screen and (min-width: 640px){
-
+      @include grid-media($medium-up) {
         img {
           height: 60px;
           line-height: 60px;
@@ -98,44 +107,100 @@ body.nl.capp-compliance {
         }
 
         h3 {
-          font-weight: 400;
+          font-weight: $font-weight-regular;
         }
       }
     }
   }
 
-  section.product-overview.persian-green {
+  section.product-overview {
+    h2 {
+      margin: 0;
+      padding: 0 1em;
+      text-align: center;
+    }
+
+    h3 {
+      font-size: $base-font-size * 2;
+    }
+
+    p {
+      @include grid-media($medium-up) {
+        font-size: $base-font-size * 1.3;
+      }
+    }
 
     .row {
+      border-top: $base-border;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      max-width: $normal-row;
       padding: 3em 0;
+      text-align: left;
+
+      @include grid-media($medium-up) {
+        align-items: center;
+      }
 
       &:first-of-type {
+        border-top: 0;
         padding-top: 2em;
       }
     }
 
-    @media screen and (min-width: 640px){
+    .button {
+      font-size: $base-font-size;
+    }
 
-      .row {
+    .col {
+      padding: 0 1em;
 
-        p {
-          font-size: 1.3em;
+      @include grid-media($medium-up) {
+        flex: 1;
+
+        &:first-child {
+          margin-right: 2em;
         }
 
-        h2 {
-          padding: 0;
-          text-align: left;
+        &:last-child {
+          margin-left: 2em;
+        }
+
+        &:first-child:last-child {
+          max-width: $medium-row;
         }
       }
 
-      a.button.outline.persian-green {
-        font-size: 1em;
+      img {
+        display: block;
+        margin: 0 auto 1em;
+
+        @include grid-media($medium-up) {
+          margin: 0;
+        }
+      }
+
+      &-img {
+        margin-bottom: 1em;
+        order: 1;
+
+        @include grid-media($medium-up) {
+          order: initial;
+        }
+      }
+
+      &-text {
+        order: 2;
+
+        @include grid-media($medium-up) {
+          order: initial;
+        }
       }
     }
   }
 
   section.testimonials {
-
     background-color: $persian-green;
 
     h2 {
@@ -144,7 +209,6 @@ body.nl.capp-compliance {
     }
 
     .testimonial-list .author {
-
       .name {
         color: $white;
       }
@@ -155,20 +219,28 @@ body.nl.capp-compliance {
     }
   }
 
-  section.cta-bottom.green {
-
+  section.cta-bottom {
     background-color: $persian-green;
 
     h2 {
       color: $white;
     }
+
+    .row {
+      max-width: $medium-row;
+      text-align: center;
+    }
+
+    .form {
+      margin: 0 auto;
+      max-width: $small-row;
+      text-align: left;
+    }
   }
 
   section.clients {
-
     .logos .client img {
       opacity: 1;
     }
-
   }
 }

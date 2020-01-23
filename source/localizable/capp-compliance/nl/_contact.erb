@@ -1,12 +1,10 @@
 <section class="cta-bottom green" id="appointment">
   <div class="row">
-    <div>
 
-      <h2>
-        <%= t("capp-compliance.cta_bottom.title") %>
-      </h2>
+    <h2>
+      <%= t("capp-compliance.cta_bottom.title") %>
+    </h2>
 
-    </div>
     <%= partial "partials/form", locals: { title: "Contactverzoek: CAPP Compliance",
                                            fields: ["name", "email", "organisation", "phone"],
                                            button_text: t("actions.contact"),
