@@ -54,6 +54,10 @@ body.en.capp-compliance {
 }
 
 body.nl.capp-compliance {
+  div.hero .row {
+    max-width: $medium-row;
+  }
+
   section.product-introduction {
     padding: 1em 0;
 
