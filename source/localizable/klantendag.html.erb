@@ -1,0 +1,45 @@
+---
+title: "Defacto klantendag - 10 maart 2020"
+description: "Meld je aan voor de Defacto klantendag"
+lang_ignore: en, de
+robots: noindex, nofollow
+search_index: false
+---
+
+<%= partial "partials/hero", locals: { variant: "variant-normal",
+                                       background_image: "capp-12-2.jpg",
+                                       title: "Defacto klantendag",
+                                       sub_title: "Kom jij ook dinsdag 10 maart?"} %>
+
+<section>
+  <div class="row">
+    <article>
+      <%= partial "klantendag/content" %>
+    </article>
+  </div>
+</section>
+
+<section>
+
+  <div class="row">
+
+    <div class="col">
+
+      <article>
+
+        <h2>
+          Aanmeldformulier
+        </h2>
+
+        <%= partial "partials/form", locals: { title: "Aanmelding klantendag",
+                                               fields: ["name", "email", "position", "organisation", "phone", "organisation_message_alt"],
+                                               multiple_persons: true,
+                                               button_text: "Aanmelden",
+                                               action_url: "https://formkeep.com/f/64111982897d"} %>
+      </article>
+
+    </div>
+
+  </div>
+
+</section>

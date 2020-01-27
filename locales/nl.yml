@@ -248,14 +248,14 @@ nl:
       title: Nieuwsbrief
     themes: Thema's
   form:
-    add_coworker: Voeg een collega toe
-    add_coworker_button: + Voeg een collega toe
-    choose_event: Kies een plaats & datum
+    add_coworker: Meld extra collega aan
+    add_coworker_button: + Meld extra collega aan
+    choose_event: Kies een sessie
     email: E-mail
     first_name: Voornaam
     message: Wat kunnen we voor je betekenen?
     message_for_organisation: Opmerkingen voor de organisatie
-    message_questions_diet: Vragen die je wilt bespreken (vermeld hier ook eventuele dieetwensen)
+    message_plus_diet: Opmerkingen en/of dieetwensen
     name: Naam
     organisation: Bedrijf of organisatie
     persons: Aantal personen
