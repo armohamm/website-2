@@ -77,6 +77,13 @@ body.nl.capp-lms {
         font-size: 1em;
       }
     }
+
+    @include grid-media($medium-up){
+
+      img {
+        width: 100%;
+      }
+    }
   }
 
   section.testimonials {
