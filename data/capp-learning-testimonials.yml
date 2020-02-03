@@ -10,7 +10,15 @@
   quote: |
     Met CAPP Learning maken wij leren <strong>toegankelijker</strong> en brengen het dichterbij de medewerker. Met flexibele en herbruikbare componenten hebben wij onze eigen vervolgopleiding voor ambulancepersoneel samengesteld. Het LMS is een <strong>intuïtief</strong> en gebruiksvriendelijk systeem dat onze medewerkers in opleiding de <strong>vrijheid</strong> biedt om op hun eigen manier te leren.
 
+<<<<<<< HEAD
 - name: Martin Vermeer
   company: Projectleider, BUKO
   quote: |
     In 2019 hebben wij CAPP LMS van Defacto binnen BUKO geïntroduceerd. Dit is door alle medewerkers buitengewoon <strong>enthousiast ontvangen</strong>. Ook heeft het ertoe geleid dat medewekers nu <strong>spontaan kennis met elkaar delen</strong> en dat we veel constructieve feedback krijgen op het leren en ontwikkelen binnen BUKO. Tenslotte zijn we erg tevreden over het supportteam van Defacto: snelle reacties en duidelijke antwoorden.
+=======
+- name: Torben Sura
+  company: Manager Kwaliteitscontrole, Pohl Boskamp
+  avatar: testimonials/torben-sura.jpg
+  quote: |
+    Niet alleen kan een medewerker op zijn eigen dashboard inzien welke scholingen hij/zij moet afronden en hoe, maar beschikken ook leidinggevenden op hun afdeling en binnen de gehele organisatie over relevante inzichten op het gebied van kwaliteit en scholing.
+>>>>>>> 52f310a296cc3bc7b3489286c525e1522f84bf70
