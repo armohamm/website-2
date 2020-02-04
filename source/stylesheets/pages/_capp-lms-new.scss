@@ -83,6 +83,16 @@ body.nl.capp-lms {
         border-top: 0;
         padding-top: 2em;
       }
+
+      &:last-of-type {
+        a {
+          color: $amaranth;
+        }
+
+        a:hover {
+          text-decoration: underline;
+        }
+      }
     }
 
     .button {
