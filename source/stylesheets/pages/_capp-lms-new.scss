@@ -51,37 +51,100 @@ body.nl.capp-lms {
 
   section.product-overview.amaranth {
 
-    .row {
-      padding: 3em 0;
+    h3 {
+      font-size: $base-font-size * 2;
+    }
 
-      &:first-of-type {
-        padding-top: 2em;
+    p {
+      @include grid-media($medium-up) {
+        font-size: $base-font-size * 1.3;
       }
     }
 
-    @media screen and (min-width: 640px){
+    .row {
+      border-top: $base-border;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      max-width: $normal-row;
+      padding: 3em 0;
+      text-align: left;
 
-      .row {
-
-        p {
-          font-size: 1.3em;
-        }
+      @include grid-media($medium-up) {
+        align-items: center;
+      }
 
         h2 {
           padding: 0;
           text-align: left;
         }
-      }
 
-      a.button.outline.amaranth {
-        font-size: 1em;
+      &:first-of-type {
+        border-top: 0;
+        padding-top: 2em;
       }
     }
 
-    @include grid-media($medium-up){
+    .button {
+      font-size: $base-font-size;
+    }
+
+    .col {
+      padding: 0 1em;
+
+      @include grid-media($medium-up) {
+        flex: 1;
+
+        &:first-child {
+          margin-right: 2em;
+        }
+
+        &:last-child {
+          margin-left: 2em;
+        }
+
+        &:first-child:last-child {
+          max-width: $medium-row;
+        }
+      }
 
       img {
-        width: 100%;
+        display: block;
+        margin: 0 auto 1em;
+
+        @include grid-media($medium-up) {
+          margin: 0;
+          width: 70%;
+        }
+
+        @include grid-media($large-up) {
+          width: 80%;
+        }
+
+        @include grid-media($xlarge-up) {
+          width: 90%;
+        }
+
+        @include grid-media($xxlarge-up) {
+          width: 100%;
+        }
+      }
+
+      &-img {
+        margin-bottom: 1em;
+        order: 1;
+
+        @include grid-media($medium-up) {
+          order: initial;
+        }
+      }
+
+      &-text {
+        order: 2;
+
+        @include grid-media($medium-up) {
+          order: initial;
+        }
       }
     }
   }
@@ -105,9 +168,14 @@ body.nl.capp-lms {
         color: $white;
       }
     }
+
+    .quote {
+      font-style: normal;
+      line-height: normal;
+    }
   }
 
-  section.cta-bottom.amaranth {
+  section.cta-bottom {
 
     background-color: $amaranth;
 
