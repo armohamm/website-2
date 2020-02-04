@@ -84,12 +84,10 @@ body.nl.capp-lms {
         padding-top: 2em;
       }
 
-      &:last-of-type {
-        a {
-          color: $amaranth;
-        }
+      a {
+        color: $amaranth;
 
-        a:hover {
+        &:hover {
           text-decoration: underline;
         }
       }
@@ -160,7 +158,6 @@ body.nl.capp-lms {
   }
 
   section.testimonials {
-
     background-color: $amaranth;
 
     h2 {
@@ -168,20 +165,53 @@ body.nl.capp-lms {
       text-align: center;
     }
 
-    .testimonial-list .author {
-
-      .name {
-        color: $white;
-      }
-
-      .company {
-        color: $white;
-      }
-    }
-
     .quote {
       font-style: normal;
       line-height: normal;
+    }
+
+    .testimonial-list {
+      margin-bottom: 2em;
+
+      li {
+        display: flex;
+        flex-direction: column;
+      }
+
+      .author {
+        flex-basis: 80px;
+        margin-top: 15px;
+        position: relative;
+        padding-left: 90px;
+
+        .avatar {
+          float: none;
+          left: 0;
+          position: absolute;
+          top: 10px;
+        }
+
+        .name {
+          color: $white;
+        }
+
+        .company {
+          color: $white;
+        }
+      }
+
+      .quote {
+        flex: 1;
+        font-size: 1em;
+        line-height: 1.75;
+
+        &::before {
+          bottom: -9.5px;
+          height: 20px;
+          left: 38px;
+          width: 20px;
+        }
+      }
     }
   }
 
@@ -199,9 +229,7 @@ body.nl.capp-lms {
     .logos .client img {
       opacity: 1;
     }
-
   }
-
 }
 
 body.de.capp-lms {
