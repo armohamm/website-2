@@ -87,8 +87,13 @@ body.nl.capp-lms {
       a {
         color: $amaranth;
 
-        &:hover {
+        &:hover:not(.button) {
           text-decoration: underline;
+        }
+
+        &.button:hover {
+          background-color: #ed2c62;
+          color: white;
         }
       }
     }
