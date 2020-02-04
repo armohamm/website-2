@@ -202,7 +202,7 @@ body.nl.capp-lms {
 
       .quote {
         flex: 1;
-        font-size: 1em;
+        font-size: $base-font-size;
         line-height: 1.75;
 
         &::before {
@@ -221,6 +221,15 @@ body.nl.capp-lms {
 
     h2 {
       color: $white;
+    }
+
+    input {
+      border: 0;
+      border-radius: 3px;
+    }
+
+    button {
+      border-radius: 3px;
     }
   }
 
