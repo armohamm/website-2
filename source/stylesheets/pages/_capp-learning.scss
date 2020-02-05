@@ -1,7 +1,5 @@
 body.nl.capp-learning {
-
   section.usp-overview {
-
     .row {
       margin: 0 auto;
       max-width: 1260px;
@@ -31,7 +29,6 @@ body.nl.capp-learning {
       }
 
       @include grid-media($medium-up) {
-
         img {
           height: 60px;
           line-height: 60px;
@@ -48,8 +45,7 @@ body.nl.capp-learning {
     }
   }
 
-  section.product-overview.amaranth {
-
+  section.product-overview {
     h3 {
       font-size: $base-font-size * 2;
     }
@@ -86,19 +82,20 @@ body.nl.capp-learning {
       a {
         color: $amaranth;
 
-        &:hover:not(.button) {
+        &:hover {
           text-decoration: underline;
         }
 
-        &.button:hover {
-          background-color: $amaranth;
-          color: $white;
+        &.button {
+          font-size: $base-font-size;
+
+          &:hover {
+            background-color: $amaranth;
+            color: $white;
+            text-decoration: none;
+          }
         }
       }
-    }
-
-    .button {
-      font-size: $base-font-size;
     }
 
     .col {
@@ -237,7 +234,6 @@ body.nl.capp-learning {
   }
 
   section.clients {
-
     .logos .client img {
       opacity: 1;
     }
