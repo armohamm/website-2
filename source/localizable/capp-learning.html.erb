@@ -2,54 +2,31 @@
 layout: "product_layout"
 title:
   nl: "CAPP Learning"
-  de: "CAPP Learning Management"
-  en: "Training, learning and developing with CAPP LMS"
 description:
   nl: "Bied uw medewerkers een persoonlijk en inspirerend leerplatform."
-  de: "Die Kursverwaltung für die Mitarbeiter-Fortbildung ist mit CAPP Learning Management ein Leichtes – und zwar für Online- wie auch für Präsenzseminare."
-  en: "Ensure that your employees’ qualifications and certifications are demonstrable with the help of CAPP LMS."
 ---
 
-<% if root_locale == :nl %>
+<%= partial "partials/hero", locals: { variant: "variant-product",
+                                       variant_overlay: "overlay-darken",
+                                       background_image: "capp-learning.jpg",
+                                       title: t("capp-learning.h1"),
+                                       logo: "logos/new/logo-capp-learning.svg",
+                                       logo_title: "CAPP Learning Logo"} %>
 
-  <%= partial "partials/hero", locals: { variant: "variant-product",
-                                         variant_overlay: "overlay-darken",
-                                         background_image: "capp-learning.jpg",
-                                         title: t("capp-learning.h1"),
-                                         logo: "logos/new/logo-capp-learning.svg",
-                                         logo_title: "CAPP Learning Logo"} %>
+<%= partial "partials/on-page-navigation", locals: { variant: "amaranth",
+                                                     links: [{ anchor: "#introduction",
+                                                               key: t("capp-learning.on-page-navigation.introduction")},
+                                                             { anchor: "#testimonials",
+                                                               key: t("capp-learning.on-page-navigation.testimonials")},
+                                                             { anchor: "#features",
+                                                               key: t("capp-learning.on-page-navigation.product-overview")},
+                                                             { anchor: "#appointment",
+                                                               key: t("capp-learning.on-page-navigation.more-info")}
+                                                            ]} %>
 
-  <%= partial "partials/on-page-navigation", locals: { variant: "amaranth",
-                                                       links: [{ anchor: "#introduction",
-                                                                 key: t("capp-learning.on-page-navigation.introduction")},
-                                                               { anchor: "#testimonials",
-                                                                 key: t("capp-learning.on-page-navigation.testimonials")},
-                                                               { anchor: "#features",
-                                                                 key: t("capp-learning.on-page-navigation.product-overview")},
-                                                               { anchor: "#appointment",
-                                                                 key: t("capp-learning.on-page-navigation.more-info")}
-                                                              ]} %>
-
-  <%= partial "capp-learning/nl/introduction" %>
-  <%= partial "capp-learning/nl/usp" %>
-  <%= partial "capp-learning/nl/testimonials" %>
-  <%= partial "capp-learning/nl/product-overview" %>
-  <%= partial "capp-learning/nl/call-to-action" %>
-  <%= partial "capp-learning/nl/clients" %>
-
-<% elsif root_locale == :en %>
-
-  <%= partial "capp-lms/en/hero" %>
-  <%= partial "capp-lms/en/content" %>
-  <%= partial "clients/clients-section" %>
-
-<% elsif root_locale == :de %>
-
-  <%= partial "capp-lms/de/hero" %>
-  <%= partial "capp-lms/de/on-page-navigation" %>
-  <%= partial "capp-lms/de/introduction" %>
-  <%= partial "capp-lms/de/overview" %>
-  <%= partial "capp-lms/de/call-to-action" %>
-  <%= partial "capp-lms/de/more" %>
-
-<% end %>
+<%= partial "capp-learning/nl/introduction" %>
+<%= partial "capp-learning/nl/usp" %>
+<%= partial "capp-learning/nl/testimonials" %>
+<%= partial "capp-learning/nl/product-overview" %>
+<%= partial "capp-learning/nl/call-to-action" %>
+<%= partial "capp-learning/nl/clients" %>
