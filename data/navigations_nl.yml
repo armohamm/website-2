@@ -6,8 +6,8 @@
     - title: CAPP Learning
       text: Bied uw medewerkers een persoonlijk en inspirerend leerplatform
       item_class: item-capp-new
-      url: /capp-lms.html
-      icon: icons/capp-lms.svg
+      url: /capp-learning.html
+      icon: icons/capp-learning.svg
     - title: CAPP Compliance
       text: Met CAPP Compliance maakt u compliance eenvoudig, inzichtelijk en meetbaar voor uw organisatie
       item_class: item-compliance

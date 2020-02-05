@@ -120,6 +120,18 @@
   }
 }
 
+.capp-learning {
+  .left {
+    background-color: darken($amaranth, 20%);
+
+    h2 {
+      img {
+        width: 225px;
+      }
+    }
+  }
+}
+
 .kwaliteitspaspoort {
   $color: lighten($turquoise, 5);
 

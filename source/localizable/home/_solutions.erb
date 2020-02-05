@@ -8,7 +8,7 @@ elsif root_locale == :de
 end
 
 if root_locale == :nl
-  icon = "capp-lms.svg"
+  icon = "capp-learning.svg"
 else
   icon = "learning-#{color}.svg"
 end
@@ -22,6 +22,19 @@ end
 
   <div class="row">
 
+    <% if root_locale == :nl %>
+
+    <div class="solution">
+      <div class="solution-icon">
+        <%= locale_link_to image_tag("icons/#{icon}", alt: t("home.solutions.learn.title")), "/capp-learning.html" %>
+      </div>
+      <h3><%= locale_link_to t("home.solutions.learn.title"), "/capp-learning.html" %></h3>
+      <%= markitdown t("home.solutions.learn.text_html", link: locale_link_to("CAPP Learning", "/capp-learning.html")) %>
+      <%= locale_link_to t("actions.more_about.capp"), "/capp-learning.html", class: "button small #{color}" %>
+    </div>
+
+    <% else %>
+
     <div class="solution">
       <div class="solution-icon">
         <%= locale_link_to image_tag("icons/#{icon}", alt: t("home.solutions.learn.title")), "/capp-lms.html" %>
@@ -30,6 +43,8 @@ end
       <%= markitdown t("home.solutions.learn.text_html", link: locale_link_to("CAPP", "/capp-lms.html")) %>
       <%= locale_link_to t("actions.more_about.capp"), "/capp-lms.html", class: "button small #{color}" %>
     </div>
+
+    <% end %>
 
     <% if root_locale == :de %>
 

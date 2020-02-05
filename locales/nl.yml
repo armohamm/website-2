@@ -46,7 +46,7 @@ nl:
     contact: Neem contact met mij op
     more_about:
       70-20-10: 'Meer 70:20:10'
-      capp: Meer CAPP LMS
+      capp: Meer CAPP Learning
       capp-agile: Meer CAPP Agile Learning
       capp-compliance: Meer CAPP Compliance
       capp-compliance-api: Meer CAPP Compliance API
@@ -154,7 +154,7 @@ nl:
   capp-learning:
     cta_bottom:
       title: Nieuwsgierig naar de uitgebreide mogelijkheden van CAPP Learning? Maak nu een afspraak!
-    description: "%{link} faciliteert elke vorm van leren en houdt ruim 250.000 medewerkers up-to-date en compliant."
+    description: "%{link} biedt uw organisatie één centrale plek voor alle leeractiviteiten."
     h1: Bied uw medewerkers een persoonlijk en inspirerend leerplatform
     h2: CAPP LMS faciliteert elke vorm van leren en houdt ruim 250.000 medewerkers up-to-date en compliant.
     link: CAPP Learning
@@ -286,8 +286,8 @@ nl:
         text_html: 'Performance support door ''kennis-on-demand''. Voorzie medewerkers van _just-in-time_ kennis. Leg kennis simpel vast, deel handleidingen, werkinstructies en meer.'
         title: CAPP Agile Learning
       learn:
-        text_html: '%{link} faciliteert elke vorm van leren en houdt ruim 250.000 medewerkers up-to-date en compliant.'
-        title: CAPP LMS
+        text_html: '%{link} biedt uw organisatie één centrale plek voor alle leeractiviteiten.'
+        title: CAPP Learning
   hosting:
     heading: Hosting & Security
     cta_bottom:
