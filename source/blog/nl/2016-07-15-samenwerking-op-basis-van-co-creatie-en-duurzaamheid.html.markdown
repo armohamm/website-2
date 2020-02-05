@@ -23,7 +23,7 @@ Uit de eerder genoemde gebruikersoverleggen is een gezamenlijke ontwikkelagenda 
 
 ## Gebruikersoverleg Ministerie van Sociale Zaken en Werkgelegenheid
 
-Onlangs, op 2 juni, hebben we weer een gebruikersoverleg gehad bij één van onze klanten: het Ministerie van Sociale Zaken en Werkgelegenheid (SZW). Op basis van hun casus en die van de Gemeente Den Haag, hebben we met elkaar gesproken over onder andere de mogelijkheden voor strategische samenwerking met kennispartners binnen [CAPP LMS](/capp-lms/) en talentmanagement. De hamvraag was: hoe ondersteunt CAPP de ontwikkeling van medewerkers en de rol van de leidinggevende daarin?
+Onlangs, op 2 juni, hebben we weer een gebruikersoverleg gehad bij één van onze klanten: het Ministerie van Sociale Zaken en Werkgelegenheid (SZW). Op basis van hun casus en die van de Gemeente Den Haag, hebben we met elkaar gesproken over onder andere de mogelijkheden voor strategische samenwerking met kennispartners binnen [CAPP LMS](/capp-learning/) en talentmanagement. De hamvraag was: hoe ondersteunt CAPP de ontwikkeling van medewerkers en de rol van de leidinggevende daarin?
 
 Tijdens een aantal rondetafelgesprekken hebben we gesproken over de uitdagingen voor Academies die al volop werken met het Kwaliteitspaspoort in CAPP. Het voordeel van het kunnen registreren en real-time bijhouden van alle verplichte scholing rondom bevoegd- en bekwaamheden roept ook een tegenbeweging op. Want, waar leg je de grens tussen het vastleggen van het 'moeten' en het 'mogen'? Dit is, op verzoek van een achttal ziekenhuizen die ons LMS gebruikt, één van de thema's op ons volgende gebruikersoverleg in september.
 

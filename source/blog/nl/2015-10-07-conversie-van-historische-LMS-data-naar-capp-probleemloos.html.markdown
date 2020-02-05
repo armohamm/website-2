@@ -7,7 +7,7 @@ lang: nl
 featured_image: images/blog/featured/20151007-conversie-data.png
 ---
 
-__Het afgelopen jaar ben ik regelmatig bezig geweest met het converteren van historische data uit andere LMS-systemen naar ons LMS [CAPP](/capp-lms/). Dat is niet altijd een eenvoudige klus, maar juist voor ons als echte ICT-ers is het een grote uitdaging die we graag aangaan.__
+__Het afgelopen jaar ben ik regelmatig bezig geweest met het converteren van historische data uit andere LMS-systemen naar ons LMS CAPP. Dat is niet altijd een eenvoudige klus, maar juist voor ons als echte ICT-ers is het een grote uitdaging die we graag aangaan.__
 
 En met succes! Tot nu toe is het ons altijd gelukt de data uit andere LMS-en naar CAPP te converteren en daar hebben we onze opdrachtgevers best wel blij mee gemaakt.
 

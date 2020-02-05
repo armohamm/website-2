@@ -3,8 +3,8 @@ title: "Laurentius Ziekenhuis Roermond Case"
 sub_title: "Met CAPP LMS wordt kwaliteit van zorg geborgd en duurzame inzetbaarheid bevorderd"
 date: 2019-09-04 8:00 CEST
 services:
-  - title: CAPP LMS
-    link: /capp-lms
+  - title: CAPP Learning
+    link: /capp-learning
   - title: CAPP Compliance
     link: /capp-compliance
   - title: Consultancy
@@ -30,7 +30,7 @@ facts:
 
 In tegenstelling tot veel andere ziekenhuizen heeft het Laurentius geen apart leerhuis. De afdeling Human Resource Development (HRD), die hiervoor verantwoordelijk is, valt onder de afdeling Human Resource Management (HRM). Desiree Hintzen, teamleider HRD: “Samen met HRM en management wordt er nauw samengewerkt om de juiste medewerker, met de juiste competenties, op de juiste plek te krijgen. In de eerste plaats om de kwaliteit van zorg te vergroten, maar ook in het kader van duurzame inzetbaarheid van onze zorgmedewerkers.”
 
-LZR gebruikt het [Kwaliteitspaspoort](/capp-compliance/) in [CAPP LMS](/capp-lms/) om de kwaliteit van zorg te borgen en om de vakbekwaamheid van haar medewerkers aan te tonen. Hiervoor zijn in de software scholingsactiviteiten gekoppeld aan certificaten, die medewerkers moeten behalen. Hintzen: “Alle verplichte scholingsactiviteiten zijn opgenomen in het Kwaliteitspaspoort. Zo kan iedere individuele medewerker zien welke hij moet doen en wanneer certificaten verlopen. Het is heel prettig dat zowel medewerkers als leidinggevenden in één oogopslag de status kunnen zien en dat we dit ook eenvoudig op alle niveaus aan accrediterende instanties kunnen aantonen.”
+LZR gebruikt het [Kwaliteitspaspoort](/capp-compliance/) in [CAPP Learning](/capp-learning/) om de kwaliteit van zorg te borgen en om de vakbekwaamheid van haar medewerkers aan te tonen. Hiervoor zijn in de software scholingsactiviteiten gekoppeld aan certificaten, die medewerkers moeten behalen. Hintzen: “Alle verplichte scholingsactiviteiten zijn opgenomen in het Kwaliteitspaspoort. Zo kan iedere individuele medewerker zien welke hij moet doen en wanneer certificaten verlopen. Het is heel prettig dat zowel medewerkers als leidinggevenden in één oogopslag de status kunnen zien en dat we dit ook eenvoudig op alle niveaus aan accrediterende instanties kunnen aantonen.”
 
 ## Eigen verantwoordelijkheid & regie
 

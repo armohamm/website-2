@@ -1,4 +1,3 @@
----
 nl:
   time:
     formats:
@@ -7,27 +6,27 @@ nl:
   current_locale: "Nederlands"
 
   urls:
-    capp_agile: 'https://formkeep.com/f/0f2125be5045'
-    contact: 'https://formkeep.com/f/aff54030c202'
-    ebook: 'https://formkeep.com/f/15eb7434fd49'
-    information_session: 'https://formkeep.com/f/bc26f14079fd'
-    job_apply: 'https://formkeep.com/f/da32eaeda39e'
-    jobs: 'https://www.defacto.nl/jobs'
-    km_productsheet: 'https://formkeep.com/f/8861ffd32f0a'
-    kwaliteitspaspoort: 'https://formkeep.com/f/aff54030c202'
+    capp_agile: "https://formkeep.com/f/0f2125be5045"
+    contact: "https://formkeep.com/f/aff54030c202"
+    ebook: "https://formkeep.com/f/15eb7434fd49"
+    information_session: "https://formkeep.com/f/bc26f14079fd"
+    job_apply: "https://formkeep.com/f/da32eaeda39e"
+    jobs: "https://www.defacto.nl/jobs"
+    km_productsheet: "https://formkeep.com/f/8861ffd32f0a"
+    kwaliteitspaspoort: "https://formkeep.com/f/aff54030c202"
     mc_newsletter: 227ea150fe
-    productsheet: 'https://formkeep.com/f/eb01a315df5e'
-    twitter: 'https://twitter.com/DefactoSoftware'
-    upgrade_productsheet: 'https://formkeep.com/f/ed6e8e1efeeb'
-    url: 'https://www.defacto.nl'
+    productsheet: "https://formkeep.com/f/eb01a315df5e"
+    twitter: "https://twitter.com/DefactoSoftware"
+    upgrade_productsheet: "https://formkeep.com/f/ed6e8e1efeeb"
+    url: "https://www.defacto.nl"
   70-20-10:
     action: Neem contact op
     form:
-      header: 'Meer informatie over 70:20:10 in de praktijk?'
+      header: "Meer informatie over 70:20:10 in de praktijk?"
       text: |
         Wil je meer weten over de implementatie van 70:20:10 en Performance Support?
         Laat je e-mailadres achter, dan nemen onze specialisten zo snel mogelijk contact met je op.
-    header: '70:20:10 in de praktijk'
+    header: "70:20:10 in de praktijk"
     subheading: Leren is veel meer dan het zenden van informatie
   about:
     heading: Wij zijn Defacto
@@ -45,7 +44,7 @@ nl:
     make_appointment: Maak een afspraak
     contact: Neem contact met mij op
     more_about:
-      70-20-10: 'Meer 70:20:10'
+      70-20-10: "Meer 70:20:10"
       capp: Meer CAPP Learning
       capp-agile: Meer CAPP Agile Learning
       capp-compliance: Meer CAPP Compliance
@@ -70,41 +69,41 @@ nl:
   blog:
     cta_bottom:
       capp-lms:
-          title: "Interesse in hoe het nieuwe CAPP LMS een boost aan leren & compliance binnen uw organisatie kan geven?"
-          text: "Laat uw gegevens achter en wij nemen contact met u op."
+        title: "Interesse in hoe het nieuwe CAPP LMS een boost aan leren & compliance binnen uw organisatie kan geven?"
+        text: "Laat uw gegevens achter en wij nemen contact met u op."
       contact:
-          title: "Meer weten over de informatie in dit blog?"
-          text: "Laat uw gegevens achter en wij nemen contact met u op."
+        title: "Meer weten over de informatie in dit blog?"
+        text: "Laat uw gegevens achter en wij nemen contact met u op."
       learning_2019:
-          title: "Nieuwsgierig geworden hoe CAPP LMS bij de nieuwste trends aansluit?"
-          text: "Laat uw gegevens achter en wij nemen op korte termijn contact met u op."
+        title: "Nieuwsgierig geworden hoe CAPP LMS bij de nieuwste trends aansluit?"
+        text: "Laat uw gegevens achter en wij nemen op korte termijn contact met u op."
       microleren:
-          title: "Meer weten over dit stappenplan en hoe onze consultants ook u kunnen ondersteunen bij het omzetten van SCORM-content?"
-          text: "Laat uw gegevens achter en wij nemen contact met u op."
+        title: "Meer weten over dit stappenplan en hoe onze consultants ook u kunnen ondersteunen bij het omzetten van SCORM-content?"
+        text: "Laat uw gegevens achter en wij nemen contact met u op."
       onboarding:
-          title: "Meer weten over onboarding in CAPP LMS?"
-          text: "Laat uw gegevens achter en wij nemen contact met u op."
+        title: "Meer weten over onboarding in CAPP LMS?"
+        text: "Laat uw gegevens achter en wij nemen contact met u op."
       open_courses:
-          title: "Meer informatie over de mogelijkheden van Open Courses?"
-          text: "Laat uw gegevens achter en download ons productsheet met daarin alle informatie."
+        title: "Meer informatie over de mogelijkheden van Open Courses?"
+        text: "Laat uw gegevens achter en download ons productsheet met daarin alle informatie."
       product_update_dec:
-          title: "Meer weten over de voordelen van Software-as-a-Service?"
-          text: "Laat uw gegevens achter en download ons whitepaper met daarin alle informatie."
+        title: "Meer weten over de voordelen van Software-as-a-Service?"
+        text: "Laat uw gegevens achter en download ons whitepaper met daarin alle informatie."
       scorm_blog:
-          title: "Meer informatie over de voordelen van LTI ten opzichte van SCORM?"
-          text: "Laat uw gegevens achter en download ons whitepaper met daarin alle informatie."
-    meta_description: 'Nieuws over trends op het gebied van online leren en ontwikkelen. Actualiteiten op het gebied van software, onze klanten, producten en diensten. | Pagina %{page_number}/%{num_pages}.'
+        title: "Meer informatie over de voordelen van LTI ten opzichte van SCORM?"
+        text: "Laat uw gegevens achter en download ons whitepaper met daarin alle informatie."
+    meta_description: "Nieuws over trends op het gebied van online leren en ontwikkelen. Actualiteiten op het gebied van software, onze klanten, producten en diensten. | Pagina %{page_number}/%{num_pages}."
     more_articles: Lees ook
     more_on_our_blog: Meer blogs
-    page_title: 'Blog | Pagina %{page_number} van %{num_pages} | Defacto'
+    page_title: "Blog | Pagina %{page_number} van %{num_pages} | Defacto"
     read_more: Lees verder
     reading_time:
       min: min.
       title: Leestijd
     subscribe: Schrijf je in voor onze nieuwsbrief en blijf op de hoogte.
     tags:
-      meta_description: 'Nieuws over trends op het gebied van online leren en ontwikkelen. Actualiteiten op het gebied van software, onze klanten, producten en diensten. | Tag: %{tagname} | Pagina %{page_number}/%{num_pages}.'
-      page_title: 'Blog | Tag: %{tagname} | Pagina %{page_number} van %{num_pages} | Defacto'
+      meta_description: "Nieuws over trends op het gebied van online leren en ontwikkelen. Actualiteiten op het gebied van software, onze klanten, producten en diensten. | Tag: %{tagname} | Pagina %{page_number}/%{num_pages}."
+      page_title: "Blog | Tag: %{tagname} | Pagina %{page_number} van %{num_pages} | Defacto"
     title: Blog – leren en ontwikkelen
   capp-agile:
     cta_bottom:
@@ -186,7 +185,7 @@ nl:
     next: Volgende case
     overview:
       button: Contact opnemen
-      text: 'Elke klant is anders en heeft andere wensen, daarom is elke implementatie een uitdaging. Hier een greep uit onze klanten, waarmee we uitstekende resultaten hebben behaald.'
+      text: "Elke klant is anders en heeft andere wensen, daarom is elke implementatie een uitdaging. Hier een greep uit onze klanten, waarmee we uitstekende resultaten hebben behaald."
       title: Onze cases - met trots gepresenteerd
     previous: Vorige case
     sidebar:
@@ -202,14 +201,14 @@ nl:
   cmt:
     form:
       header: Meer weten over het Convenant Medische Technologie?
-      text: 'Wil je meer weten over het Convenant Medische Technologie en de oplossingen die wij daarvoor bieden, neem dan contact met ons op.'
+      text: "Wil je meer weten over het Convenant Medische Technologie en de oplossingen die wij daarvoor bieden, neem dan contact met ons op."
     title: In 3 stappen geen zorgen meer rondom het Convenant Medische Technologie
   contact:
     email: info@defacto.nl
-    form_info: 'Gebruik het formulier om ons een e-mail te sturen. Ouderwets bellen werkt ook, bel 050 3144832.'
+    form_info: "Gebruik het formulier om ons een e-mail te sturen. Ouderwets bellen werkt ook, bel 050 3144832."
     form_title: Contactformulier
     heading: Aangenaam
-    heading2: 'We zijn er om je meer informatie te geven, vragen te beantwoorden en effectieve support te bieden.'
+    heading2: "We zijn er om je meer informatie te geven, vragen te beantwoorden en effectieve support te bieden."
     main:
       heading: Wat kunnen we voor je betekenen?
       question:
@@ -221,16 +220,16 @@ nl:
         heading: Support
         info: Ben je key user en heb je een supportvraag? Chat direct met een van onze medewerkers.
     phone: 050 3144832
-    phone_link: '+31503144832'
+    phone_link: "+31503144832"
   elearning:
     heading: E-Learning ontwikkelen met Defacto
   elearning_ebook:
     heading_html: Ontvang gratis ons <span class="pre">E-Learning</span> Handboek
     image_alt: E-Learning Handboek Leren & Laten Leren
   error:
-    heading: 'Sorry, deze pagina bestaat niet.'
+    heading: "Sorry, deze pagina bestaat niet."
     img_alt: Pagina niet gevonden
-    text_md: 'Dit betekent niet dat je iets verkeerd hebt gedaan, het kan zijn dat we de pagina hernoemd of verplaatst hebben.'
+    text_md: "Dit betekent niet dat je iets verkeerd hebt gedaan, het kan zijn dat we de pagina hernoemd of verplaatst hebben."
   events:
     cta_title: Nu aanmelden
     no_planned_events: Er zijn momenteel geen geplande events.
@@ -240,8 +239,8 @@ nl:
     title_closed: De inschrijving voor dit evenement is gesloten.
   footer:
     contact: Contact opnemen &raquo;
-    copyright_html: 'Deze website is %{link}. © 1987 - %{year} Defacto'
-    country: ''
+    copyright_html: "Deze website is %{link}. © 1987 - %{year} Defacto"
+    country: ""
     follow:
       text: Volg ons via social media
       title: Volg Defacto
@@ -283,10 +282,10 @@ nl:
         title: CAPP Compliance
         text_html: Met CAPP maakt u compliance eenvoudig, inzichtelijk en meetbaar voor uw organisatie
       informal:
-        text_html: 'Performance support door ''kennis-on-demand''. Voorzie medewerkers van _just-in-time_ kennis. Leg kennis simpel vast, deel handleidingen, werkinstructies en meer.'
+        text_html: "Performance support door 'kennis-on-demand'. Voorzie medewerkers van _just-in-time_ kennis. Leg kennis simpel vast, deel handleidingen, werkinstructies en meer."
         title: CAPP Agile Learning
       learn:
-        text_html: '%{link} biedt uw organisatie één centrale plek voor alle leeractiviteiten.'
+        text_html: "%{link} biedt uw organisatie één centrale plek voor alle leeractiviteiten."
         title: CAPP Learning
   hosting:
     heading: Hosting & Security
@@ -297,12 +296,12 @@ nl:
     cta_heading: Wilt u meer weten? Laat hier uw gegevens achter en onze Lead Consultant Joost Bakhuizen neemt contact met u op.
     heading: Kennis en samenwerking als basis voor een succesvolle implementatie.
   jobs:
-    acquisition: 'Let op: acquisitie op basis van deze vacature wordt niet op prijs gesteld.'
+    acquisition: "Let op: acquisitie op basis van deze vacature wordt niet op prijs gesteld."
     apply: Solliciteer nu &raquo;
     header: Defacto als jouw werkgever
-    more: 'Meer vacatures:'
-    title: 'Vacature:'
-    vacancies: 'Vacatures:'
+    more: "Meer vacatures:"
+    title: "Vacature:"
+    vacancies: "Vacatures:"
   koppelingen:
     heading: Gecertificeerde koppelingen
   navigation:
@@ -319,7 +318,7 @@ nl:
   privacy-policy:
     link: privacy policy
     name: Privacy Policy
-    text: 'Door deze website te gebruiken stemt u in met onze %{link}'
+    text: "Door deze website te gebruiken stemt u in met onze %{link}"
   products:
     capp:
       capp-lms: CAPP LMS
@@ -342,24 +341,24 @@ nl:
   service:
     team_title: Ons support team
     title: Service & Support
-    title_text: 'De servicedesk van Defacto. Hier kunt u terecht voor al uw issues, technische vragen en onderhoudswerkzaamheden.'
+    title_text: "De servicedesk van Defacto. Hier kunt u terecht voor al uw issues, technische vragen en onderhoudswerkzaamheden."
   services:
     services:
       cmt:
         name: Convenant Medische Technologie
       elearning:
-        desc: 'Met Defacto als ervaren en technisch onderlegde partner, wordt de e-learning in jouw organisatie een succes.'
+        desc: "Met Defacto als ervaren en technisch onderlegde partner, wordt de e-learning in jouw organisatie een succes."
         name: E-Learning
       hosting:
         desc: Met 25 jaar ervaring in ICT-implementaties bij grote (overheids) instanties weten wij bij uitstek dat gedegen hosting en informatiebeveiliging van essentieel belang is.
         link: hosting en informatiebeveiliging
         name: Hosting & Security
       implementaties:
-        desc: 'Defacto heeft een eigen %{link} ontwikkeld waarin onze projectleider en consultants samen met jouw managementteam de strategie en uitvoering waarborgen.'
+        desc: "Defacto heeft een eigen %{link} ontwikkeld waarin onze projectleider en consultants samen met jouw managementteam de strategie en uitvoering waarborgen."
         link: implementatiemethodiek
         name: Implementaties
       koppelingen:
-        desc: 'CAPP LMS kan naadloos %{link} worden met andere systemen zoals personeel informatiesystemen, toetsenbanken, e-learning leveranciers en nog vele andere.'
+        desc: "CAPP LMS kan naadloos %{link} worden met andere systemen zoals personeel informatiesystemen, toetsenbanken, e-learning leveranciers en nog vele andere."
         link: geïntegreerd
         name: Koppelingen
     title: Zo zorgen we voor een succesvolle implementatie van CAPP LMS
@@ -367,10 +366,10 @@ nl:
     facebook: Deel op Facebook
     google_plus: Deel op Google+
     linkedin: Deel op LinkedIn
-    share_case: 'Deel deze case:'
-    share_event: 'Deel dit evenement:'
-    share_job: 'Deel deze vacature:'
-    share_post: 'Deel dit artikel:'
+    share_case: "Deel deze case:"
+    share_event: "Deel dit evenement:"
+    share_job: "Deel deze vacature:"
+    share_post: "Deel dit artikel:"
     twitter: Deel op Twitter
     xing: Deel op Xing
   testimonials:
@@ -389,16 +388,16 @@ nl:
       unsubscribed: Je bent uitgeschreven van onze nieuwsbrief.
   themes:
     70-20-10:
-      desc: 'Mensen leren continu in jouw organisatie. Het 70:20:10 leermodel kan eraan bijdragen de ontwikkelingen bij te houden, gericht op het behalen van doelen en verbeteren van prestaties.'
-      name: '70:20:10 in de praktijk'
+      desc: "Mensen leren continu in jouw organisatie. Het 70:20:10 leermodel kan eraan bijdragen de ontwikkelingen bij te houden, gericht op het behalen van doelen en verbeteren van prestaties."
+      name: "70:20:10 in de praktijk"
     cmt:
-      desc: 'Ieder ziekenhuis heeft er mee te maken: aantoonbare en transparante bekwaamheid van medewerkers die gebruikmaken van medische technologie.'
+      desc: "Ieder ziekenhuis heeft er mee te maken: aantoonbare en transparante bekwaamheid van medewerkers die gebruikmaken van medische technologie."
       name: Convenant Medische Technologie
     title: Actuele thema's
   threesixty:
     cta_bottom:
       heading_md: Kijk in de spiegel met 360° Feedback.
-    desc: 'Maak een efficiëntieslag in je HRD. %{link} maakt het voor medewerkers eenvoudig hun zelfkennis te vergroten en ontwikkeldoelen op te stellen.'
+    desc: "Maak een efficiëntieslag in je HRD. %{link} maakt het voor medewerkers eenvoudig hun zelfkennis te vergroten en ontwikkeldoelen op te stellen."
     hero:
       text_md: Moeiteloos evaluaties uitvoeren in een gebruiksvriendelijke cloudservice.
       title: 360° Feedback

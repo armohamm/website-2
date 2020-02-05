@@ -3,8 +3,8 @@ title: "Strukton Case"
 sub_title: "De route naar geborgde compliance"
 date: 2017-09-10 11:00 CEST
 services:
-  - title: CAPP LMS
-    link: /capp-lms
+  - title: CAPP Learning
+    link: /capp-learning
   - title: CAPP Compliance
     link: /capp-compliance
 lang: nl

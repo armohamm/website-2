@@ -8,7 +8,7 @@ image: images/blog/social/gebruikersoverleg-2-2017-1200x630.jpg
 featured_image: images/blog/featured/20171004-gebruikersoverleg.jpg
 ---
 
-__Op de zonnige donderdag 21 september werd bij onze klant ’s Heerenloo het tweede Defacto Gebruikersoverleg van 2017 georganiseerd. Het thema van de dag was [CAPP Agile Learning](/capp-agile-learning/){:title="CAPP Agile Learning"}. Het was bovendien het moment om de nieuwe versie van CAPP aan onze klanten aan te kondigen.__
+__Op de zonnige donderdag 21 september werd bij onze klant ’s Heerenloo het tweede Defacto Gebruikersoverleg van 2017 georganiseerd. Het thema van de dag was CAPP Agile Learning. Het was bovendien het moment om de nieuwe versie van CAPP aan onze klanten aan te kondigen.__
 
 Onder het genot van een uitgebreide lunch kwamen de deelnemers binnen. De gesprekken kwamen meteen op gang en er werden direct ideeën uitgewisseld. Dat is de kern van ons Gebruikersoverleg: onze klanten de mogelijkheid geven om zowel met elkaar als met ons in gesprek te gaan. Even bij elkaar in de keuken kijken en zo elkaar vooruit helpen.
 
@@ -18,7 +18,7 @@ Onder het genot van een uitgebreide lunch kwamen de deelnemers binnen. De gespre
 
 ## Aankondiging Kwaliteitsmonitor en nieuwe CAPP
 
-Hans Veeger opende het officiële deel van de middag met de aankondiging van de nieuwe versie van [CAPP](/capp-lms/). Het huidige CAPP11 is gebaseerd op de eerste versie die in 1993 uitkwam. Als softwarebedrijf is het belangrijk om te blijven innoveren en vernieuwen. Dat is iets waar we hard mee bezig zijn en waar we jullie graag van op de hoogte brengen.
+Hans Veeger opende het officiële deel van de middag met de aankondiging van de nieuwe versie van [CAPP](/capp-learning/). Het huidige CAPP11 is gebaseerd op de eerste versie die in 1993 uitkwam. Als softwarebedrijf is het belangrijk om te blijven innoveren en vernieuwen. Dat is iets waar we hard mee bezig zijn en waar we jullie graag van op de hoogte brengen.
 
 ![Nieuw CAPP Productconcept](/images/blog/nieuw-capp-productconcept.png)
 <p class="caption">Uitgangspunten voor het nieuwe CAPP</p>

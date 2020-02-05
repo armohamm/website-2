@@ -10,9 +10,9 @@ featured_image: images/blog/featured/20180509-umcg-by-night.jpg
 header_image: moods/UMCG.jpg
 ---
 
-__In de stad Groningen ben ik geboren en getogen. Stadjer noemen we dat hier. Zowel ik als vrijwel al mijn collega’s hebben een directe, dan wel indirecte historie met wat ooit het Academisch Ziekenhuis Groningen (AZG) heette en nu alweer sinds 2005 bekend staat als het [Universitair Medisch Centrum Groningen (UMCG)](https://www.umcg.nl/){:target="_blank"}{:rel="noopener noreferrer"}{:title="UMCG"}.__
+__In de stad Groningen ben ik geboren en getogen. Stadjer noemen we dat hier. Zowel ik als vrijwel al mijn collega’s hebben een directe, dan wel indirecte historie met wat ooit het Academisch Ziekenhuis Groningen (AZG) heette en nu alweer sinds 2005 bekend staat als het Universitair Medisch Centrum Groningen (UMCG).__
 
-Vanuit deze persoonlijke verbondenheid zijn we dan ook erg trots en blij dat we vorige maand de Europese aanbesteding van het UMCG voor een nieuw [Leer Management Systeem (LMS)](/capp-lms/){:title="CAPP LMS"} hebben gewonnen en met het gezamenlijke projectteam deze maand de kick-off van het project gaan houden.
+Vanuit deze persoonlijke verbondenheid zijn we dan ook erg trots en blij dat we vorige maand de Europese aanbesteding van het UMCG voor een nieuw [Leer Management Systeem (LMS)](/capp-learning/){:title="CAPP LMS"} hebben gewonnen en met het gezamenlijke projectteam deze maand de kick-off van het project gaan houden.
 
 De aanleiding voor het UMCG voor het uitschrijven van een Europese aanbesteding was de volgende: kwaliteit, veiligheid en excelleren in alle kerntaken. Dit is vanwege de aard van de kerntaken voor een zeer groot deel afhankelijk van de kwaliteiten en de ontwikkelingsgraad van het personeel. Kortom de bevoegd- en bekwaamheden.
 

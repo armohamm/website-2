@@ -10,7 +10,7 @@ featured_image: images/blog/featured/20160721-capp.png
 
 __Werknemers motiveren tot leren en talent beter managen? Dat lukt! Hoe? Dat leggen we je uit in deze blog. Waarom is het managen van talent zo belangrijk? Organisaties die erin slagen het aanwezige talent te ontwikkelen, kunnen over het algemeen rekenen op meer motivatie van hun mensen. Persoonlijke ontwikkeling wordt hoog gewaardeerd. Bovendien leidt hoogwaardiger personeel ook tot betere bedrijfsresultaten.__
 
-Talent managen kan ondersteund worden door middel van systemen, wanneer dit op een juiste manier ingezet wordt. Dit kan een buitengewone opbrengst hebben binnen kennisintensieve organisaties. Eén van de systemen die Defacto hiervoor ontwikkeld heeft, is het [CAPP LMS met daarin het Kwaliteitspaspoort](/capp-lms/). Volgens Defacto is het goed om te kijken naar de al bestaande talenten van de medewerkers en de talenten die de medewerker nog verder wil ontwikkelen.
+Talent managen kan ondersteund worden door middel van systemen, wanneer dit op een juiste manier ingezet wordt. Dit kan een buitengewone opbrengst hebben binnen kennisintensieve organisaties. Eén van de systemen die Defacto hiervoor ontwikkeld heeft, is het [CAPP LMS met daarin het Kwaliteitspaspoort](/capp-learning/). Volgens Defacto is het goed om te kijken naar de al bestaande talenten van de medewerkers en de talenten die de medewerker nog verder wil ontwikkelen.
 
 ## 'Wat heb ik nodig om door te groeien?'
 

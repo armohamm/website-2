@@ -10,7 +10,7 @@ featured_image: images/blog/featured/20190717-capp-lms-taart.jpg
 header_image: moods/capp-lms-dashboard.jpg
 ---
 
-__In het afgelopen half jaar zijn verschillende klanten live gegaan met [CAPP LMS](/capp-lms). De geheel vernieuwde opvolger van onze LMS-software sluit aan op de veranderende manier van leren in organisaties en accrediterende instanties erkennen de software als goede oplossing voor het [aantonen van compliance](/blog/defacto-feliciteert-dianet-hkz-certificering-capp-lms/). Onze klanten zijn zeer tevreden over de nieuwe software. In dit blog een greep uit hun reacties.__
+__In het afgelopen half jaar zijn verschillende klanten live gegaan met CAPP LMS. De geheel vernieuwde opvolger van onze LMS-software sluit aan op de veranderende manier van leren in organisaties en accrediterende instanties erkennen de software als goede oplossing voor het aantonen van compliance. Onze klanten zijn zeer tevreden over de nieuwe software. In dit blog een greep uit hun reacties.__
 
 __Laurentius Ziekenhuis Roermond - Leerplein:__
 >“CAPP LMS sluit goed aan bij de nieuwe manier van leren. Medewerkers ervaren de software als gebruiksvriendelijk en vinden met name het dashboard en het Kwaliteitspaspoort overzichtelijk en prettig in gebruik. De beheermogelijkheden stellen ons in staat om eenvoudig een scholing in te richten. Ten slotte hebben wij dankzij de goede begeleiding van Defacto de geplande datum van livegang gehaald.”
@@ -28,7 +28,7 @@ __Wilhelmina Ziekenhuis Assen, via Twitter:__
 ![Tweet van Wilhemina Ziekenhuis Assen](/images/blog/WZA-tweet.jpg)
 
 ## Aankomende CAPP LMS klanten
-De komende maanden en in 2020 zullen verschillende klanten de overstap naar CAPP LMS nog gaan maken. Enkele voorbeelden hiervan zijn het LUMC, ZINN Zorg, Jeugdhulp Friesland en waterschap Hollandse Delta.  
+De komende maanden en in 2020 zullen verschillende klanten de overstap naar CAPP LMS nog gaan maken. Enkele voorbeelden hiervan zijn het LUMC, ZINN Zorg, Jeugdhulp Friesland en waterschap Hollandse Delta.
 
 ## Is CAPP LMS iets voor mijn organisatie?
 

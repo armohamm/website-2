@@ -8,7 +8,7 @@ image: images/blog/social/bevoegd-is-niet-bekwaam-1200x630.png
 featured_image: images/blog/featured/20160705-bevoegd.png
 ---
 
-__Aantoonbaar maken dat je personeel bekwaam is. Dat is de eis die vanuit accrediterende instanties en de Inspectie voor Gezondheidszorg (IGZ) aan de zorginstellingen in Nederland gesteld wordt. Het is de eis die voor mij als consultant van [Defacto](/over-ons/){:title="Over Defacto Software"} brood op de plank verzorgt. Maar aantoonbaar bekwaam, wat is dat nou eigenlijk? En hoe krijg je aantoonbare bekwaamheid voor elkaar?__
+__Aantoonbaar maken dat je personeel bekwaam is. Dat is de eis die vanuit accrediterende instanties en de Inspectie voor Gezondheidszorg (IGZ) aan de zorginstellingen in Nederland gesteld wordt. Het is de eis die voor mij als consultant van Defacto brood op de plank verzorgt. Maar aantoonbaar bekwaam, wat is dat nou eigenlijk? En hoe krijg je aantoonbare bekwaamheid voor elkaar?__
 
 ## Bevoegd en bekwaam: waar we eigenlijk over praten
 
@@ -20,7 +20,7 @@ __Bekwaamheid__ gaat over het niveau van competentie waarop je een handeling uit
 
 ## Bevoegd en bekwaam: hoe we het aantoonbaar maken
 
-Om te werken in een zorginstelling dient iemand dus bevoegd én bekwaam te zijn. Het aantonen van bevoegdheid is de uitdaging niet. Zorg dat de juiste papieren op een makkelijk toegankelijke plek worden bewaard en klaar is Kees. De meeste organisaties doen dat tegenwoordig in __[hun LMS](/capp-lms/){:title="Opleiden & Leren met CAPP LMS"}__.
+Om te werken in een zorginstelling dient iemand dus bevoegd én bekwaam te zijn. Het aantonen van bevoegdheid is de uitdaging niet. Zorg dat de juiste papieren op een makkelijk toegankelijke plek worden bewaard en klaar is Kees. De meeste organisaties doen dat tegenwoordig in __[hun LMS](/capp-learning/){:title="Opleiden & Leren met CAPP LMS"}__.
 
 Bekwaamheid is lastiger. Wanneer is iemand eigenlijk goed in wat hij doet? En hoe toets je dat? Toetsen kost tijd en dus geld. Om hier zoveel mogelijk op te besparen is het een lange tijd de trend geweest om voor elke handeling een e-learning toets beschikbaar te stellen. Het goed kunnen beantwoorden van een kennistoets werd gezien als het aantonen van je bekwaamheid. De vraag is of dit wel zo 1-op-1 gesteld kan worden.
 

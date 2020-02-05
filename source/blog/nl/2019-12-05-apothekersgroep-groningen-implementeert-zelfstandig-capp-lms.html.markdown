@@ -11,7 +11,7 @@ header_image: moods/pillen-mood.jpg
 call_to_action:
 ---
 
-__Een systeem om de bijscholing van apotheekmedewerkers te faciliteren en inzichten om compliance en kwaliteit te kunnen verantwoorden bij audits. Die insteek vormde de doelstelling voor het succesvolle pilotproject waarin Apothekersgroep Groningen zelfstandig aan de slag ging met [CAPP LMS](/capp-lms). De resultaten laten zien dat medewerkers de software weten te vinden en dat het gebruik bovendien laagdrempelig en intuïtief is.__
+__Een systeem om de bijscholing van apotheekmedewerkers te faciliteren en inzichten om compliance en kwaliteit te kunnen verantwoorden bij audits. Die insteek vormde de doelstelling voor het succesvolle pilotproject waarin Apothekersgroep Groningen zelfstandig aan de slag ging met CAPP Learning. De resultaten laten zien dat medewerkers de software weten te vinden en dat het gebruik bovendien laagdrempelig en intuïtief is.__
 
 ## Zelf artikelen en video’s maken
 Met gerichte handleidingen en minimale hulp van een consultant van Defacto hebben de apothekers het LMS geheel zelfstandig ingericht. Een belangrijke taak lag hier voor Arnout Janse, apotheker bij apotheek Musselpark. Omdat het bestaande scholingsaanbod van de brancheorganisatie onvoldoende aansloot op hun wensen, besloten ze zelf materiaal te gaan ontwikkelen met de ingebouwde auteurstool. “Dit was zeer eenvoudig en intuïtief”, licht Janse toe. “Ik kon gemakkelijk zelf artikelen maken en video’s toevoegen die ik zelf had gemaakt.”

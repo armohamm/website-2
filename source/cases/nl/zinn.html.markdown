@@ -3,8 +3,8 @@ title: "ZINN Case"
 sub_title: "De zorg verbeteren met software op maat"
 date: 2017-09-10 8:00 CEST
 services:
-  - title: CAPP LMS
-    link: /capp-lms
+  - title: CAPP Learning
+    link: /capp-learning
   - title: CAPP Compliance
     link: /capp-compliance
   - title: CAPP Agile learning
@@ -28,7 +28,7 @@ facts:
 
 **‘Het is ons doel om in 2020 onze zorg op een excellent niveau te krijgen.’ Aan het woord is Agnes Themmen, Hoofd Opleiding & Ontwikkeling van ouderenzorgorganisatie ZINN uit Haren. ‘Momenteel is onze zorg beoordeeld als ‘zeer goed’ door de accrediterende instanties. Wij willen dit graag naar een nog niveau hoger tillen. Leren en ontwikkelen is een belangrijk onderdeel van onze plannen.’**
 
-‘Wij vinden het belangrijk om te investeren in al onze medewerkers.‘ vult de Managementassistent van de afdeling Opleiding bij ZINN aan. ‘Zowel in onze verpleegkundigen en verzorgenden als in onze vrijwilligers.’ Recent startte ZINN met een tweede portaal in hun [leermanagementsysteem (LMS)](/capp-lms/), speciaal voor haar 750 vrijwilligers. ‘Op deze manier willen we laten zien dat deze groep mensen heel waardevol is voor onze organisatie. En dat we ook in hen willen investeren.’ In het vrijwilligersportaal staan de standaard veiligheidsprocedures, maar ook praktische zaken. Bijvoorbeeld: hoe zet je een rolstoel vast in een rolstoelbus? Daarnaast komt ook de omgang met demente bewoners aan bod. ‘CAPP Agile Learning van Defacto ondersteunt ons hierbij.’ zegt zij.
+‘Wij vinden het belangrijk om te investeren in al onze medewerkers.‘ vult de Managementassistent van de afdeling Opleiding bij ZINN aan. ‘Zowel in onze verpleegkundigen en verzorgenden als in onze vrijwilligers.’ Recent startte ZINN met een tweede portaal in hun [leermanagementsysteem (LMS)](/capp-learning/), speciaal voor haar 750 vrijwilligers. ‘Op deze manier willen we laten zien dat deze groep mensen heel waardevol is voor onze organisatie. En dat we ook in hen willen investeren.’ In het vrijwilligersportaal staan de standaard veiligheidsprocedures, maar ook praktische zaken. Bijvoorbeeld: hoe zet je een rolstoel vast in een rolstoelbus? Daarnaast komt ook de omgang met demente bewoners aan bod. ‘CAPP Agile Learning van Defacto ondersteunt ons hierbij.’ zegt zij.
 
 ## Bevoegd en bekwaam
 

@@ -13,7 +13,7 @@ __Een gevleugelde uitspraak die ik op één van mijn eerste dagen bij Defacto al
 
 __Hij heeft helemaal gelijk. Wij begeven ons in een markt waar alleen het leveren van software niet voldoende is. Het installeren van een LMS en het zorgen dat een LMS ook effectief gebruikt wordt in een organisatie zijn twee heel verschillende dingen. Een goede relatie met je klanten om continu gezamenlijk het proces van acceptatie en implementatie te blijven monitoren is daarom essentieel.__
 
-Case in point. Begin dit jaar stonden wij aan de start van een groot implementatietraject van [ons LMS](/capp-lms/) bij de Sint Fransiscus Vlietland Groep (SFVG) in Rotterdam. We hebben tijdens dit project niet alleen ons eigen LMS geïmplementeerd, maar tevens alle opgebouwde opleidingshistorie uit het vorige LMS van SFVG succesvol kunnen overzetten. Uiteindelijk heeft dit geresulteerd in een naadloze overgang, waarin alle medewerkers van het SFVG verder kunnen bouwen op hun eerder behaalde resultaten.
+Case in point. Begin dit jaar stonden wij aan de start van een groot implementatietraject van [ons LMS](/capp-learning/) bij de Sint Fransiscus Vlietland Groep (SFVG) in Rotterdam. We hebben tijdens dit project niet alleen ons eigen LMS geïmplementeerd, maar tevens alle opgebouwde opleidingshistorie uit het vorige LMS van SFVG succesvol kunnen overzetten. Uiteindelijk heeft dit geresulteerd in een naadloze overgang, waarin alle medewerkers van het SFVG verder kunnen bouwen op hun eerder behaalde resultaten.
 
 Dit traject is één van de meest succesvolle trajecten die we hebben gedaan. Niet in het minst door het sterke projectteam aan de kant van de SFVG groep. Maar de belangrijkste reden van het succes was toch de goede relatie die we hebben opgebouwd.
 

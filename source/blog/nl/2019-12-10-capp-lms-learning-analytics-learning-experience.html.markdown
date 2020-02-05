@@ -28,7 +28,7 @@ Bij het gebruik door CAPP LMS (versie 12) klanten zien we een vergelijkbare ontw
 Gebruikers weten CAPP LMS dus steeds beter te vinden en ook de relevante content wordt steeds beter gevonden. Defacto heeft met CAPP LMS het doel om de gebruikers maximaal te ondersteunen om snel bij de relevante content te komen en een divers aanbod aan leervormen te bieden. Wij blijven onze software doorontwikkelen voor de gebruikers om het voor hen zo makkelijk mogelijk te maken om te leren en hun [bekwaamheid](/blog/bevoegd-niet-bekwaam-waar-bekwaamheid-over-gaat/) aan te tonen.
 
 ## Meerwaarde van Learning Analytics voor uw organisatie
-In een volgend blog gaan we dieper in op de meerwaarde van Learning Analytics voor een organisatie. Wat betekent de informatie en hoe kunt u die gebruiken voor de verbetering van processen in uw organisatie zijn thema's die hierin aan bod zullen komen. Wilt u in de tussentijd meer weten over het specifieke gebruik van [CAPP LMS](/capp-lms) door uw organisatie over de afgelopen periode? Neem dan contact op met uw accountmanager.
+In een volgend blog gaan we dieper in op de meerwaarde van Learning Analytics voor een organisatie. Wat betekent de informatie en hoe kunt u die gebruiken voor de verbetering van processen in uw organisatie zijn thema's die hierin aan bod zullen komen. Wilt u in de tussentijd meer weten over het specifieke gebruik van [CAPP Learning](/capp-learning/) door uw organisatie over de afgelopen periode? Neem dan contact op met uw accountmanager.
 
 ## Meer weten?
 Meer weten over de toename in engagement in CAPP LMS? Lees dan onze [vorige nieuwsbrief](https://mailchi.mp/c0aa4f9eebc2/nieuwsbrief-nov-2019){:target="_blank"}{:rel="noopener noreferrer"}{:title="Nieuwsbrief Defacto november 2019"} terug.

@@ -8,11 +8,11 @@ lang: nl
 featured_image: images/blog/featured/20150812-prototype.jpg
 ---
 
-__Een jaar geleden heb ik een [360-graden feedback](https://360feedback.io) evaluatie gedaan met als doel te kijken waar ik op dat moment stond en in welk vakgebied ik me zou willen ontwikkelen. In deze feedback ronde werd gehint naar een functie als functioneel ontwerper of [UX](https://en.wikipedia.org/wiki/User_experience_design) (User eXperience) ontwerper.__
+__Een jaar geleden heb ik een _360-graden feedback_ evaluatie gedaan met als doel te kijken waar ik op dat moment stond en in welk vakgebied ik me zou willen ontwikkelen. In deze feedback ronde werd gehint naar een functie als functioneel ontwerper of UX (User eXperience) ontwerper.__
 
 Een half jaar geleden heb ik er werk van gemaakt door bij [Anne Vroegop](https://twitter.com/annevroegop) een cursus te volgen op het gebied van interaction design.
 
-_Interaction design_ is een kleiner onderdeel van UX design maar zeker niet minder belangrijk voor de ontwikkeling van een product. Na deze cursus volgden veel online trainingen tot ik een paar weken geleden de techniek voor het eerst in de praktijk kon toepassen met het redesign van een van onze producten, [CAPP](/capp-lms/).
+_Interaction design_ is een kleiner onderdeel van UX design maar zeker niet minder belangrijk voor de ontwikkeling van een product. Na deze cursus volgden veel online trainingen tot ik een paar weken geleden de techniek voor het eerst in de praktijk kon toepassen met het redesign van een van onze producten, [CAPP](/capp-learning/).
 
 ## Paper prototyping
 

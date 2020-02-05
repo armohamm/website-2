@@ -3,8 +3,8 @@ title: "Maastricht UMC+ Academie Case"
 sub_title: "'Klinisch redeneren' ondersteund door CAPP LMS"
 date: 2017-10-10 8:00 CEST
 services:
-  - title: CAPP LMS
-    link: /capp-lms
+  - title: CAPP Learning
+    link: /capp-learning
   - title: CAPP Compliance
     link: /capp-compliance
   - title: CAPP Agile learning

@@ -11,7 +11,7 @@ header_image: moods/zinn-open-courses-mood.jpg
 call_to_action: download-open-courses-productsheet
 ---
 
-__Defacto heeft in oktober in samenwerking met [ZINN](/cases/zinn) haar nieuwe add-on CAPP Open Courses gelanceerd. Open Courses kan worden ingezet om uw netwerk, vrijwilligers, mantelzorgers, dealers of franchisers op een laagdrempelige manier van de juiste kennis en informatie te voorzien. Cursussen in Open Courses worden weergegeven in dezelfde intuïtieve interface van [CAPP LMS](/capp-lms).__
+__Defacto heeft in oktober in samenwerking met ZINN haar nieuwe add-on CAPP Open Courses gelanceerd. Open Courses kan worden ingezet om uw netwerk, vrijwilligers, mantelzorgers, dealers of franchisers op een laagdrempelige manier van de juiste kennis en informatie te voorzien. Cursussen in Open Courses worden weergegeven in dezelfde intuïtieve interface van CAPP LMS.__
 
 ## Eén beheeromgeving
 ZINN biedt haar vrijwilligers trainingen aan om zo hun taak beter en makkelijker te vervullen. Vrijwilligers maken gemakkelijk een account aan waarna ze toegang hebben tot de voor hen relevante leerinhoud. Op deze manier wordt zowel het interne als externe cursusaanbod vanuit één omgeving beheerd.
