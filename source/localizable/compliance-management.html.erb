@@ -1,0 +1,50 @@
+---
+title:
+  nl: "Compliance Management"
+description:
+  nl: "INSERT_DESCRIPTION_HERE"
+lang_ignore: de, en
+page_name: compliance-management
+page_color: amaranth
+hero_background: capp12.jpg
+---
+
+<%= partial "partials/hero", locals: { variant: "variant-product",
+                                       variant_overlay: "overlay-darken",
+                                       background_image: "#{current_page.data.hero_background}",
+                                       title: t("solutions.pages.#{current_page.data.page_name}.h1"),
+                                       buttons: [{ link: "#contact",
+                                                   text: t("actions.contact_us"),
+                                                   variant: "button #{current_page.data.page_color}"
+                                                }]} %>
+
+<%= partial "partials/on-page-navigation", locals: { variant: "#{current_page.data.page_color}",
+                                                       links: [{ anchor: "#introduction",
+                                                                 key: t("solutions.pages.#{current_page.data.page_name}.on-page-navigation.introduction")},
+                                                               { anchor: "#stappenplan",
+                                                                 key: t("solutions.pages.#{current_page.data.page_name}.on-page-navigation.steps")},
+                                                               { anchor: "#appointment",
+                                                                 key: t("solutions.pages.#{current_page.data.page_name}.on-page-navigation.possibilities")},
+                                                               { anchor: "#appointment",
+                                                                 key: t("solutions.pages.#{current_page.data.page_name}.on-page-navigation.in-practice")}
+                                                              ]} %>
+
+<section class="introduction" id="introduction">
+  <div class="row">
+    <article>
+      <%= partial "#{current_page.data.page_name}/introductie" %>
+    </article>
+  </div>
+</section>
+
+<section class="usp-quote colored-background">
+  <div class="row">
+    <p>
+     <%= markitdown t("solutions.pages.#{current_page.data.page_name}.usp-quote") %>
+    </p>
+  </div>
+</section>
+
+<section class="steps" id="stappenplan">
+  <%= partial "#{current_page.data.page_name}/stappenplan" %>
+</section>

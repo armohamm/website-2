@@ -36,6 +36,7 @@ nl:
       work_with_us: Werken bij
       you: jij?
   actions:
+    contact_us: Neem contact op
     download: Download
     download_productsheet: Download productsheet
     download_whitepaper: Download whitepaper
@@ -369,6 +370,16 @@ nl:
     twitter: Deel op Twitter
     xing: Deel op Xing
   solutions:
+    pages:
+      compliance-management:
+        h1: Compliance Management
+        on-page-navigation:
+          introduction: Introductie
+          steps: Stappenplan
+          possibilities: Mogelijkheden CAPP
+          in-practice: In de praktijk
+        usp-quote: |
+          Met de inzet van onze software en ervaring kunt u compliance management operationaliseren en eenduidig uitrollen binnen uw hele organisatie. Auditproof en te allen tijde inzichtelijk!
     title: Oplossingen
   testimonials:
     more_testimonials: Meer testimonials

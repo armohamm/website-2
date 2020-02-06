@@ -1,0 +1,78 @@
+$page-color: $amaranth;
+
+body.compliance-management {
+  .colored-background {
+    background-color: $page-color;
+  }
+
+  div.hero {
+    $hero-image: "../images/moods/capp-12.jpg";
+
+    background: url($hero-image);
+    background-size: cover;
+    color: $capp-color;
+
+    h1 {
+      color: $white;
+      font-size: $base-font-size * 1.6;
+      margin: 0 auto 0.75em;
+      max-width: 960px;
+
+      @include grid-media($medium-up) {
+        font-size: $base-font-size * 2.4;
+      }
+    }
+
+    .button {
+      margin-bottom: 0;
+    }
+  }
+
+  section.usp-quote {
+    color: $white;
+    font-size: $base-font-size * 1.6;
+    padding: 1em 0;
+    text-align: center;
+
+    .row {
+      max-width: $medium-row;
+    }
+  }
+
+  section.steps {
+    h2 {
+      font-size: $base-font-size * 2.4;
+      text-align: center;
+    }
+
+    .row {
+      max-width: $small-row;
+    }
+
+    .item {
+      align-items: center;
+      display: flex;
+      margin-bottom: 2em;
+
+      .item-number {
+        align-items: center;
+        background: $page-color;
+        border-radius: 50%;
+        color: $white;
+        display: flex;
+        flex: 0 0 80px;
+        font-size: $base-font-size * 2;
+        font-weight: $font-weight-bold;
+        height: 80px;
+        justify-content: center;
+      }
+
+      .item-text {
+        flex: 1;
+        font-size: $base-font-size * 1.2;
+        padding-left: 1em;
+        text-align: left;
+      }
+    }
+  }
+}
