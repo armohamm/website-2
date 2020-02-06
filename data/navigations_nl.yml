@@ -33,6 +33,14 @@
       item_class: item-360
       url: /360-feedback.html
       icon: icons/360-feedback.svg
+- title: Oplossingen
+  type: links-group
+  dropdown: solutions
+  url: /oplossingen.html
+  links:
+    - title: Compliance Management
+      url: /compliance-management.html
+      icon: icons/healthcare.svg
 - title: Diensten
   type: links-group
   dropdown: service
