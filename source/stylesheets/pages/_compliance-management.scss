@@ -3,6 +3,7 @@ $page-color: $amaranth;
 body.compliance-management {
   .colored-background {
     background-color: $page-color;
+    color: $white;
   }
 
   div.hero {
@@ -12,15 +13,22 @@ body.compliance-management {
     background-size: cover;
     color: $capp-color;
 
+    .hero-inner {
+      max-width: $medium-row;
+    }
+
     h1 {
       color: $white;
       font-size: $base-font-size * 1.6;
       margin: 0 auto 0.75em;
-      max-width: 960px;
 
       @include grid-media($medium-up) {
         font-size: $base-font-size * 2.4;
       }
+    }
+
+    h2 {
+      color: $white;
     }
 
     .button {
@@ -72,6 +80,51 @@ body.compliance-management {
         font-size: $base-font-size * 1.2;
         padding-left: 1em;
         text-align: left;
+      }
+    }
+  }
+
+  section.in-practice {
+    h2 {
+      font-size: $base-font-size * 2.4;
+      text-align: center;
+    }
+
+    h3 {
+      font-size: $base-font-size * 1.2;
+    }
+
+    .row {
+      margin: 0 auto;
+      max-width: $max-width;
+    }
+
+    ul.in-practice-list {
+      margin-bottom: 1em;
+
+      @include grid-media($large-up) {
+        display: flex;
+        justify-content: center;
+      }
+
+      li {
+        margin: 1em;
+        max-width: 200px;
+        text-align: center;
+
+        @include grid-media($large-up) {
+          flex: 1;
+          margin-bottom: 0;
+          padding-left: 1em;
+          padding-right: 1em;
+        }
+
+        img {
+          @include grid-media($large-up) {
+            height: 60px;
+            line-height: 60px;
+          }
+        }
       }
     }
   }

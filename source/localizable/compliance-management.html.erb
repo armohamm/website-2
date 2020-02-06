@@ -12,7 +12,8 @@ hero_background: capp12.jpg
 <%= partial "partials/hero", locals: { variant: "variant-product",
                                        variant_overlay: "overlay-darken",
                                        background_image: "#{current_page.data.hero_background}",
-                                       title: t("solutions.pages.#{current_page.data.page_name}.h1"),
+                                       title: t("solutions.pages.compliance-management.h1"),
+                                       sub_title: t("solutions.pages.compliance-management.h2"),
                                        buttons: [{ link: "#contact",
                                                    text: t("actions.contact_us"),
                                                    variant: "button #{current_page.data.page_color}"
@@ -20,19 +21,19 @@ hero_background: capp12.jpg
 
 <%= partial "partials/on-page-navigation", locals: { variant: "#{current_page.data.page_color}",
                                                        links: [{ anchor: "#introduction",
-                                                                 key: t("solutions.pages.#{current_page.data.page_name}.on-page-navigation.introduction")},
+                                                                 key: t("solutions.pages.compliance-management.on-page-navigation.introduction")},
                                                                { anchor: "#stappenplan",
-                                                                 key: t("solutions.pages.#{current_page.data.page_name}.on-page-navigation.steps")},
-                                                               { anchor: "#appointment",
-                                                                 key: t("solutions.pages.#{current_page.data.page_name}.on-page-navigation.possibilities")},
-                                                               { anchor: "#appointment",
-                                                                 key: t("solutions.pages.#{current_page.data.page_name}.on-page-navigation.in-practice")}
+                                                                 key: t("solutions.pages.compliance-management.on-page-navigation.steps")},
+                                                               { anchor: "#in-de-praktijk",
+                                                                 key: t("solutions.pages.compliance-management.on-page-navigation.in-practice")},
+                                                               { anchor: "#mogelijkheden",
+                                                                 key: t("solutions.pages.compliance-management.on-page-navigation.possibilities")}
                                                               ]} %>
 
 <section class="introduction" id="introduction">
   <div class="row">
     <article>
-      <%= partial "#{current_page.data.page_name}/introductie" %>
+      <%= partial "compliance-management/introductie" %>
     </article>
   </div>
 </section>
@@ -40,11 +41,16 @@ hero_background: capp12.jpg
 <section class="usp-quote colored-background">
   <div class="row">
     <p>
-     <%= markitdown t("solutions.pages.#{current_page.data.page_name}.usp-quote") %>
+     <%= markitdown t("solutions.pages.compliance-management.usp-quote") %>
     </p>
   </div>
 </section>
 
 <section class="steps" id="stappenplan">
-  <%= partial "#{current_page.data.page_name}/stappenplan" %>
+  <%= partial "compliance-management/steps" %>
 </section>
+
+<section class="in-practice colored-background" id="in-de-praktijk">
+  <%= partial "compliance-management/in-practice" %>
+</section>
+
