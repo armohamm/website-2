@@ -4,14 +4,12 @@ title:
 description:
   nl: "INSERT_DESCRIPTION_HERE"
 lang_ignore: de, en
-page_name: compliance-management
 page_color: amaranth
-hero_background: capp12.jpg
 ---
 
 <%= partial "partials/hero", locals: { variant: "variant-product",
                                        variant_overlay: "overlay-darken",
-                                       background_image: "#{current_page.data.hero_background}",
+                                       background_image: "capp-12.jpg",
                                        title: t("solutions.pages.compliance-management.h1"),
                                        sub_title: t("solutions.pages.compliance-management.h2"),
                                        buttons: [{ link: "#contact",
@@ -40,9 +38,9 @@ hero_background: capp12.jpg
 
 <section class="usp-quote colored-background">
   <div class="row">
-    <p>
-     <%= markitdown t("solutions.pages.compliance-management.usp-quote") %>
-    </p>
+    <article>
+      <%= partial "compliance-management/usp-quote" %>
+    </article>
   </div>
 </section>
 
@@ -54,3 +52,10 @@ hero_background: capp12.jpg
   <%= partial "compliance-management/in-practice" %>
 </section>
 
+<section class="overview" id="mogelijkheden">
+  <%= partial "compliance-management/overview" %>
+</section>
+
+<section class="clients">
+  <%= partial "compliance-management/clients" %>
+</section>

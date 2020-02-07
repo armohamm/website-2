@@ -37,14 +37,9 @@ body.compliance-management {
   }
 
   section.usp-quote {
-    color: $white;
     font-size: $base-font-size * 1.6;
     padding: 1em 0;
     text-align: center;
-
-    .row {
-      max-width: $medium-row;
-    }
   }
 
   section.steps {
@@ -126,6 +121,97 @@ body.compliance-management {
           }
         }
       }
+    }
+  }
+
+  section.overview {
+    h2 {
+      padding: 0 1em;
+      text-align: center;
+    }
+
+    h3 {
+      font-size: $base-font-size * 2;
+    }
+
+    p {
+      @include grid-media($medium-up) {
+        font-size: $base-font-size * 1.3;
+      }
+    }
+
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      max-width: $normal-row;
+      padding: 0.5em 0;
+      text-align: left;
+
+      @include grid-media($medium-up) {
+        align-items: center;
+      }
+
+      &:first-of-type {
+        border-top: 0;
+        padding-top: 2em;
+      }
+    }
+
+    .button {
+      font-size: $base-font-size;
+    }
+
+    .col {
+      padding: 0 1em;
+
+      @include grid-media($medium-up) {
+        flex: 1;
+
+        &:first-child {
+          margin-right: 2em;
+        }
+
+        &:last-child {
+          margin-left: 2em;
+        }
+
+        &:first-child:last-child {
+          max-width: $medium-row;
+        }
+      }
+
+      img {
+        display: block;
+        margin: 0 auto 1em;
+
+        @include grid-media($medium-up) {
+          margin: 0;
+        }
+      }
+
+      &-img {
+        margin-bottom: 1em;
+        order: 1;
+
+        @include grid-media($medium-up) {
+          order: initial;
+        }
+      }
+
+      &-text {
+        order: 2;
+
+        @include grid-media($medium-up) {
+          order: initial;
+        }
+      }
+    }
+  }
+
+  section.clients {
+    .client-logo {
+      opacity: 1;
     }
   }
 }
