@@ -238,4 +238,64 @@ body.compliance-management {
       }
     }
   }
+
+  section.products {
+    h2 {
+      text-align: center;
+    }
+
+    .our-products {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+
+      @include grid-media($medium-up) {
+        flex-direction: row;
+      }
+
+      .product {
+        color: $dark-gray;
+        display: flex;
+        flex-direction: row;
+        margin: 0 auto 1em;
+        max-width: 300px;
+        padding: 1em;
+
+        &:hover {
+          background: $lightest-gray;
+        }
+
+        .product-icon {
+          flex: 0 0 42px;
+          width: 100%;
+        }
+
+        .product-text {
+          flex: 1;
+          padding-left: 1em;
+        }
+
+        h3 {
+          font-size: $base-font-size * 1.4;
+          font-weight: $font-weight-semibold;
+        }
+
+        p {
+          margin-bottom: 0;
+        }
+      }
+
+      .item-capp h3 {
+        color: $pink;
+      }
+
+      .item-agile h3 {
+        color: $green;
+      }
+
+      .item-quizzes h3 {
+        color: $dodger-blue;
+      }
+    }
+  }
 }

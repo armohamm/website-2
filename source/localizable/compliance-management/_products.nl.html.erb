@@ -1,0 +1,50 @@
+<div class="row">
+  <h2>
+    Ontdek onze producten
+  </h2>
+
+  <div class="our-products">
+    <% link_to "/capp-lms.html", class: "product" do %>
+      <div class="product-icon">
+        <%= image_tag("icons/capp-lms.svg", alt: "CAPP Learning") %>
+      </div>
+      <div class="product-text item-capp">
+        <h3>
+          CAPP Learning
+        </h3>
+        <p>
+          CAPP faciliteert elke vorm van leren en houdt ruim 250.000 medewerkers up-to-date en complaining.
+        </p>
+      </div>
+    <% end %>
+
+    <% link_to "/capp-agile-learning.html", class: "product" do %>
+      <div class="product-icon">
+        <%= image_tag("icons/capp-agile-learning-new.svg", alt: "CAPP Agile Learning") %>
+      </div>
+      <div class="product-text item-agile">
+        <h3>
+          CAPP Agile Learning
+        </h3>
+        <p>
+          Zet kennis in om in relevante informatie voor de werkvloer.
+        </p>
+      </div>
+    <% end %>
+
+    <% link_to "/capp-quizzes.html", class: "product" do %>
+      <div class="product-icon item-quizzes">
+        <%= image_tag("icons/capp-quizzes.svg", alt: "CAPP Quizzes") %>
+      </div>
+      <div class="product-text item-quizzes">
+        <h3>
+          CAPP Quizzes
+        </h3>
+        <p>
+          Gemakkelijk toetsen maken en aanbieden.
+        </p>
+      </div>
+    <% end %>
+  </div>
+</div>
+
