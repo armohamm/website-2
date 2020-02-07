@@ -1,0 +1,12 @@
+<div class="row">
+  <div>
+    <h2>
+      Wilt u ook uw compliance management operationaliseren?
+    </h2>
+  </div>
+  <%= partial "partials/form", locals: { title: "Contactformulier: Compliance Management",
+                                         fields: ["name", "email", "organisation", "phone"],
+                                         button_text: t("form.submit"),
+                                         button_class: "button white",
+                                         action_url: t("urls.contact")} %>
+</div>

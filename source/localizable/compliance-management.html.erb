@@ -13,8 +13,9 @@ page_color: amaranth
                                        title: t("solutions.pages.compliance-management.h1"),
                                        sub_title: t("solutions.pages.compliance-management.h2"),
                                        buttons: [{ link: "#contact",
+                                                   scroll: true,
                                                    text: t("actions.contact_us"),
-                                                   variant: "button #{current_page.data.page_color}"
+                                                   variant: "#{current_page.data.page_color}"
                                                 }]} %>
 
 <%= partial "partials/on-page-navigation", locals: { variant: "#{current_page.data.page_color}",
@@ -62,4 +63,8 @@ page_color: amaranth
 
 <section class="cases-overview">
   <%= partial "compliance-management/cases" %>
+</section>
+
+<section class="cta-bottom colored-background" id="contact">
+  <%= partial "compliance-management/contact" %>
 </section>

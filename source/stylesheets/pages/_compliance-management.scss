@@ -220,4 +220,22 @@ body.compliance-management {
       text-align: center;
     }
   }
+
+  section.cta-bottom {
+    .row {
+      max-width: $medium-row;
+      text-align: center;
+    }
+
+    .form {
+      margin: 0 auto;
+      max-width: $small-row;
+      text-align: left;
+
+      :focus {
+        border-color: $page-color;
+        box-shadow: $form-box-shadow, 0 0 5px adjust-color($black, $lightness: -5%, $alpha: -0.3);
+      }
+    }
+  }
 }

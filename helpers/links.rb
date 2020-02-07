@@ -38,4 +38,8 @@ module Links
     base = "https://#{I18n.t('CNAME', locale: locale)}"
     URI.join(base, url).to_s
   end
+
+  def link_to_with_options(url, options)
+
+  end
 end
