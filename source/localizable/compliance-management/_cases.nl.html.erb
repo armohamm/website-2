@@ -1,0 +1,32 @@
+<div class="row">
+  <h2>
+    Cases
+  </h2>
+  <div class="case-wrapper">
+    <% blog("cases").articles[0..1].each do |article| %>
+      <div class="flex-item">
+
+        <% link_to(article.url,
+          class: "case",
+          title: article.title,
+          style: "background-image: url(#{image_path(article.data.header_image)})") do %>
+          <div class="case-content">
+
+            <%= image_tag image_path(article.data.logo_white),
+              class: "case-logo",
+              alt: article.title,
+              title: article.title %>
+
+            <% if article.data.sub_title %>
+              <p class="case-description">
+                <%= article.data.sub_title %>
+              </p>
+            <% end %>
+
+          </div>
+        <% end %>
+
+      </div>
+    <% end %>
+  </div>
+</div>
