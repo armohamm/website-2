@@ -18,7 +18,7 @@ Twee jaar geleden maakten we de keuze om in de nieuwe versie van ons LMS geen SC
 ## De keuze voor LTI
 De hoofdreden om voor LTI te kiezen is de combinatie van betere gegevensbeveiliging en controleerbaarheid onafhankelijk van welke browser en besturingssysteem een gebruiker gebruikt.
 
-Bij zowel LTI als SCORM worden resultaten verstuurd vanuit een externe 'module' naar het LMS van waaruit de module wordt afgespeeld. De communicatie over het internet is van veel factoren afhankelijk; er kan op veel plekken iets mis gaan waardoor een resultaat op een module niet altijd direct goed verwerkt wordt in het LMS.
+Bij zowel LTI als SCORM worden resultaten verstuurd vanuit een externe 'module' naar het [LMS](/wat-is-een-lms/){:title="Wat is een LMS?"} van waaruit de module wordt afgespeeld. De communicatie over het internet is van veel factoren afhankelijk; er kan op veel plekken iets mis gaan waardoor een resultaat op een module niet altijd direct goed verwerkt wordt in het LMS.
 
 ### Overdracht van resultaten waarborgen
 Bij SCORM waren missende resultaten moeilijk, of met zeer arbeidsintensieve inspanningen, terug te halen. LTI biedt de mogelijkheid om resultaten nogmaals, en zo vaak als nodig voor juiste verwerking, op te sturen naar een LMS. Hiermee wordt de overdracht van resultaten naar het LMS gewaarborgd en weten we zeker dat de gebruiker die een module volgde het juiste resultaat ontvangt. Dit vergt wel een juiste LTI-implementatie en daar helpen we andere organisaties graag bij.

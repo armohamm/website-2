@@ -1,0 +1,89 @@
+body.wat-is-een-lms {
+  .main {
+    h2,
+    h3,
+    h4 {
+      margin: 1.5em 0 0.75em;
+    }
+
+    a {
+      color: $dodger-blue;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+
+    .hero {
+      background: $blue no-repeat center center;
+
+      .hero-copy {
+        h1 {
+          margin: 0 auto 0.5em;
+        }
+
+        p {
+          margin: 0 auto 1em;
+        }
+      }
+    }
+
+    section.index {
+      font-size: $base-font-size * 1.2;
+      margin: 4em auto;
+      max-width: $small-row;
+      padding: 0;
+
+      ol {
+        counter-reset: item;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+
+        li {
+          counter-increment: item;
+          display: table;
+          margin-bottom: 0.5em;
+
+          &::before {
+            content: counters(item, ".") ". ";
+            display: table-cell;
+            padding-right: 0.5em;
+          }
+        }
+
+        ol {
+          margin-top: 0.5em;
+        }
+      }
+    }
+
+    section.content {
+      font-size: $base-font-size * 1.2;
+      margin: 4em auto;
+      max-width: $small-row;
+      padding: 0;
+
+      .row {
+
+        h2 {
+          font-weight: $font-weight-regular;
+        }
+
+        h3 {
+          font-weight: $font-weight-small;
+        }
+
+        ul,
+        ol {
+          list-style-type: disc;
+          margin: 1.2em;
+        }
+
+        &.row-more {
+          border: 2px solid $base-border-color;
+        }
+      }
+    }
+  }
+}

@@ -34,9 +34,9 @@ Klinisch redeneren is de werknaam voor het werkplek-leren binnen MUMC+ academie.
 
 De scenario's die hiervoor gebruikt worden, gaan hand in hand met de eisen in [het Kwaliteitspaspoort](/capp-compliance/). Door middel van de assessments in de praktijk, wordt de medewerker bekwaam verklaard in zijn kwaliteitspaspoort. Het werkplek gerichte curriculum “klinisch redeneren” is onderdeel van een allesomvattende visie op werkplekleren. Deze visie beschrijft:
 
-- Leren reflecteren op (eigen) handelen waarbij een beroep wordt gedaan op het eigen professioneel handelen;
-- De contextrijke werkomgeving optimaliseren voor leren;
-- Creëren van een ondersteunende leeromgeving.
+-   Leren reflecteren op (eigen) handelen waarbij een beroep wordt gedaan op het eigen professioneel handelen;
+-   De contextrijke werkomgeving optimaliseren voor leren;
+-   Creëren van een ondersteunende leeromgeving.
 
 Hierin is ook het [70:20:10-model](/70-20-10/) terug te vinden, al is dat niet zo verwoord. In al hun communicatie rondom educatie en performance support gebruikt Maastricht UMC+ academie de taal die ook op de werkvloer gebruikt wordt. Michel van Zandvoort, directeur van de Maastricht UMC+ academie: ‘Wanneer verpleegkundigen “klinisch redeneren” horen, dan weten ze meteen ‘Hé, dit is voor mij relevant’.’
 
@@ -44,14 +44,14 @@ Het werkplek gerichte curriculum helpt bij het reduceren van diagnostische foute
 
 ## CAPP LMS
 
-‘We vragen heel veel van CAPP,’ stelt Van Zandvoort. ‘Het is onmogelijk en niet wenselijk om al onze eisen in een systeem onder te brengen.’ Daarom is het Leermanagementsysteem (LMS) een onderdeel van de totale context van leren die het MUMC+ haar medewerkers aanbiedt:
+‘We vragen heel veel van CAPP,’ stelt Van Zandvoort. ‘Het is onmogelijk en niet wenselijk om al onze eisen in een systeem onder te brengen.’ Daarom is het Leermanagementsysteem ([LMS](/wat-is-een-lms/){:title="Wat is een LMS?"}) een onderdeel van de totale context van leren die het MUMC+ haar medewerkers aanbiedt:
 
-- Toegang bieden tot gecertificeerde kennisbronnen;
-- Aanzetten tot leren en/of het faciliteren hiervan;
-- Ondersteuning bieden in de context van het individu;
-- On- en off-the-job beschikbaar zijn;
-- Back-office van de HRB-afdeling;
-- Integratie met andere systemen binnen de organisatie is noodzakelijk.
+-   Toegang bieden tot gecertificeerde kennisbronnen;
+-   Aanzetten tot leren en/of het faciliteren hiervan;
+-   Ondersteuning bieden in de context van het individu;
+-   On- en off-the-job beschikbaar zijn;
+-   Back-office van de HRB-afdeling;
+-   Integratie met andere systemen binnen de organisatie is noodzakelijk.
 
 ‘Als je alles in een systeem wilt onderbrengen, kom je nooit tot optimale performance,’ concludeert Michel van Zandvoort. Toch is er nog steeds behoefte aan zowel formele vormen van leren – en registratie daarvan – als aan informele kennisdeling. Het 70:20:10-model is hiervan een belangrijk onderdeel. Het stelt heel hoge eisen aan de applicaties in de leeromgeving. ‘Het 70:20:10-model gaat voor een heel groot deel over het faciliteren van performance support. Je moet daarom dingen uit elkaar trekken. Hoe verwerf je een competentie? Hoe toon je dat aan? En hoe ondersteun je dat in context met performance support?’
 

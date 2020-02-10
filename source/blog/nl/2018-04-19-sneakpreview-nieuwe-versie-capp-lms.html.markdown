@@ -11,6 +11,6 @@ featured_image: images/blog/featured/20180419-next-learning-2018.png
 
 __Het is bijna zo ver! Over enkele dagen gaan wij de nieuwe versie van ons CAPP LMS​ lanceren. Tijdens de Next Learning op 24 april 2018 in Den Bosch​ geven wij een sneakpreview van de nieuwe versie.__
 
-Miriam Boer, Academie Manager van het Antoni van Leeuwenhoek Ziekenhuis zal samen met collega Joost Bakhuizen, Business Development Manager, in een partnersessie vertellen hoe het fundament van de Antoni van Leeuwenhoek Academie gelegd wordt door de inzet van ons nieuwe, grensverleggende LMS.
+Miriam Boer, Academie Manager van het Antoni van Leeuwenhoek Ziekenhuis zal samen met collega Joost Bakhuizen, Business Development Manager, in een partnersessie vertellen hoe het fundament van de Antoni van Leeuwenhoek Academie gelegd wordt door de inzet van ons nieuwe, grensverleggende [LMS](/wat-is-een-lms/){:title="Wat is een LMS?"}.
 
 Dit wil je niet missen! Wees welkom in zaal 'Dexter 17' om 15:15 uur voor de partnersessie en op onze stand A1. Graag tot 24 april op de Next Learning!​

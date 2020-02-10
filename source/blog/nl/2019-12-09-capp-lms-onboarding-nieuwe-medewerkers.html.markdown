@@ -32,4 +32,4 @@ Met [CAPP LMS](/capp-learning/) bouwt u een onboarding/inwerkprogramma eenvoudig
 In het doorlopen van dit programma blijft de medewerker zelf in controle en verantwoordelijk voor het volgen van het programma. Door de onderdelen van het programma te koppelen aan het Kwaliteitspaspoort van [CAPP Compliance](/capp-compliance/) heeft de medewerker inzicht in zijn eigen voortgang en monitort de manager tijdens het programma hoe ver de medewerker is en weet exact wanneer deze volwaardig inzetbaar is!
 
 ## Meer weten?
-Wilt u meer weten hoe u met CAPP LMS uw onboardingprogramma kan ondersteunen? Vul dan onderstaand formulier in en wij nemen contact met u op.
+Wilt u meer weten hoe u met CAPP [LMS](/wat-is-een-lms/){:title="Wat is een LMS?"} uw onboardingprogramma kan ondersteunen? Vul dan onderstaand formulier in en wij nemen contact met u op.
