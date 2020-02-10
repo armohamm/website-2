@@ -40,11 +40,20 @@ header.global-navigation {
 
   ul.nav-root {
     position: relative;
+
+    @include grid-media($menu-desktop) {
+      display: flex;
+      justify-content: space-between;
+    }
   }
 
   li.nav-section {
     &.logo {
       float: left;
+
+      @include grid-media($menu-desktop) {
+        float: none;
+      }
 
       svg {
         display: inline-block;
@@ -71,12 +80,20 @@ header.global-navigation {
     &.primary {
       justify-content: center;
       padding-right: 200px;
+
+      @include grid-media($menu-desktop) {
+        padding-right: 0;
+      }
     }
 
     &.secondary {
       position: absolute;
       right: 0;
       top: 0;
+
+      @include grid-media($menu-desktop) {
+        position: relative;
+      }
 
       .current-lang {
         svg {
