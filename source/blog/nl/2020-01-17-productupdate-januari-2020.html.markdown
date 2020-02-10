@@ -19,7 +19,7 @@ We trappen het jaar af met een grote uitbreiding van de events-functionaliteit i
 ![Event met meerdere onderdelen](/images/blog/event-met-meerdere-onderdelen.png)
 
 ## Certificaten handmatig uitreiken
-Ook introduceren we een nieuwe manier voor het behalen van certificaten in CAPP LMS. Deze kunnen nu door certificaatmanagers en -admins handmatig worden uitgereikt. Dit is bijvoorbeeld handig voor het vaststellen en registreren van eerder verworven competenties bij het inwerken van nieuwe medewerkers.
+Ook introduceren we een nieuwe manier voor het behalen van certificaten in CAPP [LMS](/wat-is-een-lms/){:title="Wat is een LMS?"}. Deze kunnen nu door certificaatmanagers en -admins handmatig worden uitgereikt. Dit is bijvoorbeeld handig voor het vaststellen en registreren van eerder verworven competenties bij het inwerken van nieuwe medewerkers.
 
 ![Interface voor uitreiken certificaten](/images/blog/certificaat-uitreiken.png)
 

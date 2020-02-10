@@ -33,10 +33,10 @@ Omdat het Gebruikersoverleg een dag volledig voor de gebruikers van onze softwar
 
 ![Rondetafelgesprekken 2](/images/blog/gebruikersoverleg-21092017-04.jpg)
 
-Dit keer leverde de interactie van onze klanten met elkaar weer een verscheidenheid aan inzichten op. **Met elkaar en van elkaar leren!** Uiteraard werd zo nu en dan een kritische noot geplaatst, waardoor wij in Groningen weer wat te doen hebben...
+Dit keer leverde de interactie van onze klanten met elkaar weer een verscheidenheid aan inzichten op. __Met elkaar en van elkaar leren!__ Uiteraard werd zo nu en dan een kritische noot geplaatst, waardoor wij in Groningen weer wat te doen hebben...
 
 ## Een geslaagde dag
 
 Al met al kijken we (wederom) terug op een zeer geslaagd Gebruikersoverleg. Het periodiek met zijn allen focussen op wat er is en wat er gaat komen zorgt voor een hoop onderling begrip en neuzen die dezelfde kant op blijven staan.
 
-Aan alle deelnemers aan het overleg: bedankt voor de waardevolle input. Zo kunnen we zorgen dat in de toekomst ons LMS blijft aansluiten bij de behoeftes en wensen van onze klanten!
+Aan alle deelnemers aan het overleg: bedankt voor de waardevolle input. Zo kunnen we zorgen dat in de toekomst ons [LMS](/wat-is-een-lms/){:title="Wat is een LMS?"} blijft aansluiten bij de behoeftes en wensen van onze klanten!

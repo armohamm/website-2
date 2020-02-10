@@ -34,7 +34,7 @@ LZR gebruikt het [Kwaliteitspaspoort](/capp-compliance/) in [CAPP LMS](/capp-lms
 
 ## Eigen verantwoordelijkheid & regie
 
-Een belangrijke reden waarom LZR voor CAPP LMS heeft gekozen is de eigen verantwoordelijkheid van medewerkers. “Dit is toch een soort cultuuromslag. Het is voor medewerkers een andere manier van kijken naar hun scholingsverplichtingen. Waar wij eerder werkten met een minimumaantal punten dat medewerkers moesten behalen, werken wij nu volledig met het Kwaliteitspaspoort, dat de verantwoordelijkheid ook bij medewerkers zelf legt.”
+Een belangrijke reden waarom LZR voor CAPP [LMS](/wat-is-een-lms/){:title="Wat is een LMS?"} heeft gekozen is de eigen verantwoordelijkheid van medewerkers. “Dit is toch een soort cultuuromslag. Het is voor medewerkers een andere manier van kijken naar hun scholingsverplichtingen. Waar wij eerder werkten met een minimumaantal punten dat medewerkers moesten behalen, werken wij nu volledig met het Kwaliteitspaspoort, dat de verantwoordelijkheid ook bij medewerkers zelf legt.”
 
 Naast het persoonlijke Kwaliteitspaspoort met voorbehouden en risicovolle handelingen, stelt het medewerkers in staat om zelf de regie te nemen over hun ontwikkeling. Dit biedt een oplossing voor verschillende uitdagingen, zoals duurzame inzetbaarheid maar ook het behoud van personeel.
 

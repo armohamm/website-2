@@ -19,7 +19,7 @@ Clusters is een nieuwe feature voor het groeperen van functies en/of afdelingen.
 ![Voorbeeld van de nieuwe feature Clusters](/images/blog/clusters-screenshot.png)
 
 ## Eventinschrijvingen
-Een tweede nieuwe feature in CAPP LMS betreft een handig overzicht van alle inschrijvingen op alle (geplande) events in een organisatie. Met de zoekfunctie filtert u op gebruiker en specifiek event. Dit maakt het mogelijk om in één oogopslag te zien wie zich voor welke (aankomende) events heeft ingeschreven en wanneer deze persoon is ingeschreven voor het event.
+Een tweede nieuwe feature in CAPP [LMS](/wat-is-een-lms/){:title="Wat is een LMS?"} betreft een handig overzicht van alle inschrijvingen op alle (geplande) events in een organisatie. Met de zoekfunctie filtert u op gebruiker en specifiek event. Dit maakt het mogelijk om in één oogopslag te zien wie zich voor welke (aankomende) events heeft ingeschreven en wanneer deze persoon is ingeschreven voor het event.
 
 ![Voorbeeld van eventinschrijvingen](/images/blog/eventinschrijvingen-screenshot.png)
 

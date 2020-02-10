@@ -20,7 +20,7 @@ In dit fragment licht Michel van Zandvoort toe hoe het werkplekleren en het lere
 
 <iframe src="https://www.youtube-nocookie.com/embed/Bfe9VqZseW8?rel=0" frameborder="0" allowfullscreen></iframe>
 
-Een passende leeromgeving is ook een zeer belangrijke voorwaarde om de visie te vertalen naar de praktijk. Deze leeromgeving ondersteunt dan het verwerven van competenties, het aantoonbaar bekwaam zijn en de leerondersteuning op de werkplek. En zo’n leeromgeving is in de visie van MUMC meer dan een LMS alleen. In dit fragment worden de keuzes die het MUMC heeft gemaakt toegelicht.
+Een passende leeromgeving is ook een zeer belangrijke voorwaarde om de visie te vertalen naar de praktijk. Deze leeromgeving ondersteunt dan het verwerven van competenties, het aantoonbaar bekwaam zijn en de leerondersteuning op de werkplek. En zo’n leeromgeving is in de visie van MUMC meer dan een [LMS](/wat-is-een-lms/){:title="Wat is een LMS?"} alleen. In dit fragment worden de keuzes die het MUMC heeft gemaakt toegelicht.
 
 <iframe src="https://www.youtube-nocookie.com/embed/Ujuq0V31fn0?rel=0" frameborder="0" allowfullscreen></iframe>
 

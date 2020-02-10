@@ -27,7 +27,7 @@ __Bastiaan (B)__: "Als organisatie kan je bijvoorbeeld op specifieke thema’s f
 
 ## Wat was de reden dat jullie over curation zijn gaan nadenken?
 
-__H__: "De reden dat we echt over curation zijn gaan nadenken, is omdat we merkten dat ‘omdat je werkt bij’ (CAPP LMS toont basis van bijv. afdeling en functie relevante cursussen aan de gebruiker, red.) een fantastische functie is, maar tegelijkertijd niet flexibeler kan. Je laat mensen automatisch dingen zien op basis van hun plaats in de organisatie, maar we willen mensen juist dingen laten ordenen en dan de keuze bieden of ze het op die manier willen bekijken."
+__H__: "De reden dat we echt over curation zijn gaan nadenken, is omdat we merkten dat ‘omdat je werkt bij’ (CAPP [LMS](/wat-is-een-lms/){:title="Wat is een LMS?"} toont basis van bijv. afdeling en functie relevante cursussen aan de gebruiker, red.) een fantastische functie is, maar tegelijkertijd niet flexibeler kan. Je laat mensen automatisch dingen zien op basis van hun plaats in de organisatie, maar we willen mensen juist dingen laten ordenen en dan de keuze bieden of ze het op die manier willen bekijken."
 
 >'Curation moet ervoor gaan zorgen dat alles wat een gebruiker in de software ziet relevant is of gaat worden'
 

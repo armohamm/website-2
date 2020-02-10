@@ -22,9 +22,9 @@ In de basis is het afspelen van E-Learning een proces tussen __drie verschillend
 
 ![drie factoren](/images/blog/drie-factoren.png)
 
-- Je leermanagementsysteem (LMS) waarin de e-learning wordt afgespeeld;
-- De e-learning module zelf;
-- De webbrowser/ICT-omgeving waarbinnen je de e-learning afspeelt.
+-   Je leermanagementsysteem ([LMS](/wat-is-een-lms/){:title="Wat is een LMS?"}) waarin de e-learning wordt afgespeeld;
+-   De e-learning module zelf;
+-   De webbrowser/ICT-omgeving waarbinnen je de e-learning afspeelt.
 
 Gaat er binnen een van deze drie factoren iets mis, dan zal je problemen met de e-learning ervaren. Het kan soms lastig zijn om te bepalen waar een probleem precies ligt, aangezien de drie factoren bij drie verschillende partijen liggen. Voor een goede analyse moeten daarom alle factoren onder de loep genomen worden.
 

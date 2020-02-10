@@ -32,4 +32,4 @@ De komende maanden en in 2020 zullen verschillende klanten de overstap naar CAPP
 
 ## Is CAPP LMS iets voor mijn organisatie?
 
-Weten of CAPP LMS ook iets voor uw organisatie is? Doe dan onze [LMS-test](/wat-voor-lms-past-bij-mij/) en krijg inzicht in het soort LMS dat bij uw organisatie past.
+Weten of CAPP LMS ook iets voor uw organisatie is? Doe dan onze [LMS-test](/wat-voor-lms-past-bij-mij/) en krijg inzicht in het soort [LMS](/wat-is-een-lms/){:title="Wat is een LMS?"} dat bij uw organisatie past.

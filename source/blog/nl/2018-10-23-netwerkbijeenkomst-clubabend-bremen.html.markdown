@@ -10,7 +10,7 @@ featured_image: images/blog/featured/20181023-clubabend-bremen-arnoud.jpg
 header_image: moods/clubabend-bremen-arnoud-mood.jpg
 ---
 
-__Onze sales manager Arnoud Knoeff was uitgenodigd om op 18 oktober een korte lezing te geven in Duitsland tijdens een netwerkbijeenkomst van Gesundheitswirtschaft Nordwest. Er waren twee voordrachten, de eerste werd gehouden door Marc Fiedler, van Blackout Technologies en ging over robotisering en gebruik van Artificial Intelligence binnen de zorg om bijvoorbeeld patiënten met cognitieve beperkingen te ondersteunen. Arnoud sprak namens Defacto over de verschillen tussen Nederland en Duitsland op het gebied van digitale cultuur en het digitaal leren en opleiden in de gezondheidszorg met een LMS.__
+__Onze sales manager Arnoud Knoeff was uitgenodigd om op 18 oktober een korte lezing te geven in Duitsland tijdens een netwerkbijeenkomst van Gesundheitswirtschaft Nordwest. Er waren twee voordrachten, de eerste werd gehouden door Marc Fiedler, van Blackout Technologies en ging over robotisering en gebruik van Artificial Intelligence binnen de zorg om bijvoorbeeld patiënten met cognitieve beperkingen te ondersteunen. Arnoud sprak namens Defacto over de verschillen tussen Nederland en Duitsland op het gebied van digitale cultuur en het digitaal leren en opleiden in de gezondheidszorg met een [LMS](/wat-is-een-lms/){:title="Wat is een LMS?"}.__
 
 Tijdens de lezing van Arnoud kwamen onder andere de volgende cijfers naar voren:
 

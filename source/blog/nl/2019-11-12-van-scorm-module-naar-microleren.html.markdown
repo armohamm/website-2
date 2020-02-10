@@ -14,7 +14,7 @@ call_to_action: contact-microleren
 __SCORM-modules werden lange tijd gezien als dé standaard voor het ontwikkelen van e-learning. Maar inmiddels zijn we er steeds meer van overtuigd dat de techniek veel nadelen heeft. Zo zijn modules niet doorzoekbaar, is de ontwikkeltijd lang en zorgt het afspelen vaak voor technische problemen. Mede hierdoor ondersteunen we in CAPP LMS geen SCORM meer. Dat betekent echter niet dat deze modules volstrekt waardeloos zijn geworden. Deze kunnen eenvoudig worden omgezet naar CAPP LMS, hetgeen veel voordelen biedt. Consultant Online Leren Martha Jorna legt uit hoe het werkt.__
 
 ## Nadelen van SCORM-modules
-In de oude versie van het LMS zien we dat veel organisaties meerdere SCORM-modules gebruiken. Hoewel bijvoorbeeld het ontwerpen van Storyline-modules veel mogelijkheden biedt, zijn er ook belangrijke nadelen:
+In de oude versie van het [LMS](/wat-is-een-lms/){:title="Wat is een LMS?"} zien we dat veel organisaties meerdere SCORM-modules gebruiken. Hoewel bijvoorbeeld het ontwerpen van Storyline-modules veel mogelijkheden biedt, zijn er ook belangrijke nadelen:
 -   SCORM-modules zijn voor de deelnemer niet doorzoekbaar vanuit een zoekfunctie in de (CAPP LMS-) bibliotheek;
 -   Het ontwikkelen van SCORM-modules vraagt veel ontwikkeltijd;
 -   Het afspelen van SCORM-modules kan voor technische problemen zorgen;
